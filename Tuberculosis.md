@@ -146,7 +146,7 @@ data do
 
 # Pathogenesis and Immunity 
 
-[[TBMACROPHAGECYCLE.png]]
+![[TBMACROPHAGECYCLE.png]]
 * 
 
  
