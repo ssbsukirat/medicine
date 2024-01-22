@@ -150,6 +150,10 @@ data do
 ![[TBMACROPHAGECYCLE.png]]
 
 ## Virulence of tuberculosis bacteria 
+* Complex of strains that produce variety of manifestations of disease 
+* Genome done in <mark style="background: #BBFABBA6;">1998</mark>
+* ***katG***
+	* Catalase/peroxidase enzyme
 
 
  
