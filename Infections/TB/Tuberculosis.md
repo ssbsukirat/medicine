@@ -184,7 +184,26 @@ data do
 	* Essential for the control of rRNA transcription that is required for mycobacterial replication and persistence in the host cells 
 	* Loss exposes mycobacteria to oxidative stress, starvation, DNA damage, and ultimately sensitivity to killing by a variety of host mutagens and defense mechanisms.
 
-## 
+## Innate resistance to infection 
+* Genetic factors play key role
+* Different degree of susceptiblity in different populations
+* Polygenic in nature
+* May give negative results in TST and IGRAs (interferon-γ (IFN-γ) release assays)
+* NRAMP1
+	* natural resistance–associated macrophage protein 1
+	* chr 2q
+	* susceptiblity determinant 
+* Other genes causing susceptiblity 
+	* major histocompatibility complex alleles 
+	* Interferon-γ 
+	* T-cell growth factor β
+	* interleukin (IL) 10
+	* mannose-binding protein 
+	* IFN-γ receptor 
+	* Toll-like receptor 2 
+	* vitamin D receptor 
+	* IL-1
 
+## The host response, granu
  
  
