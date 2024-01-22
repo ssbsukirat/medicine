@@ -153,7 +153,22 @@ data do
 * Complex of strains that produce variety of manifestations of disease 
 * Genome done in <mark style="background: #BBFABBA6;">1998</mark>
 * ***katG***
-	* Catalase/peroxidase enzyme
+	* Catalase/peroxidase enzymes 
+	* protects against oxidative stress
+	* required for <mark style="background: #FFB8EBA6;">isoniazid</mark> activation and subsequent <mark style="background: #FFB8EBA6;">bactericidal</mark> activity.
+* ***RD1***
+	* two key small protein antigens
+	* 6-kDa early secretory antigen (ESAT-6) 
+	* culture filtrate protein-10 (CFP-10)
+	* putative secretion apparatus that facilitate their egress 
+	* the absence of this locus in the vaccine strain M. bovis bacille Calmette-Guérin (BCG) is a key <mark style="background: #FFB8EBA6;">attenuating</mark> mutation
+	* In M. marinum, 
+		* a mutation in the RD1 virulence locus encoding the ESX-1 secretion system impairs the capacity of apoptotic macrophages to recruit uninfected cells for further rounds of infection. 
+		* The results are less replication and fewer new granulomas.
+* Auxotrophic mutants
+	* lack- ing key enzymes of bacterial biosynthesis
+	* often totally unable to proliferate in animals 
+	* leuCD and panCD mutants, which require leucine and pantothenic acid, respectively.
 
 
  
