@@ -204,6 +204,8 @@ data do
 	* vitamin D receptor 
 	* IL-1
 
-## The host response, granu
+## The host response, granuloma formation and "latency"
+
+
  
  
