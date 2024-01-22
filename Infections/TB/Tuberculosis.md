@@ -205,7 +205,8 @@ data do
 	* IL-1
 
 ## The host response, granuloma formation and "latency"
-
+* prior to the onset of an acquired cell-mediated immune (CMI) response, disseminates widely through the lymph vessels, spreading to other sites in the lungs and other organs, and undergoes a period of extensive growth within naïve inactivated macrophages; additional naïve macro- phages are recruited to the early granuloma
+* 
 
  
  
