@@ -165,11 +165,26 @@ data do
 	* In M. marinum, 
 		* a mutation in the RD1 virulence locus encoding the ESX-1 secretion system impairs the capacity of apoptotic macrophages to recruit uninfected cells for further rounds of infection. 
 		* The results are less replication and fewer new granulomas.
-* Auxotrophic mutants
-	* lack- ing key enzymes of bacterial biosynthesis
+* ***Auxotrophic*** mutants
+	* lacking key enzymes of bacterial biosynthesis
 	* often totally unable to proliferate in animals 
-	* leuCD and panCD mutants, which require leucine and pantothenic acid, respectively.
+	* **leuCD**  require leucine 
+	* **panCD** require pantothenic acid
+* isocitrate lyase gene (***icl1***)
+	* key step glyoxylate shunt
+	* facilitates bacterial growth on fatty acid substrates
+	* required for long-term persistence of M. tuberculosis infection in mice with chronic TB.
+* sigma factor C and sigma factor H (***sigC and sigH***)
+	* Regulatory mutants 
+	* normal growth in mice 
+	* fail to elicit full tissue pathology
+* ***CarD***
+	* mycobacterial protein
+	* expressed by the carD gene  
+	* Essential for the control of rRNA transcription that is required for mycobacterial replication and persistence in the host cells 
+	* Loss exposes mycobacteria to oxidative stress, starvation, DNA damage, and ultimately sensitivity to killing by a variety of host mutagens and defense mechanisms.
 
+## 
 
  
  
