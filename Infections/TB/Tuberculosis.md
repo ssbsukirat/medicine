@@ -122,7 +122,7 @@ data do
 	* not highly transmitted 
 * infection later in life-- 
 	* Body contains
-	* Bacillus persists for years in body
+	* Bacillus persists for <mark style="background: #FFB8EBA6;">years</mark> in body
 	* reactivated to SECONDARY or POSTPRIMARY TB
 		* Cavitations more
 		* more infectious than PRIMARY 
@@ -145,9 +145,12 @@ data do
 * improper treatment increases chronic disease and drug resistant 
 
 # Pathogenesis and Immunity 
+## Infection and macrophage invasion
 
 ![[TBMACROPHAGECYCLE.png]]
-* 
+
+## Virulence of tuberculosis bacteria 
+
 
  
  
