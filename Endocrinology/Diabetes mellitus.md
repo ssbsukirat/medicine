@@ -159,4 +159,11 @@
 	* 1 -> presence of 2 or more autoantibodies 
 	* 2 -> Continued autoimmunity and development of dysglycemia
 	* 3-> hyperglycemia more than diagnostic threshold
-* 
+* ![[harrisons 2 part 3.png]]
+* Process likely triggered by infection or environmental trigger 
+	* f/b gradual decline in beta cell dysfunction 
+	* rate varies within individuals 
+* Hyperglycemia occurs after sufficient loss of beta-cells 
+* Beta-cells present but insufficient for maintaining glucose tolerance 
+* Transition from glucose intolerance to frank diabetes triggered by increase in insulin demand like infection or puberty 
+* After initial presentation, honeymoon period exists
