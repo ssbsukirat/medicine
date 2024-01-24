@@ -179,5 +179,7 @@
 * Major susceptibility area for DM on ***HLA region of chr. 6***
 	* polymorphisms account for 50% of genetic risk
 	* Class 2 MHC genes 
-	* present antigen to Helper T-cells
-	* initiate the immune process 
+	* present antigen to Helper T-cells - dependant on amino acid structure 
+	* initiate the immune process
+	* DR3 and/or DR4
+	* DQA1 * 0301, DQB1* 0302, and DQB1* 0201
