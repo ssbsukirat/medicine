@@ -166,4 +166,14 @@
 * Hyperglycemia occurs after sufficient loss of beta-cells 
 * Beta-cells present but insufficient for maintaining glucose tolerance 
 * Transition from glucose intolerance to frank diabetes triggered by increase in insulin demand like infection or puberty 
-* After initial presentation, honeymoon period exists
+* After initial presentation, ***honeymoon*** period exists
+	* Glycemic control achieved with low dose or no insulin
+	* fleeting phase 
+	* ends and patients become insulin deficient 
+	* produce some insulin for very long as C-peptide levels are present 
+
+### Genetic consideration in T1-DM
+* Multigenic
+* Identical twins 30-70%
+	* implies other factors beyond genes 
+* Major susceptibility area for DM
