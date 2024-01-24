@@ -151,3 +151,4 @@
     - Analogue used in type 1 2 DM both
 
 # pathogenesis
+
