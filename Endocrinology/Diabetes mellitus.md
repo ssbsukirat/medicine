@@ -190,3 +190,13 @@
 	* IL-2 receptor 
 	* PTPN22
 * Environmental factors play major role
+* Majority of T1-DM don't have relative with disease 
+### Pathophsyiology
+* Insulitis 
+	* InflitrAtion of lymphocytes into islets 
+	* heterogeneous frequency
+* Anomalies
+	* ***Islet Cell Autoantibodies (ICAs)***
+	* Activated lymphocytes in islets and peripancreatic LNs
+	* T-cells proliferating on islet protein exposure
+	* Cytokine release in Insulitis 
