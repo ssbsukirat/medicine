@@ -212,4 +212,19 @@
 		* TNF-alpha
 		* INF-Gamma
 		* IL-1
-* Suppressing autoimmunity at diagnosis has lu
+* Suppressing autoimmunity at diagnosis has little use
+* Intervention early in disease course useful
+	* stage 1 or 2
+	* 14-day course of ***teplizumab*** delayed onset of stage 3 by 2.7 years 
+		* this is a Fc receptor-nonbinding anti-CD3 monoclonal antibody
+* Other islet cells  
+	* types
+		* alpha cells glucagon-producing 
+		* delta cells somatostatin-producing 
+		* PP cells pancreatic polypeptide-producing
+	* Similar to beta cells 
+	* spared in DM
+	* Pattern maybe altered
+		* Alpha cell dysfunction as fasting and post-prandial hyperglucagonemia but impaired response to hypoglycemia
+* Environmental factors 
+ Viruses
