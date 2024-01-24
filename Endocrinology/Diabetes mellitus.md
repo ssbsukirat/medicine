@@ -151,4 +151,12 @@
     - Analogue used in type 1 2 DM both
 
 # pathogenesis
-
+## Type 1 DM
+* interactions of Genetic, Environmental, immunological factors 
+* immune mediated destruction of Beta-cells and insulin deficiency 
+* Most have evidence of islet directed autoimmunity 
+* Stages 
+	* 1 -> presence of 2 or more autoantibodies 
+	* 2 -> Continued autoimmunity and development of dysglycemia
+	* 3-> hyperglycemia more than diagnostic threshold
+* 
