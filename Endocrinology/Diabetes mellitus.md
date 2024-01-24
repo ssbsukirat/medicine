@@ -197,6 +197,19 @@
 	* heterogeneous frequency
 * Anomalies
 	* ***Islet Cell Autoantibodies (ICAs)***
+		* Composite of antibodies 
+		* GAD, insulin, IA-2/ICA-512, ZnT-8
+		* marker for autoimmune activity 
+		* if 2+ then stage 1 DM
+		* identify individuals at risk
+		* Not a direct role in pathogenesis 
 	* Activated lymphocytes in islets and peripancreatic LNs
 	* T-cells proliferating on islet protein exposure
+		* CD8+ cells mediated cytotoxicity
+		* Augmented by ***neoantigen*** production by islets 
+		* increase by upregulation of MHC-1
 	* Cytokine release in Insulitis 
+		* TNF-alpha
+		* INF-Gamma
+		* IL-1
+* Suppressing autoimmunity at diagnosis has lu
