@@ -182,4 +182,11 @@
 	* present antigen to Helper T-cells - dependant on amino acid structure 
 	* initiate the immune process
 	* DR3 and/or DR4
-	* DQA1 * 0301, DQB1* 0302, and DQB1* 0201
+	* DQA1 * 0301, DQB1* 0302, and DQB1* 0201 increase risk
+	* DQA1 * 0102, DQB1 * 0602 decrease risk
+* Other genes (60)
+	* Promoter region of insulin 
+	* CTLA-4 genes 
+	* IL-2 receptor 
+	* PTPN22
+* Environmental factors play major role
