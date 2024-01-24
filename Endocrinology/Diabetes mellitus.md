@@ -176,4 +176,5 @@
 * Multigenic
 * Identical twins 30-70%
 	* implies other factors beyond genes 
-* Major susceptibility area for DM
+* Major susceptibility area for DM on ***HLA region of chr. 6***
+	* polymorphisms on this gene account for 
