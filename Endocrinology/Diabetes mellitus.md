@@ -177,4 +177,7 @@
 * Identical twins 30-70%
 	* implies other factors beyond genes 
 * Major susceptibility area for DM on ***HLA region of chr. 6***
-	* polymorphisms on this gene account for 
+	* polymorphisms account for 50% of genetic risk
+	* Class 2 MHC genes 
+	* present antigen to Helper T-cells
+	* initiate the immune process 
