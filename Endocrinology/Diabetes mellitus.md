@@ -227,4 +227,16 @@
 	* Pattern maybe altered
 		* Alpha cell dysfunction as fasting and post-prandial hyperglucagonemia but impaired response to hypoglycemia
 * Environmental factors 
- Viruses
+	* Viruses
+		* Coxsackie
+		* rubella
+		* enterovirus
+	* Bovine milk protein 
+	* nitrosureas
+	* vit D deficiency 
+	* environmental toxins
+	* Microbiome
+
+
+
+## Type 2 DM
