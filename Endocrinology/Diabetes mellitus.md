@@ -330,10 +330,31 @@
 			* If persists may cause NAFLD
 * Insulin Resistance Syndromes
 	* Spectrum of disorders 
-	* Hyperglycemia key features 
+	* Hyperglycemia key feature 
+	* Acanthosis nigricans
+	* Signs of Hyperandrogenism
+		* Hirsuitism
+		* acne
+		* oligomenorrhea 
 	* ***Syndrome X***
 		* AKA Insulin resistance syndrome or Metabolic syndrome 
 		* Metabolic deranged 
 			* Insulin resistance 
 			* HTN
-			* 
+			* Dyslipidemia 
+			* Central / visceral obesity 
+			* T2DM or IGT/IFG 
+			* Accelerated cardiovascular disease 
+	* Type A
+		* young women
+		* severe hyperinsulinemia 
+		* obesity 
+		* hyperandrogenism
+		* defect in insulin signalling 
+	* Type B
+		* Middle Aged women 
+		* severe hyperinsulinemia 
+		* Hyperandrogenism 
+		* Autoimmune disease 
+		* Autoantibodies to insulin receptor 
+* 
