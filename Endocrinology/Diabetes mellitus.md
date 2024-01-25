@@ -403,4 +403,19 @@
 	* check patients knowledge on diet exercise drugs sleep 
 	* ADA counsel all women of childbearing age the benfit of tight glycemic control 
 * Physical Examination
-	* 
+	* Weight BMI
+	* Retina 
+	* Foot
+		* Assess blood flow
+		* sensation
+			* Vibration 128-Mhz fork at base of great toe 
+			* touch with monofilament 10-G
+			* pinprick
+			* ankle reflex
+			* nail care 
+			* 
+	* Peripheral pulses
+	* BP
+		* Orthostatic
+		* If >130/80 or 140/90
+	* Teeth gum for periodontal disease 
