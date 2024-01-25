@@ -298,4 +298,17 @@
 		* brown fat has higher thermogenic capacity
 			* increase useful 
 		* Increased adipocytes increase FFAs and products
-	* 
+			* nonesterified free fatty acids
+			* retinol-binding protein 4 
+			* leptin 
+			* TNF-α 
+			* resistin 
+			* IL-6 
+			* adiponectin
+				* reduced 
+				* usually has insulin sensitising effect
+			* ADIPOSE macrophages source of inflammation 
+* Impaired insulin secretion 
+	* initial compensatory increase in insulin 
+	* Initially, the insulin secretory defect is mild and selectively involves glucose-stimulated insulin secretion with***reduced first secretory phase***
+	* Arginine (non insulin secretagogue) response preserved initially 
