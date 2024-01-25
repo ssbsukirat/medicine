@@ -267,3 +267,11 @@
 	* excessive hepatic glucose production 
 	* abnormal fat metabolism 
 	* systemic low-grade inflammation
+* ![[t2dmchart.png]]
+* Initial compensatory increase in insulin despite resistance is sufficient to maintain glucose homeostasis 
+* As hyperinsulinemia and resistance worsens, unable to sustain high insulin and ***IGT or increase in PP glucose develops*** 
+* decline in insulin secretion and/or increased glucagon secretion causes an increase in hepatic glucose production leading to ***fasting hyperglycemia***
+
+### Metabolic Abnormalities
+* Insulin resistance 
+	* Decrease in ability to act on target ti
