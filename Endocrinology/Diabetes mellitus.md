@@ -281,5 +281,21 @@
 		* Genetic 
 		* obesity
 		* metabolic inflammation 
-	* Usually relative as Insulin increases to compensate
+	* Usually relative as Insulin increases to compensate 
+	* In muscle 
+		* Insulin receptor levels and tyrosine kinase activity reduced 
+		* Likely secondary to hyperinsulinemia 
+	* Abnormalities include
+		* accumulation of lipid intermediates within skeletal myocytes 
+		* impaired mitochondrial oxidative phosphorylation
+		* reduce insulin-stimulated mitochondrial ATP production 
+		* Impaired fatty acid oxidation and lipid accumulation within skeletal myocytes 
+		* generate reactive oxygen species such as lipid peroxides.
+		* Low grade inflammation that *worsens insulin resistance*
+	* Role of obesity 
+		* Pathogenic 
+		* Central or visceral important
+		* brown fat has higher thermogenic capacity
+			* increase useful 
+		* Increased adipocytes increase FFAs and products
 	* 
