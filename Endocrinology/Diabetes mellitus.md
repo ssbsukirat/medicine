@@ -365,3 +365,6 @@
 	* Pharmaceutical agents
 		* α-glucosidase inhibitors, metformin, thiazolidinediones, GLP-1 receptor pathway modifiers, SGLT-2 inhibitors, and orlistat
 		* not approved by FDA
+
+# genetic forms of DM
+# Approach to DM
