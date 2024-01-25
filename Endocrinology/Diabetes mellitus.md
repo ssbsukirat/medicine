@@ -368,3 +368,23 @@
 
 # genetic forms of DM
 # Approach to DM
+* Focus on symptoms and classification of DM
+* Long delays in diagnosis means presentation maybe with chronic complications 
+* History
+	* Complete 
+	* DM specific 
+		* weight changes 
+		* sleep history 
+		* risk factors of cardiovascular disease 
+		* exercise 
+		* smoking
+		* pancreatic disease 
+		* ethanol use 
+	* Hyperglycemia symptoms 
+		* Polyuria 
+		* polydipsia 
+		* weight loss 
+		* fatigue
+		* weakness
+		* blurry vision
+		* f
