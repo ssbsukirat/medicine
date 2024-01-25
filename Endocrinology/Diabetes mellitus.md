@@ -246,4 +246,24 @@
 ### Genetic consideration 
 * Strong genetic component 
 * 70-90% in identical twins 70% if parents have DM
-* 
+* Insulin resistance ,as demonstrated by reduced glucose utilization in skeletal muscle, nondiabetic, first-degree relatives of individuals with type 2 DM.
+* polygenetic and multifactorial
+* Shared environmental and lifestyle factors 
+* In-utero environmental affects
+	* High or low birth weight 
+	* Gestational hyperglycemia 
+* Genes 
+	* Transcription factor 7-like gene 2
+	* peroxisome proliferator–activated receptor γ
+	* inward rectifying potassium channel 
+	* zinc transporter 
+	* IRS 
+	* calpain 10
+
+### Pathophsyiology 
+* Characterised by 
+	* impaired insulin secretion 
+	* insulin resistance 
+	* excessive hepatic glucose production 
+	* abnormal fat metabolism 
+	* systemic low-grade inflammation
