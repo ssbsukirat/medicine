@@ -413,9 +413,18 @@
 			* pinprick
 			* ankle reflex
 			* nail care 
-			* 
+		* Deformities
+			* Hammer toe 
+			* claw toe 
+			* Charcot foot
+		* Sites of potential ulceration
 	* Peripheral pulses
 	* BP
 		* Orthostatic
 		* If >130/80 or 140/90
 	* Teeth gum for periodontal disease 
+	* Neuropathy
+		* Annual screening for Distal symmetric polyneuropathy @ diagnosis DM
+		* Annual screening for Autonomic neuropathy 5 yr after diagnosis of T1-DM and @ diagnosis of T2-DM
+		* Test for loss of protective sensation 
+	* 
