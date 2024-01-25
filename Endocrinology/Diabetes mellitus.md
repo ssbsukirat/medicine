@@ -269,9 +269,17 @@
 	* systemic low-grade inflammation
 * ![[t2dmchart.png]]
 * Initial compensatory increase in insulin despite resistance is sufficient to maintain glucose homeostasis 
-* As hyperinsulinemia and resistance worsens, unable to sustain high insulin and ***IGT or increase in PP glucose develops*** 
-* decline in insulin secretion and/or increased glucagon secretion causes an increase in hepatic glucose production leading to ***fasting hyperglycemia***
+* As hyperinsulinemia and resistance worsens, *unable to sustain high insulin* and ***IGT or increase in PP glucose develops*** 
+* *decline in insulin secretion and/or increased glucagon secretion* causes an increase in hepatic glucose production leading to ***fasting hyperglycemia***
 
 ### Metabolic Abnormalities
 * Insulin resistance 
-	* Decrease in ability to act on target ti
+	* Decrease in ability to act on target tissue
+	* reduce in both potency and efficacy 
+	* muscle liver fat 
+	* Due to 
+		* Genetic 
+		* obesity
+		* metabolic inflammation 
+	* Usually relative as Insulin increases to compensate
+	* 
