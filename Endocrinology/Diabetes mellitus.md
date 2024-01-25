@@ -240,3 +240,10 @@
 
 
 ## Type 2 DM
+* Insulin resistance and abnormal insulin secretion central to pathogenesis 
+* Usually ***Resistance before reduced secretion*** but DM develops only when secretion falls
+* Latinos have more resistance and South and east asians have more beta cell dysfunction 
+### Genetic consideration 
+* Strong genetic component 
+* 70-90% in identical twins 70% if parents have DM
+* 
