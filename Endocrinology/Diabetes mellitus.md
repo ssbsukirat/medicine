@@ -273,8 +273,8 @@
 * *decline in insulin secretion and/or increased glucagon secretion* causes an increase in hepatic glucose production leading to ***fasting hyperglycemia***
 
 ### Metabolic Abnormalities
-* Insulin resistance 
-	* Decrease in ability to act on target tissue
+#### Insulin resistance 
+	Decrease in ability to act on target tissue
 	* reduce in both potency and efficacy 
 	* muscle liver fat 
 	* Due to 
@@ -319,4 +319,14 @@
 	* Chronic hyperglycemia leads to ***Glucose Toxicity*** and paradoxically impairs insulin secretion 
 	* Increased FFAs lead to ***lipid toxicity*** with inflammation and increase in macrophages also worsens 
 * INCREASED HEPATIC GLUCOSE AND LIPID Production 
+	* Early in course of DM
 	* insulin resistance in the liver reflects the failure of hyperinsulinemia to suppress gluconeogenesis 
+		* leads to fasting hyperglycemia and reduced glycogen storage
+	* Lipolysis and FFA flux increase 
+		* Increased VLDL and triglyceride synthesis
+		* causes ***Dyslipidemia***
+			* increased TGs, LDL
+			* reduced HDL
+			* If persists may cause NAFLD
+* Insulin Resistance Syndromes
+	* 
