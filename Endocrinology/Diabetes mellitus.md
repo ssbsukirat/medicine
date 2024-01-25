@@ -387,4 +387,15 @@
 		* fatigue
 		* weakness
 		* blurry vision
-		* f
+		* frequent superficial infection 
+		* slow healing of skin lesions
+	* Metabolic derangements
+		* hyperglycemia osmotic diuresis
+		* catabolic state 
+			* urinary loss of glucose and calories 
+			* muscle breakdown
+			* protein degradation and reduced synthesis 
+		* blurred vision from water in lens 
+	* Review of symptoms and treatment in established DM
+	* prior HbA1c 
+	* self monitoring of RBS
