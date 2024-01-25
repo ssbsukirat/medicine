@@ -312,4 +312,11 @@
 	* initial compensatory increase in insulin 
 	* Initially, the insulin secretory defect is mild and selectively involves glucose-stimulated insulin secretion with***reduced first secretory phase***
 	* Arginine (non insulin secretagogue) response preserved initially 
-	* Beta cell dysfunction 50% 
+	* Beta cell dysfunction 50% activity at time of onset of DM
+	* Abnormalities in Proinsulin processing
+		* reflects as increase in proinsulin levels 
+	* Islet amyloid polypeptide or ***amylin***, co-secreted by the beta cell, forms *amyloid fibrillar deposits* found in the islets 
+	* Chronic hyperglycemia leads to ***Glucose Toxicity*** and paradoxically impairs insulin secretion 
+	* Increased FFAs lead to ***lipid toxicity*** with inflammation and increase in macrophages also worsens 
+* INCREASED HEPATIC GLUCOSE AND LIPID Production 
+	* insulin resistance in the liver reflects the failure of hyperinsulinemia to suppress gluconeogenesis 
