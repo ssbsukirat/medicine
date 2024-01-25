@@ -346,11 +346,22 @@
 			* T2DM or IGT/IFG 
 			* Accelerated cardiovascular disease
 
-| Type A | Type B |
-| ------ | ------ |
-| young women        | Middle Aged women        |
-| severe hyperinsulinemia        | severe hyperinsulinemia       |
-| obesity       | Autoimmune disease       |
-| hyperandrogenism       | Hyperandrogenism        |
-| defect in insulin signalling        | Autoantibodies to insulin receptor        |
-* PCOS
+| Type A | Type B | PCOS |
+| ---- | ---- | ---- |
+| young women | Middle Aged women | Premenopausal women  |
+| severe hyperinsulinemia | severe hyperinsulinemia | severe hyperinsulinemia  |
+| obesity | Autoimmune disease | chronic anovulation |
+| hyperandrogenism | Hyperandrogenism | Insulin resistance  |
+| defect in insulin signalling | Autoantibodies to insulin receptor |  |
+* Prevention of DM
+	* Structured program in prediabetes or high risk
+	* screen for cardiovascular disease 
+	* Diabetes Prevention Program 
+		* Intensive lifestyle changes
+		* diet 
+		* exercise 30 mins/ day for 5x/week
+		* delayed by 58%
+	* Metformin delayed by 31%
+	* Pharmaceutical agents
+		* α-glucosidase inhibitors, metformin, thiazolidinediones, GLP-1 receptor pathway modifiers, SGLT-2 inhibitors, and orlistat
+		* not approved by FDA
