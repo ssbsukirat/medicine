@@ -273,8 +273,8 @@
 * *decline in insulin secretion and/or increased glucagon secretion* causes an increase in hepatic glucose production leading to ***fasting hyperglycemia***
 
 ### Metabolic Abnormalities
-#### Insulin resistance 
-	Decrease in ability to act on target tissue
+* Insulin resistance 
+	* Decrease in ability to act on target tissue
 	* reduce in both potency and efficacy 
 	* muscle liver fat 
 	* Due to 
@@ -329,4 +329,11 @@
 			* reduced HDL
 			* If persists may cause NAFLD
 * Insulin Resistance Syndromes
-	* 
+	* Spectrum of disorders 
+	* Hyperglycemia key features 
+	* ***Syndrome X***
+		* AKA Insulin resistance syndrome or Metabolic syndrome 
+		* Metabolic deranged 
+			* Insulin resistance 
+			* HTN
+			* 
