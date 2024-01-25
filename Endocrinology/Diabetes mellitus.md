@@ -312,3 +312,4 @@
 	* initial compensatory increase in insulin 
 	* Initially, the insulin secretory defect is mild and selectively involves glucose-stimulated insulin secretion with***reduced first secretory phase***
 	* Arginine (non insulin secretagogue) response preserved initially 
+	* Beta cell dysfunction 50% 
