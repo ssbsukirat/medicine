@@ -344,17 +344,13 @@
 			* Dyslipidemia 
 			* Central / visceral obesity 
 			* T2DM or IGT/IFG 
-			* Accelerated cardiovascular disease 
-	* Type A
-		* young women
-		* severe hyperinsulinemia 
-		* obesity 
-		* hyperandrogenism
-		* defect in insulin signalling 
-	* Type B
-		* Middle Aged women 
-		* severe hyperinsulinemia 
-		* Hyperandrogenism 
-		* Autoimmune disease 
-		* Autoantibodies to insulin receptor 
-* 
+			* Accelerated cardiovascular disease
+
+| Type A | Type B |
+| ------ | ------ |
+| young women        | Middle Aged women        |
+| severe hyperinsulinemia        | severe hyperinsulinemia       |
+| obesity       | Autoimmune disease       |
+| hyperandrogenism       | Hyperandrogenism        |
+| defect in insulin signalling        | Autoantibodies to insulin receptor        |
+* PCOS
