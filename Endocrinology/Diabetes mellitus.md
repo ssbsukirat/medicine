@@ -399,3 +399,8 @@
 	* Review of symptoms and treatment in established DM
 	* prior HbA1c 
 	* self monitoring of RBS
+	* establish presence of complications 
+	* check patients knowledge on diet exercise drugs sleep 
+	* ADA counsel all women of childbearing age the benfit of tight glycemic control 
+* Physical Examination
+	* 
