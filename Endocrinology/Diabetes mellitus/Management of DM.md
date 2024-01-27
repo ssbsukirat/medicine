@@ -147,11 +147,33 @@
 	* Measured at
 		* initial evaluation 
 		* as part of their comprehensive diabetes care
+			* 2 times /year if goals met 
+			* every 3 months if control not met or therapy changes 
 	* Should reflect SMBG or CGM values
 	* Benefits 
 		* Recent intercurrent illnesses may affect SMBG or CGM not HbA1c
 		* may reflect postprandial or nocturnal hyperglycemia not detected by SMBG of fasting and preprandial capillary blood glucose 
-	* Downsides
-		* 
-	* it does ***not*** detect interprandial or nocturnal ***hypoglycemia***—these require very frequent SMBG or CGM for detection
-	* Average so does not show variability in glycemic control 
+	* Downsides 
+		* it does ***not*** detect interprandial or nocturnal ***hypoglycemia***—these require very frequent SMBG or CGM for detection
+		* Average so does not show ***variability*** in glycemic control 
+	* Altered by
+		* hemoglobinopathies
+		* anemia
+		* reticulocytosis
+		* transfusions
+		* uremia
+	* Measure glycation of other proteins as alternate short-term markers if HbA1c innacurate
+		* Albumin
+			* Fructosamine Assay
+		* 1,5-anhydroglucitol
+	* 
+
+| HbA1c | Glucose level |
+| ---- | ---- |
+| 6 | 126 |
+| 7 | 154 |
+| 8 | 183 |
+| 9 | 212 |
+| 10 | 240 |
+| 11 | 269 |
+| 12 | 298 |
