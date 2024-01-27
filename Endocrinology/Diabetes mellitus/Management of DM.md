@@ -82,5 +82,20 @@
 * DM patient lacks normal gluco-regulatory mechanisms
 * Skeletal muscle is a major site for metabolic fuel consumption in the resting state, and the increased muscle activity during vigorous, aerobic exercise greatly increases fuel requirements.
 * DM patient during exercise  may develop 
-	* Hyperglycemia 
-		* 
+	* Hyperglycemia or Ketoacidosis 
+		* insulin level is too low, the delivery of lactate to the liver and rise in catecholamines may increase the plasma glucose excessively, promote ketone body formation, and possibly lead to ketoacidosis.
+	* Hypoglycemia 
+		* circulating insulin level is excessive, this relative hyperinsulinemia may reduce hepatic glucose production (decreased glycogenolysis, decreased gluconeogenesis) and increase glucose entry into muscle 
+* Avoid hypoglycemia or hyperglycemia 
+	* monitor blood glucose before, during, and after exercise 
+	* delay exercise if blood glucose is >14 mmol/L (250 mg/ dL) and ketones are present; 
+	* if the blood glucose is <5.0 mmol/L (90 mg/dL), ingest carbohydrate before exercising;
+	* monitor glucose during exercise and ingest carbohydrate as needed to prevent hypoglycemia
+	* decrease insulin doses (based on previous experience) before and after exercise and inject insulin into a nonexercising area
+	* learn individual glucose responses to different types of exercise.
+* in T2-DM exercise-related hypoglycemia is less common but can occur in individuals taking either insulin or insulin secretagogues
+* Untreated proliferative retinopathy is a relative contraindication to vigorous exercise 
+	* may lead to vitreous hemorrhage or retinal detachment
+
+### Psychosocial Care 
+* 
