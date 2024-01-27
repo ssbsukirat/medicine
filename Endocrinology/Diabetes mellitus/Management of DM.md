@@ -15,3 +15,19 @@
 * Modify risk factors for DM related diseases
 * Can reduce mortality and morbidity
 * Individualized treatment goals
+* prevent and treat hypoglycemia (<54 mg/dL)
+* ![[comprehensive.png]]
+* ![[goals.png]]
+## Lifestyle Management 
+###  Diabetes Self-Management Education and Support (DSMES)
+* improve the patient’s knowledge, skills, and abilities necessary for diabetes self-care
+* emphasize psychosocial issues and emotional well-being. 
+* Patient education is a continuing process with regular visits for reinforcement; it is not a process completed after one or two visits.
+* Important at
+	* Diagnosis
+	* Annually
+	* when goals are not met 
+	* transition in life or medical care 
+* delivered by a diabetes educator who is a health care professional (nurse, dietician, or pharmacist) with specialized patient-education skills and who is certified in diabetes education (e.g., Association of Diabetes Care & Education Specialists).
+* Includes
+	* 
