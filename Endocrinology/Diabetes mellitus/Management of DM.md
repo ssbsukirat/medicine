@@ -98,4 +98,7 @@
 	* may lead to vitreous hemorrhage or retinal detachment
 
 ### Psychosocial Care 
-* 
+* Important part of DM care 
+* Diabetes Distress
+	* “...negative psychological reactions related to emotional burdens...in having to manage a chronic disease like diabetes"
+* Stress may provoke 
