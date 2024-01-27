@@ -104,3 +104,6 @@
 * Stress may provoke a change in behaviour making adherence to plan difficult
 * Eating disorders, including binge eating disorders, bulimia, and anorexia nervosa, appear to occur more frequently in individuals with type 1 or type 2 DM.
 ## Monitoring of glycemic control 
+* the patient’s measurements provide a picture of short-term glycemic control 
+* HbA1c reflects average glycemic control over the previous 2–3 months 
+* Most measurements should be performed prior to a meal and supplemented with postprandial measurements to assist in reaching glucose targets
