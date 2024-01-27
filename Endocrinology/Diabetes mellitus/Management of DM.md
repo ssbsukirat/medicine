@@ -107,3 +107,13 @@
 * the patient’s measurements provide a picture of short-term glycemic control 
 * HbA1c reflects average glycemic control over the previous 2–3 months 
 * Most measurements should be performed prior to a meal and supplemented with postprandial measurements to assist in reaching glucose targets
+* CGM replacing SMBG in patients
+* ***SMBG***
+	* Self-monitoring of blood glucose 
+	* Small drop of blood 3-10 μL and enzymatic reaction 
+	* measures Capillary glucose 
+	* calibrated to provide plasma glucose value even though blood glucose is measured
+	* Fingertip better than alternate sites (forearm etc.)
+	* Frequency individualized 
+		* T1-DM or T2-DM on multiple insulin injections each day should measure their blood glucose ***>3 times/day*** (some measure >10 times/day)
+		* Most with type 2 DM require less frequent monitoring, although the optimal frequency of SMBG has not been clearly defined.
