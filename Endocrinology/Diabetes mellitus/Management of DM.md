@@ -80,4 +80,7 @@
 	* Resistance, flexibility balance reduced sedentary behaviour
 * Normally insulin falls and glucagon rises in exercise 
 * DM patient lacks normal gluco-regulatory mechanisms
-* 
+* Skeletal muscle is a major site for metabolic fuel consumption in the resting state, and the increased muscle activity during vigorous, aerobic exercise greatly increases fuel requirements.
+* DM patient during exercise  may develop 
+	* Hyperglycemia 
+		* 
