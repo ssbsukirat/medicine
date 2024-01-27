@@ -125,4 +125,17 @@
 	* Sensor or electrode detects interstitial glucose 
 		* in equilibrium with blood glucose 
 		* may lag behind when rapid changes
-	* 
+	* 2 approaches
+		* CGM detected and reported essentially continuously
+		* the sensor is in place, but the glucose is only recorded when a detector is placed over the sensor
+	* Sensors placed subcutaneously and replaced 3-14 days
+	* Some may require calibration with SMBG
+	* unlimited glucose datapoints that can be used to define
+		* a time in a glycemic range (TIR, or time in range),
+		* the ambulatory glucose profile, 
+		* the amount of time in the hypoglycemic range, 
+		* glucose management indicator (GMI), which correlates with A1C
+		* monitor the rate of glucose change 
+		* glucose trends that can be used to avoid predicted hyper- or hypoglycemia 
+	* In T1-DM without ***hypoglycemia awareness*** may decrease frequency of hypoglycemia 
+* Long term Glycemic control
