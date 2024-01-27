@@ -63,5 +63,21 @@
 * Fasting in DM
 	* Under International Diabetes Federation (IDF) guidelines on fasting during Ramadan, individuals are risk-stratified as those who can safely fast with medical evaluation and supervision and those in whom fasting is not advised. Thus, patient education and regular glucose monitoring are critical.
 * ![[nutrition.png]]
-* 
+### Physical Activity 
+* Benefits
+	* cardiovascular risk reduction, 
+	* reduced blood pressure, 
+	* maintenance of muscle mass, 
+	* reduction in body fat, 
+	* weight loss
+	* useful for lowering plasma glucose (during and following exercise) 
+	* increasing insulin sensitivity.
+* Recommendations
+	* 150 mins / week
+	* distributed over atleast 3 days
+	* no gaps longer than 2 days
+	* Moderate aerobic physical exercise 
+	* Resistance, flexibility balance reduced sedentary behaviour
+* Normally insulin falls and glucagon rises in exercise 
+* DM patient lacks normal gluco-regulatory mechanisms
 * 
