@@ -47,5 +47,21 @@
 	* managing diabetes- related complications (cardiovascular disease, nephropathy)
 * high-quality, nutrient-dense with limits on carbohydrate intake required for glycemic control and weight management 
 * *glycemic index* an estimate of the postprandial rise in the blood glucose when a certain amount of that food is consumed, may reduce postprandial glucose excursions and improve glycemic control.
-* Goal in T1-DM
-	* 
+* T1-DM
+	* Goals 
+		* coordinate and match the carbohydrate intake, both temporally and quantitatively, with the appropriate amount of insulin.
+	* informed by SMBG and/or CGM
+	* patient’s estimate of the carbohydrate content of a meal, an insulin-to-carbohydrate ratio determines the bolus insulin dose for a meal or snack.
+	* flexible enough to allow for exercise, and the insulin regimen must allow for variations in caloric intake 
+	* minimize the weight gain often associated with intensive insulin therapy 
+	* best achieved by placing limits on carbohydrate intake
+* T2-DM
+	* focus on weight loss
+	* address the greatly increased prevalence of cardiovascular risk factors (hypertension, dyslipidemia, obesity) and disease in this population.
+	* emphasize modest caloric reduction, increased physical activity, and weight loss ***(goal of at least 5–10% loss)***
+* Weight loss and exercise each independently improve insulin sensitivity.
+* Fasting in DM
+	* Under International Diabetes Federation (IDF) guidelines on fasting during Ramadan, individuals are risk-stratified as those who can safely fast with medical evaluation and supervision and those in whom fasting is not advised. Thus, patient education and regular glucose monitoring are critical.
+* ![[nutrition.png]]
+* 
+* 
