@@ -30,4 +30,22 @@
 	* transition in life or medical care 
 * delivered by a diabetes educator who is a health care professional (nurse, dietician, or pharmacist) with specialized patient-education skills and who is certified in diabetes education (e.g., Association of Diabetes Care & Education Specialists).
 * Includes
+	* self- monitoring of blood glucose (SMBG) and/or continuous glucose monitoring (CGM) 
+	* urine or blood ketone monitoring (type 1 DM)
+	* insulin administration 
+	* guidelines for diabetes management during illnesses 
+	* prevention and management of hypoglycemia 
+	* foot and skin care
+	* diabetes management before, during, and after exercise 
+	* risk factor–modifying activities.
+
+### Medical Nutrition therapy 
+* #Defined as ***optimal coordination of caloric intake with other aspects of diabetes therapy (insulin, exercise, and weight loss)***
+* Aims to
+	* preventing or delaying the onset of type 2 DM in high-risk individuals (obese or with prediabetes) by promoting weight reduction 
+	* improving glycemic control through limiting carbohydrate intake and avoiding simple sugars and fructose
+	* managing diabetes- related complications (cardiovascular disease, nephropathy)
+* high-quality, nutrient-dense with limits on carbohydrate intake required for glycemic control and weight management 
+* *glycemic index* an estimate of the postprandial rise in the blood glucose when a certain amount of that food is consumed, may reduce postprandial glucose excursions and improve glycemic control.
+* Goal in T1-DM
 	* 
