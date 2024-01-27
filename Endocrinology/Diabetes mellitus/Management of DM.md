@@ -101,4 +101,6 @@
 * Important part of DM care 
 * Diabetes Distress
 	* “...negative psychological reactions related to emotional burdens...in having to manage a chronic disease like diabetes"
-* Stress may provoke 
+* Stress may provoke a change in behaviour making adherence to plan difficult
+* Eating disorders, including binge eating disorders, bulimia, and anorexia nervosa, appear to occur more frequently in individuals with type 1 or type 2 DM.
+## Monitoring of glycemic control 
