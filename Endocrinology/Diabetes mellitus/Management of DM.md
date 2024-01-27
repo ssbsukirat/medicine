@@ -138,4 +138,20 @@
 		* monitor the rate of glucose change 
 		* glucose trends that can be used to avoid predicted hyper- or hypoglycemia 
 	* In T1-DM without ***hypoglycemia awareness*** may decrease frequency of hypoglycemia 
-* Long term Glycemic control
+* Long term Glycemic control 
+	* Glycated HB - HbA1c is standard method
+	* Non-enzymatic glycation of Hb increases with persistent high plasma glucose 
+	* 2-3 month history as RBCs have 120 days life span
+	* 50% contributed by last month glucose 
+	* more rapid feedback and may therefore assist in adjustment of therapy.
+	* Measured at
+		* initial evaluation 
+		* as part of their comprehensive diabetes care
+	* Should reflect SMBG or CGM values
+	* Benefits 
+		* Recent intercurrent illnesses may affect SMBG or CGM not HbA1c
+		* may reflect postprandial or nocturnal hyperglycemia not detected by SMBG of fasting and preprandial capillary blood glucose 
+	* Downsides
+		* 
+	* it does ***not*** detect interprandial or nocturnal ***hypoglycemia***—these require very frequent SMBG or CGM for detection
+	* Average so does not show variability in glycemic control 
