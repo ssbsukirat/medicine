@@ -116,4 +116,13 @@
 	* Fingertip better than alternate sites (forearm etc.)
 	* Frequency individualized 
 		* T1-DM or T2-DM on multiple insulin injections each day should measure their blood glucose ***>3 times/day*** (some measure >10 times/day)
-		* Most with type 2 DM require less frequent monitoring, although the optimal frequency of SMBG has not been clearly defined.
+		* Most with type 2 DM require less frequent monitoring, 
+		* ***the optimal frequency of SMBG has not been clearly defined***
+		* T2-DM on insulin should monitor more often than on oral agents(1-2/day maybe sufficient)
+	* on oral medications should use SMBG as a means of assessing the efficacy of their medication and the impact of dietary choices and exercise.
+* ***CGM***
+	* Continuous Glucose Monitoring 
+	* Sensor or electrode detects interstitial glucose 
+		* in equilibrium with blood glucose 
+		* may lag behind when rapid changes
+	* 
