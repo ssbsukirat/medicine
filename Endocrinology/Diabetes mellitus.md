@@ -427,4 +427,45 @@
 		* Annual screening for Distal symmetric polyneuropathy @ diagnosis DM
 		* Annual screening for Autonomic neuropathy 5 yr after diagnosis of T1-DM and @ diagnosis of T2-DM
 		* Test for loss of protective sensation 
-	* 
+* classification of DM IN individual patient
+	* Usually on basis of clinical criteria
+	* T1-DM
+	    *  Lean
+	    * Require insulin
+	    * Development of DKA
+	    * History of autoimmune disease in self or family
+	        * Thyroid disease
+	        * Adrenal insufficiency
+	        * Pernicious anemia
+	        * Celiac
+	        * Vitiligo
+	* T2-DM 
+	    * Obesity
+	    * Elderly maybe lean
+	    * Usually don't require insulin at onset
+	    * Associated with
+	        * Insulin resistance
+	        * HTN
+	        * Cardiovascular disease
+	        * Dyslipidemia 
+	        * PCOS
+	* Ketosis prone diabetes
+	    * T2 DM but propensity for DKA
+	    * Require insulin at onset
+	    * May shift to oral agents later
+	* LADA
+	    * Latent autoimmune diabetes of adult
+	    * No absolute insulin deficiency
+	    * Have autoimmune markers
+	    * Require insulin in 5 years usually
+* Labs
+    * Determine diagnostic criteria
+    * Albuminuria 
+    * Dyslipidemia
+    * Thyroid dysfunction
+    * C peptide measure
+        * May not accurately classify
+    * Islet cell antibodies
+
+
+
