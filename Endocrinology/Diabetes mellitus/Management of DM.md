@@ -251,7 +251,17 @@
 	* rDNA technology
 	* Human insulin AA sequence with or without modifications
 		* Regular and neutral protamine Hagedorn (NPH) insulin have normal sequence 
-		* 
+		* **Insulin analogue** 
+			* Short acting 
+			* Lispro 
+				* 28/29 lysine and proline of B chain reversed 
+				* Biosimilar version approved
+			* Aspart & Glulisine similar to Lispro but **Genetically modified insulin analogue **
+			* Full biological activity but less self-aggregation 
+				* rapid absorption and onset of action 
+		* Benefits 
+			* allows entrainment of insulin injection and action to rising plasma glucose levels following meals
+			* Decreased hypoglycemia episodes 
 	* USA doses 
 		* mostly U-100 100U/ml
 		* short acting U-200 200U/ml
