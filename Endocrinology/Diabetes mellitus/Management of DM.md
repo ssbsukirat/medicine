@@ -264,6 +264,8 @@
 				* Decreased hypoglycemia episodes 
 			* Preferred over regular for ***Prandial coverage***
 		* Long acting 
+			* NPH also included
+			* Optimal coverage requires 2/day injection of glargine and especially Determir
 			* Glargine 
 				* Long acting 
 				* Biosynthetic human insulin 
@@ -285,6 +287,19 @@
 				* Forms hexamers in subcutaneous tissue and bind with albumin 
 				* >42H
 				* similar control as Glargine but with ***less nocturnal and severe hypoglycemia*** 
+			* Basal insulin requirements by long acting 
+		* Mixing
+			* NPH mixing with short acting is common 
+			* may alter absorption profile 
+				* Should not deter from mixing 
+				* Lispro absorption delayed by NPH mixing 
+			* ***Guidelines*** 
+				* ***mix the different insulin formulations in the syringe immediately before injection (inject within 2 min after mixing)***
+				* ***do not store insulin as a mixture*** 
+				* ***follow the same routine in terms of insulin mixing and administration to standardize the physiologic response to injected insulin*** 
+				* ***do not mix insulin glargine, detemir, or degludec with other insulins.***
+			* More convenient for patients 
+			* Dont allow adjustment of short act
 	* USA doses 
 		* mostly U-100 100U/ml
 		* short acting U-200 200U/ml
