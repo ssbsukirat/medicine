@@ -200,4 +200,17 @@
 * Guidelines 
 	* HbA1c as close to normally 
 	* 7% in most patients 
-	* <6.5% 
+	* <6.5% for some patients 
+	* <7.5 or 8 if impaired hypoglycemia awareness 
+	* higher HbA1c in very young or old with low life span or comorbidities
+	* HbA1c no longer inversely related to episodes of hypoglycemia 
+	* If CGM +
+		* maximum time-in-range 70-180
+		* Minimize time-below-range <70
+* More stringent control not beneficial may harm
+	* Specially if CVD also present 
+	* shown by UKPDS ACCORD ADVANCE VADT trials
+* Decide goals based on
+	* early in the course of type 2 diabetes when the CVD risk is lower, ***improved glycemic control leads to improved cardiovascular outcome***,  this benefit may occur **more than a decade** after the period of improved glycemic control
+	* 
+* 
