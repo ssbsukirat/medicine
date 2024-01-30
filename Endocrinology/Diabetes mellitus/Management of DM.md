@@ -263,21 +263,28 @@
 				* allows entrainment of insulin injection and action to rising plasma glucose levels following meals
 				* Decreased hypoglycemia episodes 
 			* Preferred over regular for ***Prandial coverage***
-		* Glargine 
-			* Long acting 
-			* Biosynthetic human insulin 
-			* Different from normal insulin 
-				* Asparagine replaced by glycine at 21
-				* 2 arginine residues added at C terminal of B chain 
-			* Microprecipitates at physiological pH
-			* Onset is later
-			* Longer acting 24hr
-			* less peak
-			* Lower hypoglycemia at ***night*** than NPH 
-			* Biosimilar available 
-		* Detemir 
-			* Fatty side chain reversibly binds to albumin 
-			* Slow absorption and 
+		* Long acting 
+			* Glargine 
+				* Long acting 
+				* Biosynthetic human insulin 
+				* Different from normal insulin 
+					* Asparagine replaced by glycine at 21
+					* 2 arginine residues added at C terminal of B chain 
+				* Microprecipitates at physiological pH
+				* Onset is later
+				* Longer acting 24hr
+				* less peak
+				* Lower hypoglycemia at ***night*** than NPH 
+				* Biosimilar available 
+			* Detemir 
+				* Fatty side chain reversibly binds to albumin 
+				* Slow absorption and catabolism 
+				* 12-20h
+			* Degludec 
+				* Modifications and extension of C terminal of B chain 
+				* Forms hexamers in subcutaneous tissue and bind with albumin 
+				* >42H
+				* similar control as Glargine but with ***less nocturnal and severe hypoglycemia*** 
 	* USA doses 
 		* mostly U-100 100U/ml
 		* short acting U-200 200U/ml
