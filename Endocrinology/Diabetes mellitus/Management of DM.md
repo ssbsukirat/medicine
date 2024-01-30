@@ -259,9 +259,25 @@
 			* Aspart & Glulisine similar to Lispro but **Genetically modified insulin analogue **
 			* Full biological activity but less self-aggregation 
 				* rapid absorption and onset of action 
-		* Benefits 
-			* allows entrainment of insulin injection and action to rising plasma glucose levels following meals
-			* Decreased hypoglycemia episodes 
+			* Benefits 
+				* allows entrainment of insulin injection and action to rising plasma glucose levels following meals
+				* Decreased hypoglycemia episodes 
+			* Preferred over regular for ***Prandial coverage***
+		* Glargine 
+			* Long acting 
+			* Biosynthetic human insulin 
+			* Different from normal insulin 
+				* Asparagine replaced by glycine at 21
+				* 2 arginine residues added at C terminal of B chain 
+			* Microprecipitates at physiological pH
+			* Onset is later
+			* Longer acting 24hr
+			* less peak
+			* Lower hypoglycemia at ***night*** than NPH 
+			* Biosimilar available 
+		* Detemir 
+			* Fatty side chain reversibly binds to albumin 
+			* Slow absorption and 
 	* USA doses 
 		* mostly U-100 100U/ml
 		* short acting U-200 200U/ml
