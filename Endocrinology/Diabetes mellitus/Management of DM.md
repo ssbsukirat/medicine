@@ -177,3 +177,11 @@
 | 10 | 240 |
 | 11 | 269 |
 | 12 | 298 |
+
+# PHARMACOLOGICAL Treatment of Diabetes 
+## Establishing target of glycemic control 
+* Complications related to glycemia
+* normoglycemia or near- normoglycemia desired
+* extremely difficult to achieve 
+* Improve in glycemic control reduces complications ***Microvascular >> macrovascular ***
+* Target individualized 
