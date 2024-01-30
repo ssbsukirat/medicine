@@ -237,4 +237,23 @@
 	* continuous subcutaneous (SC) insulin infusion (CSII)
 * Benefits of intensive therapy 
 	* Reduced acute and chronic complications 
-	* 
+	* Psychological 
+		* greater control feeling
+		* well-being sense
+		* flexibility in timing and content of meals
+		* alter dose with exercise 
+	* Prior to and during pregnancy
+		* Reduced risk of fetal malformations and morbidity 
+	* may prolong the period of C-peptide production 
+		* better glycemic control 
+		* reduced hypoglycemia 
+* Preparations
+	* rDNA technology
+	* Human insulin AA sequence with or without modifications
+		* Regular and neutral protamine Hagedorn (NPH) insulin have normal sequence 
+		* 
+	* USA doses 
+		* mostly U-100 100U/ml
+		* short acting U-200 200U/ml
+		* long acting U-300
+		* Regular U-500
