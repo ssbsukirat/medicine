@@ -248,6 +248,7 @@
 		* better glycemic control 
 		* reduced hypoglycemia 
 * Preparations
+	* ![[insulinpreparations.png]]
 	* rDNA technology
 	* Human insulin AA sequence with or without modifications
 		* Regular and neutral protamine Hagedorn (NPH) insulin have normal sequence 
@@ -299,7 +300,16 @@
 				* ***follow the same routine in terms of insulin mixing and administration to standardize the physiologic response to injected insulin*** 
 				* ***do not mix insulin glargine, detemir, or degludec with other insulins.***
 			* More convenient for patients 
-			* Dont allow adjustment of short act
+			* Dont allow adjustment of short acting and long activity 
+		* Forms 
+			* Pens available 
+			* Inhaled available 
+				* FEV1 should be measured 
+				* Bronchospasm and cough 
+				* no in lung disease or smokers
+			* Insulin  + GLP-1 agonist combinations effective
+				* less weight glargine 
+				* degludec + liraglutide or glargine + lixisenatide
 	* USA doses 
 		* mostly U-100 100U/ml
 		* short acting U-200 200U/ml
