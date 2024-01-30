@@ -212,5 +212,29 @@
 	* shown by UKPDS ACCORD ADVANCE VADT trials
 * Decide goals based on
 	* early in the course of type 2 diabetes when the CVD risk is lower, ***improved glycemic control leads to improved cardiovascular outcome***,  this benefit may occur **more than a decade** after the period of improved glycemic control
+	* intense glycemic control in individuals with ***established CVD or at high risk for CVD*** is not advantageous, and may be deleterious, over a follow-up of 3–5 years
+	* hypoglycemia in such high-risk populations (elderly, CVD) should be avoided 
+	* improved glycemic control reduces microvascular complications of diabetes
+
+## T1-DM 
+### General consideration 
+* Mimic physiological insulin 
+* Basal insulin necessary 
+	* Glycogenolysis 
+	* gluconeogenesis 
+	* lipolysis
+	* ketogenesis
+### Intensive Management 
+* Goal of achieve near- normoglycemia 
+* Resources
+	* Thorough and repeated patient education 
+	* glucose monitoring 
+	* Food intake monitoring 
+	* Variable insuline regimen 
+* regimens 
+	*  multiple-component insulin regimens 
+	* multiple daily injections (MDIs)
+	* continuous subcutaneous (SC) insulin infusion (CSII)
+* Benefits of intensive therapy 
+	* Reduced acute and chronic complications 
 	* 
-* 
