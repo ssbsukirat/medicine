@@ -184,4 +184,20 @@
 * normoglycemia or near- normoglycemia desired
 * extremely difficult to achieve 
 * Improve in glycemic control reduces complications ***Microvascular >> macrovascular ***
-* Target individualized 
+* *Patient Centric approach*
+	* Target individualized with patient consideration and medical social and lifestyle issues
+	* Target HbA1c 
+	* Consideration 
+		* age 
+		* abilities to understand complex treatment regimen 
+		* presence and severity of complications 
+		* CVD
+		* Hypoglycemia awareness ]
+		* Presence of other conditions requiring treatment 
+		* lifestyle 
+		* occupation
+		* support available
+* Guidelines 
+	* HbA1c as close to normally 
+	* 7% in most patients 
+	* <6.5% 
