@@ -315,3 +315,75 @@
 		* short acting U-200 200U/ml
 		* long acting U-300
 		* Regular U-500
+* Insulin regimens
+    * Patient to patient variation in peak and duration of action
+    * Long acting supply Basal insulin
+    * Regular lispro aspart glulisine give prandial insulin
+    * Time 
+        * Short acting <10 min before meal
+        * Regular 30-45 min before meal
+        * Short acting just after a meal in 
+            * Gastroparesis
+            * Unpredictable food intake
+    * Shortcomings
+        * Insulin immediately enters systemic circulation
+        * Exogenous insulin is subphysiological to liver
+        * None reproduces physiology accurately
+    * Physiological regimen
+        * More frequent insulin injections
+        * More short acting insulin
+        * More frequent smbg or CGM
+    * T1-DM require 
+        *  0.3-0.7 units/kg
+            * 50% basal
+            * 50% prandial
+    * ***MDI Regimen***
+        * Combination of basal and bolus
+        * Timing and dose of short acting altered according to 
+            * CGM and SMBG
+            * Food intake
+            * Physical activity
+        * More flexibility and best chance of normoglycemia 
+        * Short acting takes into account preprandial glucose and expected food intake
+            * Insulin to carbohydrate ratio 1 unit/10-15g of carbs but different for everyone
+            * Supplemental or correcting insulin 1 unit/ 30-60mg/dl above target or as 1500/total insulin dose
+        * May use NPH 2x a day but hypoglycemia more common
+    * ***CSII*** 
+        * Very effective
+        * Basal infusion + bolus pre prandial
+        * Based on patient instructions
+        * Algorithm include glucose and expected carbs
+        * Can deliver small doses microliter per hour
+        * Advantages
+            * Multiple basal infusion rates to differentiate daytime vs nocturnal requirement
+            * Rates can be altered during exercise
+            * Different waveform at mealtime allow better matching with intake
+            * Consider ongoing action of already administered insulin 
+        * Challenge
+            * Experienced doctor and patient education
+            * Infusion site infection
+            * Unexplained hyperglycemia if set is obstructed
+            * DKA if device disconnected
+            * Frequent CGM or SMBG required
+            * Backup plan in case of device failure
+        * Sensors newly available
+            * Threshold suspension can stop insulin infusion in hypoglycemia
+            * Predictive suspension stops insulin when hypoglycemia anticipated
+        * Hybrid loop
+            * Patient programmed pre prandial with automated between meal and Basal insulin based on CGM
+        * 
+
+* Other agents
+    * Amylin is a 37 AA peptide
+    * Cosecreted with insulin by beta cells
+    * Pramlinitide is insulin analogue
+    * Reduces postprandial glycemic incursion in both T1-DM and T2-DM with insulin
+    * Just before meal slows gastric emptying and suppresses glucagon
+    * No effect on insulin
+    * 15 microgram SC injection upto 30-60
+    * Max 120
+    * Nausea vomiting
+    * Slows gastric emptying so not used with other drugs having same effect
+    * May worsen hypoglycemia recovery as it suppresses glucagon
+
+
