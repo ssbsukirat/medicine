@@ -5,3 +5,4 @@
 	* P. malariae,
 	* P. knowlesi monkey malarial parasite
 * ![[malarial.png]]
+* 
