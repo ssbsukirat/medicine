@@ -80,4 +80,16 @@
 	* pyelonephritis
 	* HUS 
 	* Pneumonia severe 
-	* arthr
+	* arthritis
+	* osteomyelitis
+	* endophthalmitis
+	* parotitis
+* Up to 10% of patients develop mild relapse, usually within 2–3 weeks of fever resolution
+* Chronic carriage 
+	* Up to 10% of untreated patients with typhoid fever excrete S. Typhi in the ***feces for up to 3 months***, and 2–5% develop ***chronic asymptomatic carriage, shedding S. Typhi in either urine or stool for >1 year***.
+	* Chronic carriage more common
+		* women,
+		* infants
+		* persons who have biliary abnormalities or concurrent bladder infection with Schistosoma haematobium 
+	* adapted to survive in the gallbladder environment by forming ***biofilms*** on gallstones and invading gallbladder epithelial cells.
+	* associated with an increased risk of gallbladder cancer
