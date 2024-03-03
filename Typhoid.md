@@ -93,3 +93,24 @@
 		* persons who have biliary abnormalities or concurrent bladder infection with Schistosoma haematobium 
 	* adapted to survive in the gallbladder environment by forming ***biofilms*** on gallstones and invading gallbladder epithelial cells.
 	* associated with an increased risk of gallbladder cancer
+
+# Diagnosis 
+* Other than a positive culture, no specific laboratory test is diagnostic for enteric fever.
+* In 15–25% of cases, leukopenia and neutropenia are detectable. 
+* Leukocytosis is more common among children, during the first 10 days of illness, and in cases complicated by intestinal perforation or secondary infection. 
+* Other nonspecific laboratory findings include moderately elevated values in liver function tests and muscle enzyme levels.
+* Culture sites (if all cultured >90% yield )
+	* blood 
+		* 60% sensitivity 
+		* lower with lower volume, antimicrobial use or 1st weeks 
+		* centrifugation of blood and culture of the buffy coat can substantially reduce the time to isolation of the organism but do not increase sensitivity
+	* bone marrow, 
+		* >80% sensitivity 
+		* not reduced by antimicrobial use upto 5 days 
+	* other sterile sites, 
+	* rose spots, 
+	* stool (3rd week )
+	* intestinal secretions
+		* maybe positive even if BM is negative 
+* WIDAL
+	* febrile 
