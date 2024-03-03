@@ -67,4 +67,17 @@
 	* include
 		* meningitis 
 		* GBS
-		* Neuropsychiatric symptoms 
+		* ***Neuropsychiatric symptoms (muttering delirium or coma vigil) with picking at bedclothes or imaginary objects***
+* Uncommon complications 
+	* DIC 
+	* hematophagocytic syndrome 
+	* pancreatitis 
+	* HEPATIC /splenic abcess/ granuloma 
+	* Endo-/ Peri-/ Myocarditis 
+	* orchitis
+	* hepatitis
+	* Glomerulonephritis
+	* pyelonephritis
+	* HUS 
+	* Pneumonia severe 
+	* arthr
