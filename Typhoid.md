@@ -113,4 +113,9 @@
 	* intestinal secretions
 		* maybe positive even if BM is negative 
 * WIDAL
-	* febrile 
+	* febrile agglutinins
+	* limited sensitivity and specificity 
+	* Cannot differentiate prior infection or vaccination
+* Rapid test IDL Tubex and Typhidot have more accuracy but limited due to cost 
+
+# Treatment 
