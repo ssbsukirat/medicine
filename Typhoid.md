@@ -45,3 +45,26 @@
 	* vomiting(18%)
 	* diarrhea (22–28%)
 	* constipation (13–16%).
+* Physical findings
+	* coated tongue (51–56%)
+	* splenomegaly (5–6%)
+	* abdominal tenderness (4–5%).
+	* rash (“rose spots”; 30%)
+		* faint, salmon-colored, blanching, maculopapular rash located primarily on the trunk and chest.
+		* at the end of the first week and resolves without a trace after 2–5 days.
+		* two or three crops of lesions,
+		* Salmonella can be cultured from punch biopsies of these lesions.
+		* The faintness of the rash makes it difficult to detect in highly pigmented patients.
+	* hepatosplenomegaly (3–6%), 
+	* epistaxis 
+	* relative bradycardia at the peak of high fever (<50%).
+* Complications (27% of hospitalised)
+	* GI bleed (6%) and perforation (1%) in 3rd and 4th weeks 
+	* due to hyperplasia, ulceration and necrosis of ileocecal peyer patches 
+	* life-threatening and require immediate fluid resuscitation and surgical intervention, with broadened antibiotic coverage for polymicrobial peritonitis
+* Neuro manifestations
+	* 2-40% patients 
+	* include
+		* meningitis 
+		* GBS
+		* Neuropsychiatric symptoms 
