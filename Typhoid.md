@@ -23,4 +23,25 @@
 * strains contain ***plasmids*** encoding resistance to chloramphenicol, ampicillin, and trimethoprim 
 * MDR strains with decreased susceptibility to ciprofloxacin (DSC; minimal inhibitory concentration ≥0.125 μg/mL) or ciprofloxacin resistance (MIC, ≥1 μg/mL) emerged on the Indian subcontinent 
 * clone ***H58***, which increasingly has been associated with clinical treatment failure of fluoroquinolones
-* 
+* Testing of isolates for resistance to the first-generation quinolone nalidixic acid no longer recommended 
+
+# Clinical course
+* Misnomer as fever and abdominal pain are variable
+* IP mean 10-14 days but overall 5-21 days
+* most prominent symptom is prolonged fever (38.8°–40.5°C /101.8°–104.9°F), continue for up to 4 weeks if untreated
+* typhi vs paratyphi  clinically indistinguishable
+* Symptoms
+	* headache (80%)
+	* chills (35–45%)
+	* cough (30%)
+	* sweating (20–25%)
+	* myalgias (20%)
+	* malaise (10%)
+	* arthralgia (2–4%)
+* GI symptoms 
+	* anorexia (55%)
+	* abdominal pain (30–40%)
+	* nausea (18–24%)
+	* vomiting(18%)
+	* diarrhea (22–28%)
+	* constipation (13–16%).
