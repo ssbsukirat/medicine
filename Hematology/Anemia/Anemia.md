@@ -80,4 +80,12 @@
 * Maturation disorders are identified from the ***discrepancy*** between the M/E ratio and the reticulocyte production index
 * Can check for iron stores in the form of Ferritin or Hemosiderin
 * Sideroblasts
-	* small ferritin granules can normally be seen under oil immersion in 20–40% of developing erythrob- lasts.
+	* small ferritin granules can normally be seen under oil immersion in 20–40% of developing erythroblasts.
+
+# Definition and classification of anemia 
+## Initial classification 
+* Three functional classification 
+	* ***Hypoproliferative***  Marrow production defects
+		* low RPI with 
+	* ***Ineffective erythropoiesis*** RBC maturation defect 
+	* ***Blood loss/Hemolysis*** reduced RBC survival 
