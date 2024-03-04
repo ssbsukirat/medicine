@@ -386,6 +386,184 @@
     * Slows gastric emptying so not used with other drugs having same effect
     * May worsen hypoglycemia recovery as it suppresses glucagon
 
+## T2-DM
+### general aspects
+* Goals similar to T1-DM but must also include associated conditions management
+* Manage complications of T2-DM
+* Reduce cardiovascular risk
+* Start with MNT or medical nutrition therapy and an exercise regimen
+### Glucose-lowering agents
+* According to mechanism
+#### biguanides
+* Metformin reduces hepatic gluconeogenesis and increase peripheral utilisation of glucose 
+* AMP-dependent protein kinase and enters via organic cation transporters
+* Exact mechanism undecided
+* Benefits
+    * Reduces FBS and insulin level
+    * Improves lipid profile
+    * Modest weight loss
+    * Reduces micro and macro vascular complications
+* Side effects
+    * GI 
+        * Diarrhoea
+        * Anorexia
+        * Nausea
+        * Metallic taste
+    * Lactic acidosis
+    * Reduced B12 should monitor annually
+    * Avoid if 
+        * GFR <30mL/min
+        * Acidosis
+        * Unstable CHF
+        * Liver disease
+        * Severe hypoxemia
+        * Hospitalised
+        * low oral intake
+        * Radiographic contrast to be given
+* Low initial dose and escalate every 1-2 weeks to 2000 mg per day
+#### insulin secretagogue -ATP sensitive K channel on beta cell
+* Effective in recent onset diabetes <5 years with residual endogenous insulin
+* Repaglinide, nateglinide, mitiglinide non sulfonylurea
+    * Short half life so give immediately before meal
+##### Sulfonylurea
+* 1st generation
+    * have longer half life, more hypoglycemia, more drug interactions so not used
+    * Chlorpropamide tolazamide tolbutamide
+* 2nd generation
+    *  Rapid onset
+    * Better cover post prandial rise
+    * May require >2/day dosing
+* Reduce both fasting and post prandial 
+* Low dose initially titrate up 1-2 weeks according to SMBG
+* Increase insulin acutely so take shortly before meal
+* Glimepiride and glipizide preferred over glyburide and can give 1/day especially in elderly
+* Longer acting may cause hypoglycemia
+    * More in elderly
+    * Delayed meals
+    * More physical activity
+    * Alcohol intake
+    * Renal insufficiency
+* Overdose causes prolonged and serious hypoglycemia do require hospital observations
+* Metabolised in liver cleared by kidney
+    * Glyburide and -glinide metabolite active
+* Avoid in renal or liver disease
+* In CKD give short acting glimepiride and glipizide
+* Weight gain due to more insulin and better glycemic control
+* Interaction severe with
+    * Alcohol
+    * Warfarin
+    * Aspirin
+    * Ketoconazole 
+    * Alpha glucosidase inhibitors
+    * Fluconazole 
+#### insulin secretagogue - enhance GLP-1 receptor signalling
+* "Incretins" amplify ***glucose stimulated insulin secretion*** - hence don't cause hypoglycemia unless used with hypoglycemia causing drug like sulfonylurea
+* GLP-1 agonists increase insulin, reduce glucagon and slow gastric emptying
+* Modest weight loss
+* All modified to resist DPP-IV
+* Short acting provide postprandial coverage
+    * Exenatide BD
+        * Original exendin-4 found in Gila monster saliva having half life 2 mins
+        * Slightly different AA sequence renders resistance to DPP-IV
+    * Liraglutide OD
+        * Identical to native GLP-1 except one AA and addition of fatty acyl group
+        * Promoted binding to albumin and extended half life
+        * Decreased CVD episode in T2-DM and established CVD
+        * Reduced diabetic CKD
+    * Lixisenatide OD 
+    * Semaglutide OD now available
+* Long acting ***Weekly*** both fasting and postprandial
+    * Sustained release exenatide
+    * Dulaglutide 
+    * Lixisenatide
+    * Semaglutide
+        * Reduced CVD and CKD
+        * ***More retinopathy***
+* Higher dose of liraglutide and semaglutide weight loss therapy in obesity
+* Start at low dose to prevent gastric side effect - Nausea is dose limiting
+* Combination with biguanides sulfonylurea thiazolidinediones 
+* Reduce dose with secretagogue
+* Increased thyroid C cell carcinoma in rodents so ***contraindicated in medullary carcinoma thyroid***
+* DPP-IV inhibitors promote insulin secretion preferentially post prandial glucose
+    * Increase GLP-1 action
+    * Reduced dose in renal insufficiency
+    * Allergy rash SJS and severe joint pain maybe seen
+* GLP-1 agonists > DPP-IV inhibitors increase ***risk of pancreatitis***
+    * Avoid in pancreatic insufficiency and risk factors like alcohol hypercalcaemia and hypertriglyceridemia 
+#### alpha glucosidase inhibitors
+* Reduce***postprandial*** hyperglycemia by delaying glucose absorption
+* No effect on glucose utilisation or insulin secretion
+* Low dose over evening meal and increased to max dose over weeks to months
+* Side effects
+    * Diarrhea flatulence abdominal distention
+    * Related to more oligosaccharides in large gut
+* Avoid with sulfonylurea (hypoglycemia) bile acid resins and antacids
+* Avoid in IBD gastroparesis or creatinine >2
+* If hypoglycemia consume glucose 
 
-
-##
+#### thiazolidinediones 
+* Reduce insulin resistance and circulating insulin level
+* Bind to peroxisome proliferator-activated receptor gamma PPAR-gamma nuclear receptor
+* Receptor in high level in adipocytes but also others
+* Agonists action
+    * Genes regulations
+    * Promote adipocyte differentiation
+    * Reduce hepatic fat accumulation
+    * Fatty acid storage
+* Redistribution of far from central to peripheral
+* Troglitazone withdrawn due to hepatotoxicity and sometimes liver failure
+* Rosiglitazone and pioglitazone need LFT before initiating but can start if transaminase mildly elevated due to fatty liver
+* Rosiglitazone raise LDL HDL TGs
+* Pioglitazone HDL raise more LDL raise less but reduced TGs
+* Effects
+    * 2-3 kg weight gain,
+    * reduce hematocrit 
+    * raise in plasma volume
+        * Peripheral edema
+        * CHF
+        * Contraindicated in CHF or hepatic insufficiency
+        * May worsen diabetic macular edema
+        * Increased risk of fractures in post menopausal
+        * Induce ovulation in PCOS 
+        * Pioglitazone increase risk of bladder cancer
+#### SGLT2 inhibitors
+* Inhibition in PCT 
+    * Low glucose resorption
+    * Lowered renal threshold of glucose
+    * Glucose in urine more
+        * Urinary and genital mycotic infection more
+    * Sodium resorption impaired so diuretic and 3-6 mmHg lower BP
+        * Reduces IV volume and AKI
+    * Increased glucagon and more hepatic glucose and ketone production
+* Insulin dependent effect no change in insulin sensitivity or secretion
+* Modest weight loss
+* Euglycemic DKA in illness or when glucosuria masks insulin requirements
+* Don't give in T1-DM or pancreatic insufficiency
+* Empagliflozin and canagliflozin reduce CVD episode and mortality in DM with CVD
+* All ***reduce hospitalization for CHF***
+* Empagliflozin canagliflozin and dapagliflozin reduced progression of diabetic CKD
+    * Don't initiate in stage 3b GFR<45mL
+    * Stop in stage 4 GFR<30mL
+* Dapagliflozin may increase bladder cancer
+#### other therapies
+##### bile acid binding agents
+* Bile acid metabolism is abnormal in DM
+* Colesevalam approved
+* Minimally absorbed so action not known
+* May increase TGs so avoid if TG high
+##### bromocriptine 
+* Cycloset 
+* Role uncertain
+#### insulin therapy
+* Initial therapy in 
+    * Lean
+    * Sever weight loss
+    * Underlying renal or liver disease that precludes OHAs 
+    * Hospitalised
+    * Acutely ill
+* Initial single dose of long acting 0.1-0.4 U/kg per day in evening or just at bedtime (some start fixed dose 5-15 units or 0.1U per kg) then 10-20% increment as per SMBG
+* Glargine less nocturnal hypoglycemia than NPH
+* Bedtime dose better than morning
+* Insulin at bedtime or morning maybe used with OHAs 
+* Later prandial cover is also required as DM progressive
+* Some patients can use infusion devices
