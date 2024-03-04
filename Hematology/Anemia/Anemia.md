@@ -154,7 +154,14 @@
 * Hemolysis 
 	* Least common cause 
 	* high RPI indicates intact marrow response and efficient iron recycling (if extravascular )
-	* in intravascular hemolysis (PNH) iron loss may limit marrow response 
+	* in intravascular hemolysis (PNH) iron loss may limit marrow response
+	* May present as Acute episode or as a complication of hemolysis like gallstones or splenomegaly 
+	* Susceptible to aplastic crises in infections
 * Hemoglobinopathies 
 	* mixed picture 
-	* RPI high but inap
+	* RPI high but inappropriately low for degree of erythroid hyperplasia 
+
+# Treatment
+* Mild to moderate treat only after diagnosis 
+* If severe transfusion then diagnosis 
+* Evaluation of iron status before and after treatment 
