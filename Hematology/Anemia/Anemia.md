@@ -7,4 +7,6 @@
 	* ***Signs of vascular instability appear with acute losses of 10–15%*** of volume. issue is hypotension and decreased organ perfusion.
 	* When >30%  volume lost suddenly,  unable to compensate with the usual mechanisms of vascular contraction and changes in regional blood flow.  prefers to remain supine and will show ***postural hypotension and tachycardia.***
 	* If  volume lost is ***>40% (i.e., >2 L in the average-sized adult), signs of hypovolemic shock including confusion, dyspnea, diaphoresis, hypotension, and tachycardia appear***
+* because of  compensatory mechanisms that govern the O2–hemoglobin dissociation curve,  gradual onset of anemia, particularly in young patients may not be associated with signs or symptoms until the anemia is severe (hemoglobin <70–80 g/L or 7–8 g/dL)
+* With chronic anemia, intracellular levels of ***2,3-bisphosphoglycerate rise***, shifting the dissociation curve to the right and facilitating O2 unloading (only ***upto 2-3g/dl loss***)
 * 
