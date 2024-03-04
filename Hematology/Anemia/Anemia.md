@@ -134,4 +134,17 @@
 * Cytoplasmic Defects 
 	* severe iron deficiency or abnormalities in globin or heme synthesis 
 	* Iron Deficient 
-		* 
+		* unusual as may cause both hypoproliferative (mild to moderate) or maturation (severe and prolonged) types 
+		* In severe and prolonged marrow is hyperplastic with cytoplasm maturation defects 
+		* Inappropriately low RPI, microcytosis, and a classic pattern of iron values
+	* Heme synthesis defects maybe acquired or inherited
+		* Acquired 
+			* usually associated with myelodysplasia 
+			* may cause macro or microcytic 
+			* Mitochondrial iron loading ++
+			* iron in mitochondrial but not into heme 
+			* mitochondria form a ring surrounding nucleus called ***RINGED Sideroblasts*** 
+
+## Hemolysis or Blood Loss 
+* RPI >2.5
+* 
