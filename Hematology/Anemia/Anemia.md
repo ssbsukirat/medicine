@@ -86,6 +86,19 @@
 ## Initial classification 
 * Three functional classification 
 	* ***Hypoproliferative***  Marrow production defects
-		* low RPI with 
+		* low RPI with no/little change in RBC morphology
+		* RBC indices usually normal 
+		* No erythroid hyperplasia 
 	* ***Ineffective erythropoiesis*** RBC maturation defect 
+		* Macrocytic/Microcytic with increased RPI
+		* Bizzare shapes on PBF
+		* Erythroid Hyperplasia + with M/E <1
 	* ***Blood loss/Hemolysis*** reduced RBC survival 
+		* RPI >3 if sufficient iron available
+* 
+
+| ***Hypoproliferative***  Marrow production defects | ***Ineffective erythropoiesis*** RBC maturation defect |     |
+| -------------------------------------------------- | ------------------------------------------------------ | --- |
+| low RPI with no/little change in RBC morphology    | Macrocytic/Microcytic with increased RPI               |     |
+| RBC indices usually normal                         | Bizzare shapes on PBF                                  |     |
+| No erythroid hyperplasia                           |                                                        |     |
