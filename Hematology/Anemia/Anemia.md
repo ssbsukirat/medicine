@@ -84,21 +84,22 @@
 
 # Definition and classification of anemia 
 ## Initial classification 
-* Three functional classification 
-	* ***Hypoproliferative***  Marrow production defects
-		* low RPI with no/little change in RBC morphology
-		* RBC indices usually normal 
-		* No erythroid hyperplasia 
-	* ***Ineffective erythropoiesis*** RBC maturation defect 
-		* Macrocytic/Microcytic with increased RPI
-		* Bizzare shapes on PBF
-		* Erythroid Hyperplasia + with M/E <1
-	* ***Blood loss/Hemolysis*** reduced RBC survival 
-		* RPI >3 if sufficient iron available
-* 
 
-| ***Hypoproliferative***  Marrow production defects | ***Ineffective erythropoiesis*** RBC maturation defect |     |
-| -------------------------------------------------- | ------------------------------------------------------ | --- |
-| low RPI with no/little change in RBC morphology    | Macrocytic/Microcytic with increased RPI               |     |
-| RBC indices usually normal                         | Bizzare shapes on PBF                                  |     |
-| No erythroid hyperplasia                           |                                                        |     |
+| ***Hypoproliferative***  Marrow production defects | ***Ineffective erythropoiesis*** RBC maturation defect | ***Blood loss/Hemolysis*** reduced RBC survival |
+| -------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------- |
+| low RPI with no/little change in RBC morphology    | Macrocytic/Microcytic with increased RPI               | RPI >3 if sufficient iron available             |
+| RBC indices usually normal                         | Bizzare shapes on PBF                                  |                                                 |
+| No erythroid hyperplasia                           | Erythroid Hyperplasia + with M/E <1                    |                                                 |
+![[classanemia.png]]
+## Hypoproliferative Anemias
+* 75% of all anemias 
+* Absolute or relative marrow failure 
+* Mostly due to mild to moderate iron deficiency or inflammation 
+* Causes 
+	* marrow damage 
+	* iron deficiency 
+	* inadequate EPO stimulation
+		* impaired renal function (may produce RBCs at normal rates)
+			* If DM or multiple myeloma maybe more pronounced than degree of renal dysfunction 
+		* suppression of EPO production by inflammatory cytokines such as interleukin 1
+		* reduced tissue needs for O2 from metabolic disease such as hypothyroidism
