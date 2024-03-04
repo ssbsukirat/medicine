@@ -49,10 +49,16 @@
 * Initially , compare reticulocyte count to expected response 
 * if the EPO and erythroid marrow responses to moderate anemia (hemoglobin <100 g/L (10 g/dL)) are intact, the red cell production rate increases to two to three times normal within 10 days following the onset of anemia.
 * a reticulocyte response less than two to three times normal indicates an inadequate marrow response.
-* Correction necessary 
+* Correction necessary (doubly corrected is ***Reticulocytes Production Index*** )
 	* ![[rpi-correction.png]]
 	* For Anemia 
 		* adjusts the reticulocyte count based on the reduced number of circulating red cells. With anemia, the percentage of reticulocytes may be increased while the absolute number is unchanged. 
 		* To correct for this effect, the reticulocyte percentage is multiplied by the ratio of the patient’s hemoglobin or hematocrit to the expected hemoglobin/hematocrit for the age and sex of the patient
 	* For immature reticulocytes 
-		* 
+		* depending on whether some of the reticulocytes in circulation have been released from the marrow prematurely. 
+		* The peripheral blood smear is examined to see if there are polychromatophilic macrocytes (Shift cells) present.
+		* survive as reticulocytes in circulation for >1 day, thereby providing a falsely high estimate of daily red cell production.
+		* ![[rpi-correction2.png]]
+		* If polychromasia absent dont correct 
+		* should always be applied to a patient with anemia and a very high reticulocyte count to provide a true index of effective red cell production
+* 
