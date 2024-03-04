@@ -147,4 +147,14 @@
 
 ## Hemolysis or Blood Loss 
 * RPI >2.5
-* 
+* Increased polychromatophilic macrocytes 
+* Marrow rarely indicated 
+* Acute blood loss not associated with RPI increase as time taken is more 
+* chronic blood loss presents more often as iron deficiency than with the picture of increased red cell production.
+* Hemolysis 
+	* Least common cause 
+	* high RPI indicates intact marrow response and efficient iron recycling (if extravascular )
+	* in intravascular hemolysis (PNH) iron loss may limit marrow response 
+* Hemoglobinopathies 
+	* mixed picture 
+	* RPI high but inap
