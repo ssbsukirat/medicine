@@ -27,4 +27,8 @@
 	* increase in RDW or range of sizes
 * and shape (poikilocytosis)
 	* suggests defect in maturation of RBC precursor in marrow or fragmentation of circulating RBCs 
-* 
+* polychromasia 
+	* red cells that are slightly larger than normal and grayish blue in color on the Wright-Giemsa stain.
+	* reticulocytes that have been released prematurely from the bone marrow 
+	* color represents residual amounts of ribosomal RNA. 
+	* appear in circulation in response to EPO stimulation or to architectural damage of the bone marrow (fibrosis, infiltration of the marrow by malignant cells, etc.) that results in their disordered release from the marrow.
