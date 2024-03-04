@@ -127,4 +127,11 @@
 * inappropriately low reticulocyte production index, macro- or microcytosis on smear, and abnormal red cell indices
 * Nuclear Maturation Defects 
 	* Macrocytic 
-	* B12 Folic Acid 
+	* B12 Folic Acid Drugs myelodysplasia 
+	* Methotrexate or alkylating agents interfere with DNA synthesis 
+	* Alcohol usually due to folic acid deficiency 
+	* B12 and folate levels necessary as pathologically process is different 
+* Cytoplasmic Defects 
+	* severe iron deficiency or abnormalities in globin or heme synthesis 
+	* Iron Deficient 
+		* 
