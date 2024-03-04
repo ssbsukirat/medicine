@@ -32,3 +32,13 @@
 	* reticulocytes that have been released prematurely from the bone marrow 
 	* color represents residual amounts of ribosomal RNA. 
 	* appear in circulation in response to EPO stimulation or to architectural damage of the bone marrow (fibrosis, infiltration of the marrow by malignant cells, etc.) that results in their disordered release from the marrow.
+* ![[ida-pbf.png]]
+* ![[macrocytosis-pbf.png]]
+* ![[howell-jolly-pbf.png]]
+* ![[myelofibrosis-pbf.png]]
+* ![[targetcells-pbf.png]]
+* ![[fragmentation-pbf.png]]
+* ![[uremia-pbf.png]]
+* ![[spur-cells-pbf.png]]
+#### Reticulocytes Count 
+* Key to initial classified 
