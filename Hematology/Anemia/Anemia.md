@@ -19,4 +19,12 @@
 	* focus on areas where vessels are close to the surface such as the mucous membranes, nail beds, and palmar creases. 
 	* If the palmar creases are lighter in color than the surrounding skin when the hand is hyperextended, the hemoglobin level is usually <8 g/dL (80 g/L)
 ### Lab evaluation 
+* ![[Anemia-evaluation.png]]
+* ![[anemia-evaluation2.png]]
+#### PBF
+* complement to red cell indices 
+* reveals variations in cell size (anisocytosis)
+	* increase in RDW or range of sizes
+* and shape (poikilocytosis)
+	* suggests defect in maturation of RBC precursor in marrow or fragmentation of circulating RBCs 
 * 
