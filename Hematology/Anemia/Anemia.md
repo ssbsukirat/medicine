@@ -41,4 +41,18 @@
 * ![[uremia-pbf.png]]
 * ![[spur-cells-pbf.png]]
 #### Reticulocytes Count 
-* Key to initial classified 
+* Key to initial classification 
+* Reticulocytes are RBCs recently released from marrow 
+* Supravital dye that precipitates RNA ribosomal 
+* This residual RNA is metabolized over the first 24–36 h of the reticulocyte’s life span in circulation.
+* Normally, the reticulocyte count ranges from 1% to 2% and reflects the daily replacement of 0.8–1.0% of the circulating red cell population
+* Initially , compare reticulocyte count to expected response 
+* if the EPO and erythroid marrow responses to moderate anemia (hemoglobin <100 g/L (10 g/dL)) are intact, the red cell production rate increases to two to three times normal within 10 days following the onset of anemia.
+* a reticulocyte response less than two to three times normal indicates an inadequate marrow response.
+* Correction necessary 
+	* ![[rpi-correction.png]]
+	* For Anemia 
+		* adjusts the reticulocyte count based on the reduced number of circulating red cells. With anemia, the percentage of reticulocytes may be increased while the absolute number is unchanged. 
+		* To correct for this effect, the reticulocyte percentage is multiplied by the ratio of the patient’s hemoglobin or hematocrit to the expected hemoglobin/hematocrit for the age and sex of the patient
+	* For immature reticulocytes 
+		* 
