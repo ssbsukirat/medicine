@@ -73,4 +73,11 @@
 	* ferritin is also an acute-phase reac- tant and, in the presence of acute or chronic inflammation, may rise several-fold above baseline levels.
 	* if >200 means atleast some stores present 
 #### Bone marrow 
-
+* In patients with hypoproliferative anemia, normal renal function, and normal iron status, a bone marrow is indicated.
+* The increase or decrease of one cell lineage (myeloid vs erythroid) compared to another is obtained by a differential count of nucleated cells in a bone marrow smear (the myeloid/erythroid M/E ratio).
+* A patient with a hypoproliferative anemia and a reticulocyte production index <2 will demonstrate an M/E ratio of 2 or 3:1. 
+* In contrast, patients with hemolytic disease and a production index >3 will have an M/E ratio of at least 1:1.
+* Maturation disorders are identified from the ***discrepancy*** between the M/E ratio and the reticulocyte production index
+* Can check for iron stores in the form of Ferritin or Hemosiderin
+* Sideroblasts
+	* small ferritin granules can normally be seen under oil immersion in 20–40% of developing erythrob- lasts.
