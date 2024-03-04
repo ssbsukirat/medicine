@@ -103,3 +103,23 @@
 			* If DM or multiple myeloma maybe more pronounced than degree of renal dysfunction 
 		* suppression of EPO production by inflammatory cytokines such as interleukin 1
 		* reduced tissue needs for O2 from metabolic disease such as hypothyroidism
+* Normocytic Normochromic mostly but maybe microcytic hypochromic if iron deficiency or chronic inflammation 
+* Tests
+	* Iron profile (Serum iron and TIBC)
+	* Renal and thyroid function 
+	* Marrow aspiration or biopsies 
+	* Ferritin for stores 
+* Acute or chronic inflammation 
+	* Regulated by ***Hepcidin***
+		* Produced by liver
+		* ***Increased*** in inflammation 
+	* Low serum iron 
+	* TIBC normal or low 
+	* Transferrin saturation low 
+	* ***Ferritin normal or high***
+* mild to moderate iron deficiency 
+	* Low serum iron
+	* high TIBC
+	* low percent transferrin saturation
+	* ***low serum ferritin***
+* 
