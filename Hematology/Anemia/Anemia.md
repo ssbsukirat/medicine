@@ -124,4 +124,7 @@
 	* ***low serum ferritin***
 
 ##  Maturation Disorders 
-* 
+* inappropriately low reticulocyte production index, macro- or microcytosis on smear, and abnormal red cell indices
+* Nuclear Maturation Defects 
+	* Macrocytic 
+	* B12 Folic Acid 
