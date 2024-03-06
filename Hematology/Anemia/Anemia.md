@@ -70,7 +70,7 @@
 	* Total body iron stores
 	* males ~100 micrograms/L total 1g
 	* females postmenopausal 30 micrograms/L total 300mg 
-	* ferritin is also an acute-phase reac- tant and, in the presence of acute or chronic inflammation, may rise several-fold above baseline levels.
+	* ferritin is also an acute-phase reactant and, in the presence of acute or chronic inflammation, may rise several-fold above baseline levels.
 	* if >200 means atleast some stores present 
 #### Bone marrow 
 * In patients with hypoproliferative anemia, normal renal function, and normal iron status, a bone marrow is indicated.
