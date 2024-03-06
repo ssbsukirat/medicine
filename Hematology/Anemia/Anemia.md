@@ -61,7 +61,7 @@
 		* ![[rpi-correction2.png]]
 		* If polychromasia absent dont correct 
 		* should always be applied to a patient with anemia and a very high reticulocyte count to provide a true index of effective red cell production
-* confirms the fact that the patient has an appropriate EPO response, a normally function- ing bone marrow, and sufficient iron available to meet the demands for new red cell formation.
+* confirms the fact that the patient has an appropriate EPO response, a normally functioning bone marrow, and sufficient iron available to meet the demands for new red cell formation.
 #### Iron supply and storage 
 * S. Fe (9 to 27 μmol/L (50–150 μg/dL)), TIBC (54–64 μmol/L (300–360 μg/dL)), percentage transferrin saturation (25-50%)
 * The percent transferrin saturation is derived by dividing the serum iron level (× 100) by the TIBC.
