@@ -5,4 +5,15 @@
 * Acquired 
 	* Stereotypical presentation 
 	* Abrupt onset low counts in previously normal adults 
-	* Seronegative hepatits or course of drug
+	* Seronegative hepatitis or course of drug may precede
+	* Anemia, thrombocytopenia, leukopenia maybe present in any combination 
+* Related to PNH and MDS so distinction is very difficult 
+# Epidemiology 
+* M = F
+* Age is biphasic
+	* teens and twenties
+	* older adults 
+
+# Etiology 
+* Relationships are not reliable 
+* most are idiopathic 
