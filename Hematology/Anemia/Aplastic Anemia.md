@@ -18,7 +18,7 @@
 * Relationships are not reliable 
 * most are idiopathic 
 ## Radiation
-* Major **acute sequala** of radiation exposure 
+* Major **acute sequala** of radiation exposure (usually *not chronic*)
 * Damages DNA 
 * High mitosis tissue most affected
 * Seen in
@@ -27,4 +27,14 @@
 	* Labs
 	* Industrial
 * Radiation dose can be extracted from rate and degree  of fall in counts 
-* Dosimetric reconstruction 
+* Dosimetric reconstruction helps estimate prognosis and protect healthcare workers from exposure to radioactive tissue and excreta 
+* **MDS and Leukemia** are ***Chronic*** effects of radiation 
+## Chemicals
+* Benzene is notorious, usually used as solvent
+* History of job exposure is important 
+* Incidence of ***leukemia*** is correlated to ***cumulative exposure but susceptiblity*** is important 
+* Usually ***not as a late exposure*** 
+
+## Drugs 
+* Chemotherapeutic drugs cause as major toxicity 
+* Dose dependent usually 
