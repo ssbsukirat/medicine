@@ -50,5 +50,15 @@
 * Usually ***mild and transient***
 
 ## Immunological Diseases 
-* Major consequence and cause of death in Transfusion as
+* Major consequence and cause of death in ***Transfusion associated graft vs Host Disease (GVHD)*** 
+* Occurs after infusion of nonirradiated blood products in immunodeficient patients 
+* Associated with Eosinophilic Fascitis (collagen vascular disease) with painful subcutaneous induration 
+* Thymoma and hypoimmunoglobulinemia 
+* SLE 
+
+## Hepatitis 
+* 5% cases 
+* Young men post recovery 1-2 months later 
+* Severe pancytopenia 
+* Seronegative hepatitis , presumed to be immune mediated 
 
