@@ -38,3 +38,17 @@
 ## Drugs 
 * Chemotherapeutic drugs cause as major toxicity 
 * Dose dependent usually 
+* Idiosyncratic reactions usually occur ***without*** a dose response relationship 
+* Association is not causation 
+	* Drug may have been used to treat symptoms of [[Bone Marrow Failure]] like fever or viral illness 
+	* May provoke 1st symptoms of disease 
+* Idiosyncratic reactions are a rare event 
+* ![[aplasticdrugs.png]]
+
+## Infections 
+* In many viral and bacterial infections 
+* Usually ***mild and transient***
+
+## Immunological Diseases 
+* Major consequence and cause of death in Transfusion as
+
