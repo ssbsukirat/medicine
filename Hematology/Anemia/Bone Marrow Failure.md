@@ -3,4 +3,5 @@
 * Defined by morphology of marrow 
 * ![[marrowfailureclass.png]]
 * May suffer from one or more at the same time or one may evolve into the other 
-* S
+* Share mechanism of immune-mediated but component of genetic instability also present 
+* 
