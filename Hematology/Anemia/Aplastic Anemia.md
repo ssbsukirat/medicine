@@ -17,3 +17,14 @@
 # Etiology 
 * Relationships are not reliable 
 * most are idiopathic 
+## Radiation
+* Major **acute sequala** of radiation exposure 
+* Damages DNA 
+* High mitosis tissue most affected
+* Seen in
+	* POwer plant workers 
+	* healthcare workers 
+	* Labs
+	* Industrial
+* Radiation dose can be extracted from rate and degree  of fall in counts 
+* Dosimetric reconstruction 
