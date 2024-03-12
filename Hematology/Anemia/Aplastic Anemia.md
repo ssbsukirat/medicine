@@ -61,4 +61,11 @@
 * Young men post recovery 1-2 months later 
 * Severe pancytopenia 
 * Seronegative hepatitis , presumed to be immune mediated 
+* Fulminant hepatic failure is a sequala of seronegative hepatitis in children and pancytopenia maybe seen 
+
+## Pregnancy 
+usually resolves with delivery 
+
+## PNH 
+* 
 
