@@ -296,5 +296,21 @@ usually resolves with delivery
 	* severe neutropenia prefer marrow 
 
 ## Eltromopag
-* Hematopoietic growth factors (HGFs) such as erythropoietin (EPO) and granulocyte colony-stimulating factor (G-CSF) are not effective in aplastic anemia, probably because endogenous blood levels in patients are extremely high.
+* Hematopoietic growth factors (HGFs) such as erythropoietin (EPO) and granulocyte colony-stimulating factor (G-CSF) are not effective in aplastic anemia 
+	* because endogenous blood levels in patients are extremely high.
+* thrombopoietin mimetic showed unexpected activity in refractory disease
+	* producing robust, trilineage, and usually durable hematologic responses.
+* Mechanism 
+	* stimulation of the hematopoietic stem cell 
+	* iron chelation
+	* increased regulatory T cells
+* Approved as monotherapy for refractory aplastic anemia and in combination with horse ATG and cyclosporine as initial therapy 
+## Androgens
+* not been verified in controlled trials 
+* occasional patients will respond or even demonstrate blood count dependence on continued therapy.
+* Mechanism 
+	* upregulate telomerase gene activity in vitro 
+* if a telomere gene defect is present, a 3- to 4-month trial may improve all blood counts 
+## Supportive care 
+* 
 
