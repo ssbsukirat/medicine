@@ -209,5 +209,16 @@ usually resolves with delivery
 # Diagnosis 
 * Pancytopenia with fatty bone marrow 
 * In young always suspected if pancytopenia  
-* 
+* Difficult if atypical presentation 
+	* Acquired vs atypical 
+		* Marrow is indistinguishable except megakaryocytic atypia in GATA2 deficiency 
+		* AML and MDS in pedigree should workup predisposition like RUNX1 mutation 
+	* Aplastic vs MDS 
+		* MDS shows morphological abnormalities 
+		* Immune aplastic vs low risk MDS is very thin boundary 
+
+# Prognosis 
+* Rapid deterioration and death 
+* provision of RBC followed by Platelets then antibiotic 
+* major prognosis indicator is counts 
 
