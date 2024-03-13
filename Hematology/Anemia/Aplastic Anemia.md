@@ -276,5 +276,25 @@ usually resolves with delivery
 	* development of MDS, with typical cytogenetic aberrations and abnormal marrow morphology
 	* Mostly reoccurence of pancytopenia 
 	* Leukemia
-	* 
+* if PNH, frank hemolysis may develop 
+* ATG 
+	* Horse ATG 
+		* IV infusion 
+		* hospitalization required 
+	* Rabbit ATG 
+		* less effective as it reduces t regulatory cells 
+	* Serum Sickness
+		* 10 days after treatment 
+		* Cutaneous eruption with arthralgia 
+	* Methylpred to be given to stop immune side effects 
+* Cyclosporine 
+	* orally at an initial high dose 
+	* subsequent adjustment according to blood levels.
+	* side effects are nephrotoxicity, hypertension, and seizures.
+* Age and Neutropenia decide between marrow vs immunosuppressive therapy 
+	* older do better with immunosuppressive 
+	* severe neutropenia prefer marrow 
+
+## Eltromopag
+* Hematopoietic growth factors (HGFs) such as erythropoietin (EPO) and granulocyte colony-stimulating factor (G-CSF) are not effective in aplastic anemia, probably because endogenous blood levels in patients are extremely high.
 
