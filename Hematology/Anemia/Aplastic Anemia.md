@@ -257,5 +257,24 @@ usually resolves with delivery
 * Posttransplant cyclophosphamide appears effective in preventing GVHD.
 * Routine radiation not given to avoid cancer 
 ## Immunosuppression 
-* 
+* antithymocyte globulin (ATG) in combi- nation with cyclosporine induces hematologic recovery  in 60–70% of patients
+* Hematologic recovery 
+	* independence from transfusion and a leukocyte count adequate to prevent infection 
+* Children respond better than adults 
+* Early robust response correlates well with survival 
+* Granulocyte counts increase in 2 months 
+* recovered patients continue 
+	* blood count depression 
+	* MCV remains elevated 
+	* bone marrow cellularity returns toward normal very slowly 
+* Relapse is frequent on tapering or stopping drug 
+	* respond to restarting therapy 
+	* some become cyclosporine dependent 
+* Long term effects (15%), over a decade 
+	* “Clonal evolution,” 
+	* isolated chromosomal abnormalities 
+	* development of MDS, with typical cytogenetic aberrations and abnormal marrow morphology
+	* Mostly reoccurence of pancytopenia 
+	* Leukemia
+	* 
 
