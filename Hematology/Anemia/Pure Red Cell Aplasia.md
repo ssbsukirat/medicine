@@ -33,3 +33,13 @@
 * subcutaneous EPO administration 
 	* neutralising antibodies to hormone 
 * Due to antibodies to blood group antigens as in allogenic stem cell transplant 
+
+# Persistent Parvovirus B19 infection 
+* Treatable cause of PRCA 
+* Benign exanthem of childhood 
+* ***Fifth disease***
+* polyarthralgia/arthritis syndrome in adults 
+* in underlying hemolytic conditions 
+	* transient aplastic crisis 
+	* temporary abrupt worsening of anemia due to failed erythropoiesis 
+* Infection resolved by neutralising antibodies to virus 
