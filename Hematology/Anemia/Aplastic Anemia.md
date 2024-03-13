@@ -328,5 +328,14 @@ usually resolves with delivery
 		* single donors 
 		* leukocyte dimnishing 
 		* HLA matched platelet 
-	* Inhibitors of fibrinolysis such as aminocaproic acid
+	* Inhibitors of fibrinolysis such as aminocaproic acid unproven in reducing oozing 
+	* low dose glucocorticoids for "vascular stability" not recommended 
+	* Goals 
+		* Platelets > 10000/uL
+		* Suppress menstruation by oral estrogen or nasal FSH/LH antagonists 
+		* avoid NSAIDs 
+		* Hb >7g / >9g if cardiac or pulmonary disease 
+		* 2 units every 2 weeks 
+		* add deferoxamine and deferasirox every 50th transfusion 
+* 
 
