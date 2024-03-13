@@ -55,3 +55,12 @@
 * parvovirus 
 	* viral DNA detection 
 	* IgG and IgM absent mostly 
+	* Responds to IVIg 
+* Supportive care alone can help survival 
+	* RBC transfusion and iron chelation 
+* Favourable response to immunosuppresants 
+	* glucocorticoid 
+	* ATG 
+	* cyclosporine 
+	* azathioprine
+	* cyclophosphamide 
