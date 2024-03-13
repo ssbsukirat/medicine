@@ -221,4 +221,18 @@ usually resolves with delivery
 * Rapid deterioration and death 
 * provision of RBC followed by Platelets then antibiotic 
 * major prognosis indicator is counts 
+* Severe disease (2/3)
+	* ANC < 500/uL
+	* Platelets  < 20000/uL
+	* Corrected reticulocyte count <1% / Absolute < 60000/uL
+* Predictors of response 
+	* Absolute reticulocyte > 25000/uL
+	* Lymphos > 1000/uL
+* Other factors 
+	* PNH clones
+		* indicates immune pathology responding to immunosuppressive 
+	* Short telomeres 
+		* shows stem cell reserves, regenerative stress and susceptiblity to chromosome instability 
+	* Somatic mutation in WBCs
+* Mutations like ASXL
 
