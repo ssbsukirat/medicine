@@ -22,7 +22,14 @@
 	* transient erythroblastopenia of childhood which occurs in normal children.
 # Clinical association and etiology 
 * association with immune system disease 
+* T-cell inhibition in most 
 * Minority of cases with thymoma 
 * can be the major manifestation of large granular lymphocytosis or complicates chronic lymphocytic leukemia 
 * hypogammaglobulinemia
 * 5q- syndrome 
+	* ribosomal protein gene deletion
+	* MDS may manifest as PRCA 
+* idiosyncratic drug reaction 
+* subcutaneous EPO administration 
+	* neutralising antibodies to hormone 
+* Due to antibodies to blood group antigens as in allogenic stem cell transplant 
