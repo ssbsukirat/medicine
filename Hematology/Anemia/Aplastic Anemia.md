@@ -234,5 +234,8 @@ usually resolves with delivery
 	* Short telomeres 
 		* shows stem cell reserves, regenerative stress and susceptiblity to chromosome instability 
 	* Somatic mutation in WBCs
-* Mutations like ASXL
+* Mutations like ASXL1 and DNMT3A show worse prognosis and clonal evolution 
+
+# Treatment 
+* 
 
