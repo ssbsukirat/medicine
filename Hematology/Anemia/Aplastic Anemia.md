@@ -65,7 +65,141 @@
 
 ## Pregnancy 
 usually resolves with delivery 
+## PNH
+- acquired mutations in PIG-A gene
+- Mutations may occur in normal individual without PNH development
+- If PIG-A mutants proliferate, clones deficient in glycosylphosphatidylinositol linked cell membrane surface protein
+- These clones detected in 50% of patients on flow cytometry
+- Bone marrow of PNH patients show defective hematopoiesis also (even in hemolytic manifestation)
+- young patients with PNH may later develop Frank marrow aplasia and pancytopenia
 
-## PNH 
-* 
+## constitutional syndromes
+- fanconi Anemia 
+    - autosomal recessive
+        - most common is type A with FANCA mutation
+        - Most form products that activate FANCD2 by monoubiquitination that plays role in DNA repair and cross-linking
+    - Congenital development abnormalities
+        - short stature
+        - Cafe au lait spots
+        - Thumb radius and genitourinary tract anomalies 
+    - Progressive pancytopenia
+    - Risk of malignancy
+    - Chromosomes susceptible to DNA cross-linking damage
+        - chromosome breakage study using diepoxybutane or mitomycin c is based on this 
+- Shwachman-Diamond syndrome
+    - ribosomopathies 
+    - Ribosomal assembly defects
+    - Early presentation
+    - Neutropenia
+    - Pancreatic insufficiency
+    - Malabsorption
+- Diamond-blackfan Anemia
+- Telomeropathies
+    - alterations in telomere repair or SHELTERIN protein
+    - Dyskeratosis congenita 
+        - pediatrics
+        - Mucous membrane leukoplakia
+        - Dystrophic nails
+        - Reticular hyperpigmentation
+        - Early aplastic Anemia
+        - Due to defect in telomere repair complex
+        - X linked in DKC1 dyskerin gene
+        - AD in TERC defect (rare)
+    - TERC and TERT defect
+        - reverse transcriptase code
+        - Mild and subtle
+        - Maybe in adults also
+        - Aplastic Anemia or macrocytic Anemia or thrombocytopenia
+        - Chronic non progressive
+        - Early hair greying is clue to diagnosis
+        - Maybe family history of pulmonary fibrosis and hepatic cirrhosis
+    - Measurements of telomere length of WBC is commercially available test 
+
+# Pathophysiology
+- severe damage to hematopoietic stem cells
+- Replacement of marrow by fat seen in biopsy and MRI
+- CD34 cells are marker of hematopoietic cells and markedly reduced
+- Stem cell pool < 1% 
+- Committed and progenitor cells absent on functional studies
+## Constitutional syndromes
+- intrinsic stem cell defect
+- DNA repair defects in fanconi
+- Telomere repair defects
+- GATA AND RUNX mutations affect signal transduction
+## chemical and drug injury
+- extrinsic damage
+- Massive physical or chemical insult
+- Altered drug metabolism causes idiosyncratic reactions
+    - polar drugs and low water soluble drugs undergo enzymatic degradation
+    - Degradation produces highly reactive eosinophilic compounds which are toxic by binding cellular macromolecules
+    - Hydroquinone and quinolones cause injury in benzene exposure
+
+## immune stem cell destruction
+- suggested by recovery of patients by treating with antilymphocyte globulin
+- Removal of t cells from aplastic marrow improves function in vitro
+- Activated cytotoxic t cells decline with immunosuppressive therapy usually
+- Type 1 cytokines involved
+- IFN-gamma induces Fas expression on CD34 cells causing apoptosis
+- Genetic determined features of immune response convert physiological response to sustained abnormal autoimmune process
+    - HLA polymorphism
+    - Cytokines genes
+    - T cell proliferation and effector genes 
+
+# Clinical features
+## history
+- abrupt or insidious
+- Bleeding most common early symptom
+    - easy brising
+    - Oozing from gums
+    - Epistaxis 
+    - Heavy menstrual flow
+    - Petechiae rarely
+    - Massive hemorrhage unusual but sometimes ICH or intraretinal hemorrhage maybe seen
+- Symptomatic Anemia 
+    - lassitude, weakness, shortness of breath, pounding sensation in ear
+- Infection is unusual first symptom
+- Agranulocytosis 
+    - pharyngitis anorectal infection or sepsis occurs early
+- Patients usually look and feel good despite low counts
+- History of drug chemical viral illness
+- Family history
+- Systemic complaint and weight loss should point to other etiology
+## physical examination
+- petechiae and ecchymoses typical
+- Retinal hemorrhage maybe present
+- Pelvic and rectal exam can be deferred
+    - perform with gentleness to avoid trauma 
+    - May show bleeding from cervical os or blood in stool
+- Pallor of skin and mucous
+- Lymphadenopathy and splenomegaly atypical
+# Laboratory studies
+## blood 
+- large erythrocytes
+- Paucity of platelets and granulocyte
+- MCV is high
+- Reticulocyte absent or few 
+- Lympho normal or low
+- Immature myeloid cells suggest MDS or leukaemia
+- Nucleated RBC suggest marrow fibrosis or tumour invasion
+- Abnormal platelet suggest peripheral destruction or MDS
+# bone marrow
+- readily aspirated but dilute
+- fatty specimen maybe pale on withdrawal
+- Dry tap suggest fibrosis or myelophthisis 
+- Severe aplasia shows only red cells, residual lymphos and stromal cells
+- Biopsy is better for cellularity and shows fat under microscope
+- hematopoietic cells < 25% 
+- Poor correlation between cellularity and severity as hotspot of hematopoiesis maybe seen
+- Residual hematopoietic cells should have normal morphology except for mildly megaloblastic erythropoiesis
+- Granulomas indicate infections
+- Biopsy must be >1 cm in length
+
+## ancillary studies
+- chromosome breakage study using diepoxybutane or mitomycin c in children and young to exclude fanconi 
+- Telomere length
+- Chromosome studies usually negative
+- Flow cytometry for PNH
+- EBV or HIV maybe positive
+## genomics
+- 
 
