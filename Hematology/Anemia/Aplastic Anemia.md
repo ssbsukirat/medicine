@@ -243,5 +243,19 @@ usually resolves with delivery
 * Suspect exposures to drugs or chemicals should be discontinued 
 * spontaneous recovery of severe blood count depression is rarely 
 * waiting period before beginning treatment not  advisable unless the blood counts are only modestly depressed.
-## Hematopoietic stemm 
+## Hematopoietic stem cell transplant 
+* first choice for the younger patient with a fully histocompatible sibling donor
+* Order HLA as soon as diagnosis made 
+* transfusion of blood from family members should be avoided to prevent sensitization 
+* Prefer leucocyte depleted blood products 
+* Allogenic transplant from sibling has ~90% survival 
+* Higher morbidity and mortality in adults due to chronic GVHD and infections 
+* full phenotypic match can be found within the family and serve as well 
+* high-resolution matching at HLA, outcomes are similar to those with sibling donors, but with more frequent complication 
+* Cord blood can be used as stem cells 
+* HLA haploidentical family donor is increasingly popular, as a donor is almost always quickly available 
+* Posttransplant cyclophosphamide appears effective in preventing GVHD.
+* Routine radiation not given to avoid cancer 
+## Immunosuppression 
+* 
 
