@@ -201,5 +201,13 @@ usually resolves with delivery
 - Flow cytometry for PNH
 - EBV or HIV maybe positive
 ## genomics
-- 
+- Next generation sequencing allows testing of large numbers of genes 
+- Germline panels examine 50 or more genes if constitutional syndromes suspected  
+- Somatic mutations if MDS is suspected 
+- Myeloid neoplasm gene panels test 100 genes 
+
+# Diagnosis 
+* Pancytopenia with fatty bone marrow 
+* In young always suspected if pancytopenia  
+* 
 
