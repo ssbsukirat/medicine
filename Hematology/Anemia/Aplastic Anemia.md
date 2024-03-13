@@ -312,5 +312,21 @@ usually resolves with delivery
 	* upregulate telomerase gene activity in vitro 
 * if a telomere gene defect is present, a 3- to 4-month trial may improve all blood counts 
 ## Supportive care 
-* 
+* Infection with severe neutropenia manage with parenteral, broad spectrum antibiotic aggressively
+	* empirical and must not await results of culture,
+	* specific foci of infection such as oropharyngeal or anorectal abscesses, pneumonia, sinusitis, and typhlitis (necrotizing colitis) should be sought on physical examination and with radiographic studies.
+	* If indwelling plastic catheters infected add ***Vancomycin*** 
+	* Persistent or recrudescent fever after multiple rounds of antibiotic implies fungal disease
+		* Candida and Aspergillus are common
+		* Development of better antifungals has improved prognosis 
+	* Granulocyte transfusions effective when bacterial or fungal infection is progressive or refractory to antibiotics. 
+	* Hand washing, the single best method of preventing the spread of infection
+	* Nonabsorbed antibiotics for gut decontamination are poorly tolerated and unproven
+	* Reverse isolation does not improve outcome 
+* Maintain RBC and platelet by transfusion 
+	* reducing alloimmunisation
+		* single donors 
+		* leukocyte dimnishing 
+		* HLA matched platelet 
+	* Inhibitors of fibrinolysis such as aminocaproic acid
 
