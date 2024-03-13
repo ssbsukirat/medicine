@@ -43,3 +43,15 @@
 	* transient aplastic crisis 
 	* temporary abrupt worsening of anemia due to failed erythropoiesis 
 * Infection resolved by neutralising antibodies to virus 
+	* fails in immunocompromised so may persist 
+* Bone marrow shows red cell aplasia with ***giant pronormoblasts(cytopathic sign of parvovirus b19)*** 
+* uses erythrocyte P antigen for entry 
+* skin and joint manifestations mediated by immune complex deposition 
+
+# Treatment 
+* Thymoma by radiological studies 
+	* excision is indicated 
+	* excision does not always improve anemia 
+* parvovirus 
+	* viral DNA detection 
+	* IgG and IgM absent mostly 
