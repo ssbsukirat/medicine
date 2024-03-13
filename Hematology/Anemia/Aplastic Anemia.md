@@ -237,5 +237,11 @@ usually resolves with delivery
 * Mutations like ASXL1 and DNMT3A show worse prognosis and clonal evolution 
 
 # Treatment 
-* 
+* replacement of the absent hematopoietic cells (and the immune system) by stem cell transplant
+* ameliorated by suppression of the immune system to allow recovery of the patient’s residual bone marrow function 
+* Glucocorticoids are not of value as primary therapy. 
+* Suspect exposures to drugs or chemicals should be discontinued 
+* spontaneous recovery of severe blood count depression is rarely 
+* waiting period before beginning treatment not  advisable unless the blood counts are only modestly depressed.
+## Hematopoietic stemm 
 
