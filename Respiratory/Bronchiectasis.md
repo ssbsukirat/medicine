@@ -32,6 +32,7 @@
 		* include tracheobronchomegaly (Mounier-Kuhn syndrome) 
 		* Williams-Campbell syndrome.
 * 25-30% have idiopathic disease with no clear etiology 
+* ***Traction*** bronchiectasis refers to dilated airways arising from parenchymal distortion as a result of lung fibrosis (e.g., postradiation fibrosis or idiopathic pulmonary fibrosis).
 * ![[bronchiectasis-etiology.png]]
 
 # Epidemiology 
@@ -62,4 +63,28 @@
 * noninfectious bronchiectasis 
 	* include immune-mediated reactions that damage the bronchial wall 
 	* associated with systemic autoimmune conditions such as Sjögren’s syndrome and rheumatoid arthritis 
-* 
+
+# Clinical manifestations 
+* persistent productive cough with ongoing production of thick, tenacious sputum. is most common 
+* crackles and wheezing on lung auscultation 
+* some patients with bronchiectasis exhibit clubbing of the digits. 
+* Mild to moderate airflow obstruction often is detected on pulmonary function tests, overlapping with others like COPD 
+* Acute exacerbations
+	* changes in the nature of sputum production, with increased volume and purulence
+	* Typical signs and symptoms of infection like fever and infiltrates may not be present 
+
+# Diagnosis 
+* persistent chronic cough and sputum production accompanied by consistent radiographic features.
+* CXRAY
+	* lack sensitivity 
+	* presence of “tram tracks” indicating dilated airways is consistent with bronchiectasis 
+* CT CHEST 
+	* More specific 
+	* Imaging of choice 
+	* airway dilation 
+		* detected as parallel “tram tracks” or 
+		* as the “signet-ring sign”—a cross-sectional area of the airway with a diameter at least 1.5 times that of the adjacent vessel 
+	* lack of bronchial tapering (including the presence of tubular structures within 1 cm from the pleural surface), 
+	* bronchial wall thickening in dilated airways, 
+	* inspissated secretions (e.g., the “tree-in-bud” pattern)
+	* cysts emanating from the bronchial wall (especially pronounced in cystic bronchiectasis)
