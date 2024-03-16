@@ -88,3 +88,21 @@
 	* bronchial wall thickening in dilated airways, 
 	* inspissated secretions (e.g., the “tree-in-bud” pattern)
 	* cysts emanating from the bronchial wall (especially pronounced in cystic bronchiectasis)
+
+# Approach to patient 
+* elicitation of a clinical history, chest imaging, and a workup to determine the underlying etiology. 
+* Evaluation of ***focal*** bronchiectasis almost always requires ***bronchoscopy*** to exclude airway obstruction by an underlying ***mass*** or foreign body
+* If diffuse look for other etiologies especially CF 
+
+# Treatment 
+* directed at the control of active infection and improvements in secretion clearance and 
+* bronchial hygiene so as to decrease the microbial load
+* Minimize risk of repeated infection 
+
+## Antibiotic 
+* Target causative or presumed pathogen 
+* Haemophilus influenzae and P. aeruginosa isolated commonly 
+* 7-10 days in acute exacerbations upto 14 days 
+* MAC 
+	* diagnostic criteria for true clinical infection with NTM should be considered in patients with symptoms and radiographic findings of lung disease who have at least two sputum samples positive on culture; at least one bronchoalveolar lavage (BAL) fluid sample positive on culture; a biopsy sample displaying histopathologic features of NTM infection (e.g., granuloma or a positive stain for acid-fast bacilli) along with one positive sputum culture; or a pleural fluid sample (or a sample from another sterile extrapulmonary site) positive on culture.
+	* HIV negative MAC treat with macrolide and ri
