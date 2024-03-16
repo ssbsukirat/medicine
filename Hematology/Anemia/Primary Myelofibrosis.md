@@ -72,5 +72,24 @@
 	* +/- role in pathogenesis 
 * Cytogenetic 
 	* rule out CML 
-	* Prognosis purp
+	* Prognosis purpose
+		* development of complex karyotype abnormalities portends a poor prognosis in PMF
+	* CD34+ is increased  >15000/uL compared to other MPN 
+* JAK2 V617F 
+	* 55% 
+	* Older patients 
+	* higher HB and hematocrit 
+* MPL 
+	* 4% 
+	* Anemic than JAK2
+	* lower leukocyte counts 
+* CALR 
+	* somatic in exon 9
+	* Deletion (type 1) or insertion (type 2)
+	* Majority who lack JAK2 or MPL
+	* Type 1 more common 
+		* survival advantages 
+* No driver mutation has worst prognosis 
+* ![[myelofibroprognosis.png]]
+
 
