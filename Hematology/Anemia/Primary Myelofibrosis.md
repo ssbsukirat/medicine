@@ -24,5 +24,6 @@
 * Marrow angiogenesis due to VEGF 
 * Fibroblasts are polyclonal and not part of neoplastic clone 
 * ![[myelofibrosisetiology.png]]
-# Clinical Feat
+# Clinical Features 
+* 
 
