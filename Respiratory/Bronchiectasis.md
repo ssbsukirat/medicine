@@ -125,4 +125,21 @@
 * ABPA also give long course of ***Itraconazole***
 ## Refractory cases 
 * Surgery with focal resection of suppuration
-* Lung rt
+* Lung transplant in advance cases 
+
+# Complications 
+* microbial resistance to antibiotics 
+* Antimicrobial toxicity 
+* Superficial mucosal vessel injury due to infection causing bleeding and life threatening hemoptysis 
+
+# Prognosis 
+* Depends on underlying etiology and comorbidities 
+* Frequency of exacerbations and pathogen involved 
+* P. aeruginosa has worse prognosis 
+
+# Prevention 
+* Smoking cessation 
+* reverse immunodeficient state 
+* Vaccination for influenza  and pneumococcal 
+* if >3 episode per year 
+	* suppressive antibiotics to mini mize the microbial load and reduce the frequency of exacerbations
