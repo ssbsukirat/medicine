@@ -22,6 +22,22 @@
 	* usually has its source in ***chronic recurrent aspiration*** (e.g., due to esophageal motility disorders like those in scleroderma),
 	* end-stage ***fibrotic lung disease*** (e.g., traction bronchiectasis from idiopathic pulmonary fibrosis), 
 	* or ***recurrent immunodeficiency-associated associated infections*** (e.g., hypogammaglobulinemia)
-* Midlung fields 
+* ***Midlung*** fields 
 	* Non-tubercular mycobacteria 
-	* Mycobacterium avium-intracellulare complex 
+	* Mycobacterium avium-intracellulare complex (***MAC***) is most common 
+	* Congenital ***dyskinetic/ immotile cilia syndrome***
+* ***Central*** airways
+	* association with allergic bronchopulmonary aspergillosis (***ABPA***), in which an immune-mediated reaction to Aspergillus damages the bronchial wall 
+	* Congenital cartilage deficiency 
+		* include tracheobronchomegaly (Mounier-Kuhn syndrome) 
+		* Williams-Campbell syndrome.
+* 25-30% have idiopathic disease with no clear etiology 
+
+# Epidemiology 
+* patients with CF develop clinical bronchiectasis in late adolescence or early adulthood
+* atypical presentations of CF in adults in their thirties and forties are also possible.
+* MAC infection classically affects nonsmoking women >50 years of age
+* Incidence increases with age 
+* F > M
+* May be co-diagnosed with COPD or asthma 
+* 
