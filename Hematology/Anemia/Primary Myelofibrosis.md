@@ -25,5 +25,10 @@
 * Fibroblasts are polyclonal and not part of neoplastic clone 
 * ![[myelofibrosisetiology.png]]
 # Clinical Features 
-* 
+* No specific signs or symptoms 
+* Many are asymptomatic at presentation 
+* often detected by the discovery of splenic enlargement and/or abnormal blood counts during a routine examination
+* night sweats, fatigue, and weight loss are common
+* PBF will show the characteristic features of ***extramedullary hematopoiesis:*** teardrop-shaped red cells, nucleated red cells, myelocytes, and promyelocytes; myeloblasts may also be present
+* Anemia, usuall
 
