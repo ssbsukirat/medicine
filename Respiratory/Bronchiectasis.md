@@ -142,4 +142,17 @@
 * reverse immunodeficient state 
 * Vaccination for influenza  and pneumococcal 
 * if >3 episode per year 
-	* suppressive antibiotics to mini mize the microbial load and reduce the frequency of exacerbations
+	* suppressive antibiotics to minimize the microbial load and reduce the frequency of exacerbations
+	
+* Suppressive strategies 
+	* administration of an oral antibiotic (e.g., ciprofloxacin) daily for 1–2 weeks per month 
+	* use of a rotating schedule of oral antibiotics (to minimize the risk of development of drug resistance)
+	* administration of a macrolide antibiotic daily or three times per week
+		* benefit related to non-antimicrobial properties, such as anti-inflammatory effects and reduction of gram-negative bacillary biofilms
+		* 6-12 month course useful 
+		* more risk of NTM 
+		* rule out 
+			* NTM infection
+			* QT prolongation 
+	* inhalation of aerosolized antibiotics (e.g., tobramycin inhalation solution) for select patients on a rotating schedule (e.g., 30 days on, 30 days off), with the goal of decreasing the microbial load without eliciting the side effects of systemic drug administration;
+	* intermittent administration of IV antibiotics (e.g., “clean-outs”) for severe disease or resistant pathogen 
