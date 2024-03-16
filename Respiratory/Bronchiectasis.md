@@ -44,3 +44,6 @@
 * tuberculosis is prevalent, bronchiectasis occurs as a sequela of granulomatous infection
 	* ***Focal*** bronchiectasis from ***extrinsic*** compression by enlarged granulomatous lymph nodes and/or from ***intrinsic*** obstruction as a result of erosion of a calcified lymph node through the airway wall (e.g., broncholithiasis)
 	* reactivated tuberculosis, parenchymal destruction from infection can result in areas of more ***diffuse*** bronchiectasis.
+
+# Pathogenesis 
+* most accepted is ***Vicious cycle hypothesis***
