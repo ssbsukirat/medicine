@@ -47,3 +47,19 @@
 
 # Pathogenesis 
 * most accepted is ***Vicious cycle hypothesis***
+	* susceptibility to infection and poor mucociliary clearance result in microbial colonization of the bronchial tree.
+	* Pseudomonas aeruginosa, exhibit a particular propensity for colonizing damaged airways and evading host defense mechanisms
+* Impaired mucociliary clearance 
+	* inherited conditions such as CF or dyskinetic cilia syndrome 
+	* Single severe infection (eg pneumonia caused by Bordetella pertussis or Mycoplasma pneumoniae) can cause airway damage and poor secretion clearance 
+	* bacterial mediators
+* microbes incites continued chronic inflammation, with consequent damage to the airway wall, continued impairment of secretions and microbial clearance, and ongoing propagation of the ***infectious/ inflammatory cycle***
+* Pathology 
+	* significant small-airway wall inflammation and larger-airway wall destruction as well as dilation, with loss of elastin, smooth muscle, and cartilage 
+	* cells in the small airways release proteases and other mediators, such as reactive oxygen species and proinflammatory cytokines, which cause damage 
+* Inflammation causes small airway obstruction 
+* α1 antitrypsin deficiency. loses protective action 
+* noninfectious bronchiectasis 
+	* include immune-mediated reactions that damage the bronchial wall 
+	* associated with systemic autoimmune conditions such as Sjögren’s syndrome and rheumatoid arthritis 
+* 
