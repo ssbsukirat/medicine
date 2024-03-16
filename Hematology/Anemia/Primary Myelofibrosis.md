@@ -52,5 +52,25 @@
 * Splenomegaly maybe rapid and cause splenic infarct, fever and pleuritic chest pain 
 
 # Diagnosis 
-* 
+* Diagnosis of exclusion 
+* rule out disorders causing myelofibrosis 
+* Overlap with CML, PV
+* Extramedullary hematopoiesis established by 
+	* teardrop-shaped red cells 
+	* nucleated red cells, 
+	* myelocytes, and promyelocytes
+* MPN established by (not secondary cause)
+	* presence of leukocytosis,
+	* thrombocytosis with large and bizarre platelets 
+	* circulating myelocytes
+* Marrow inaspirable but biopsy 
+	* hypercellular marrow with trilineage hyperplasia 
+	* increased numbers of megakaryocytes in clusters and with large, dysplastic nuclei.
+	* Cannot distinguish from other MPN based on marrow 
+* Immune abnormalities 
+	* immune complexes, antinuclear antibodies, rheumatoid factor, or a positive Coombs’ test
+	* +/- role in pathogenesis 
+* Cytogenetic 
+	* rule out CML 
+	* Prognosis purp
 
