@@ -105,4 +105,24 @@
 * 7-10 days in acute exacerbations upto 14 days 
 * MAC 
 	* diagnostic criteria for true clinical infection with NTM should be considered in patients with symptoms and radiographic findings of lung disease who have at least two sputum samples positive on culture; at least one bronchoalveolar lavage (BAL) fluid sample positive on culture; a biopsy sample displaying histopathologic features of NTM infection (e.g., granuloma or a positive stain for acid-fast bacilli) along with one positive sputum culture; or a pleural fluid sample (or a sample from another sterile extrapulmonary site) positive on culture.
-	* HIV negative MAC treat with macrolide and ri
+	* HIV negative MAC treat with macrolide and rifampin and ethambutol
+
+## Bronchial Hygiene 
+* hydration and mucolytic administration 
+* aerosolization of bronchodilators and hyperosmolar agents (e.g., hypertonic saline)
+* chest physiotherapy 
+	* postural drainage,
+	* traditional mechanical chest percussion via hand clapping to the chest, or 
+	* use of devices such as an oscillatory positive expiratory pressure flutter valve or a high-frequency chest wall oscillation vest)
+* mucolytic ***dornase*** (DNase) is recommended routinely in CF-related bronchiectasis but not in non-CF bronchiectasis
+## Anti-inflammatory therapy 
+* small-scale trials have yielded evidence of alleviated dyspnea, decreased need for inhaled β-agonists, and reduced sputum production with ***inhaled glucocorticoids***
+* No difference in lung function or exacerbations 
+* Risks of immunosuppression and adrenal suppression
+* Anti inflammatory oral or inhaled glucocorticoids 
+	* ABPA 
+	* Active autoimmune cause 
+* ABPA also give long course of ***Itraconazole***
+## Refractory cases 
+* Surgery with focal resection of suppuration
+* Lung rt
