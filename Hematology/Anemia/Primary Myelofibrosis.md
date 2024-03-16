@@ -30,5 +30,27 @@
 * often detected by the discovery of splenic enlargement and/or abnormal blood counts during a routine examination
 * night sweats, fatigue, and weight loss are common
 * PBF will show the characteristic features of ***extramedullary hematopoiesis:*** teardrop-shaped red cells, nucleated red cells, myelocytes, and promyelocytes; myeloblasts may also be present
-* Anemia, usuall
+* Anemia, usually mild initially is common 
+* WBC, Platelets 
+	* usually normal or slight increased 
+	* either may be depressed
+* Mild hepatomegaly
+	* only with splenomegaly 
+	* not isolated usually 
+* Single LN+ should prompt other diagnosis 
+* LDH and ALP maybe elevated 
+* Marrow inaspirable
+* Bone xray Osteosclerosis 
+* Extramedullary hematopoiesis may cause 
+	* ascites
+	* portal or pulmonary or intracranial HTN 
+	* Intestine or ureter obstruction
+	* pericardial tamponade 
+	* spinal cord compression
+	* skin nodules
+* Hyperuricemia and secondary gout 
+* Splenomegaly maybe rapid and cause splenic infarct, fever and pleuritic chest pain 
+
+# Diagnosis 
+* 
 
