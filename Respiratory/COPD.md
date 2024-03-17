@@ -32,4 +32,7 @@
 * Elastin is principle component of elastic fibres and highly stable, crucial to integrity of lung 
 * ***elastase:antielastase hypothesis***
 	* the balance of elastin-degrading enzymes and their inhibitors determines the susceptibility of the lung to destruction, resulting in air space enlargement
-	* Based on genetic deficiency in α1 antitrypsin (α1AT), the inhibitor of the serine proteinase neutrophil elastase, were at increased risk of emphysema, and that instillation of elastases, including neutrophil elastase, into experimental animals results in emphysema
+	* Based on genetic deficiency in α1 antitrypsin (***α1AT***), the inhibitor of the serine proteinase neutrophil elastase, were at increased risk of emphysema, and that instillation of elastases, including neutrophil elastase, into experimental animals results in emphysema
+* complex network of immune and inflammatory cells and additional biological mechanisms that contribute to emphysema have subsequently been identified
+* ![[COPDpathogen.png]]
+* Autoimmune mechanism may promote progression of disease 
