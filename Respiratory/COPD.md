@@ -279,5 +279,22 @@
 * ![[COPDABCD.png]]
 ## Pharmacotherapy 
 ### Smoking Cessation 
-* 
+* Significant improvement 
+* Lowers rate of decline to that of non smokers 
+* combine pharma with supportive 
+* pharma 
+	* nicotine replacement 
+		* gum 
+		* lozenge 
+		* patch 
+		* inhaler, nasal spray 
+	* bupropion 
+	* varenicline 
+		* nicotinic acid receptor agonist/antagonist 
+* all should be offered pharmacotherapy if nonpregnant and no contraindication 
+### Bronchodilators 
+* primary treatment 
+* symptomatic benefit and reduce exacerbations 
+* inhaled as side effects low 
+* both long-acting and short-acting 
 
