@@ -109,4 +109,6 @@
 ## Hyperinflation 
 * "air trapping"
 	* increased residual volume 
-	* increased 
+	* increased ratio of residual to total lung volume 
+* Progressive hyperinflation ( increased TLC )
+* 
