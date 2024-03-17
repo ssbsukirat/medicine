@@ -266,8 +266,8 @@
 * suggested testing for α AT deficiency 
 * definitive diagnosis of α1AT deficiency requires PI type determination
 
-# Treatment 
-## Stable phase 
+
+# Stable phase treatment  
 * provide symptomatic relief 
 	* reduce respiratory symptoms, 
 	* improve exercise tolerance
@@ -369,5 +369,21 @@
 	* postrehabilitation exercise capacity (low better )
 * contraindication 
 	* FEV1 <20% of predicted and either diffusely distributed emphysema on CT scan or diffusing capacity of lung for carbon monoxide (DlCO) <20% of predicted 
-* 
+* Bronchoscopic methods also approved now 
+### Lung transplant 
+* 2nd leading indication 
+* severe airflow obstruction, severe disability despite maxi- mal medical therapy, and be free of significant comorbid conditions such as liver, renal, or cardiac disease.
+
+# Exacerbations Treatment 
+* part of natural history 
+* episodic acute worsening of respiratory symptoms, including increased dyspnea, cough, wheezing, and/ or change in the amount and character of sputum
+* best predictor 
+	* history of a previous exacerbations 
+* exacerbations increases as airflow obstruction worsens; 
+	* patients with severe (FEV <50% predicted) or very severe airflow obstruction (FEV1 <30% predicted) on average have 1–3 episodes per year
+* other factors 
+	* elevated ratio of the diameter of the pulmonary artery to aorta on chest CT 
+	* gastroesophageal reflux 
+## Precipitating causes 
+
 
