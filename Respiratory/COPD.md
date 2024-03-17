@@ -198,5 +198,20 @@
 * In chronic smokers, CT changes maybe present without spirometry change 
 	* emphysema-predominant pattern show emphysema early and classically progress through GOLD 1 to GOLD 2–4
 	* airway disease–predominant pattern initial evidence of airway inflammation and progress with little emphysema early as FEV1 falls while retaining a ***normal FEV1/FVC ratio***
-		* 
+		* preserved ratio–impaired spirometry (***PRISm***) physiology
+		* Late emphysema 
+		* direct to GOLD 3/4 
+
+# Clinical presentation 
+## History 
+* symptoms 
+	* cough, 
+	* sputum production 
+	* exertional dyspnea
+		* increased effort to breathe, heaviness, air hunger, or gasping
+		* insidious onset 
+		* seek history of physical activity and ability to perform 
+		* arm work, at or above shoulde
+* exists for years before seeking medical attention
+* Progressive but patients date it to a infection in past while history will give evidence of prior respiratory symptoms 
 
