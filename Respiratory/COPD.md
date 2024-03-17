@@ -454,6 +454,14 @@
 * may modest increase in paco2
 	* alters V/Q ratio 
 ### Mechanical ventilation 
-* 
+* NIPPV 
+	* paco2 >45 
+	* significant reduction in mortality rate, need for intubation, complications of therapy, and hospital length of stay.
+	* C/I 
+		* cardiovascular instability, impaired mental status, inability to cooperate, copious secretions or the inability to clear secretions, craniofacial abnormalities or trauma precluding effective fitting of mask, extreme obesity, or significant burdens...in 
+* Invasive 
+	* severe respiratory distress despite initial therapy, life-threatening hypoxemia, severe hypercarbia and/or acidosis, markedly impaired mental status, respiratory arrest, hemodynamic instability, or other complications 
+* need to provide sufficient expiratory time in patients with severe airflow obstruction 
+* presence of auto-PEEP (positive end-expiratory pressure), which can result in patients having to generate significant respiratory effort to trigger a breath during a demand mode of ventilation
 
 
