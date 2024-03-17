@@ -36,3 +36,9 @@
 * complex network of immune and inflammatory cells and additional biological mechanisms that contribute to emphysema have subsequently been identified
 * ![[COPDpathogen.png]]
 * Autoimmune mechanism may promote progression of disease 
+* In end-stage lung disease, long after smoking cessation, there remains an exuberant inflammatory cells suggesting that cigarette smoke–induced inflammation both initiates the disease and, in susceptible individuals, establishes a chronic process that can continue disease progression even after smoking cessation. 
+* Cell Death 
+	* variety of mechanism 
+		* ceramide production 
+		* Rtp801 inhibition of mTOR 
+	* Emphysema is premature aging of lung 
