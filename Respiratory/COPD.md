@@ -347,5 +347,27 @@
 * resting hypoxemia 
 	* resting O2 saturation ≤88% in any patient 
 	* ≤89% with signs of pulmonary arterial hypertension, right heart failure or erythrocytosis
-* benefit prop
+* benefit proportional to hours of o2 per day 
+###  α1AT Augmentation Therapy
+* IV 
+* severe deficiency 
+* recommend hepatitis B vaccination prior to starting augmentation therapy 
+* not recommended for severely α1AT-deficient per- sons with normal pulmonary function and a normal chest CT scan.
+## NON PHARMACOLOGICAL 
+* influenza vaccine annual 
+* pneumococcal vaccine 
+* bordetella pertusis vaccine 
+### Pulmonary rehab
+* incorporates 
+	* exercise, education, and psychosocial and nutritional counseling
+* improve health-related quality of life, dyspnea, and exercise capacity. 
+* reduce rates of hospitalization over a 6- to 12-month period
+### Lung volume reduction surgery 
+* remove the most emphysematous portions of lung improves exercise capacity, lung function, and survival.
+* prognosis 
+	* anatomic distribution of emphysema (upper lobe better)
+	* postrehabilitation exercise capacity (low better )
+* contraindication 
+	* FEV1 <20% of predicted and either diffusely distributed emphysema on CT scan or diffusing capacity of lung for carbon monoxide (DlCO) <20% of predicted 
+* 
 
