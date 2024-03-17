@@ -65,4 +65,20 @@
 
 ## large airway 
 * smoking causes mucus gland enlargement  and goblet cell hyperplasia (in number and extent) --> cough and mucus production --> chronic bronchitis 
-* Squamous metaplasia of bronchi --> carcinogenesis risk + 
+* Squamous metaplasia of bronchi --> carcinogenesis risk + mucociliary clearance disrupted 
+* smooth muscle hypertrophy + bronchial hypersensitivity leading to obstruction 
+* Neutrophil influx causes purulent sputum during respiratory tract infections
+* neutrophil elastase is among the most potent secretagogue 
+## Small airway (<_ 2mm)
+* major site of increased resistance 
+* goblet cell metaplasia, with these mucus-secreting cells replacing surfactant-secreting Club cells 
+* Smooth-muscle hypertrophy 
+* Luminal narrowing by 
+	* fibrosis, 
+	* excess mucus, 
+	* edema, 
+	* cellular infiltration 
+	* reduced surfactant increasing surface tension
+* Narrowing and drop-out of small airways before emphysematous destruction 
+## Lung parenchyma 
+* destruction of gas-exchanging air spaces, i.e., the respiratory bronchioles, alveolar ducts, and alveoli
