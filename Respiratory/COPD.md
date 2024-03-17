@@ -241,5 +241,7 @@
 * cor pulmonale or sign of RHF infrequent due to supplemental O2 
 * Clubbing is ***NOT SEEN***, must evaluate for lung cancer 
 ## Laboratory findings 
-* 
+* PFT shows airflow obstruction with a reduction in FEV1 and FEV1/FVC 
+* as worsens 
+	* lung volumes may increase, resulting in an increase in total lung capacity (T, functional residual capacity, and residual volume
 
