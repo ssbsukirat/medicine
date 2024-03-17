@@ -128,4 +128,15 @@
 
 # Risk Factor 
 ## Cigarette smoking 
+* accelerated decline in FEV1 in a dose-response relationship to the intensity of cigarette smoking 
+	* accounts for higher prevalence rates of COPD with increasing age
+* typically expressed as pack-years 
+	* average number of packs of cigarettes smoked per day multiplied by the total number of years of smoking 
+* considerable individual variability in the response to smoking. 
+* Pack-years of cigarette smoking is the most highly significant predictor of FEV1 (but only 15% impact explained)
+* dditional environmental and/ or genetic factors contribute to the impact of smoking
+* even if smoker has normal spirometry 
+	* worse health-related quality of life,
+	* reduced exercise capacity,
+	* emphysema and/or airway disease on chest CT evaluation
 * 
