@@ -277,5 +277,7 @@
 	* prevent and treat exacerbations, 
 	* reduce mortality 
 * ![[COPDABCD.png]]
+## Pharmacotherapy 
+### Smoking Cessation 
 * 
 
