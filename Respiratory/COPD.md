@@ -297,4 +297,13 @@
 * symptomatic benefit and reduce exacerbations 
 * inhaled as side effects low 
 * both long-acting and short-acting 
+### Muscarinic antagonists 
+* Short-acting ipratropium bromide improves symptoms and acute FEV1 
+* LAMA 
+	* aclinidium, glycopyrrolate, glycopyrronium, revefenacin, tiotropium, umeclinidium 
+	* reduced mortality in tiotropium 
+* dry mouth is most common side effects 
+### Beta agonists 
+* Short-acting reduced symptoms 
+* LABAs provide less benefit than LAMA 
 
