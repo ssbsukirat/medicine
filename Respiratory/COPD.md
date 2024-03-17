@@ -259,5 +259,23 @@
 * high hematocrit and signs of right heart failure suggests chronic hypoxemia
 * CXR 
 	* Obvious bullae, paucity of parenchymal markings, or hyperlucency suggest emphysema 
+* CT is imaging of choice 
+	* type and presence of emphysema 
+	* rule out malignancy 
+	* identify surgical target 
+* suggested testing for α AT deficiency 
+* definitive diagnosis of α1AT deficiency requires PI type determination
+
+# Treatment 
+## Stable phase 
+* provide symptomatic relief 
+	* reduce respiratory symptoms, 
+	* improve exercise tolerance
+	* improve health status 
+* reduce future risk 
+	* prevent disease progression, 
+	* prevent and treat exacerbations, 
+	* reduce mortality 
+* ![[COPDABCD.png]]
 * 
 
