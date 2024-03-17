@@ -385,5 +385,31 @@
 	* elevated ratio of the diameter of the pulmonary artery to aorta on chest CT 
 	* gastroesophageal reflux 
 ## Precipitating causes 
+* New strain of bacteria 
+* bacterial infections/ superinfection causes >50% exacerbations 
+* viral in 30% 
+## Patient assessment 
+* Establish severity of exacerbations and COPD both 
+* quantification of the degree and change in dyspnea 
+	* asking about breathlessness during activities of daily living and typical activities for the patient
+	* fever; change in character of sputum; and associated symptoms such as wheezing, nausea, vomiting, diarrhea, myalgias, and chills.
+* Physical to assess degree of distress 
+	* tachycardia, 
+	* tachypnea, 
+	* use of accessory muscles, 
+	* signs of perioral or peripheral cyanosis, 
+	* ability to speak in complete sentences 
+	* patient’s mental status
+* Chest 
+	* focal findings 
+	* air movement 
+	* wheeze 
+	* asymmetry in chest 
+		* large airway 
+		* pneumothorax mimicking exacerbations 
+	* paradox motion of chest wall 
+* CXRay 
+	* severe COPD 
+	* moderate or severe distress 
 
 
