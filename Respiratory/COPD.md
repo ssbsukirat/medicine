@@ -184,4 +184,11 @@
 	* Familial aggregation of airflow obstruction within families of COPD patients has also been demonstrated 
 	* >80 regions of the genome contain COPD susceptibility loci
 	* HHIP on chromosome 4
-	* 
+
+# Natural History 
+* effect of smoking depends on 
+	* intensity of smoking exposure, 
+	* the timing of smoking exposure during growth and development 
+	* baseline lung function of the individual
+* Tracking of pulmonary function ++ 
+* 
