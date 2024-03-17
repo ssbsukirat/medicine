@@ -408,8 +408,32 @@
 		* large airway 
 		* pneumothorax mimicking exacerbations 
 	* paradox motion of chest wall 
-* CXRay 
+* CXRay / CT 
 	* severe COPD 
 	* moderate or severe distress 
+	* focal findings 
+* ABG 
+	* advanced COPD 
+	* history of hypercarbia 
+	* mental status changes 
+	* significant distress 
+* PFT not useful in exacerbations 
+* consider PE 
+* Inpatient 
+	* presence of respiratory acidosis and hypercarbia, 
+	* new or worsening hypoxemia, 
+	* severe underlying disease 
+	* those whose living situation is not conducive to careful observation and treatment 
+## management 
+### Bronchodilators 
+* inhaled beta agonist and muscarinic antagonists 
+* initially with nebuliser 
+* conversion to MDI is effective 
+* MDI reduce costs and inpatient burden 
+* +/- theophylline 
+	* if added monitor serum levels 
+### Antibiotic 
+* difficult to establish specific species 
+* 
 
 
