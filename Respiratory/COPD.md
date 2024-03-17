@@ -146,4 +146,24 @@
 * Many patients share responsiveness with asthma 
 * considerable overlap between persons with a history of chronic asthma and smokers with COPD in older subjects specially 
 * share common environmental and genetic factors and the chronic form in older subjects can present similarly.
+* increased airway responsiveness is clearly a significant predictor of subsequent decline in pulmonary function 
+
+## Respiratory infections 
+* significant long-term reductions in pul- monary function are not typically seen following an individual episode of acute bronchitis or pneumonia 
+* respiratory infections are important causes of COPD exacerbations 
+* COPDGene and ECLIPSE studies suggest that COPD exacerbations are associated with increased loss of lung function longitudinally,(particularly among those individuals with better baseline lung function levels)
+## occupation exposure 
+* exposure to dust and fumes
+* Specific exposure 
+	* coal mining, 
+	* gold mining 
+	* cotton textile dust
+* coal mine dust exposure was a significant risk factor for emphysema in both smokers and nonsmokers
+* less important than cigarette 
+## Ambient air pollution
+* urban compared to rural areas, more respiratory symptoms 
+* relationship unproven 
+* smoke produced by biomass combustion in cooking is seen in women 
+## passive or second hand smoking 
+* maternal smoking results in significantly reduced lung growth 
 * 
