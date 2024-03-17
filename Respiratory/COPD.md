@@ -139,4 +139,11 @@
 	* worse health-related quality of life,
 	* reduced exercise capacity,
 	* emphysema and/or airway disease on chest CT evaluation
+* Cigar and pipe less compelling evidence 
+	* related to the lower dose of inhaled tobacco by-products
+
+## Airway responsiveness 
+* Many patients share responsiveness with asthma 
+* considerable overlap between persons with a history of chronic asthma and smokers with COPD in older subjects specially 
+* share common environmental and genetic factors and the chronic form in older subjects can present similarly.
 * 
