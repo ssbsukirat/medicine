@@ -81,4 +81,32 @@
 	* reduced surfactant increasing surface tension
 * Narrowing and drop-out of small airways before emphysematous destruction 
 ## Lung parenchyma 
-* destruction of gas-exchanging air spaces, i.e., the respiratory bronchioles, alveolar ducts, and alveoli
+* destruction of gas-exchanging air spaces 
+	* respiratory bronchioles, 
+	* alveolar ducts,
+	* alveoli
+* alveolar spaces in smokers have 
+	* macrophage 
+	* neutrophil 
+	* B & T lymphos 
+	* CD8+
+* Emphysema types 
+	* centrilobular 
+		* m/c with smoke 
+		* initially close to respiratory bronchioles 
+		* upper lobe and superior segment of lower 
+		* focal 
+	* panlobular 
+		* evenly within and across acinar units 
+		* α1AT deficiency,
+		* lower lobes 
+	* paraseptal 
+		* pleural margins 
+		* 10-15% 
+		* sparing of core and central regions 
+* ![[COPDemphysematypes.png]]
+
+## Hyperinflation 
+* "air trapping"
+	* increased residual volume 
+	* increased 
