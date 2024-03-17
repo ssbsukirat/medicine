@@ -306,4 +306,23 @@
 ### Beta agonists 
 * Short-acting reduced symptoms 
 * LABAs provide less benefit than LAMA 
+* LABAs --> arformetrol, formetrol, indacaterol, olodaterol, salmetrol, vilanterol 
+* Tremor and tachycardia 
+### Beta agonist-Muscarinic antagonist combination 
+* greater benefit than either alone 
+### inhaled corticosteroids 
+* mainly reduce exacerbations 
+* no benefit in eosinophilic count <100 
+* never use alone but with LABA or LAMA 
+* increased oropharyngeal candida and pneumonia , increased loss of bone and cataracts 
+* trial in patients with frequent exacerbations (>2 per year or 1 causing hospitalization) 
+* stable without exacerbations consider withdraw 
+* if smoking +, benefit is low 
+### oral glucocorticoids 
+* not recommended 
+* unfavourable side effect to benefit ratio 
+* side effects 
+	* osteoporosis 
+	* weigh gain 
+	* catar
 
