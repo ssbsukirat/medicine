@@ -434,6 +434,26 @@
 	* if added monitor serum levels 
 ### Antibiotic 
 * difficult to establish specific species 
+* includes 
+	* Streptococcus pneumoniae
+	* Haemophilus influenzae 
+	* Moraxella catarrhalis 
+	* Chlamydia pneumoniae 
+	* viral pathogens
+* decide on local patterns 
+* moderate to severe exacerbations give antibiotic 
+### systemic glucocorticoids
+* reduce length of stay 
+* also lower relapse 
+* 2 weeks vs 8 weeks results similar 
+* 30-40 mg oral prednisolone for 5-10 days outpatient 
+* hyperglycemia is complication
+### oxygen 
+* maintain saturation >90% 
+* supplemental o2 does not reduce minute ventilation 
+* may modest increase in paco2
+	* alters V/Q ratio 
+### Mechanical ventilation 
 * 
 
 
