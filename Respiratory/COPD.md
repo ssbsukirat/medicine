@@ -210,8 +210,21 @@
 	* exertional dyspnea
 		* increased effort to breathe, heaviness, air hunger, or gasping
 		* insidious onset 
+		* worsening such that in late stages, day to day activity impacted 
 		* seek history of physical activity and ability to perform 
-		* arm work, at or above shoulde
+		* arm work, at or above shoulder level is difficult 
+		* activity allowing bracing arms and using accessory respiratory muscles better tolerated (shopping cart push or treadmill walk)
 * exists for years before seeking medical attention
 * Progressive but patients date it to a infection in past while history will give evidence of prior respiratory symptoms 
+
+## Physical findings 
+* early stage have normal exam 
+* Smokers 
+	* signs of smoking 
+	* odor of smoke
+	* nicotine staining of fingernails
+* Severe disease 
+	* prolonged expiration 
+	* expiratory wheeze
+* Barrel chest, enlargement of lung and poor diaphragm excursions 
 
