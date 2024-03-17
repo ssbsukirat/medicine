@@ -324,5 +324,28 @@
 * side effects 
 	* osteoporosis 
 	* weigh gain 
-	* catar
+	* cataracts 
+	* glucose intolerance 
+	* infections 
+### Theophylline 
+* modest improvement 
+* not 1st line due to side effects and interaction 
+* nausea 
+* tachycardia tremor 
+* monitor blood levels 
+### PDE4 inhibitors 
+* Roflumilast (pde4) 
+* reduces exacerbations in severe [[COPD]] , bronchitis and history of exacerbations 
+* less benefit in lung function 
+* nausea diarrhea weight loss common 
+### Antibiotic 
+* bacterial infections precipitates most exacerbations 
+* azithromycin daily reduce exacerbations 
+* low benefit in active smokers 
+### oxygen 
+* only therapy to reduce mortality 
+* resting hypoxemia 
+	* resting O2 saturation ≤88% in any patient 
+	* ≤89% with signs of pulmonary arterial hypertension, right heart failure or erythrocytosis
+* benefit prop
 
