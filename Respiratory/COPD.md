@@ -191,4 +191,12 @@
 	* the timing of smoking exposure during growth and development 
 	* baseline lung function of the individual
 * Tracking of pulmonary function ++ 
-* 
+* FEV1 relates to risk of mortality 
+* ![[COPDtracking.png]]
+* smoking cessation at an earlier age providing a more beneficial effect than smoking cessation after marked reductions in pulmonary function have already developed
+* absolute annual loss in FEV1 tends to be highest in mild COPD and lowest in very severe COPD 
+* In chronic smokers, CT changes maybe present without spirometry change 
+	* emphysema-predominant pattern show emphysema early and classically progress through GOLD 1 to GOLD 2–4
+	* airway disease–predominant pattern initial evidence of airway inflammation and progress with little emphysema early as FEV1 falls while retaining a ***normal FEV1/FVC ratio***
+		* 
+
