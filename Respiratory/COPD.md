@@ -42,3 +42,17 @@
 		* ceramide production 
 		* Rtp801 inhibition of mTOR 
 	* Emphysema is premature aging of lung 
+	* hedgehog interacting protein (HHIP) is gene involved 
+* Ineffective repair 
+	* Limited repair ability 
+	* Cigarette smoke blocks macrophage uptake of apoptotic cells, blocking Growth factor production 
+	* Septation is responsible for alveologenesis in lung development and cannot be reinitiated 
+
+# Pathology 
+* Affects large airway, small airway (<_ 2mm) and alveoli 
+* Large airway 
+	* cough 
+	* sputum production 
+* Small and alveoli 
+	* physiological alterations 
+* airway inflammation , destruction and emphysema are present in most a 
