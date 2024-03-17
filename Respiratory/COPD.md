@@ -226,5 +226,20 @@
 * Severe disease 
 	* prolonged expiration 
 	* expiratory wheeze
-* Barrel chest, enlargement of lung and poor diaphragm excursions 
+* Barrel chest, enlargement of lung and poor diaphragm excursion (by percussion)
+* use of accessory muscles of respiration, 
+* sitting in the characteristic “tripod” position to facilitate the actions of the sternocleidomastoid, scalene, and intercostal muscles
+* Cyanosis of lips and nailbeds 
+* pink puffers (emphysema) vs blue bloaters (chronic bronchitis) not reliable nowadays 
+* Cachexia in advanced disease 
+	* weight loss and subcutaneous fat losses 
+	* low oral intake and TNF-α 
+	* independent poor prognosis 
+* Hoovers sign 
+	* paradoxical inward movement of the rib cage with inspiration 
+	* due to alteration of the vector of diaphragmatic contraction on the rib cage due to chronic hyperinflation.
+* cor pulmonale or sign of RHF infrequent due to supplemental O2 
+* Clubbing is ***NOT SEEN***, must evaluate for lung cancer 
+## Laboratory findings 
+* 
 
