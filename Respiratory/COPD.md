@@ -243,5 +243,21 @@
 ## Laboratory findings 
 * PFT shows airflow obstruction with a reduction in FEV1 and FEV1/FVC 
 * as worsens 
-	* lung volumes may increase, resulting in an increase in total lung capacity (T, functional residual capacity, and residual volume
+	* lung volumes may increase, resulting in an increase in total lung capacity (TLC) , functional residual capacity (FRC) , and residual volume(RV)
+* diffusing capacity may be reduced in emphysema due to parenchymal damage 
+* airflow obstruction generally correlates with
+	* presence and severity of respiratory symptoms,
+	* exacerbations, 
+	* emphysema,
+	* hypoxemia
+* BODE (better predictor of mortality)
+	* BMI 
+	* obstruction 
+	* Dyspnea 
+	* exercise perform 
+* ABG --> resting or exertional hypoxemia 
+* high hematocrit and signs of right heart failure suggests chronic hypoxemia
+* CXR 
+	* Obvious bullae, paucity of parenchymal markings, or hyperlucency suggest emphysema 
+* 
 
