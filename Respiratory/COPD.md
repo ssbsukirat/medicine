@@ -121,4 +121,11 @@
 * Pao2 remains normal till FEV1 < 50% 
 * Paco2 not elevated till FEV1 <25% 
 * PAH severe to cause cor pulmonale and right ventricular failure due to COPD in FEV1 (<25% of predicted) and chronic hypoxemia (Pao2 <55 mmHg)
+* Nonuniform ventilation and ventilation-perfusion mismatching 
+* multiple parenchymal compartments having different rates of ventilation due to regional differences
+* pao2 reduction due to V/Q mismatching 
+* minimal shunting 
+
+# Risk Factor 
+## Cigarette smoking 
 * 
