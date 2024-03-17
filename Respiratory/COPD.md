@@ -111,4 +111,14 @@
 	* increased residual volume 
 	* increased ratio of residual to total lung volume 
 * Progressive hyperinflation ( increased TLC )
+* preserves maximum expiratory airflow, because as lung volume increases, elastic recoil pressure increases, and airways enlarge so that airway resistance decreases 
+* Pushes diaphragm into flat position 
+	* zone of apposition reduces, positive abdominal pressure during inspiration is not applied as effectively to the chest wall, hindering rib cage movement and impairing inspiration
+	* shortens muscle fibres --> less capable of generating inspiratory pressures than normal
+	* must generate greater tension to develop the transpulmonary pressure required to produce tidal breathing
+	* thoracic cage is distended beyond its normal resting volume, the inspiratory muscles must do work to overcome the resistance of the thoracic cage
+## Gas exchange 
+* Pao2 remains normal till FEV1 < 50% 
+* Paco2 not elevated till FEV1 <25% 
+* PAH severe to cause cor pulmonale and right ventricular failure due to COPD in FEV1 (<25% of predicted) and chronic hypoxemia (Pao2 <55 mmHg)
 * 
