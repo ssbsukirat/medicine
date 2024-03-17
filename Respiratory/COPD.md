@@ -55,4 +55,14 @@
 	* sputum production 
 * Small and alveoli 
 	* physiological alterations 
-* airway inflammation , destruction and emphysema are present in most a 
+* airway inflammation , destruction and emphysema are present in most as independent process 
+* Early COPD has mostly small and medium airway disease 
+* GOLD 1/2 have almost no emphysema 
+* GOLD 3/4 have emphysema though maybe absent in some 
+* greatest risk of progression in COPD are those with both aggressive airway disease and emphysema.
+* Emphysema on CT either early or late suggests enhanced disease progression risk 
+* ![[COPDGOLD.png]]
+
+## large airway 
+* smoking causes mucus gland enlargement  and goblet cell hyperplasia (in number and extent) --> cough and mucus production --> chronic bronchitis 
+* Squamous metaplasia of bronchi --> carcinogenesis risk + 
