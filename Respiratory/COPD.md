@@ -166,4 +166,22 @@
 * smoke produced by biomass combustion in cooking is seen in women 
 ## passive or second hand smoking 
 * maternal smoking results in significantly reduced lung growth 
-* 
+* In utero, tobacco smoke exposure also contributes to significant reductions in postnatal pulmonary function 
+## Genetic 
+* development of airflow obstruction in smokers is highly variable. 
+* Severe α1AT deficiency is a proven risk factor 
+* α1 Antitrypsin Deficiency (1% of COPD)
+	* PI or SERPINA1 locus codes 
+	* M allele is normal 
+	* S is low level 
+	* Z is marked reduction 
+	* Null is absence 
+	* PiZ is most common with 2 null and one Z 
+	* develop early-onset COPD 
+	* measurement of the immunologic level of α1AT in serum 
+	* α1AT augmentation therapy is available for severe α1AT deficiency as a weekly IV infusion 
+* Others 
+	* Familial aggregation of airflow obstruction within families of COPD patients has also been demonstrated 
+	* >80 regions of the genome contain COPD susceptibility loci
+	* HHIP on chromosome 4
+	* 
