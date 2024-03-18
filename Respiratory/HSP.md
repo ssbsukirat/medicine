@@ -117,4 +117,5 @@
 * some role of glucocorticoids in subacute and chronic 
 	* long term outcome same
 	* accelerated resolution of symptoms 
-	* prednisolone at 0.5-1mg/kg
+	* prednisolone at 0.5-1mg/kg 1-2 weeks and taper for 2-6 weeks 
+* transplant in chronic with extensive fibrosis 
