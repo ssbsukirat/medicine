@@ -69,4 +69,28 @@
 	* chronic with fibrosis 
 
 ## serum preciptins
-* 
+* IgG antibodies against specific antigens 
+* adjunct to diagnosis 
+* alone is not sufficient 
+* may give false negative as all known and unknown antigens cannot be tested 
+## Bronchoscopy 
+* With BAL 
+* BAL lymphocytosis 
+	* non specific 
+	* characteristic 
+	* lower threshold in smokers 
+* CD4+/CD8+ <1 
+
+## Lung Biopsy 
+* bronchoscopic or surgical 
+* not absolutely necessary 
+* non caseating granuloma 
+	* in vicinity of small airways 
+	* loose and poorly defined (well defined in sarcoid)
+* mixed cellular infiltrates in alveoli and interstitium 
+	* patchy 
+* bronchiolitis with organising exudates 
+* fibrosis in chronic 
+## Clinical prediction rule 
+* 6 statistically significant predictors 
+* strongest 
