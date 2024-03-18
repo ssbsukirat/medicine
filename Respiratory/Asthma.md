@@ -62,4 +62,22 @@
 ### Vascular proliferation 
 * significant angiogenesis thought to be secondary to elaboration of angiogenic factors in the context of airway inflammation 
 ### Airway edema 
-### Epithelial goblet cell meta
+### Epithelial goblet cell metaplasia and mucus hypersecretion 
+* Mucus plugs can obstruct medium-size airways and can extend into the small airways 
+### neuronal proliferation 
+* Neurotrophins, which can lead to neuronal proliferation, are elaborated by smooth-muscle cells, epithelial cells, and inflammatory cells.
+* mediate acute bronchospasm and potentially chronically increased airway tone
+## Airway inflammation 
+* in most asthma 
+* earlier atopic/extrinsic vs nonatopic/intrinsic 
+* atopic 
+	* allergen sensitivity 
+	* IgE 
+	* children 
+* Nonatopic 
+	* late onset 
+	* with or without allergy 
+	* eosinophilic 
+* now ***type 2 inflammation or not***
+* Type 2 inflammation 
+	* 
