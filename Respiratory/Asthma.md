@@ -133,4 +133,20 @@
 	* Nitric oxide is a potent vasodilator,
 	* increase mucus production and smooth-muscle proliferation.
 	* produced by epithelial cells, in response to IL-13, and by inflammatory cells including eosinophils, mast cells, and neutrophils.
-* Reactive oxygen specis
+* Reactive oxygen species 
+	* inflammatory cells activation in the airway, induces respiratory bursts
+	* release reactive oxygen species that result in oxidative stress in the surrounding tissue.
+	* affect smooth-muscle contraction, increase mucus secretion, produce airway hyperresponsiveness, and result in epithelial shedding.
+* Chemokines 
+	* eotaxin (an eosinophil chemoattractant), 
+	* TARC and MDC (which attract T 2 cells), 
+	* RANTES (which has pluripotent prophlogistic effects).
+# ETIOLOGIC MECHANISMS, RISK FACTORS, TRIGGERS, AND COMPLICATING Comorbidities 
+# Heritable predisposition 
+* strong genetic predisposition 
+* 25-80% degree of heritable 
+* complex polygenic inheritance
+* complicated by interaction with environmental exposures. 
+* epigenetic modifications ++
+* most genes associated with risk for atopy 
+* 
