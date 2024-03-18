@@ -41,4 +41,32 @@
 * establishing an immunologic and physiologic response to inhalational antigen exposure
 ## CHEST imaging 
 * xray is nonspecific 
-* acute subac
+	* acute subacute 
+		* transient 
+		* ill-defined micronodular opacities or ground-glass airspace opacities 
+	* Chronic 
+		* fibrotic 
+		* like IPF 
+* HRCT 
+	* normal in acute forms 
+		* lack of temporal correlation between exposure to the offending antigen and obtaining the imaging 
+	* Subacute 
+		* ground glass opacities 
+		* centrilobular nodules 
+		* air trapping on expiratory images 
+	* Chronic 
+		* reticular changes 
+		* traction bronchiectasis 
+		* subpleural honeycombing (like IPF)
+		* ***lung bases spared (unlike IPF )***
+
+## Pulmonary Function 
+* either restrictive or obstructed 
+* pattern not useful in diagnosis 
+* characterizing the physiologic impairment of an individual patient 
+* gauging the response to antigen avoidance and/or corticosteroid therapy.
+* DLCO maybe impaired 
+	* chronic with fibrosis 
+
+## serum preciptins
+* 
