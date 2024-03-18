@@ -93,4 +93,28 @@
 * fibrosis in chronic 
 ## Clinical prediction rule 
 * 6 statistically significant predictors 
-* strongest 
+* strongest is exposure to antigen which is a known cause 
+* serum preciptins 
+* recurrent symptoms 
+* symptoms 4-8h after exposure 
+* crackles on inspiration 
+* weight loss 
+# Differential diagnosis 
+* respiratory infections 
+* chronic must be differentiate from IPF or NSIP 
+* sarcoid if granulomatous 
+	* hilar adenopathy 
+	* other organ involvement 
+	* well formed granuloma in sarcoid 
+* Organic toxic dust Syndrome (OTDS)
+# Treatment 
+* antigen avoidance 
+* identify antigen in vicinity 
+* modify the environment to minimize patient exposure 
+* Personal protective equipment can be used but may ***not provide adequate protection for sensitized individuals***
+* must be balanced against the effects to an individual’s lifestyle or occupation 
+* generally self limited 
+* some role of glucocorticoids in subacute and chronic 
+	* long term outcome same
+	* accelerated resolution of symptoms 
+	* prednisolone at 0.5-1mg/kg
