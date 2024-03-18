@@ -89,3 +89,17 @@
 	* IL-5 has a critical role in regulating eosinophils
 	* IL-13 induces airway hyperresponsiveness, mucus hypersecretion, and goblet cell metaplasia
 	* non allergic stimuli can cause type 2 also 
+		* stimulation of type 2 innate lymphoid cells (ILC2)
+		* ILC2 produce IL-5 and IL-13. 
+		* ILC2s can be activated by epithelial cytokines known as alarmins, which are produced in response to “nonallergic” epithelial exposures such as irritants, pollutants, oxidative agents, fungi, or viruses, leading to eosinophilia 
+	* eosinophils 
+		* hyperresponsiveness through MBP which disrupts epithelium 
+* Non type 2 process 
+	* with or without type 2
+	* neutrophilic inflammation 
+		* severe asthma not responding to corticosteroids 
+	* chronic infections 
+		* atypical like Mycoplasma 
+		* respond to macrolide 
+		* in Reactive airway dysfunction syndromes 
+* 
