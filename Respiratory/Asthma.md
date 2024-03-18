@@ -102,4 +102,16 @@
 		* atypical like Mycoplasma 
 		* respond to macrolide 
 		* in Reactive airway dysfunction syndromes 
-* 
+* ![[asthma-inflammation.png]]
+# Mediators 
+* Cytokine 
+	* IL-4 IL-5 IL-13 
+	* targeted in therapy 
+	* Thymic stromal lymphopoietin (TSLP)
+	* IL-25, IL-33 in signalling cascade with TSLP
+	* IL- 9
+	* IL-6,IL-17 TNF-α , IL-1B IL-8 in non type 2 
+* Fatty acids 
+	* leukotriene and prostaglandins 
+	* Cysteinyl leukotriene (C4, D4, E4) by eosinophils and mast cells 
+		* 
