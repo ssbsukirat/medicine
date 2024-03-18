@@ -27,4 +27,19 @@
 	* spatial heterogenecity ++ 
 
 ### Airway hyperresponsiveness 
-* hallm
+* hallmark of asthma 
+* acute narrowing response of the airways in reaction to agents that do not elicit airway responses in non- affected individuals or
+* excess narrowing response to inhaled agents as compared to that which would occur in nonaffected individuals 
+* some component at level of smooth muscle itself 
+	* to histamine or methacoline 
+* inDirect activation of narrowing mechanism due to inflammatory cell stimulation 
+	* release bronchoconstrictors
+	* mediators --> edema and mucus secretion 
+* stimulation of sensory nerves acting on smooth muscle or inflammatory cells 
+* structural etiology maybe present 
+	* wall thickness associated with severity and duration 
+	* smooth muscle hypertrophy & hyperplasia 
+	* subepithelial collagen deposits 
+	* airway edema 
+	* mucosal inflammation 
+* therapy to target airway hyperresponsiveness 
