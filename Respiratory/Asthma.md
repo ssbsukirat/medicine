@@ -142,7 +142,7 @@
 	* TARC and MDC (which attract T 2 cells), 
 	* RANTES (which has pluripotent prophlogistic effects).
 # ETIOLOGIC MECHANISMS, RISK FACTORS, TRIGGERS, AND COMPLICATING Comorbidities 
-# Heritable predisposition 
+## Heritable predisposition 
 * strong genetic predisposition 
 * 25-80% degree of heritable 
 * complex polygenic inheritance
@@ -161,3 +161,7 @@
 	* TLR1,
 	* IL6R
 * genetic polymorphism associated with variable response to therapy 
+* atopy is heritable 
+* Atopy is the genetic tendency toward specific IgE production in response to allergen exposure.
+* IgE levels track with development of [[Asthma]] 
+## Exposure and risk factors 
