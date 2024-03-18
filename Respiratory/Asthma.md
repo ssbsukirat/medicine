@@ -113,5 +113,24 @@
 	* IL-6,IL-17 TNF-α , IL-1B IL-8 in non type 2 
 * Fatty acids 
 	* leukotriene and prostaglandins 
-	* Cysteinyl leukotriene (C4, D4, E4) by eosinophils and mast cells 
-		* 
+	* Cysteinyl leukotriene (C4, D4, E4) 
+		* by eosinophils and mast cells 
+		* smooth muscle constrictors 
+		* also stimulate mucus secretion, recruit allergic inflammatory cells, cause microvascular leakage, modulate cytokine production, and influence neural transmission
+	* LTB4 (non cysteinyl leukotriene )
+		* neutrophil mainly 
+		* macrophage and epithelium 
+		* neutrophil chemotactor 
+	* PGD2
+		* mast cells 
+		* CRTH2 receptors
+			* are present on TH2 cells, ILC2 cells, mast cells, eosinophils, macrophages, and epithelial cells 
+			* activation upregulates type 2 inflammation
+	* resolution of inflammation 
+		* ***resolvins and lipoxins*** 
+		* deficiency causes ongoing inflammation 
+* Nitric Oxide 
+	* Nitric oxide is a potent vasodilator,
+	* increase mucus production and smooth-muscle proliferation.
+	* produced by epithelial cells, in response to IL-13, and by inflammatory cells including eosinophils, mast cells, and neutrophils.
+* Reactive oxygen specis
