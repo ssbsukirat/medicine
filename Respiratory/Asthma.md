@@ -16,4 +16,15 @@
 	* environment 
 	* endogenous development factors 
 * ![[asthma-triggers.png]]
-* 
+* ![[asthma-pathway.png]]
+# Pathophysiology 
+## MECHANISMS LEADING TO ACUTE AND CHRONIC AIRWAY Obstruction 
+* ![[asthma-airwaypath.png]]
+* process may occur individual or simultaneously 
+* temporal variation in process also seen 
+* ***Parenchyma not involved***
+* entire airway maybe involved 
+	* spatial heterogenecity ++ 
+
+### Airway hyperresponsiveness 
+* hallm
