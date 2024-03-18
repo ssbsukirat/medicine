@@ -43,3 +43,16 @@
 	* airway edema 
 	* mucosal inflammation 
 * therapy to target airway hyperresponsiveness 
+### Inflammatory Cells 
+* chronic inflammation of airways ++ 
+* commonly is eosinophilic nature 
+* some with ***severe*** asthma have ***neutrophil inflammation*** 
+* mast cells ++ 
+### Airway smooth muscle 
+* hyperresponsiveness to stimuli 
+* hypertrophy and hyperplasia 
+* produce chemokines and cytokines that promote inflammation 
+### Subepithelial collagen deposits 
+* deposition of repair-type collagens and tenascin, periostin, fibronectin, and osteopontin primarily from myofibroblasts under the epithelium.
+* stiffens the airway and can result in exaggerated responses to increased circumferential tension exerted by the smooth muscle.
+### airway epitje
