@@ -19,4 +19,26 @@
 	* 4–8 h following exposure to the inciting antigen, 
 	* often intense in nature.
 	* systemic features including fevers, chills, and malaise and dyspnea 
-	* resolve in hours to days after stoppi
+	* resolve in hours to days after stopping exposure 
+* Subacute 
+	* gradual course over weeks 
+	* like multiple intermittent acute episodes 
+	* severe respiratory impairment 
+	* resolves in week to month after exposure 
+* Chronic 
+	* slow and gradual 
+	* dyspnea , cough fatigue, weight loss , clubbing of digits 
+	* some irreversible component 
+	* may progress to fibrosis like IPF 
+	* if fibrosis prognosis poor 
+* New suggested classification 
+	* recurrent systemic signs and symptoms vs Respiratory systems 
+	* acute/inflammatory vs chronic/fibrotic 
+
+# Diagnosis 
+* No universal criteria 
+* establish history of exposure 
+* establishing an immunologic and physiologic response to inhalational antigen exposure
+## CHEST imaging 
+* xray is nonspecific 
+* acute subac
