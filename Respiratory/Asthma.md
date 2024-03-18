@@ -149,4 +149,15 @@
 * complicated by interaction with environmental exposures. 
 * epigenetic modifications ++
 * most genes associated with risk for atopy 
-* 
+* genes 
+	* ORMDL3/ GSDMB (in the 17q21 chromosomal region), 
+	* ADAM33,
+	* DPP-10, 
+	* TSLP, 
+	* IL-12,
+	* IL-33,
+	* ST2, 
+	* ***HLA-DQB1, HLA-DQB2,*** 
+	* TLR1,
+	* IL6R
+* genetic polymorphism associated with variable response to therapy 
