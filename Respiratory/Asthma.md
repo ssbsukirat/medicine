@@ -80,4 +80,12 @@
 	* eosinophilic 
 * now ***type 2 inflammation or not***
 * Type 2 inflammation 
-	* 
+	* innate and adaptive arms of the immune system to ***promote barrier immunity on mucosal surfaces.***
+	* associated with the type 2 subset of CD4+ T-helper cells,
+		* produce interleukin (IL) 4, IL-5, and IL-13.
+	* IL-4
+		* induces B-cell isotype switching to production of IgE. 
+		* IgE, binding to basophils and mast cells, results in environmental sensitivity to allergens as a result of cross-linking of IgE on the surface of these mast cells and basophils.
+	* IL-5 has a critical role in regulating eosinophils
+	* IL-13 induces airway hyperresponsiveness, mucus hypersecretion, and goblet cell metaplasia
+	* non allergic stimuli can cause type 2 also 
