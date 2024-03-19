@@ -57,4 +57,19 @@
 		* sarcoidosis maybe ++
 	* fatigue seen in all 
 * Past medical history 
-	* 
+	* history of CTD or similar eg raynauds phenomenon 
+	* ILD can be initial presentation of CTD 
+	* malignancy history 
+		* dermatomyositis associated COP 
+		* sarcoid like reaction 
+	* eosinophilic GPA 
+		* asthma 
+		* allergic rhinitis 
+* Medications 
+	* medications commonly used to treat inflammatory and granulomatous lung disease are also associated with ILD development (e.g., methotrexate, azathioprine, rituximab, and the tumor necrosis factor α–blocking agents)
+	* antibiotics (e.g., nitrofurantoin), 
+	* antiarrhythmics (e.g., amiodarone), 
+	* antineoplastic agents (e.g., bleomycin)
+* Family history 
+	* presence of a close relative with an IIP is among the strongest risk factors for IPF. 
+	* familial aggregation of diverse forms of IIP (such as IPF, nonspecific interstitial pneumonia [NSIP], and DIP running in the same family)
