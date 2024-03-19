@@ -5,4 +5,7 @@
 * for diagnosis clinical, lab , pft, imaging, hpe all required together
 * usually divided as Known vs unknown causes 
 * Known 
-	* 
+	* occupational exposure (asbestosis)
+	* drugs (nitrofurantoin)
+	* underlying systemic disease (cryptogenic oragnising pneumonia in polymyositis)
+* 
