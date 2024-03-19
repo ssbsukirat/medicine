@@ -2,4 +2,7 @@
 * Interstitial space is dominant site in ILD 
 * alveolar epithelial and endothelial cells play role in pathogenesis 
 * reports of progressive exertional dyspnea or a persistent dry cough.
-* 
+* for diagnosis clinical, lab , pft, imaging, hpe all required together
+* usually divided as Known vs unknown causes 
+* Known 
+	* 
