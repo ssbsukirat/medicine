@@ -14,5 +14,12 @@
  * Granulomatous 
 	* both known (HSP) and unknown 
 	  (sarcoidosis)
-
-	   
+* ![[ILD-main.png]]
+* ![[ILD-class.png]]
+# Diagnostic approach 
+* evaluation for alternate causes especially 
+	* CVS disease 
+	* diffuse infections 
+	* malignancy 
+## History 
+* 
