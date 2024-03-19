@@ -95,3 +95,27 @@
 * reduced TLC, FEV1, FVC 
 * DLCO low 
 * FEV1/FVC reduction uncommon 
+* characterize extent of disease 
+* decline on repeated testing is rate of mortality 
+## Chest Imaging 
+* CXRAY 
+	* sarcoidosis 
+		* enlarged hilar lymph nodes and a pattern of central nodular opacities in the mid to upper lung zones
+	* IPF 
+		* basilar reticular pattern, with small cystic spaces, in the absence of clinical evidence for heart failure 
+* Chest CT 
+	* standard of care in the initial evaluation of a patient with a suspected ILD. 
+	* helps to define the extent of the ILD, 
+	* determine the presence of more concerning features suggestive of advanced disease (e.g., honeycombing), 
+	* provide information on coexisting diseases (e.g., emphysema and lung cancer)
+	* location for biopsy 
+## Lung biopsy 
+* Fiberoptic bronchoscopic 
+	* serial lavage fluid can be helpful in establishing ***DAH***, which can be present in ILDs with vasculitis (e.g., GPA),
+	* cellular examination can suggest a specific diagnosis (eosinophilia >25% in chronic eosinophilic pneumonia or fat globules in macrophages in lipoid pneumonia).
+	* granulomatous diagnosis 
+	* felt to be insufficient to diagnose most of the IIPs 
+* Surgical biopsy 
+	* VATS vs open 
+	* diagnostic yield of biopsies tends to be higher if obtained prior to treatment 
+	* mortality with pr
