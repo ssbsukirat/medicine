@@ -287,3 +287,31 @@
 * HRCT 
 	* NSIP and IPF 
 	* sometimes COP and DAD maybe seen 
+	* dilated esophagus and Pulmonary artery 
+* Histopathologic 
+	* NSIP and IPF 
+	* aspiration due to esophagus dysmotility  --> COP and DAD 
+* Treatment 
+	* Cyclophosphamide 
+		* modest lung function benefit 
+		* high toxicity 
+	* Mycophenolate 
+		* similar effect 
+		* low toxicity 
+	* antifibrotic maybe beneficial 
+	* minimize reflux with PPIs and antireflux surgery 
+	* transplant 
+## Rheumatoid arthritis 
+* Clinical 
+	* common extraarticular 
+	* RA-ILD more in females 
+		* RA more in males 
+	* maybe first manifestation 
+* HRCT 
+	* UIP pattern (lower survival)
+	* NSIP maybe seen 
+* Histopathologic 
+	* UIP and NSIP common 
+	* UIP may present with a reduced number of fibroblastic foci and an increased amount of germinal centers.
+* Treatment 
+	* immunosuppresants and cytotoxic 
