@@ -143,5 +143,28 @@
 	* antifibrotic treatment 
 		* perfinidone and nintedanib 
 		* slows progression 
-		* 
-	* 
+		* improves survival 
+	* immunosuppresants 
+		* traditional therapy 
+		* increase mortality and morbidity 
+	* physical therapy and oxygen 
+		* improve exercise tolerance 
+		* reduce PAH 
+	* Lung transplant 
+
+## nonspecific interstitial pneumonia 
+* Clinical 
+	* idiopathic (good prognosis )
+	* commonly observed in patients with CTD 
+	* less frequently with familial interstitial pneumonia, drug toxicity, and infection.
+	* diagnosed in nonsmoking females in their fifth decade of life. 
+	* Positive serologic tests for CTD are frequently observed.
+	* cellular pattern has better prognosis than fibrosing 
+* HRCT 
+	* Diffuse subpleural, symmetric, ***ground-glass***, and reticular opacities are common.
+	* Volume loss and traction bronchiectasis involving the lower lung zones 
+	* occasional subpleural sparing 
+	* peribronchial thickening and honeycombing uncommon 
+* Histopathologic 
+	* varying amounts of interstitial inflammation and fibrosis
+	* uniform appearance
