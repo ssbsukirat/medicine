@@ -191,3 +191,30 @@
 * Clinical 
 	* active, heavy, smokers 
 	* between 40 and 50 years of age.
+	* dyspnea and cough and symptomatic wheezing
+	* <10% of IIPs 
+* HRCT 
+	* RB-ILD 
+		* central bronchial wall thickening, peripheral bronchial wall thickening, centrilobular nodules, and ground-glass opacities
+		* ***Honeycomb rare***
+		* septal lines and reticular pattern 
+	* DIP 
+		* similar 
+		* bilateral symmetric GGOs 
+* Histopathologic 
+	* RB-ILD 
+		* accumulation of pigmented macrophages within the lumens of respiratory bronchioles and alveolar ducts, 
+		* chronic inflammation of the respiratory bronchiolar walls  
+		* both bronchiolar and peri-bronchiolar alveolar fibrosis causing architectural distortion. 
+		* patchy and confined to the peribronchiolar region
+	* DIP 
+		* more diffuse 
+		* pneumocyte hyperplasia 
+		* interstitial thickening 
+* Treatment 
+	* stop smoking 
+	* immunosuppresants 
+	* cytotoxic 
+	* bronchodilators 
+## Cryptogenic organising pneumonia 
+* 
