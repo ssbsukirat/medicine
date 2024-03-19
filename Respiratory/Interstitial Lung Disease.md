@@ -8,4 +8,11 @@
 	* occupational exposure (asbestosis)
 	* drugs (nitrofurantoin)
 	* underlying systemic disease (cryptogenic oragnising pneumonia in polymyositis)
-* 
+* Unknown 
+	* rare disorders with classic presentation (spontaneous pneumothorax in LAM )
+	* Idiopathic interstitial pneumonia (IIPs)
+ * Granulomatous 
+	* both known (HSP) and unknown 
+	  (sarcoidosis)
+
+	   
