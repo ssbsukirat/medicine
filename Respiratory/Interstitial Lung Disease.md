@@ -22,4 +22,13 @@
 	* diffuse infections 
 	* malignancy 
 ## History 
-* 
+* Age 
+	* more in >60 
+	* rare <50 
+	* if >65 without strong alternate diagnosis , atypical CT likely to be UIP 
+	* between 20-40
+		* sarcoidosis , CTD-associated, LAM , pulmonary lagerhan cell histiocytosis
+* Sex 
+	* LAM in young women 
+	* CTD -associated more in women 
+		* ***except RA*** 
