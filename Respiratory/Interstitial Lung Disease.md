@@ -118,4 +118,4 @@
 * Surgical biopsy 
 	* VATS vs open 
 	* diagnostic yield of biopsies tends to be higher if obtained prior to treatment 
-	* mortality with pr
+	* mortality with procedure 
