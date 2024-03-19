@@ -49,6 +49,12 @@
 	* sarcoidosis and HP with cough 
 	* cough with hemoptysis 
 		* diffuse alveolar hemorrhage 
-		  (goodpa)
+		  (goodpastures)
 		* GPA 
 		* LAM 
+		* secondary pulmonary infections 
+	* chest pain rare 
+		* sarcoidosis maybe ++
+	* fatigue seen in all 
+* Past medical history 
+	* 
