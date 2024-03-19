@@ -167,4 +167,27 @@
 	* peribronchial thickening and honeycombing uncommon 
 * Histopathologic 
 	* varying amounts of interstitial inflammation and fibrosis
-	* uniform appearance
+	* ***uniform appearance***
+	* honeycombing rare 
+	* fibroblast foci absent 
+	* cellular or fibrotic 
+* Treatment 
+	* with CTD-associated 
+		* immunosuppresants 
+	* idiopathic 
+		* prednisone 
+		* cytotoxic  (mycophenolate, azathioprine, and cyclophosphamide)
+		* biologics (rituximab)
+	* if progressive fibrosis, antifibrotic 
+	* oxygen, rehab , transplant 
+## Smoking related ILD 
+* including respiratory bronchiolitis with interstitial lung disease (RB-ILD), and DIP
+* classified with IIPs 
+* these alongwith PLCH due to tobacco and smoke exposure 
+* DIP has also been known to occur in children with familial pulmonary fibrosis (FPF).
+* often as asymptomatic findings on CXRAY 
+	* (centrilobular) interstitial abnormalities
+* may progress 
+* Clinical 
+	* active, heavy, smokers 
+	* between 40 and 50 years of age.
