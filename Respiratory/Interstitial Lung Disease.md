@@ -228,4 +228,25 @@
 	* patchy, sometimes migratory, subpleural consolidative opac- ities often with associated ground-glass opacities.
 	* sometimes a rim of subpleural sparing (often referred to as a ***reversed halo or atoll sign***)
 * Histopathologic 
-	* 
+	* patchy regions of organizing pneumonia with granulation tissue  
+	* commonly involves the small airways, alveolar ducts, and alveoli
+	* surrounding inflammation involve the alveolar walls
+* Treatment 
+	* corticosteroids for atleast 6 months 
+	* relapse high 
+	* cytotoxic and biologics (rituximab )
+# Acute to Subacute IIPS
+## Acute interstitial pneumonia  (Hamman-Rich syndrome)
+* Clinical 
+	* rare and often fatal 
+	* acute onset of respiratory distress and hypoxemia 
+	* prodromal period of symptoms consistent with an acute upper respiratory infection
+	* 6 month mortality >50% 
+	* relapse commonly 
+	* lung improvement seen in recovered patients 
+	* dd is ARDS 
+* HRCT 
+	* patchy bilateral GGOs 
+	* dependent consolidations 
+* Histopathologic 
+	* Diffuse alveolar
