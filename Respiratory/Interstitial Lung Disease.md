@@ -72,4 +72,26 @@
 	* antineoplastic agents (e.g., bleomycin)
 * Family history 
 	* presence of a close relative with an IIP is among the strongest risk factors for IPF. 
-	* familial aggregation of diverse forms of IIP (such as IPF, nonspecific interstitial pneumonia [NSIP], and DIP running in the same family)
+	* familial aggregation of diverse forms of IIP (such as IPF, nonspecific interstitial pneumonia (NSIP), and DIP running in the same family)
+	* MUC5B mucin promoter gene in pulmonary fibrosis also TERT (telomerase reverse transcriptase) associated with both familial and idiopathic 
+* Social 
+	* smoking 
+		* respiratory bronchiolitis 
+		* DIP desquamative interstitial pneumonia -- causative  
+		* IPF 
+## Physical 
+* end inspiration fine crackles at lung bases 
+* rales non specific 
+* wheeze uncommon 
+* advanced disease 
+	* cyanosis 
+	* clubbing 
+	* cor pulmonale 
+## Laboratory 
+* underlying CTD 
+* +/- cost effective 
+## Pulmonary function tests 
+* restrictive pattern in most 
+* reduced TLC, FEV1, FVC 
+* DLCO low 
+* FEV1/FVC reduction uncommon 
