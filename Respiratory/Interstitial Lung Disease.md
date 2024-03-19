@@ -217,4 +217,15 @@
 	* cytotoxic 
 	* bronchodilators 
 ## Cryptogenic organising pneumonia 
-* 
+* Clinical 
+	* 50–60s 
+	* subacute flulike illness, with cough, dyspnea, fever, and fatigue.
+	* Inspiratory rales are often present on examination
+	* restrictive lung deficits
+	* hypoxemia 
+	* isolation or secondary to CTD , medications or malignancy 
+* HRCT 
+	* patchy, sometimes migratory, subpleural consolidative opac- ities often with associated ground-glass opacities.
+	* sometimes a rim of subpleural sparing (often referred to as a ***reversed halo or atoll sign***)
+* Histopathologic 
+	* 
