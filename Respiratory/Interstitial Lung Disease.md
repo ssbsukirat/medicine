@@ -279,3 +279,11 @@
 	* Sjögren’s syndrome 
 	* systemic lupus erythematosus (SLE)
 * rare cases, lung manifestations may be the sole feature of the patient’s clinical presentation
+## Systemic sclerosis 
+* clinical 
+	* most common pulmonary manifestations 
+		* in 50% with diffuse SSc 
+		* 30% with limited SSc 
+* HRCT 
+	* NSIP and IPF 
+	* sometimes COP and DAD maybe seen 
