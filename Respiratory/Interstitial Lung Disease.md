@@ -249,4 +249,33 @@
 	* patchy bilateral GGOs 
 	* dependent consolidations 
 * Histopathologic 
-	* Diffuse alveolar
+	* Diffuse alveolar damage 
+* Treatment 
+	* supportive 
+	* mechanical ventilation 
+	* glucocorticoids  +/- 
+## Acute exacerbations of IIPs
+* Clinical 
+	* accelerated phase of lung injury that can occur in any ILD 
+	* most common / severe in IPF 
+	* acute onset (<30 days) of respiratory distress and hypoxemia occurring in a patient with underlying pulmonary fibrosis not explained by an alternate cause (e.g., pneumonia, left heart failure)
+	* mortality >85% with survival days to months 
+* HRCT 
+	* patchy bilateral ground-glass opacities and dependent regions of air-space consolidation.
+* Histopathologic 
+	* Diffuse alveolar damage 
+	* organising pneumonia sometimes 
+* Treatment 
+	* supportive 
+	* mechanical ventilation as ***bridge to lung transplant*** 
+	* nintedanib may reduce rate of exacerbations 
+	* drug therapy controversial 
+# ILD associated with CTD 
+* most commonly in patients with
+	* scleroderma (systemic sclerosis form, or SSc), 
+	* RA, 
+	* polymyositis/dermatomyositis, 
+* less frequently 
+	* Sjögren’s syndrome 
+	* systemic lupus erythematosus (SLE)
+* rare cases, lung manifestations may be the sole feature of the patient’s clinical presentation
