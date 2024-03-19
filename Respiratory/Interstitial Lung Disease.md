@@ -119,3 +119,18 @@
 	* VATS vs open 
 	* diagnostic yield of biopsies tends to be higher if obtained prior to treatment 
 	* mortality with procedure 
+# Idiopathic Interstitial pneumonias
+## Idiopathic Pulmonary Fibrosis 
+* Clinical 
+	* most common ILD of unknown cause. 
+	* Prevalence increases with age 
+	* diagnosed in the fifth or sixth decade in life,
+	* men more than women
+	* associated with a history of smoking or other environmental exposures
+	* variable progress, poor prognosis 
+* HRCT 
+	* UIP pattern 
+		* subpleural reticulation 
+		* posterior basal predominance 
+		* advanced fibrotic features, such as honeycombing and traction bronchiectasis.
+	* GGOs, bronchovascular chamges, micronodules, mosaic attenuation or upper lobe should look for differential 
