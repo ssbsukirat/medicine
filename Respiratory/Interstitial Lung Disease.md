@@ -315,3 +315,28 @@
 	* UIP may present with a reduced number of fibroblastic foci and an increased amount of germinal centers.
 * Treatment 
 	* immunosuppresants and cytotoxic 
+	* lung transplant 
+## Dermatomyositis / Polymyositis 
+* Clinical 
+	* immune-mediated destruction and dysfunction of muscle; however, these disorders can affect the skin, joints, cardiovascular system, and lung.
+	* anti-synthetase syndrome 
+		* positive anti-synthetase antibodies, myositis, fever, Raynaud’s phenomenon, mechanic’s hands, arthritis, and progressive ILD.
+		* 45% have ILD 
+	* anti-Jo1 may develop acute and rapidly progressive ILD 
+* HRCT 
+	* NSIP +/- COP 
+	* UIP in anti-PL-12 positive 
+* Histopathologic 
+	* NSIP COP UIP 
+* Treatment 
+	* immunosuppresants 
+	* cytotoxic 
+## Granulomatous 
+* sarcoidosis most commonly 
+* HP 
+* Granulomatous Vascultides 
+	* blood vessels with inflammatory infiltrates and associated granulomatous lesions +/- tissue necrosis
+	* Hemoptysis maybe presentation 
+	* Biopsy essential 
+	* GPA 
+	* 
