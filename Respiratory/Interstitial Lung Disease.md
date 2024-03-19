@@ -134,3 +134,14 @@
 		* posterior basal predominance 
 		* advanced fibrotic features, such as honeycombing and traction bronchiectasis.
 	* GGOs, bronchovascular chamges, micronodules, mosaic attenuation or upper lobe should look for differential 
+* Histopathologic 
+	* UIP
+		* sub- pleural reticulation associated with honeycomb changes 
+		* fibroblast foci (subepithelial collections of myofibroblasts and collagen)
+		* alternate with areas of preserved normal alveolar archi- 2193 tecture consistent with temporal and spatial heterogeneity
+* Treatment 
+	* antifibrotic treatment 
+		* perfinidone and nintedanib 
+		* slows progression 
+		* 
+	* 
