@@ -339,4 +339,4 @@
 	* Hemoptysis maybe presentation 
 	* Biopsy essential 
 	* GPA 
-	* 
+	* Eosinophilic GPA 
