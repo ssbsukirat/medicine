@@ -32,3 +32,23 @@
 	* LAM in young women 
 	* CTD -associated more in women 
 		* ***except RA*** 
+	* IPF and occupation related more in men 
+* Duration of symptoms 
+	* acute presentation rare 
+		* misdiagnosed as pneumonia , COPD, Heart failure 
+		* in eosinophilic pneumonia , acute interstitial pneumonia , HP, Granulomatosis with polyangitis 
+	* chronic course common 
+	* subacute 
+		* sarcoidosis 
+		* CTD-associated 
+		* drug induce 
+		* COP 
+* Respiratory symptoms 
+	* progressive dyspnea on exertion 
+	* dry cough (IPF)
+	* sarcoidosis and HP with cough 
+	* cough with hemoptysis 
+		* diffuse alveolar hemorrhage 
+		  (goodpa)
+		* GPA 
+		* LAM 
