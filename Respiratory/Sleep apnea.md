@@ -216,5 +216,13 @@
 * CPAP may induce CSA 
 	* complex sleep apnea or treatment-emergent sleep apnea 
 * rarely by blunted chemoreceptors sensitivity 
+* independent risk factor for the development of both heart failure and atrial fibrillation 
+* early marker of subclinical myocardial dysfunction 
+* treat the cause 
+* Cheyne-Stokes breathing treated by treating heart failure 
+* CPAP +/- 
+* adaptive servoventilation 
+	* ventilatory support that attempts to regularize the breathing pattern 
+* Oxygen maybe useful 
 
 
