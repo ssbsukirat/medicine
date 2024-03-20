@@ -127,3 +127,22 @@
 			* autoimmune liver disease, 
 		* uncertain alcohol use assess- ment,
 		* atypical laboratory tests (AST <50 IU/L or >400 IU/L, AST/ALT ratio <1.5)
+
+# Treatment 
+* most effective is prolonged alcohol abstinence 
+* alcohol- associated hepatic steatosis and steatohepatitis are reversible
+* no approved drugs 
+* risk of decompensation ++ 
+* if cirrhosis 
+	* Upper GI endoscopy for ***Varices*** 
+	* HCC screen every 6 months by USG 
+* manage decompensation 
+* liver transplant in decompensation 
+* short-term mortality calculation
+	* ***Maddrey discriminant Function***
+		* 4.6 × (the prolongation of the prothrombin time above control {seconds) + serum bilirubin (mg/dL)
+	* MELD 
+	* ABIC 
+		* age-bilirubin-INR-Creatinine score 
+	* MDF <32 or MELD ≤20 are defined as having moderate alcoholic hepatitis
+* 
