@@ -104,4 +104,26 @@
 	* Histology --> septal fibrosis 
 		* initially perivenular fibrosis with subsequent extension of collagen fibers into hepatic lobules
 * Cirrhosis 
-	* nodularity on imaging with ultrasound, MRI, or CT scan. Radiologic signs of portal hypertension include ascites, splenomegaly, and portal- systemic collateral vessels.
+	* nodularity on imaging with ultrasound, MRI, or CT scan. 
+	* Radiologic signs of portal hypertension include ascites, splenomegaly, and portal- systemic collateral vessels.
+* Prognosis and mortality scores 
+	* child-pugh-turcotte (CTP)
+	* MELD 
+	* MELD-Na 
+* If presentation as alcoholic hepatitis 
+	* rule out biliary obstruction and HCC 
+	* viral hepatitis, Wilson’s disease, and severe autoimmune liver disease ruled out
+	* histology 
+		* macrovesicular steatosis, 
+		* hepatocyte ballooning with Mallory-Denk bodies, 
+		* ***megamitochondria***, 
+		* neutrophil infiltration, 
+		* ***bilirubinostasis*** 
+		* ***chicken wire fibrosis***
+	* Biopsy indications (transjugular)
+		* potential confounding factors, 
+			* possible ischemic hepatitis (in the setting of, e.g., hypotension, massive gastrointestinal bleeding, recent cocaine use, septic shock)
+			* drug-induced liver injury (DILI) 
+			* autoimmune liver disease, 
+		* uncertain alcohol use assess- ment,
+		* atypical laboratory tests (AST <50 IU/L or >400 IU/L, AST/ALT ratio <1.5)
