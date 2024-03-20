@@ -33,3 +33,14 @@
 * Negative intraluminal pressure in inspiration creates suction force
 * No fixed bone in pharynx so stability depends on pharyngeal dilator muscles (activated in waking but neuromuscular drive reduces in sleep)
 * Causes intermittent collapse of airway causing apnea (complete) or hypopnea (partial collapse)
+* Episode terminated when ventilatory reflex activated and causes arousal restoring neuromuscular drive
+* Site 
+    * Soft palate (most common)
+    * Tongue base 
+    * Lateral pharyngeal wall 
+    * Epiglottis
+* Most severe during REM sleep and supine position
+* Factors 
+    * Small pharyngeal lumen (require higher drive)
+    * Enlargement of soft tissue (tongue palate uvula) due to fat deposition increase lymphoid tissue or genetics 
+    * Craniofacial (mandibular retrognathia and )
