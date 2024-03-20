@@ -36,4 +36,4 @@
 	* reduced mitochondrial Beta-oxidation 
 	* increase fatty acid mobilization in adipose tissue and the intestine, increasing hepatic accumulation of fats 
 # Risk factors of progression 
-* 
+* Daily alcohol consumption or heavy drinking 
