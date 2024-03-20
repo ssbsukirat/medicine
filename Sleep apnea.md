@@ -105,4 +105,7 @@
         - Allergic rhinitis
         - Obstruction
     - Cardiac examination
+        - cor pulmonale suggests comorbid condition
+        - ***OSA doesn't cause right heart failure***
+    - Neurological
 
