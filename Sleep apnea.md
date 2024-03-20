@@ -30,4 +30,6 @@
     * degree of sleep fragmentation 
     * level of daytime sleepiness or impairment
 ## Pathophysiology
-* 
+* Negative intraluminal pressure in inspiration creates suction force
+* No fixed bone in pharynx so stability depends on pharyngeal dilator muscles (activated in waking but neuromuscular drive reduces in sleep)
+* Causes intermittent collapse of airway causing apnea (complete) or hypopnea (partial collapse)
