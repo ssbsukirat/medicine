@@ -184,6 +184,23 @@
 	* standard therapy 
 	* highest efficacy 
 	* nasal or naso-oral mask 
-	* works as mechanical splint to hold ai
+	* works as mechanical splint to hold airway patent 
+	* Overnight CPAP titration study for optimal settings 
+	* auto-titrating CPAPs available 
+	* ![[CPAP-sides.png]]
+* Oral appliances
+	* open airway by advancing mandible, reposition jaw and pull tongue forward 
+	* customize better 
+	* >50% improvement in AHI in 2/3 patients 
+	* side effect 
+		* TMJ pain 
+		* tooth movement 
+	* in mild to moderate or not tolerating CPAP 
+* Upper Airway Surgery 
+	* less efficacy than CPAP 
+	* in snoring , mild OSA or not tolerating CPAP 
+	* less successful than oral appliances 
+* bariatric surgery in obese 
+* Upper Air
 
 
