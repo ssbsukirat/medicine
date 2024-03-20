@@ -81,3 +81,27 @@
 * AUDIT 
 	* Alcohol Use Disorders Inventory Test 
 * ALD requires exclusion of other causes in heavy drinkers 
+* steatosis 
+	* USG 
+	* MRI 
+	* CT 
+	* non-invasive hepatic fat quantification 
+		* Controlled attenuation parameter (CAP)
+		* magnetic resonance proton density fat fraction (MR-PDFF)
+* Biopsy rarely indicated 
+	* ***macrovesicular*** steatosis around ***pericentral*** veins (zone 3)
+	* hepatocytes injury 
+	* ballooning 
+	* mallory-denk bodies 
+	* necrosis 
+	* lobular inflammation with mononuclear and neutrophil granulocyte 
+* Progression 
+	* liver stiffness measure 
+		* transient elastography (FibroScan)
+		* <6kPa is normal 
+		* >8kPa >_ F3 advanced fibrosis 
+		* >12.5 is F4 
+	* Histology --> septal fibrosis 
+		* initially perivenular fibrosis with subsequent extension of collagen fibers into hepatic lobules
+* Cirrhosis 
+	* nodularity on imaging with ultrasound, MRI, or CT scan. Radiologic signs of portal hypertension include ascites, splenomegaly, and portal- systemic collateral vessels.
