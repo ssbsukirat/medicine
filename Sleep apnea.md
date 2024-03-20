@@ -107,5 +107,16 @@
     - Cardiac examination
         - cor pulmonale suggests comorbid condition
         - ***OSA doesn't cause right heart failure***
-    - Neurological
+    - NeurologicaL
+- Laboratory
+    - objective measure of breathing in sleep 
+    - Gold standard is overnight polysomnogram 
+    - If negative rule out OSA
+        - false negative if not enough REM sleep or less supine or night to night variability
+    - Home tests only record Cardiac and respiratory
+    - If high suspicion, negative home study must be followed by PSG
+    - Breathing
+        - changes in airflow, respiratory excursion
+    - Oxygen by saturation
+
 
