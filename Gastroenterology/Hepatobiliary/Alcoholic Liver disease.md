@@ -162,5 +162,9 @@
 			* shock.
 		* oral prednisolone 40mg/d for 4 weeks or methylpred 32mg/d IV 
 		* Add N-acetylcysteine 
-		* if Lille score improvement  <0.45 after 7 days, unlikel
+		* if Lille score improvement  <0.45 after 7 days, unlikely to benefit 
+		* consider early transplant in non responders 
+* Long term prognosis dependent on abstinence 
+* ![[ALD-treatment.png]]
+
 * 
