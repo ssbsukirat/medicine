@@ -43,4 +43,13 @@
 * Factors 
     * Small pharyngeal lumen (require higher drive)
     * Enlargement of soft tissue (tongue palate uvula) due to fat deposition increase lymphoid tissue or genetics 
-    * Craniofacial (mandibular retrognathia and )
+    * Craniofacial (mandibular retroposition or micrognathia)
+    * Low lung volume in recumbent position
+    * High nasal resistance (DNS or polyp)
+    * Nasal resistance breaks seal between tongue and palate and tongue falls posteriorly occluding airway
+* Pharyngeal muscle factors/ vntilatory control
+    * Ventilatory sensitivity
+    * Arousal threshold
+    * Neuromuscular response to CO2
+        * Buildup activates diaphragm and pharyngeal muscle
+        * Pharyngeal activation stiffens airways to cointrrac
