@@ -155,6 +155,13 @@
 		* diabetes
 	* sleepy patients may have the greatest OSA-related cardiovascular risk 
 * Sleepiness 
-	* 50% report 
+	* 50% report daytime sleepiness 
+	* 2x risk of occupation accidents 
+	* CPAP reduced daytime sleepiness 
+	* Visceral adipose tissue releases somnogenic cytokines contributing to sleepiness 
+	* use of alerting agents 
+* Quality of LIfe 
+	* largest decrements observed in scales that measure physical functioning and energy levels.
+	* work productivity improvement with CPAP 
 
 
