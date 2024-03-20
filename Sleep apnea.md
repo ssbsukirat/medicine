@@ -91,3 +91,18 @@
     - Fatigue (more in women)
     - Dry mouth, nocturnal heartburn, diaphoresis, nocturia, morning headache, low concentration, irritability, mood disturbance
     - Insomnia may coexist
+- Physical
+    - Hypertension and central obesity
+    - Oropharynx -- small orifice with crowding
+        - large tongue 
+        - Low lying soft palate with bulky uvula
+        - Large tonsils 
+        - High arched palate 
+        - Micrognathia retrognathia
+    - Nasal 
+        - polyps 
+        - DNS
+        - Allergic rhinitis
+        - Obstruction
+    - Cardiac examination
+
