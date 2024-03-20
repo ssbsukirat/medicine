@@ -163,5 +163,27 @@
 * Quality of LIfe 
 	* largest decrements observed in scales that measure physical functioning and energy levels.
 	* work productivity improvement with CPAP 
+	* Depressive symptoms, in particular somatic symptoms (irritability, fatigue, lack of energy), are commonly reported in OSA and improve with CPAP.
+## Treatment 
+* comprehensive approach 
+* identify and correct 
+	* lifestyle factors
+	* behaviour factors 
+	* comorbidities 
+* plan 
+	* reduce weigh 
+	* optimise sleep duration (7-9h)
+	* regulate sleep schedule (same hours daily )
+	* avoid supine position 
+	* treat nasal allergic 
+	* increase physical activity 
+	* eliminate alcohol within 3h of bedtime 
+	* minimize opioids 
+	* avoid sedative hypnotics 
+* CPAP 
+	* standard therapy 
+	* highest efficacy 
+	* nasal or naso-oral mask 
+	* works as mechanical splint to hold ai
 
 
