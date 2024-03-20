@@ -8,4 +8,15 @@
     * Behavioral problems in children
 * Central
     * Less common
-    * Ptimk
+    * Alone or with OSA
+    * Primary or secondary
+        * High altitude
+        * Heart failure
+        * Medication like opioid
+    * Increase risk of heart failure and atrial fibrillation
+# obstructive sleep apnea
+## definition
+* On the basis of nocturnal daytime symptoms and sleep study
+* Diagnosis
+    * Symptoms of nocturnal breathing disturbance or daytime sleepiness or fatigue despite adequate opportunity to sleep and unexplained by medical problems ***and*** 
+    * 5 or more episodes of apnea or hypapnea per hour
