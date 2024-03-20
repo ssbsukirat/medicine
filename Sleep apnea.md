@@ -70,9 +70,21 @@
         * 4x greater risk
     * Older age
     * Mandibular retrognathia and micrognathia
-    * Positive family history of OSA
+    * Positive family history of OSA (2x in first degree relative)
     * Sedentary lifestyle
     * Genetic syndrome (down's, treacher-collins,)
-    * Adenotonsillar hypertrophy
+    * Adenotonsillar hypertrophy (children)
     * Menopause
     * Endocrine (acromegaly, hypothyroidism)
+    * Underlying medical conditions
+        * DM, HTN AFA
+## approach
+- consider if symptoms and one or more risk factors
+- Screen in symptoms with high risk of comorbidities 
+- Symptoms 
+    - sleep history from bed partner
+    - Snoring most common but absence cannot exclude
+    - Gasping or snorting in sleep
+    - Dyspnea unusual (OSA vs PND, nocturnal asthma and reflux)
+    - Frequent awakening and sleep disruption
+    - Excessive daytime sleepiness (mod)
