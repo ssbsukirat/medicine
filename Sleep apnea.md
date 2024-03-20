@@ -52,4 +52,16 @@
     * Arousal threshold
     * Neuromuscular response to CO2
         * Buildup activates diaphragm and pharyngeal muscle
-        * Pharyngeal activation stiffens airways to cointrrac
+        * Pharyngeal activation stiffens airways to counteract collapse 
+        * But collapse of pharynx can occur if system is overly sensitive to CO2 
+        * Increase CO2 arouses CNS and leads to awakening
+        * Low arousal threshold preempts pharyngeal compensation and prevents stabilization
+        * Higher threshold prevents termination of apnea prolonging it's duration and desaturation
+## risk factors and prevalence
+* Major
+    * Male sex
+    * Obesity
+    * Older age
+    * Mandibular retrognathia and micrognathia
+    * Positive family history of OSA
+    * Sedentary lifestyle
