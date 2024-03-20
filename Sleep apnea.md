@@ -19,4 +19,15 @@
 * On the basis of nocturnal daytime symptoms and sleep study
 * Diagnosis
     * Symptoms of nocturnal breathing disturbance or daytime sleepiness or fatigue despite adequate opportunity to sleep and unexplained by medical problems ***and*** 
-    * 5 or more episodes of apnea or hypapnea per hour
+    * 5 or more episodes of apnea or hypapnea per hour (Apnea-hypopnea index or AHI which is apnea or hypopnea total divided by hours of sleep)
+    * In absence of symptoms if AHO >15 every hour
+* Hypopnea or apnea 
+    * Reduction in breathing for 10s and >_ 3% drop in saturation or brain cortex arousal
+* Severity graded on 
+    * AHI,
+    * amount of desaturation, 
+    * duration of Apnea-hypopnea 
+    * degree of sleep fragmentation 
+    * level of daytime sleepiness or impairment
+## Pathophysiology
+* 
