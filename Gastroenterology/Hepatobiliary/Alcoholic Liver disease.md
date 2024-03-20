@@ -51,4 +51,33 @@
 * symptoms on decompensation or alcoholic hepatitis 
 * usually drinking heavy >5 years and atleast till 8 weeks before symptoms 
 * presentation 
-	* rapid onset 
+	* rapid onset jaundice (bil >3)
+	* fever, malaise 
+	* tender hepatomegaly 
+	* signs of decompensation 
+		* ascites 
+		* bacterial infections (12-26% at admission)
+		* variceal bleed 
+		* encephalopathy 
+	* SIRS and AKI secondary to HRS 
+* ![[ALD-presentation.png]]
+# Laboratory 
+* simple hepatic steatosis maybe normal liver tests 
+* Steatohepatitis 
+	* AST ALT high 
+	* AST/ALT >1
+	* AST rarely >300 
+	* Bil and INR usually normal 
+* Cirrhosis 
+	* elevated bilirubin 
+	* INR raised 
+	* low albumin 
+	* low platelet 
+* hepatitis 
+	* AST and ALT but not more than 400 
+	* AST/ALT >1.5 
+	* bil >3 
+# Diagnosis 
+* AUDIT 
+	* Alcohol Use Disorders Inventory Test 
+* ALD requires exclusion of other causes in heavy drinkers 
