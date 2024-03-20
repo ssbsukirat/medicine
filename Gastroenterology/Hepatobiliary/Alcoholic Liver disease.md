@@ -18,4 +18,16 @@
 * predominantly metabolized in the ***liver***
 * reaches the liver through the ***portal*** vein 
 * ethanol is ***oxidized*** via alcohol dehydrogenase 1 (***ADH1***) into ***acetaldehyde*** in hepatocytes
-* 
+* Chronic consumption induces cytochrome P450 family 2 subfamily E member 1 (***CYP2E1***), which also converts ethanol into ***acetaldehyde***
+* acetaldehyde 
+	* direct toxicity 
+	* ROS generation 
+	* Lipid peroxidation and DNA damage 
+	* oxidized to ***Acetate*** by Acetaldehyde Dehydrogenase (***ALDH***)
+* Inherited deficiency of ALDH2
+	* common in Asian countries
+	* acetaldehyde accumulation after alcohol  
+	* develop nausea and cutaneous flushing
+* mechanism of hepatic steatosis 
+	* acetate to acetyl-CoA leading to fatty acid and triglyceride synthesis 
+	* 
