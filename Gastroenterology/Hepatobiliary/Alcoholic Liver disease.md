@@ -36,4 +36,19 @@
 	* reduced mitochondrial Beta-oxidation 
 	* increase fatty acid mobilization in adipose tissue and the intestine, increasing hepatic accumulation of fats 
 # Risk factors of progression 
-* Daily alcohol consumption or heavy drinking 
+* Daily alcohol consumption or heavy drinking (but only 10-20% develop)
+* dose dependent risk of alcoholic cirrhosis with alcohol 
+* drinking pattern 
+	* binge drinking and excessive alcohol drinking outside meals 
+* Obesity and other CLD (viral, hemochromatosis, NASH)
+* genetic predisposition (differed for ALD and alcohol use)
+	* patatin-like phospholipase domain-containing 3 (PNPLA3)
+	* membrane bound O-acyltransferase domain-containing 7 (MBOAT7)
+	* transmembrane 6 superfamily member 2 (TM6SF2)
+* ![[ALDprogress-risk.png]]
+# Clinical feature 
+* clinically silent often 
+* symptoms on decompensation or alcoholic hepatitis 
+* usually drinking heavy >5 years and atleast till 8 weeks before symptoms 
+* presentation 
+	* rapid onset 
