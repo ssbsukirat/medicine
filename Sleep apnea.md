@@ -118,5 +118,10 @@
     - Breathing
         - changes in airflow, respiratory excursion
     - Oxygen by saturation
+    - Body position
+    - Cardiac rhythm
+    - Some measure sleep continuity and sleep stages by EEG, chin EMG, EOG and actigraphy leg movement and snoring intensity
+    - ![[Sleepapnea.PNG]]
+    - 
 
 
