@@ -138,5 +138,10 @@
 * Due to impact of sleep fragmentation, cortical arousal and intermittent hypoxemia and hypercapnia
 * OSA induced respiratory events stimulates sympathetic overdrive causing high BP
 * Acute phase reactants released in hypoxemia and ROS that raise insulin resistance, lipolysis, proinflammatory state and prothrombotic state
+* Inspiratory effort against an occluded airway causes large intrathoracic negative pressure swings, altering cardiac preload and afterload and resulting in cardiac remodeling and reduced cardiac function 
+* Hypertension 
+	* can raise to prehypertensive and hypertensive ranges 
+	* increased prevalence of non-dipping pattern 
+	* increase risk of uncontrolled resistant hypertension 
 
 
