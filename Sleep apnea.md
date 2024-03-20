@@ -136,6 +136,7 @@
 * Negative influence on quality of life 
 * Associated with cardiac cerebrovascular and metabolic disorders and ***premature death***
 * Due to impact of sleep fragmentation, cortical arousal and intermittent hypoxemia and hypercapnia
-* OSA induced
+* OSA induced respiratory events stimulates sympathetic overdrive causing high BP
+* Acute phase reactants released in hypoxemia and ROS that raise insulin resistance, lipolysis, proinflammatory state and prothrombotic state
 
 
