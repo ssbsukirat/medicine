@@ -143,5 +143,18 @@
 	* can raise to prehypertensive and hypertensive ranges 
 	* increased prevalence of non-dipping pattern 
 	* increase risk of uncontrolled resistant hypertension 
+	* due to augmented sympathetic nervous system activation as well as alterations in the renin-angiotensin-aldosterone system and fluid balance 
+	* CPAP reduces 24h ABPM 
+* Cardiovascular , cerebrovascular , Metabolic 
+	* increases risk of 
+		* coronary artery disease, 
+		* heart failure with and without reduced ejection fraction, 
+		* atrial and ventricular arrhythmias, 
+		* atherosclerosis and coronary artery disease,
+		* stroke,
+		* diabetes
+	* sleepy patients may have the greatest OSA-related cardiovascular risk 
+* Sleepiness 
+	* 50% report 
 
 
