@@ -30,4 +30,10 @@
 	* develop nausea and cutaneous flushing
 * mechanism of hepatic steatosis 
 	* acetate to acetyl-CoA leading to fatty acid and triglyceride synthesis 
-	* 
+	* epigenetic changes, increases the expression of genes involved in lipogenesis,
+	* genes involved in fatty acid transport and oxidation are suppressed
+	* ncreases the ratio of reduced nicotinamide adenine dinucleotide (NAD)/oxidized NAD (NADH/NAD+) in hepatocytes,
+	* reduced mitochondrial Beta-oxidation 
+	* increase fatty acid mobilization in adipose tissue and the intestine, increasing hepatic accumulation of fats 
+# Risk factors of progression 
+* 
