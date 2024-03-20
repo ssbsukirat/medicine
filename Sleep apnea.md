@@ -59,9 +59,20 @@
         * Higher threshold prevents termination of apnea prolonging it's duration and desaturation
 ## risk factors and prevalence
 * Major
-    * Male sex
-    * Obesity
+    * Male sex (2x risk than women)
+         * Android pattern of obesity
+         * Greater pharyngeal length 
+         * Women protected by influence of sex hormones on ventilatory drive 
+         * Women have lower arousal threshold and lower neuromuscular collapsibility 
+    * Obesity (40-60% cases)
+        * Due to narrowing by upper airway fat
+        * Reduced chest wall compliance and lower lung volume
+        * 4x greater risk
     * Older age
     * Mandibular retrognathia and micrognathia
     * Positive family history of OSA
     * Sedentary lifestyle
+    * Genetic syndrome (down's, treacher-collins,)
+    * Adenotonsillar hypertrophy
+    * Menopause
+    * Endocrine (acromegaly, hypothyroidism)
