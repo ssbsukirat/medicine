@@ -145,4 +145,22 @@
 	* ABIC 
 		* age-bilirubin-INR-Creatinine score 
 	* MDF <32 or MELD ≤20 are defined as having moderate alcoholic hepatitis
+		* Enteral nutrition 
+			* >21kcal/kg 
+			* supplemental micronutrients (zinc)
+			* vitamin supplementation (B1)
+		* albumin IV for volume expansion 
+	* MDF ≥32 or MELD >20 is severe 
+		* high short-term mortality 
+		* survival benefit with glucocorticoids (28 day benefit but 6 month survival same )
+		* contraindication of glucocorticoids 
+			* uncontrolled infections or sepsis, 
+			* AKI and hepatorenal syndrome, 
+			* uncontrolled upper gastrointestinal bleeding, 
+			* concomitant diseases (including viral hepatitis, HCC, pancreatitis, DILI, active tuberculosis, and HIV), 
+			* multiorgan failure
+			* shock.
+		* oral prednisolone 40mg/d for 4 weeks or methylpred 32mg/d IV 
+		* Add N-acetylcysteine 
+		* if Lille score improvement  <0.45 after 7 days, unlikel
 * 
