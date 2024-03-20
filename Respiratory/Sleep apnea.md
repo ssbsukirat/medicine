@@ -201,6 +201,10 @@
 	* in snoring , mild OSA or not tolerating CPAP 
 	* less successful than oral appliances 
 * bariatric surgery in obese 
-* Upper Air
+* Upper Airway Neurostimulation 
+	* unilateral hypoglossal activation by implanted device 
+	* cannot tolerating CPAP, 
+	* moderate to severe OSA (AHI 15-65) BMI <32 kg/m2 with absence of complete concentric collapse at level of velum
+
 
 
