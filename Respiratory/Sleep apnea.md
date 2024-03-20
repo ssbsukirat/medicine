@@ -205,6 +205,16 @@
 	* unilateral hypoglossal activation by implanted device 
 	* cannot tolerating CPAP, 
 	* moderate to severe OSA (AHI 15-65) BMI <32 kg/m2 with absence of complete concentric collapse at level of velum
-
+# Central [[Sleep apnea]] 
+* less common 
+* more often as ***mixed apnea*** with obstruction 
+* increase sensitivity to CO2 leading to unstable breathing pattern causing hyperventilation alternating with apnea 
+* prolonged ***circulation delay*** between the pulmonary capillaries and carotid chemoreceptors is also a contributing cause; thus, individuals with ***congestive heart failure*** are at risk for CSA.
+	* crescendo descendo breathing or ***Cheyne-Stokes breathing***
+* opioids 
+* hypoxia 
+* CPAP may induce CSA 
+	* complex sleep apnea or treatment-emergent sleep apnea 
+* rarely by blunted chemoreceptors sensitivity 
 
 
