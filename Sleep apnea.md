@@ -122,6 +122,20 @@
     - Cardiac rhythm
     - Some measure sleep continuity and sleep stages by EEG, chin EMG, EOG and actigraphy leg movement and snoring intensity
     - ![[Sleepapnea.PNG]]
-    - 
+    - anatomical risk factors identified
+        - cephalometric radiography
+        - Upper airway MRI and CT
+        - Fiberoptic endoscopy
+    - Cardiac may show diastolic or systolic dysfunction
+    - Overnight BP shows "non-dipping" pattern (no overnight 10% BP fall)
+    - Sleep ABG usually normal
+    - Severe nocturnal hypoxemia may have elevated HB
+    - Multiple sleep latency or maintainence of wakefulness test to differentiate from narcolepsy
+
+## health consequences
+* Negative influence on quality of life 
+* Associated with cardiac cerebrovascular and metabolic disorders and ***premature death***
+* Due to impact of sleep fragmentation, cortical arousal and intermittent hypoxemia and hypercapnia
+* OSA induced
 
 
