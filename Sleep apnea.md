@@ -87,4 +87,7 @@
     - Gasping or snorting in sleep
     - Dyspnea unusual (OSA vs PND, nocturnal asthma and reflux)
     - Frequent awakening and sleep disruption
-    - Excessive daytime sleepiness (mod)
+    - Excessive daytime sleepiness (most common daytime symptom)
+    - Fatigue (more in women)
+    - Dry mouth, nocturnal heartburn, diaphoresis, nocturia, morning headache, low concentration, irritability, mood disturbance
+    - Insomnia may coexist
