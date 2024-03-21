@@ -111,3 +111,15 @@
 	* liver stiffness, a surrogate marker of liver fibrosis 
 		* magnetic resonance elastography (MRE)
 		* transient elastography (FibroScan)
+	* factors reducing specificity of stiffness tests 
+		* obesity, 
+		* nonfasting state, 
+		* hepatic inflammation, 
+		* iron overload
+		* hepatic congestion
+# Clinical manifestations 
+* asymptomatic 
+* diagnosis by abnormal LFTs or fatty liver on other testing 
+* maybe diagnosed at vague RUQ pain, hepatomegaly , abnormal liver appearance at abdominal surgery 
+* 50-90% subjects obese (+/- metabolic syndrome )
+* 
