@@ -22,4 +22,10 @@
 ## Gut 
 * reaches the duodenum and passes down the gastrointestinal tract ***without reabsorption*** by the intestinal mucosa.
 * fraction is converted by bacterial metabolism in the gut to the water-soluble ***colorless compound urobilinogen***. 
-* Urobilinogen undergoes enterohepatic cycling. Urobilinogen not taken up by the liver reaches the systemic circulation, from which some is cleared by the kidneys.
+* Urobilinogen undergoes ***enterohepatic cycling***. 
+* Urobilinogen not taken up by the liver reaches the systemic circulation, from which some is cleared by the kidneys.
+* Unconjugated bilirubin usually does not reach gut except 
+	* neonates
+	* alternate pathways in unconjugated hyperbilirubinemia 
+## Renal excretion of conjugates 
+* Unconjugated bilirubin is not excreted in urine, as it is too tightly bound to albumin for effective glomerular filtration and there is no tubular mechanism for its renal secretion. In contrast, the bilirubin conjugates are readily filtered at the glomerulus and can appear in urine in disorders characterized by increased bilirubin conjugates in the circulation. It should be kept in mind that the kidney can serve as an “overflow valve” for conjugated bilirubin. Consequently, the level of jaundice in individuals with con- jugated hyperbilirubinemia can be amplified in the presence of renal failure.
