@@ -45,4 +45,8 @@
 	* Reduced barrier function increases hepatic exposure to gut-derived products, which stimulate liver cells to generate inflammatory mediators ***that inhibit insulin actions.***
 	* ***adipokines*** in obesity that reduce insulin sensitivity causing hyperinsulinemia 
 	* hyperinsulinemia promote lipid uptake, fat synthesis and fat storage 
-	* 
+	* triglyceride on its own not cytotoxic 
+		* precursors (e.g., fatty acids and diacylglycerols) 
+		* metabolic by-products (e.g., reactive oxygen species)
+	* lipotoxicity causes cell death and compensatory cell repair 
+		* transient expansion of myofibroblasts and progenitor cells, that make and degrade matrix, remodel the vasculature, and generate replacement hepatocytes, as well as the recruitment of immune cells that release factors that modulate liver injury and repair.
