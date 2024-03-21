@@ -92,3 +92,22 @@
 		* significant bleeding, 
 		* pain, or 
 		* inadvertent puncture of other organs
+* AST ALT not accurate markers 
+* algorithm with multiple tests devised 
+	* Enhanced Liver Fibrosis (ELF)score, 
+	* BARD score,
+	* AST to Platelet Ratio Index (APRI)score,
+	* NAFLD fibrosis score (commonly used)
+	* Fibrosis-4 (FIB-4) score (common )
+* NAFLD fibrosis score & FIB-4 
+	* age,
+	* body mass index,
+	* glucose, 
+	* platelet count,
+	* albumin, 
+	* AST, ALT 
+* scores + non-invasive quantification of liver fat (better predictive power)
+	* MRI using proton density fat fraction (MRI-PDFF)
+	* liver stiffness, a surrogate marker of liver fibrosis 
+		* magnetic resonance elastography (MRE)
+		* transient elastography (FibroScan)
