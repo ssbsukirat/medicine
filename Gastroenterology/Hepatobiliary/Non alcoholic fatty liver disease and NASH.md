@@ -175,4 +175,6 @@
 		* improves blood, radiological , histology 
 		* may increase risk of cardiovascular mortality , hemorrhage stroke, prostate cancer
 * USDA and betaine have no benefit 
+* statins should be used to treat dysplipidemia and decrease cardiovascular risk 
+## Bariatric surgery 
 * 
