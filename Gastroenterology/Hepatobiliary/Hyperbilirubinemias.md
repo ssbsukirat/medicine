@@ -40,4 +40,14 @@
 # Unconjugated Hyperbilirubinemias 
 ## Increased Bilirubin Production 
 ### Hemolysis 
-* INdre
+* Increased destruction leads to more bilirubin turnover 
+* ***modest*** unconjugated hyperbilirubinemia if Normal liver function 
+* Bone marrow can make 8x increased production --> hemolysis causes max bilirubin of 4mg/dL 
+* if >4mg/dL implies hepatic dysfunction 
+* direct <15% 
+* if systemic disease or hepatic dysfunction both conjugated and unconjugated maybe raised 
+* ***Prolonged*** hemolysis may precipitate bilirubin salts within the gallbladder or biliary tree, 
+	* formation of ***bilirubin gallstones***
+		* acute or chronic cholecystitis, biliary obstruction, or any other biliary tract consequence of calculous disease
+### ineffective erythropoiesis 
+* 
