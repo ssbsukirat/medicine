@@ -18,6 +18,7 @@
 		* Rotor syndrome study suggests 
 			* portion of the glucuronides is transported into the portal circulation by a sinusoidal membrane protein called multidrug resistance–associated protein 3 (MRP3, ABCC3)
 			* subjected to reuptake into the hepatocyte by the sinusoidal membrane uptake transporters organic anion transport protein 1B1 (OATP1B1, SLCO1B1) and OATP1B3 (SLCO1B3).
+* ![[bile-transport.png]]
 # Extrahepatic aspects of bilirubin depositsion 
 ## Gut 
 * reaches the duodenum and passes down the gastrointestinal tract ***without reabsorption*** by the intestinal mucosa.
@@ -28,4 +29,15 @@
 	* neonates
 	* alternate pathways in unconjugated hyperbilirubinemia 
 ## Renal excretion of conjugates 
-* Unconjugated bilirubin is not excreted in urine, as it is too tightly bound to albumin for effective glomerular filtration and there is no tubular mechanism for its renal secretion. In contrast, the bilirubin conjugates are readily filtered at the glomerulus and can appear in urine in disorders characterized by increased bilirubin conjugates in the circulation. It should be kept in mind that the kidney can serve as an “overflow valve” for conjugated bilirubin. Consequently, the level of jaundice in individuals with con- jugated hyperbilirubinemia can be amplified in the presence of renal failure.
+* Unconjugated bilirubin is not excreted in urine,
+	* tightly bound to albumin for effective glomerular filtration
+	* no tubular mechanism for its renal secretion.
+* bilirubin conjugates are readily filtered at the glomerulus 
+	* appear in urine in disorders characterized by ***increased bilirubin conjugates*** in the circulation. 
+* kidney can serve as an “overflow valve” for conjugated bilirubin. 
+	* level of jaundice in individuals with conjugated hyperbilirubinemia can be ***amplified in the presence of renal failure***.
+
+# Unconjugated Hyperbilirubinemias 
+## Increased Bilirubin Production 
+### Hemolysis 
+* INdre
