@@ -157,4 +157,22 @@
 * NAFLD without NASH or fibrosis only diet and physical therapy 
 * NASH or fibrosis get pharma 
 * Metformin 
-	* hepatic insulin sensis
+	* hepatic insulin sensitivity 
+	* TONIC study 
+	* not recommended 
+* Thiazolidinediones 
+	* insulin sensitivity 
+	* improved histology 
+	* PIVENS study 
+	* may gain weight and liver fibrosis does not improves 
+* liraglutide / semaglutide may be useful 
+* SGLT2 inhibitors \
+* antioxidants 
+	* Vitamin E 
+		* inexpensive
+		* potent 
+		* 800 IU/day 
+		* improves blood, radiological , histology 
+		* may increase risk of cardiovascular mortality , hemorrhage stroke, prostate cancer
+* USDA and betaine have no benefit 
+* 
