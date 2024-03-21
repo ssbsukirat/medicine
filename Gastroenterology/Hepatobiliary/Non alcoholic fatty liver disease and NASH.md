@@ -49,4 +49,6 @@
 		* precursors (e.g., fatty acids and diacylglycerols) 
 		* metabolic by-products (e.g., reactive oxygen species)
 	* lipotoxicity causes cell death and compensatory cell repair 
-		* transient expansion of myofibroblasts and progenitor cells, that make and degrade matrix, remodel the vasculature, and generate replacement hepatocytes, as well as the recruitment of immune cells that release factors that modulate liver injury and repair.
+		* transient expansion of myofibroblasts and progenitor cells, that make and degrade matrix, remodel the vasculature, and generate replacement hepatocytes, as well as the recruitment of immune cells
+* Cirrhosis results from futile repair, i.e., progressive accumulation of wound healing cells, fibrous matrix, and abnormal vasculature (scarring), rather than efficient reconstruction/regeneration of healthy hepatic parenchyma
+* 
