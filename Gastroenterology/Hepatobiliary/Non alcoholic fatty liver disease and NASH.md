@@ -62,4 +62,10 @@
 * diagnosis confidence increased by risk factors presence 
 	* increased body mass index 
 	* insulin resistance/type 2 diabetes mellitus,
-	* metabolic syndrome (e.g., systemic hypertension, dyslipidemia, hyperuricemia/gout, cardiovascular disease; Chap. 408) in the patient or family members. Individuals who have, or have had, pituitary or hypothalamic neoplasms and women with polycystic ovary syndrome are also at increased risk for NAFLD. Hypothyroidism and obstructive sleep apnea may also increase NAFLD
+	* metabolic syndrome (e.g., systemic hypertension, dyslipidemia, hyperuricemia/gout, cardiovascular disease) in the ***patient or family*** members. 
+	* pituitary or hypothalamic neoplasms 
+	* women with polycystic ovary syndrome 
+	* Hypothyroidism and obstructive sleep apnea
+* Staging NAFLD more difficult than diagnosis 
+* staging defines prognosis 
+	* steatosis vs NASH vs advanced fibrosis 
