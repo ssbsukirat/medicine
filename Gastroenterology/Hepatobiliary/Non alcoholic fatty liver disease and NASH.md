@@ -145,4 +145,16 @@
 * weight loss and increase insulin sensitivity 
 * 3-5% weight loss improves steatosis 
 * >7-10% improves steatohepatitis and fibrosis 
-* dietary macro 
+* dietary macro changes less important than energy intake reduction 
+* Mediterranean-type diet has been reported to improve NASH and liver fibrosis independently of weight loss.
+* reduce fructose and ***increase coffee***
+* exercise 
+	* complements dietary caloric restriction
+	* improves insulin sensitivity 
+	* 30 mins moderate intensity aerobic or resistance training 5x/week 
+## PHARMACOLOGICAL 
+* no approved drugs 
+* NAFLD without NASH or fibrosis only diet and physical therapy 
+* NASH or fibrosis get pharma 
+* Metformin 
+	* hepatic insulin sensis
