@@ -12,4 +12,14 @@
 		* UGT1 family responsible 
 		* UGT1A1 gene encodes UDP-glucuronosyltransferase 
 	* ***Biliary excretion*** 
-		* 
+		* recently thought bilirubin mono- and diglucuronides are excreted directly across the canalicular plasma membrane into the bile canaliculus
+		* by an ***ATP-dependent*** process mediated by a canalicular membrane protein called multidrug resistance–associated protein 2 (MRP2, ABCC2).
+		* ***MRP2*** mutation causes ***Dubin-Johnson syndrome***
+		* Rotor syndrome study suggests 
+			* portion of the glucuronides is transported into the portal circulation by a sinusoidal membrane protein called multidrug resistance–associated protein 3 (MRP3, ABCC3)
+			* subjected to reuptake into the hepatocyte by the sinusoidal membrane uptake transporters organic anion transport protein 1B1 (OATP1B1, SLCO1B1) and OATP1B3 (SLCO1B3).
+# Extrahepatic aspects of bilirubin depositsion 
+## Gut 
+* reaches the duodenum and passes down the gastrointestinal tract ***without reabsorption*** by the intestinal mucosa.
+* fraction is converted by bacterial metabolism in the gut to the water-soluble ***colorless compound urobilinogen***. 
+* Urobilinogen undergoes enterohepatic cycling. Urobilinogen not taken up by the liver reaches the systemic circulation, from which some is cleared by the kidneys.
