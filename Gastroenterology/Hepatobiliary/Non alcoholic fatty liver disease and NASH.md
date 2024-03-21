@@ -27,8 +27,6 @@
 	* "cryptogenic" ALT elevations maybe predictive 
 		* serum ALT elevations that cannot be explained by excessive alcohol consumption, other known causes of fatty liver disease, viral hepatitis, or drug-induced or congenital liver diseases
 * ![[NAFLD-spectrum.png]]
-* ![[NAFLD-alternatecauses.png]]
-* ![[NAFLD-drugscausing.png]]
 * heritable factors 
 	* TM6SF2 or MBOAT7 (involved in lipid homeostasis)
 	* palatin-like phospholipase domain-containing 3 gene (PNPLA3)
@@ -51,4 +49,17 @@
 	* lipotoxicity causes cell death and compensatory cell repair 
 		* transient expansion of myofibroblasts and progenitor cells, that make and degrade matrix, remodel the vasculature, and generate replacement hepatocytes, as well as the recruitment of immune cells
 * Cirrhosis results from futile repair, i.e., progressive accumulation of wound healing cells, fibrous matrix, and abnormal vasculature (scarring), rather than efficient reconstruction/regeneration of healthy hepatic parenchyma
-* 
+* cancers develop when malignantly transformed liver cells escape mechanisms that normally control regenerative growth.
+# Diagnosis 
+* demonstration of increased liver fat in the absence of hazardous levels of alcohol consumption 
+	* >1(women ) >2(men) drinks per day 
+* exclude other causes like drugs and causes of liver injury 
+* ![[NAFLD-alternatecauses.png]]
+* ![[NAFLD-drugscausing.png]]
+* can be done by history , physical , imaging ( USG, CT, MRI), blood test 
+	* invasive testing not needed 
+* liver may not be enlarged and LFTs maybe normal 
+* diagnosis confidence increased by risk factors presence 
+	* increased body mass index 
+	* insulin resistance/type 2 diabetes mellitus,
+	* metabolic syndrome (e.g., systemic hypertension, dyslipidemia, hyperuricemia/gout, cardiovascular disease; Chap. 408) in the patient or family members. Individuals who have, or have had, pituitary or hypothalamic neoplasms and women with polycystic ovary syndrome are also at increased risk for NAFLD. Hypothyroidism and obstructive sleep apnea may also increase NAFLD
