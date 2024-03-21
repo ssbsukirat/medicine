@@ -39,4 +39,5 @@
 		* intrauterine exposures influence susceptibility to obesity and the metabolic syndrome in adolescence
 * increases risk of both ***HCC and intrahepatic cholangiocarcinoma***
 # Pathogenesis 
-* 
+* steatosis 
+	* when triglyceride ***synthesis***(lipid uptake + denovo synthesis ) >> triglyceride ***disposal*** (degradative metabolism + lipoprotein export)
