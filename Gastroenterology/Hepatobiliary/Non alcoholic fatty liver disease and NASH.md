@@ -186,4 +186,6 @@
 * comorbidities often limit transplant candidacy.
 * NAFLD may recur 
 	* hypertriglyceridemia 
-	* o
+	* obesity 
+	* T2-DM 
+	* immunosuppresants 
