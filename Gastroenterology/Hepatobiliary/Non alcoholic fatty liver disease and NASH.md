@@ -177,4 +177,13 @@
 * USDA and betaine have no benefit 
 * statins should be used to treat dysplipidemia and decrease cardiovascular risk 
 ## Bariatric surgery 
-* 
+* ack of randomized clinical trials or adequate clinical studies prevents definitive assessment of benefits and harms of bariat- ric surgery as a treatment for NASH.
+* safe in individuals with well-compensated chronic liver disease and improves hepatic steatosis and necroinflammation (i.e., features of NAFLD/NASH)
+* effect on fibrosis +/- 
+* patients with NAFLD-related cirrhosis and, particularly, those with portal hypertension should be excluded as candidates for bariatric surgery.
+## transplant 
+* in all with end stage liver disease 
+* comorbidities often limit transplant candidacy.
+* NAFLD may recur 
+	* hypertriglyceridemia 
+	* o
