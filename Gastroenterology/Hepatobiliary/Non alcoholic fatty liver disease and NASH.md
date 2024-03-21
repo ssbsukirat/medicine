@@ -41,3 +41,8 @@
 # Pathogenesis 
 * steatosis 
 	* when triglyceride ***synthesis***(lipid uptake + denovo synthesis ) >> triglyceride ***disposal*** (degradative metabolism + lipoprotein export)
+	* Obesity stimulates triglyceride accumulation by altering the intestinal microbiota to enhance both energy harvest and intestinal permeability.
+	* Reduced barrier function increases hepatic exposure to gut-derived products, which stimulate liver cells to generate inflammatory mediators ***that inhibit insulin actions.***
+	* ***adipokines*** in obesity that reduce insulin sensitivity causing hyperinsulinemia 
+	* hyperinsulinemia promote lipid uptake, fat synthesis and fat storage 
+	* 
