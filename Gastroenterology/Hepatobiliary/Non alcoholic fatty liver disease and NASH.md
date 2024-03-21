@@ -35,3 +35,8 @@
 		* encodes an enzyme involved in intracellular trafficking of lipids
 		* severity of NASH and liver fibrosis 
 	* heritance accounts for 50% risk of cirrhosis 
+	* Epigenetics also affects 
+		* intrauterine exposures influence susceptibility to obesity and the metabolic syndrome in adolescence
+* increases risk of both ***HCC and intrahepatic cholangiocarcinoma***
+# Pathogenesis 
+* 
