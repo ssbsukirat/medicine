@@ -26,4 +26,12 @@
 	* no specific blood test available 
 	* "cryptogenic" ALT elevations maybe predictive 
 		* serum ALT elevations that cannot be explained by excessive alcohol consumption, other known causes of fatty liver disease, viral hepatitis, or drug-induced or congenital liver diseases
-* 
+* ![[NAFLD-spectrum.png]]
+* ![[NAFLD-alternatecauses.png]]
+* ![[NAFLD-drugscausing.png]]
+* heritable factors 
+	* TM6SF2 or MBOAT7 (involved in lipid homeostasis)
+	* palatin-like phospholipase domain-containing 3 gene (PNPLA3)
+		* encodes an enzyme involved in intracellular trafficking of lipids
+		* severity of NASH and liver fibrosis 
+	* heritance accounts for 50% risk of cirrhosis 
