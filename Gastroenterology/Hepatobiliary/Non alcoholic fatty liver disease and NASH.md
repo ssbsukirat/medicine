@@ -69,3 +69,26 @@
 * Staging NAFLD more difficult than diagnosis 
 * staging defines prognosis 
 	* steatosis vs NASH vs advanced fibrosis 
+* staging by 
+	* non-invasive (blood, physical, imaging )
+	* invasive (biopsy )
+* advanced NAFLD 
+	* Blood tests 
+		* hepatic dysfunction 
+			* hyperbilirubinemia 
+			* hypoalbuminemia 
+			* PT elongation 
+		* Portal hypertension (thrombocytopenia )
+	* stigmata of portal hypertension 
+		* spider angiomata 
+		* palmar erythema 
+		* splenomegaly 
+		* ascites 
+		* clubbing encephalopathy 
+* biopsy
+	* gold standard 
+	* sampling error unless tissue core >2cm acquired
+	* complication less 
+		* significant bleeding, 
+		* pain, or 
+		* inadvertent puncture of other organs
