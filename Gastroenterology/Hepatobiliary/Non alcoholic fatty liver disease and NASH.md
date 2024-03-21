@@ -122,4 +122,27 @@
 * diagnosis by abnormal LFTs or fatty liver on other testing 
 * maybe diagnosed at vague RUQ pain, hepatomegaly , abnormal liver appearance at abdominal surgery 
 * 50-90% subjects obese (+/- metabolic syndrome )
-* 
+* stigmata maybe present 
+* minority have complication at presentation (jaundice, portal hypertension , variceal hemorrhage )
+* uncommon association 
+	* chronic fatigue 
+	* mood alterations 
+	* OSA 
+	* thyroid dysfunction 
+	* PCOS 
+	* chronic pain syndrome 
+* 2-3x risk of developing metabolic syndrome 
+* risk for endothelial dysfunction , more plaques in vessels 
+
+# Treatment 
+* 3 component 
+	* specific therapy 
+	* comorbidities management 
+	* treating complication 
+* no FDA approved therapy 
+## Diet and exercise 
+* lifestlye changes and dietary modifications 
+* weight loss and increase insulin sensitivity 
+* 3-5% weight loss improves steatosis 
+* >7-10% improves steatohepatitis and fibrosis 
+* dietary macro 
