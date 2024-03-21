@@ -17,6 +17,13 @@
 	* may remain stable for years 
 	* may cause progressive fibrous scar leading to cirrhosis 
 * Liver related mortality and morbidity in NAFLD
-	* predicted by advanced hepatic fibrosis 
+	* predicted by advanced hepatic fibrosis (higher in )
+		* age >45-50
+		* overweight or obese 
+		* T2-DM 
 	* in cirrhosis primary liver cancer risk is 1-2% per year 
 * Imaging cannot differentiate NAFLD vs NASH (cell death and inflammation )
+	* no specific blood test available 
+	* "cryptogenic" ALT elevations maybe predictive 
+		* serum ALT elevations that cannot be explained by excessive alcohol consumption, other known causes of fatty liver disease, viral hepatitis, or drug-induced or congenital liver diseases
+* 
