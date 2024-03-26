@@ -78,4 +78,10 @@
     - 2-5 days after birth most develop unconjugated hyperbilirubinemia 
     - <5-10 usually (higher in premature)
     - Corrects in 2 weeks 
-    - if rapidly rising or >20 
+    - if rapidly rising or >20 may cause kernicterus
+    - In kernicterus, bilirubin may cross blood brain barrier and precipitate in basal ganglia and other areas 
+    - Phototherapy converts bilirubin into water soluble photoisomers excreted into bioe
+    - Canalicular mechanism responsible for excretion also immature so may cause conjugated hyperbilirubinemia
+- Acquired conjugation defects 
+    - modest reduction in advanced hepatitis or cirrhosis
+    - Conjugation better preserved than canalicular mechanism
