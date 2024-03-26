@@ -85,3 +85,16 @@
 - Acquired conjugation defects 
     - modest reduction in advanced hepatitis or cirrhosis
     - Conjugation better preserved than canalicular mechanism
+    - Drugs inhibiting ugt1a1
+        - pregnanediol 
+        - Novobiocin
+        - Chloramphenicol
+        - Gentamicin
+        - Atazanavir 
+    - Fatty acids in breast milk may inhibit conjugation causing breast milk jaundice
+    - Increased enterohepatic circulation in infants 
+    - Lucey-driscoll syndrome
+        - transient familial neonatal hyperbilirubinemia
+        - Ugt1a1 inhibitors in maternal serum 
+## hereditary conjugation defects 
+* 
