@@ -73,4 +73,9 @@
 - physiological neonatal jaundice
     - in fetus bilirubin cleared by placenta and maternal liver 
     - At birth, neonatal liver must take over but physiological processes underdeveloped
-    - Ugt1a1 levels low
+    - Ugt1a1 levels low and alternate excretory pathways pass unconjugated bilirubin in gut 
+    - Intestinal flora underdeveloped so urobilinogen conversion low , enterohepatic bilirubin circulation develops 
+    - 2-5 days after birth most develop unconjugated hyperbilirubinemia 
+    - <5-10 usually (higher in premature)
+    - Corrects in 2 weeks 
+    - if rapidly rising or >20 
