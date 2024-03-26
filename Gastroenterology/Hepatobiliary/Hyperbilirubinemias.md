@@ -107,4 +107,7 @@
 - Hepatic histology
     - usual normal 
     - Occasional bile plugs in canaliculi 
-- Absent bilirubin gluco
+- Absent bilirubin glucuronide and no detectable ugt1a1 activity 
+- No response to phenobarbital or enzyme inducers
+- Unconjugated bilirubin with very slow clearance by alternative mechanism (direct passage in bile or gut by photoisomers)
+- Trace urobilinogen in feces, no bilirubin in urine
