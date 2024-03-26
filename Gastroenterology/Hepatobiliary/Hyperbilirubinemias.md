@@ -97,4 +97,14 @@
         - transient familial neonatal hyperbilirubinemia
         - Ugt1a1 inhibitors in maternal serum 
 ## hereditary conjugation defects 
-* 
+* ![[Unconjugatedsyndromes.png]]
+### crigler Najjar type 1 
+- striking unconjugated hyperbilirubinemia
+- 20-45 mg/dL 
+- Starts at neonate
+- Persists for life
+- Other LFTs normal with no evidence of hemolysis
+- Hepatic histology
+    - usual normal 
+    - Occasional bile plugs in canaliculi 
+- Absent bilirubin gluco
