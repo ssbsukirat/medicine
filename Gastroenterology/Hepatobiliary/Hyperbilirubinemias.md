@@ -50,4 +50,11 @@
 	* formation of ***bilirubin gallstones***
 		* acute or chronic cholecystitis, biliary obstruction, or any other biliary tract consequence of calculous disease
 ### ineffective erythropoiesis 
-* 
+* Destruction of developing erythroid cells and small amount of HB extruded during nuclear maturation account for bilirubin production
+* Fraction of bilirubin from ineffective erythropoiesis increased in
+    * Thalassemia
+    * Megaloblastic Anemia (b12 folate)
+    * Congenital erythropoitic porphyria
+    * Lead poisoning
+    * Dyserythropoetic anemias
+    * 
