@@ -57,4 +57,20 @@
     * Congenital erythropoitic porphyria
     * Lead poisoning
     * Dyserythropoetic anemias
-    * 
+* May account for 70% of total bilirubin
+* Usually modest unconjugated bilirubin
+### others
+* Degradation of HB in extravascular blood pooling like in infarction or hematomas
+## decreased hepatic bilirubin clearance
+### decreased hepatic uptake 
+ * In Gilbert's syndrome
+ * Drugs (resolves with stopping of drug)
+     * Flavaspidic acid 
+     * Novobiocin
+     * Rifampin 
+     * Contrast agents 
+### impaired conjugation
+- physiological neonatal jaundice
+    - in fetus bilirubin cleared by placenta and maternal liver 
+    - At birth, neonatal liver must take over but physiological processes underdeveloped
+    - Ugt1a1 levels low
