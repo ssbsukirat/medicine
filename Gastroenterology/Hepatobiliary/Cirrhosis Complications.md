@@ -29,7 +29,7 @@
 * 1/3 with varices have bleeding 
 * Factor predicting bleeding 
 	* severity of cirrhosis (Child-Pugh class, Model for End-Stage Liver Disease score);
-	* the height of wedged-hepatic vein pressure;
+	* the height of wedged-hepatic vein pressure >12mmhg
 	* the size of the varix; 
 	* the location of the varix;
 	* endoscopic stigmata, 
@@ -43,5 +43,23 @@
 * Diagnosis 
 	* Usually by 
 		* thrombocytopenia 
-		* e
+		* enlarged spleen 
+		* ascites 
+		* encephalopathy 
+		* varices +/- bleeding (endoscopy )
+	* CT/MRI 
+		* nodular liver and in finding changes of portal hypertension with intraabdominal collateral circulation.
+* Treatment 
+	* PRIMARY prophylaxis and prevent rebleeding 
+	* Primary prophylaxis 
+		* routine endoscopy 
+			* at diagnosis 
+			* every 2 years in active disease 
+			* every 3 years in inactivated 
+			* at time of hepatic decompensation 
+		* if bleeding risk identified 
+			* Non-selective Beta blocker (NSSB)
+				* goal HR 55-60/min 
+				* SBP >90mmhg
+			* Band ligation
 
