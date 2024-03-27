@@ -95,3 +95,6 @@
 		* Zieves syndrome 
 			* Hemolytic anemia 
 			* spur cells and acanthocytes 
+			* in severe alcoholic hepatitis 
+	* low platelet counts due to portal hypertension and hypersplenism 
+	* normal or elevated bilirubin 
