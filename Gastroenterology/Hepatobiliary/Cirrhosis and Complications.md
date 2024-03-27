@@ -346,4 +346,27 @@
 	* liver becomes enlarged and swollen,
 	* long-term passive congestion and relative ischemia due to poor circulation, 
 	* centrilobular hepatocytes can become necrotic, leading to ***pericentral*** fibrosis
-* Cli
+* Clinical 
+	* signs of congestive heart failure
+	* enlarged firm liver on physical examination. 
+	* ALP levels are characteristically elevated, 
+	* aminotransferases may be normal or slightly increased, 
+	* with AST usually higher than ALT
+* Diagnosis 
+	* clear-cut cardiac disease who has an elevated ALP and an enlarged liver.
+	* Differentiation from Budd-Chiari syndrome (BCS) can be made by seeing extravasation of red blood cells in BCS, but not in cardiac hepatopathy.
+	* Veno-occlusive disease / sinusoidal obstructive syndrome,
+		* can also affect hepatic outflow 
+		* has characteristic features on liver biopsy.
+		* seen under the circumstances of conditioning for bone marrow transplant with radiation and chemotherapy; 
+		* ingestion of certain herbal teas as well as pyrrolizidine alkaloids.
+# Others 
+* hemochromatosis, Wilson’s disease, α1 antitrypsin (α1AT) deficiency, and cystic fibrosis 
+* Hemochromatosis 
+	* inherited disorder of iron metabolism
+	* progressive increase in hepatic iron deposition 
+	* can lead to a portal-based fibrosis progressing to cirrhosis, liver failure, and hepatocellular cancer.
+	* Diagnosis is made with serum iron studies showing an elevated transferrin saturation and an elevated ferritin level, 
+	* abnormalities identified by HFE mutation analysis. 
+	* Treatment with regular therapeutic phlebotomy.
+* 
