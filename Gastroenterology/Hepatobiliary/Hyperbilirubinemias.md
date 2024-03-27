@@ -139,3 +139,4 @@
 	* alcohol 
 	* reduced calories 
 	* intercurrent illness 
+* bilirubin clearance is reduced to an average of one-third of normal 
