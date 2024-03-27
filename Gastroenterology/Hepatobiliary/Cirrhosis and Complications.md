@@ -1,0 +1,2 @@
+* condition that is defined histopathologically and has a variety of clinical manifestations and complications, some of which can be life-threatening 
+* earlier thought to be irreversible but now understood that removing insult may reverse fibrosis 

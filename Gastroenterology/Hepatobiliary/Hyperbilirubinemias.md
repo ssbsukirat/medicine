@@ -193,6 +193,8 @@
 	* followed rapidly by rises in alkaline phosphatase and conjugated bilirubin 
 	* onset of jaundice and itching.
 	* Maybe misdiagnosed as viral hepatitis 
+* BRIC 2 
+	* Bile salt excretory protein (BSEP) defect 
 ### Progressive Familial Intrahepatic Cholestasis 
 * 3 different syndromes 
 	* PFIC 1
@@ -200,3 +202,12 @@
 		* early infancy
 		* cholestasis 
 		* progressive to malnutrition, growth retardation, ESLD 
+		* FIC1 mutation 
+	* PFIC2 
+		* Bile salt excretory protein (BSEP)
+		* earlier bsep called ***sister of P-glycoprotein***
+	* PFIC3
+		* MDR3/ ABCB4 defect 
+		* required in normal canalicular transport 
+		* high GGT 
+![[familial-conjugated.png]]
