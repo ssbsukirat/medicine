@@ -123,4 +123,29 @@
 	* malnourished with muscle wasting and fatigue 
 * Diagnosis 
 	* physical + imaging 
+	* flank full 
+	* fluid thrill / wave 
+	* Shifting dullness 
+		* taking patients from a supine position to lying on either their left or right side and noting the movement of the dullness to percussion
+	* CT or USG may show subtle amounts 
+	* Hepatic hydrothorax 
+		* more common on right 
+		* implies rent in diaphragm 
+		* free flow of ascitic fluid to thorax 
+	* Diagnostic tap at 1st presentation 
+		* Total protein 
+		* albumin 
+		* TLC/DLC 
+		* amylase 
+		* cytology 
+	* SAAG 
+		* serum ascites-to-albumin gradient (SAAG), 
+		* calculated by subtracting the fluid albumin level from the serum albumin level
+		* if >1.1 --> PHTN 
+			* if protein >2.5 -->cardiac 
+		* <1.1 
+			* infections
+			* malignancy 
+	* if fluid protein <2.5g --> high risk of SBP 
+* Treatment 
 	* 
