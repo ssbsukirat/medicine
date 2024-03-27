@@ -214,4 +214,35 @@
 * cholestatic picture 
 	* elevated Bilirubin 
 	* progressive liver failure 
-* liver tran
+* liver transplant in decompensation 
+* UDCA slows progression so 1st line 
+* AMA ++ in 95% 
+	* non pathogenic 
+	* diagnostic 
+	* recognize lipoic acid on the inner mitochondrial membrane proteins that are enzymes of the pyruvate dehydrogenase complex (PDC), the branched-chain 2-oxoacid dehydrogenase complex, and the 2-oxogluterate dehydrogenase complex
+* Pathology 
+	* four distinct stages of the disease as it progresses. 
+		* The earliest lesion --> 
+			* ***chronic nonsuppurative destructive cholangitis***
+			* necrotizing inflammatory process of the portal tracts. 
+			* Medium and small bile ducts are infiltrated with lymphocytes and undergo duct destruction
+			* Mild fibrosis and sometimes bile stasis can occur. 
+		* With progression, 
+			* the inflammatory infiltrate becomes less prominent,
+			* the number of bile ducts is reduced 
+			* proliferation of smaller bile ductules. 
+		* Increased fibrosis 
+			* expansion of periportal fibrosis to bridging fibrosis.
+		* Finally, cirrhosis, which may be micronodular or macronodular, develops.
+* Clinical feature 
+	* middle- aged women 
+	* diagnosed well before the end-stage manifestations 
+	* most patients are asymptomatic
+	* fatigue out of proportion to either the severity of the liver disease or the age of the patient. 
+	* Pruritus
+		* is seen in ~50% of patients at the time of diagnosis,
+		* debilitating
+		* intermittent and most bothersome in the ***evening***.
+		* pruritus may develop toward the end of pregnancy (maybe mistaken for cholestasis of pregnancy)
+		* Pruritus that presents prior to the development of jaundice indicates severe disease and a poor prognosis 
+	* 
