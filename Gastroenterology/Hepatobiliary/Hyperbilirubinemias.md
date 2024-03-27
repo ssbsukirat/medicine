@@ -140,4 +140,6 @@
 	* reduced calories 
 	* intercurrent illness 
 * bilirubin clearance is reduced to an average of one-third of normal 
-* Irinotec
+* Irinotecan goes through same pathway so increased toxicity like diarrhea and myelosuppression 
+* Indinavir and atazanavir may cause hyperbilirubinemia in GIlbert due to UGT1A1 inhibition 
+* earlier thought to be AD 
