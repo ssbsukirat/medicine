@@ -245,4 +245,20 @@
 		* intermittent and most bothersome in the ***evening***.
 		* pruritus may develop toward the end of pregnancy (maybe mistaken for cholestasis of pregnancy)
 		* Pruritus that presents prior to the development of jaundice indicates severe disease and a poor prognosis 
-	* 
+	* Physical 
+		* jaundice and other complications of chronic liver disease including hepatomegaly, splenomegaly, ascites, and edema. 
+		* features unique to PBC 
+			* hyperpigmentation 
+				* evident on the trunk and arms 
+				* in areas of exfoliation and lichenification associated with progressive scratching related to the pruritus.
+			* xanthelasma
+			* xanthomata (due to altered cholesterol metabolism )
+			* Bone pain resulting from osteopenia or osteoporosis
+* Labs 
+	* cholestatic 
+		* elevation in γ-glutamyl trans- peptidase and alkaline phosphatase (ALP) 
+		* mild elevations in aminotransferases (ALT and AST) 
+	* IgM increased 
+	* hyperbilirubinemia 
+	* thrombocytopenia , anemia, leukopenia 
+	* biopsy 
