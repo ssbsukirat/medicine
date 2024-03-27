@@ -174,4 +174,18 @@
 		* earlier difficult due to side effects of pegylated-interferon and ribavarin 
 		* now direct antiviral available 
 # Autoimmune and NAFLD cirrhosis 
-* AIH may present with es
+* AIH may present with established cirrhosis 
+	* no benefit to immunosuppresants (glucocorticoids or azathioprine ) as AIH maybe "burned out"
+	* biopsy doesnt show significant inflammatory infiltrates 
+	* diagnosis requires ANA or ASMA (anti-smooth muscle antibody )
+	* if cirrhosis + active inflammation + elevated enzymes 
+		* glucocorticoids or azathioprine useful 
+* NASH 
+	* obesity 
+	* cryptogenic cirrhosis maybe NASH 
+	* as cirrhosis progresses, ***catabolic state so loss of steatosis on biopsy*** 
+# Biliary Cirrhosis 
+* different pathology from alcohol or posthepatic but clinically similar 
+* cholestatic liver disease 
+	* necroinflammatory lesions 
+	* congenital or metabolic process 
