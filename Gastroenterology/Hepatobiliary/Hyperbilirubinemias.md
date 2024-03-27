@@ -154,3 +154,12 @@
 	* illness 
 	* OCPs 
 	* pregnancy 
+* bilirubinuria ++ 
+* asymptomatic with vague constitutional symptoms 
+	* unexplained jaundice with anxiety 
+* other LFTs normal 
+* Histology 
+	* accumulation of dark, coarsely granular pigment in the lysosomes of centrilobular hepatocytes.
+	* liver may be grossly black in appearance.
+	* pigment is thought to be derived from epinephrine metabolites that are not excreted normally. 
+	* pigment may disappear during bouts of viral hepatitis, only to reaccumulate slowly after recovery.
