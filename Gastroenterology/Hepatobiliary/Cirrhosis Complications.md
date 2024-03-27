@@ -1,3 +1,4 @@
+![[cirrhosis-complications.png]]
 # Portal Hypertension 
 * elevation of the hepatic venous pressure gradient (HVPG) to >5 mmHg.
 * Caused by a combination of two simultaneously occurring hemodynamic processes: 
@@ -9,4 +10,10 @@
 	* defined as a HVPG ≥10 mmHg 
 	* risk of decompensation with variceal bleeding, ascites, or hepatic encephalopathy. 
 	* median mortality is <2 years 
-* 
+* ![[phtn-class.png]]
+* intrahepatic causes most common (95%)
+* cirrhosis most common cause 
+* Coagulation disorders causing PV thrombus
+	* Polycythemia Vera 
+	* Essential thrombocytosis 
+	* Protein C, S defici
