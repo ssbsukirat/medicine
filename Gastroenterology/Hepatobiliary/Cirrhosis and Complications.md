@@ -369,4 +369,21 @@
 	* Diagnosis is made with serum iron studies showing an elevated transferrin saturation and an elevated ferritin level, 
 	* abnormalities identified by HFE mutation analysis. 
 	* Treatment with regular therapeutic phlebotomy.
-* 
+* Wilson’s disease
+	* inherited disorder of copper homeostasis 
+	* failure to excrete excess amounts of copper,
+	* accumulation in the liver.
+	* adolescents and young adults.
+	* Diagnosis 
+		* determination of ceruloplasmin levels, which are low;
+		* 24-h urine copper levels, which are elevated; 
+		* typical physical examination findings, including Kayser-Fleischer corneal rings;
+		* characteristic liver biopsy findings. 
+	* Treatment consists of copper-chelating medications.
+* α1AT deficiency
+	* inherited disorder that causes abnormal folding of the α1AT protein,
+	* failure of secretion of protein from liver 
+	* greatest risk for developing chronic liver disease have the ZZ phenotype
+	* requires α1AT levels and phenotype 
+	* PAS+/ Diastase resistant globules on biopsy 
+	* transplant is curative 
