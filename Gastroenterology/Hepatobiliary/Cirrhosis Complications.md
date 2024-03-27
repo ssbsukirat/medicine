@@ -88,5 +88,22 @@
 		* recurrent rebleeding 
 			* TIPS should be performed for long-term prevention of bleeding.
 	* ![[bleedmanage.png]]
-##
-
+### Portal hypertensive gastropathy
+* cause both acute clinical GI bleeding and chronic bleeding resulting in iron-deficiency anemia.
+* associated with all causes of portal hypertension
+* diagnosed by characteristic endoscopy findings showing a snake skin–like mosaic pattern of gastric mucosa often with central red or brown spots. 
+* bleeding, treatment is with NSBB and iron repletion. 
+* Refractory bleeding may respond to TIPS.
+## Splenomegaly and hypersplenism 
+* common 
+* often 1st indication of PHTN 
+* splenomegaly + thrombocytopenia +/- leukopenia 
+* Left sided or LUQ pain 
+* splenomegaly no specific treatment 
+## Ascites 
+* accumulation of fluid within the peri- toneal cavity.
+* PHTN is most common cause 
+* Pathogenesis 
+	* ![[ascites-patho.png]]
+	* Increased intrahepatic resistance
+	* vasodilation of splanchnic arterial systems 
