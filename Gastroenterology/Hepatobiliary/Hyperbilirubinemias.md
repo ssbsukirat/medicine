@@ -184,4 +184,19 @@
 * clearance of BSP from plasma is delayed in RS, there is no reflux of conjugated BSP back into the circulation as seen in DJS.
 ### Benign Recurrent Intrahepatic Cholestasis (BRIC)
 * rare 
+* AR (FIC1 defect)
+* familial 
+* Benign 
+	* does not lead to cirrhosis or end-stage liver disease.
 * recurrent attacks of pruritis and jaundice 
+	* mild malaise and elevations in serum aminotransferase levels, 
+	* followed rapidly by rises in alkaline phosphatase and conjugated bilirubin 
+	* onset of jaundice and itching.
+	* Maybe misdiagnosed as viral hepatitis 
+### Progressive Familial Intrahepatic Cholestasis 
+* 3 different syndromes 
+	* PFIC 1
+		* Bylers disease 
+		* early infancy
+		* cholestasis 
+		* progressive to malnutrition, growth retardation, ESLD 
