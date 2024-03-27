@@ -272,4 +272,26 @@
 		* sp100 
 		* gp120 
 * Treatment 
-	* 
+	* UDCA improve labs and histology 
+		* best to start early 
+		* less improvement if cirrhosis ++ 
+		* 13-15 mg/kg/day 
+		* may worsen pruritus initially 
+		* if response not enough (30-40%)
+			* significant improvement with ***obeticholic*** acid
+	* transplant if decompensation 
+	* pruritus 
+		* antihistamines 
+		* narcotic antagonists (naltrexone)
+		* rifampin 
+		* Cholestyramine,
+			* a bile salt–sequestering agent, 
+			* helpful in some patients
+			* tedious and difficult to take.
+		* plasmapheresis if severe and intractable 
+	* bone density testing 
+		* oral calcium and vitamin D 
+		* bisphosphonate if bone disease + 
+## Primary Sclerosing Cholangitis 
+* cause of PSC remains unknown
+* PSC is a chronic cholestatic syndrome that is characterized by diffuse inflammation and fibrosis involving the entire biliary tree, resulting in chronic cholestasis.
