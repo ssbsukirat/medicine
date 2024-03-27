@@ -98,3 +98,14 @@
 			* in severe alcoholic hepatitis 
 	* low platelet counts due to portal hypertension and hypersplenism 
 	* normal or elevated bilirubin 
+	* PT elevated does not respond to vitamin K 
+	* Na usually normal unless ascites (then low)
+	* AST ALT elevated with AST/ALT >2:1 
+## Diagnosis 
+* Clinical or physical or Labs 
+* requires continue or recent alcohol history 
+* rule out other CLD causes 
+* Liver biopsy only if alternate diagnosis suspect 
+* <50% survival 5-year if complication with continued drinking 
+## Treatment 
+* 
