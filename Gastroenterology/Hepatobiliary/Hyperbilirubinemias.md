@@ -120,4 +120,9 @@
 	* other conventional hepatic biochemical tests,
 	* hepatic histology 
 	* hemolysis
+* Difference vs type 1
+	* lower bilirubin 
+	* rare kernicterus 
+	* deep coloured bile, glucuronide + with increased monoglucoronide 
+	* UGT1A1 <10% normal but present 
 
