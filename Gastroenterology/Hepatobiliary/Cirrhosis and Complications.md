@@ -61,4 +61,29 @@
 	* Anorexia 
 	* malaise 
 * Specific complication 
+	* Ascites 
+	* edema 
+	* Upper GI bleed 
+	* Jaundice 
+	* encephalopathy 
+* Physical 
+	* liver spleen maybe enlarged
+	* liver edge firm and nodular 
+	* scleral icterus 
+	* palmar erythema 
+	* spider angiomas 
+	* parotid enlargement 
+	* digital clubbing 
+	* muscle wasting 
+	* edema 
+	* ascites
+	* Men 
+		* reduced body hair 
+		* gynecomastia 
+		* testicular atrophy 
+	* Women 
+		* amenorrhea 
+	* changes usually reversible 
+* Labs 
+	* early maybe complete normal 
 	* 
