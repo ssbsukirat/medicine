@@ -294,4 +294,21 @@
 		* bisphosphonate if bone disease + 
 ## Primary Sclerosing Cholangitis 
 * cause of PSC remains unknown
-* PSC is a chronic cholestatic syndrome that is characterized by diffuse inflammation and fibrosis involving the entire biliary tree, resulting in chronic cholestasis.
+* PSC is a chronic cholestatic syndrome 
+* diffuse inflammation and fibrosis involving the entire biliary tree, resulting in chronic cholestasis.
+* ultimately results in obliteration of both the intra- and extrahepatic biliary tree,
+	* leading to biliary cirrhosis, portal hypertension, and liver failure.
+* Biopsy is not pathognomic 
+	* bile duct proliferation
+	* ductopenia 
+	* fibrous cholangitis (pericholangitis). 
+	* Periductal fibrosis
+* biliary tree imaging required 
+### Clinical feature 
+* cholestatic liver disease, 
+	* with fatigue, pruritus, steatorrhea, deficiencies of fat-soluble vitamins
+* Pruritus is profound and nonspecific 
+### Labs 
+* during an evaluation of abnormal liver enzymes.
+* at least a twofold increase in ALP and may have elevated aminotransferases as well
+* 
