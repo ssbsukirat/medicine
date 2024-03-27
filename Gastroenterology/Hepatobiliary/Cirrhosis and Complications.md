@@ -328,4 +328,22 @@
 * ERCP if 
 	* MRCP suboptimal 
 	* clinical (newly elevated total bilirubin or worsening pruritus) or MRCP evidence of a ***dominant stricture***
-* 
+* cholangiography 
+	* multifocal stricturing and beading involving both the intrahepatic and extrahepatic biliary tree.
+	* strictures typically short and with intervening segments of normal or slightly dilated bile ducts that are distributed diffusely, producing the classic beaded appearance
+### Treatment 
+* no treatment 
+* some use UDCA at 13-15 mg/kg 
+* high dose UDCA harmful 
+* endoscopy dilatation of strictures 
+* ultimately transplant 
+* cholangiocarcinoma may develop 
+	* relative contraindication to transplant 
+## Cardiac Cirrhosis 
+* long-standing right-sided congestive heart failure may develop chronic liver injury and cardiac cirrhosis 
+* elevated venous pressure transmitted via the inferior vena cava and hepatic veins to the sinusoids of the liver, 
+	* become dilated and engorged with blood
+	* liver becomes enlarged and swollen,
+	* long-term passive congestion and relative ischemia due to poor circulation, 
+	* centrilobular hepatocytes can become necrotic, leading to ***pericentral*** fibrosis
+* Cli
