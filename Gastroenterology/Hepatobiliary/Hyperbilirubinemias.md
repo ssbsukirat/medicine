@@ -111,3 +111,6 @@
 - No response to phenobarbital or enzyme inducers
 - Unconjugated bilirubin with very slow clearance by alternative mechanism (direct passage in bile or gut by photoisomers)
 - Trace urobilinogen in feces, no bilirubin in urine
+- ***Estrogen*** glucuronidation (mediated by UGT1A1) ***defective***
+- isolated hepatocyte transplantation used in a small number of cases
+- \early liver transplantation remains the best hope to prevent brain injury and death at present
