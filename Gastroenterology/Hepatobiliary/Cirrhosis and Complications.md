@@ -186,6 +186,32 @@
 	* as cirrhosis progresses, ***catabolic state so loss of steatosis on biopsy*** 
 # Biliary Cirrhosis 
 * different pathology from alcohol or posthepatic but clinically similar 
-* cholestatic liver disease 
+* cholestatic liver disease due to 
 	* necroinflammatory lesions 
 	* congenital or metabolic process 
+	* external bile duct compression 
+* Intrahepatic vs extra-
+	* extrahepatic may benefit from surgical decompression or endoscopy 
+* includes 
+	* primary biliary cholangitis (PBC), 
+	* autoimmune cholangitis (AIC), 
+	* primary sclerosing cholangitis (PSC),
+	* idiopathic adulthood ductopenia
+* Cholestatic on histology 
+	* cholate stasis; 
+	* copper deposition; 
+	* xanthomatous transformation of hepatocytes; 
+	* irregular, so-called biliary fibrosis.
+	* chronic portal inflammation, 
+	* interface activity,
+	* chronic lobular inflammation. 
+	* Ductopenia due to  progressive disease to cirrhosis.
+## Primary Biliary Cholangitis 
+* 100-200 per million 
+* female ~ 50 years age 
+* unknown cause 
+* portal inflammation + necrosis of cholangiocytes in small-medium bile ducts 
+* cholestatic picture 
+	* elevated Bilirubin 
+	* progressive liver failure 
+* liver tran
