@@ -108,4 +108,14 @@
 * Liver biopsy only if alternate diagnosis suspect 
 * <50% survival 5-year if complication with continued drinking 
 ## Treatment 
-* 
+* Abstinence 
+* Nutrition support and medical supervision 
+* manage complication 
+	* asictes 
+	* edema 
+	* variceal 
+	* portosystemic encephalopathy 
+* transplant 
+* Glucocorticoid 
+	* in severe alcoholic hepatitis without infections 
+	* Discriminant fraction >32 (serum)
