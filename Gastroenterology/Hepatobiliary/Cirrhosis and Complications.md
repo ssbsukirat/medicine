@@ -262,3 +262,14 @@
 	* hyperbilirubinemia 
 	* thrombocytopenia , anemia, leukopenia 
 	* biopsy 
+	* maybe similar to AIH treated as "overlap " in 10% 
+* Diagnosis 
+	* consider if chronic cholestatic findings 
+	* AMA negative in 5-10% 
+		* biopsy most important 
+		* if cholestatic + --> ***cholangiography*** to rule out PSC 
+	* PBC-specific 
+		* sp100 
+		* gp120 
+* Treatment 
+	* 
