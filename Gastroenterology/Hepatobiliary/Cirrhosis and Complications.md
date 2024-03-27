@@ -36,3 +36,6 @@
 		* using inducible P450 CYP2E1 
 	* ADH 
 	* Peroxisomal catalase 
+* Majority of alcohol to ***acetaldehyde*** by ADH (also MEOS produces ROSs and further acetaldehyde)
+	* reactive molecule 
+	* to Acetate by ALDH (acetaldehyde dehydrogenase)
