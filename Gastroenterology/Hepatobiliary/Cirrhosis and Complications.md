@@ -311,4 +311,15 @@
 ### Labs 
 * during an evaluation of abnormal liver enzymes.
 * at least a twofold increase in ALP and may have elevated aminotransferases as well
-* 
+* Albumin levels may be decreased
+* prothrombin times are prolonged 
+	* Some degree of correction may occur with parenteral vitamin K
+* aminotransferase elevations >5× the upper limit of normal and may have features of AIH on biopsy indicating an ***overlap syndrome*** between PSC and AIH.
+* antibody 
+	* positive in overlap 
+	* negative in PSC 
+	* pANCA in 65% 
+* IBD in 60-80% 
+	* Ulcerative colitis 
+	* ***Colonoscopy at diagnosis***
+### Diagnosis 
