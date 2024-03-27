@@ -86,4 +86,12 @@
 	* changes usually reversible 
 * Labs 
 	* early maybe complete normal 
-	* 
+	* Advanced 
+		* Anemia from 
+			* chronic GI loss,
+			* nutrition or
+			* hypersplenism or
+			* direct myelosuppression by alcohol 
+		* Zieves syndrome 
+			* Hemolytic anemia 
+			* spur cells and acanthocytes 
