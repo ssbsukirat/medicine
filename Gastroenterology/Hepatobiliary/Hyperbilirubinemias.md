@@ -125,4 +125,11 @@
 	* rare kernicterus 
 	* deep coloured bile, glucuronide + with increased monoglucoronide 
 	* UGT1A1 <10% normal but present 
-
+	* may not be recognised till later (max till now 34)
+	* Reduction of bilirubin >25% in response to enzyme inducers such as phenobarbital
+* phenobarbital therapy recommended, a single bedtime dose often sufficing
+* missense mutations are more common in CN-II 
+### GIlbert Syndrome 
+* mild unconjugated hyperbilirubinemia 
+* normal biochemical LFTs
+* normal h
