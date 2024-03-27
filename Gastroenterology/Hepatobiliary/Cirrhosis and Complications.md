@@ -22,3 +22,8 @@
 	* coagulation disorders 
 	* hypoalbuminemia 
 	* contributes to portosystemic encephalopathy 
+* ![[cirrhosis-causes.png]]
+# Alcohol-associated Cirrhosis 
+* may cause CLD (AFLD, hepatitis and cirrhosis )
+* may worsen damage in other liver disease like Hepatitis C, hemochromatosis or NAFLD 
+* fibrossi+/- inflammation or necrosis 
