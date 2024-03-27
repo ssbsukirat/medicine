@@ -47,4 +47,18 @@
 	* Oxidative damage to hepatocyte membranes due to formation of reactive oxygen species (ROSs)
 	* highly reactive --> combines with proteins and nucleic acids to form acetaldehyde adducts
 	* Adducts interfere with microtubular formation and hepatic protwin trafficking 
-	* May activate Kupffer cell by ROSs causing profibrogenic cytokines and 
+	* May activate Kupffer cell by ROSs causing profibrogenic cytokines and stellate cell activation 
+* production of excess collagen and extracellular matrix.
+	* in both ***periportal and pericentral*** zones
+	* eventually connects portal triads with central veins forming regenerative nodules
+## Clinical feature 
+* history of amount and duration of consumption 
+* Nonspecific symptoms 
+	* vague RUQ pain 
+	* Fever 
+	* Nausea / Vomiting 
+	* Diarrhea 
+	* Anorexia 
+	* malaise 
+* Specific complication 
+	* 
