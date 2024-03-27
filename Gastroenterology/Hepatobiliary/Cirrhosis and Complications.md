@@ -138,3 +138,19 @@
 * >21.5 cal/day increases survival 
 * early transplant 
 * acetaminophen max 2g/day or avoid 
+# Hepatitis C 
+* 80% develop chronic hep c 
+* 20-30% of those develop cirh'over 20-30 years 
+* Concomitant alcohol use + 
+* HCV is ***non cytopathic*** virus, ***causes Immune-mediated liver damage*** 
+* Portal based fibrosis with bridging fibrosis and nodularity --> cirrhosis 
+* small and shrunken liver 
+* mixed macronodular and micronodular 
+* inflammatory infiltrates in portal areas + interface hepatitis +/- lobar hepatocellular injury 
+* similar in ***Hep B***
+	* 5% develop chronic HBV 
+	* 20% of chronic have cirrhosis 
+	* HBc, HBs + 
+	* Ground glass hepatocyte (HBsAg) maybe ++ 
+* present with 
+	* fatug
