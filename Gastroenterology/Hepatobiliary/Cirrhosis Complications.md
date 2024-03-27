@@ -57,9 +57,21 @@
 			* every 2 years in active disease 
 			* every 3 years in inactivated 
 			* at time of hepatic decompensation 
-		* if bleeding risk identified 
+		* if bleeding risk identified , either (both equally effective )
 			* Non-selective Beta blocker (NSSB)
 				* goal HR 55-60/min 
 				* SBP >90mmhg
 			* Band ligation
+		* if primary prophylaxis initiated, no need of endoscopy surveillance 
+	* Manage acute bleed 
+		* fluid + RBC 
+		* transfuse when <7g/dL with goal 7-9g/dL 
+		* Dont correct PT with FFPs unless coagulopathy + (bleeding at other sites)
+		* Vasoconstrictive agent (somatostatin or ocreotide)
+			* for initial bleeding control 
+			* reduce transfusion need 
+			* reduces mortality 
+		* Prophylactic antibiotic (ceftriaxone) prior to endoscopy 
+		* Balloon tamponade ( Sengstaken-Blakemore tube or Minnesota tube )
+		* ugi
 
