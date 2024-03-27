@@ -132,4 +132,10 @@
 ### GIlbert Syndrome 
 * mild unconjugated hyperbilirubinemia 
 * normal biochemical LFTs
-* normal h
+* normal histology (mildly increased lipofuscin in some)
+* 5-8 bilirubin usually but raised in 
+	* stress 
+	* fatigue 
+	* alcohol 
+	* reduced calories 
+	* intercurrent illness 
