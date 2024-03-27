@@ -113,4 +113,11 @@
 - Trace urobilinogen in feces, no bilirubin in urine
 - ***Estrogen*** glucuronidation (mediated by UGT1A1) ***defective***
 - isolated hepatocyte transplantation used in a small number of cases
-- \early liver transplantation remains the best hope to prevent brain injury and death at present
+- early liver transplantation best hope to prevent brain injury and death at present
+- phototherapy prolongs lifespan without NeurologicaL damage 
+### Crigler-Najjar type 2
+* marked unconjugated hyperbilirubinemia in the absence of abnormalities of 
+	* other conventional hepatic biochemical tests,
+	* hepatic histology 
+	* hemolysis
+
