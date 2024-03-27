@@ -27,3 +27,12 @@
 * may cause CLD (AFLD, hepatitis and cirrhosis )
 * may worsen damage in other liver disease like Hepatitis C, hemochromatosis or NAFLD 
 * fibrossi+/- inflammation or necrosis 
+* Micronodular  (nodules <3mm) but maybe mixed with cessation of alcohol 
+## Pathogenesis 
+* Ethanol absorbed by small intestine and stomach (less)
+* Gastric Alcohol Dehydrogenase (ADH) initiates metabolism 
+* Metabolic enzyme systems 
+	* Microsomal ethanol oxidizing system (MEOS)
+		* using inducible P450 CYP2E1 
+	* ADH 
+	* Peroxisomal catalase 
