@@ -1,0 +1,12 @@
+# Portal Hypertension 
+* elevation of the hepatic venous pressure gradient (HVPG) to >5 mmHg.
+* Caused by a combination of two simultaneously occurring hemodynamic processes: 
+	* increased intrahepatic resistance to the passage of blood flow through the liver due to cirrhosis, regenerative nodules, and microthrombi
+	* Increased splanchnic blood flow secondary to vasodilation within the splanchnic vascular bed.
+	* activation of neurohumoral responses and vasoconstrictive systems resulting in sodium and water retention, increased blood volume, and hyperdynamic circulatory system producing more portal hypertension
+* initially compensate with HVPG 5-10mm, asymptomatic and last around 10 years 
+* clinically significant portal hypertension 
+	* defined as a HVPG ≥10 mmHg 
+	* risk of decompensation with variceal bleeding, ascites, or hepatic encephalopathy. 
+	* median mortality is <2 years 
+* 
