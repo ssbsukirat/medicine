@@ -106,4 +106,21 @@
 * Pathogenesis 
 	* ![[ascites-patho.png]]
 	* Increased intrahepatic resistance
-	* vasodilation of splanchnic arterial systems 
+	* vasodilation of splanchnic arterial systems causing increased portal venous inflow 
+		* Nitric oxide 
+		* activates RAAS and hyperaldosteronism due to arterial underfilling
+		* hypoalbuminemia 
+	* Hyperaldosteronism 
+		* Na retention 
+		* fluid accumulation 
+		* peripheral edema and ascites 
+* Clinical feature 
+	* increased abdominal girth with peripheral edema 
+	* insidious 
+	* 1-2L before noticed 
+	* if large may cause respiratory distress 
+	* Hepatic hydrothorax 
+	* malnourished with muscle wasting and fatigue 
+* Diagnosis 
+	* physical + imaging 
+	* 
