@@ -176,6 +176,12 @@
 ### Rotors
 * benign 
 * AR 
+* simultaneous deficiency of the hepatocyte plasma membrane transporters OATP1B1 (SLCO1B1) and OATP1B3 (SLCO1B3)
 * similar to Dubin-Johnson 
 * rarer 
 * no pigment in liver so normal appearance 
+* gallbladder visualised on oral cholecystography (non-visualisation in Dubin-Johnson )
+* clearance of BSP from plasma is delayed in RS, there is no reflux of conjugated BSP back into the circulation as seen in DJS.
+### Benign Recurrent Intrahepatic Cholestasis (BRIC)
+* rare 
+* recurrent attacks of pruritis and jaundice 
