@@ -323,3 +323,9 @@
 	* Ulcerative colitis 
 	* ***Colonoscopy at diagnosis***
 ### Diagnosis 
+* requires cholangiography 
+* ***Imaging of choice*** magnetic resonance imaging (MRI) with magnetic resonance cholangiopancreatography (***MRCP***)
+* ERCP if 
+	* MRCP suboptimal 
+	* clinical (newly elevated total bilirubin or worsening pruritus) or MRCP evidence of a ***dominant stricture***
+* 
