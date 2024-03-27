@@ -143,3 +143,14 @@
 * Irinotecan goes through same pathway so increased toxicity like diarrhea and myelosuppression 
 * Indinavir and atazanavir may cause hyperbilirubinemia in GIlbert due to UGT1A1 inhibition 
 * earlier thought to be AD 
+# Mixed or conjugated hyperbilirubinemia 
+* not possible to differentiate intrahepatic from extrahepatic causes of jaundice based on the serum levels or relative proportions of unconjugated and conjugated bilirubin 
+## Familial 
+### Dubin-Johnson 
+* benign rare 
+* low grade primarily conjugated hyperbilirubinemia 
+* 2-5 bilirubin or normal or 20-25
+* increase by 
+	* illness 
+	* OCPs 
+	* pregnancy 
