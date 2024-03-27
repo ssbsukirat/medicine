@@ -109,6 +109,9 @@
 * <50% survival 5-year if complication with continued drinking 
 ## Treatment 
 * Abstinence 
+	* reduce cravings 
+		* acamprosate calcium 
+		* baclofen
 * Nutrition support and medical supervision 
 * manage complication 
 	* asictes 
@@ -118,4 +121,20 @@
 * transplant 
 * Glucocorticoid 
 	* in severe alcoholic hepatitis without infections 
-	* Discriminant fraction >32 (serum)
+	* For 28 days
+	* Discriminant fraction >32 (serum bil + PT elevation)x4.6 
+	* if no improvement in 7 days stop as treatment failure 
+* NAC 
+	* if DF>32 
+	* +glucocorticoids
+* Not recommended 
+	* Oral pentoxifylline 
+	* TNF-α inhibitors IV (infliximab or etancerpt)
+	* anabolic steroids 
+	* Propylthiouracil 
+	* antioxidants 
+	* colchicine 
+	* penicillamine
+* >21.5 cal/day increases survival 
+* early transplant 
+* acetaminophen max 2g/day or avoid 
