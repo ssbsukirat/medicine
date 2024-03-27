@@ -153,4 +153,25 @@
 	* HBc, HBs + 
 	* Ground glass hepatocyte (HBsAg) maybe ++ 
 * present with 
-	* fatug
+	* fatigue 
+	* malaise 
+	* RUQ pain 
+	* Lab anomaly 
+* Diagnosis 
+	* HCV RNA 
+	* HCV genotyping 
+	* HBV serologic 
+	* HBV DNA 
+* Treatment 
+	* treat complication 
+	* HBV respond to antiviral therapy 
+		* reduced aminotransferases and HBV DNA 
+		* improve Histology 
+		* decompensation --> compensate 
+		* Lamivudine , adefovir, telbivudine, entecavir, tenofovir 
+		* ***IFN-alpha available but not in cirrhosis*** 
+	* HCV 
+		* earlier difficult due to side effects of pegylated-interferon and ribavarin 
+		* now direct antiviral available 
+# Autoimmune and NAFLD cirrhosis 
+* AIH may present with es
