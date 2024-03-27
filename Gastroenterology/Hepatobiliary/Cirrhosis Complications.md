@@ -16,4 +16,32 @@
 * Coagulation disorders causing PV thrombus
 	* Polycythemia Vera 
 	* Essential thrombocytosis 
-	* Protein C, S defici
+	* Protein C, S deficiency 
+	* AT-III 
+	* Factor V leiden 
+## Clinical Features 
+* varices with bleed 
+* hypersplenism 
+* ascites 
+### Esophageal Varices 
+* screen cirrhosis with endoscopy 
+* in 1/3 patients ++ 
+* 1/3 with varices have bleeding 
+* Factor predicting bleeding 
+	* severity of cirrhosis (Child-Pugh class, Model for End-Stage Liver Disease score);
+	* the height of wedged-hepatic vein pressure;
+	* the size of the varix; 
+	* the location of the varix;
+	* endoscopic stigmata, 
+		* red wale signs, 
+		* hematocystic spots, 
+		* diffuse erythema,
+		* bluish color, 
+		* cherry red spots
+		*  white-nipple spots
+	* Tense ascites 
+* Diagnosis 
+	* Usually by 
+		* thrombocytopenia 
+		* e
+
