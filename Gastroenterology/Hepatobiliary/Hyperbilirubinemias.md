@@ -149,6 +149,8 @@
 ### Dubin-Johnson 
 * benign rare 
 * low grade primarily conjugated hyperbilirubinemia 
+* defective expression of ***MRP2 (ABCC2)***, an ATP-dependent canalicular membrane transporter
+* AR inheritance 
 * 2-5 bilirubin or normal or 20-25
 * increase by 
 	* illness 
@@ -163,3 +165,17 @@
 	* liver may be grossly black in appearance.
 	* pigment is thought to be derived from epinephrine metabolites that are not excreted normally. 
 	* pigment may disappear during bouts of viral hepatitis, only to reaccumulate slowly after recovery.
+* BSP test 
+	* Bromsulphalein a synthetic dye formerly used in a test of liver function. 
+	* In this test, the rate of disappearance of BSP from plasma was determined following bolus IV administration. 
+	* BSP is conjugated with glutathione in the hepatocyte; the resulting conjugate is normally excreted rapidly into the bile canaliculus.
+	* Patients with DJS exhibit characteristic rises in plasma concentrations at 90 min after injection, due to ***reflux of conjugated BSP*** into the circulation from the hepatocyte.
+	* IGC which is taken up but not metabolised dont show reflux 
+	* reduction in the time to maximum plasma concentration (tmax) for biliary excretion.
+	* Bile acid disposition, including hepatocellular uptake and biliary excretion, is normal
+### Rotors
+* benign 
+* AR 
+* similar to Dubin-Johnson 
+* rarer 
+* no pigment in liver so normal appearance 
