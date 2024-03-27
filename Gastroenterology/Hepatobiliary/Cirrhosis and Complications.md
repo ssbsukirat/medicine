@@ -39,3 +39,12 @@
 * Majority of alcohol to ***acetaldehyde*** by ADH (also MEOS produces ROSs and further acetaldehyde)
 	* reactive molecule 
 	* to Acetate by ALDH (acetaldehyde dehydrogenase)
+* ethanol increases intracellular triglycerides by 
+	* increasing fatty acid uptake
+	* reducing fatty acid oxidation and lipoprotein secretion 
+* Protein synthesis , glycosylation and secretion impaired 
+* Effects of acetaldehyde 
+	* Oxidative damage to hepatocyte membranes due to formation of reactive oxygen species (ROSs)
+	* highly reactive --> combines with proteins and nucleic acids to form acetaldehyde adducts
+	* Adducts interfere with microtubular formation and hepatic protwin trafficking 
+	* May activate Kupffer cell by ROSs causing profibrogenic cytokines and 
