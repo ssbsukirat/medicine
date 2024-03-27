@@ -73,5 +73,20 @@
 			* reduces mortality 
 		* Prophylactic antibiotic (ceftriaxone) prior to endoscopy 
 		* Balloon tamponade ( Sengstaken-Blakemore tube or Minnesota tube )
-		* ugi
+		* UGI endoscopy is 1st line treatment 
+			* EVL ligation 
+			* if unsuccessful (extending to stomach ) consider TIPS 
+		* TIPS 
+			* portocaval shunt 
+			* percutaneous approach
+			* expandable metal stent,
+			* advanced under angiographic guidance to the hepatic veins
+			* encephalopathy in 20% 
+			* maybe used as bridge to transplant 
+			* monitor with doppler USG for stenosis 
+		* repeated variceal band ligation until varices are obliterated in combination with NSBB
+		* recurrent rebleeding 
+			* TIPS should be performed for long-term prevention of bleeding.
+	* ![[bleedmanage.png]]
+##
 
