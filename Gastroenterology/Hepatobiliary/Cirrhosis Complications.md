@@ -165,3 +165,17 @@
 	        * Does not improve survival
 	        * Increase encephalopathy
 	* <2 year survival after onset
+	* ![[Ascitesmanagement.PNG]]
+## Spontaneous Bacterial Peritonitis
+* Spontaneous infection of ascitic fluid without intrabdominal source 
+* Bacterial translocation is primary pathogenesis
+    * Intestinal flora go to mesenteric lymph node
+    * Bacteremia 
+    * Abdominal seeding
+* Bacteria 
+    * E coli and gut bacteria common
+    * Gram positive like streptococcus viridans 
+    * Staphylococcus aureus
+    * Enterococcus
+* If >2 bacteria isolated, consider ***secondary bacterial peritonitis*** from viscus perforation
+* If fluid 
