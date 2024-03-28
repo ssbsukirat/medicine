@@ -120,3 +120,8 @@
 	* ADA >40 
 	* IFN-gamma >140 
 	* cultures 
+	* needle biopsy 
+	* thoracoscopy 
+## Secondary to Viral Infections 
+* for undiagnosed effusion 
+* resolve spontaneous with no residual 
