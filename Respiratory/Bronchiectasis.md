@@ -30,7 +30,7 @@
 	* association with allergic bronchopulmonary aspergillosis (***ABPA***), in which an immune-mediated reaction to Aspergillus damages the bronchial wall 
 	* Congenital cartilage deficiency 
 		* include tracheobronchomegaly (Mounier-Kuhn syndrome) 
-		* Williams-Campbell syndrome.
+		* Williams-Campbell syndrome. (rare congenital disorder due to deficiency of cartilage in subsegmental bronchi leading to the collapse of the distal airways and bronchiectasis)
 * 25-30% have idiopathic disease with no clear etiology 
 * ***Traction*** bronchiectasis refers to dilated airways arising from parenchymal distortion as a result of lung fibrosis (e.g., postradiation fibrosis or idiopathic pulmonary fibrosis).
 * ![[bronchiectasis-etiology.png]]
