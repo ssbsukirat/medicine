@@ -157,3 +157,11 @@
 	    * Add furosemide 40mg/day if peripheral edema present
 	    * Diuretic failure suggests non-compliance with low sodium diet 
 	    * If no effect despite compliance, spironolactone max 400mg/day and furosemide 160mg/day 
+	* Refractory ascites
+	    * If despite full dose diuretic and low sodium diet
+	    * Alternative like large volume paracentesis
+	        * If >5L add 8g/L albumin to avoid circulatory dysfunction
+	    * TIPS
+	        * Does not improve survival
+	        * Increase encephalopathy
+	* <2 year survival after onset
