@@ -193,4 +193,22 @@
 * Quinolone prophylaxis if previous recovered episode of SBP
 ## hepatorenal syndrome
 * Functional renal failure without renal pathology in advanced cirrhosis or acute liver failure
-* 
+* Vascular disturbance in renal circulation
+    * Increased vascular resistance
+    * Reduced systemic vascular resistance
+    * Renal vasoconstriction
+* Large amount of ascites with stepwise progressive decline in renal function
+* Type 1
+    * Progressive impairment
+    * Reduced creatinine clearance in 1-2 weeks 
+* Type 2 
+    * Reduced GFR and raised creatinine
+    * Stable 
+    * Better prognosis than type 1
+* Exclude other causes of renal failure
+    * Volume depletion
+    * Stop diuretic
+* Albumin 1g/kg/day 
+* Vasoconstrictor like terlipressin or low dose norepinephrine
+* Midodrine (alpha agonist)and octreotide can be used 
+* Best is liver tra
