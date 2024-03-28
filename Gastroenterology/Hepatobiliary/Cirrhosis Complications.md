@@ -301,4 +301,25 @@
 * 1.2-1.5g protein per kg of ideal body weight 
 ## Coagulation abnormalities 
 * poorly understood 
-* PT/INR not reliable indicator of clotting aba
+* PT/INR not reliable indicator of clotting ability 
+* decreased both pro- and anti-coagulation 
+* can be thrombosis or bleeding 
+* thrombocytopenia from hypersplenism and platelet dysfunction (balanced by increased von Willebrand factor )
+* adequate thrombin at platelet >50,000-60,000 
+* Vitamin K dependent (II, VII, IX, X)
+	* synthesis impaired in chronic cholestasis 
+	* vitamin K absorption needs good bile flow
+	* correct with IM or IV vitamin K 
+## Bone disease 
+* osteoporosis due to 
+	* malabsorption of vitamin D 
+	* low calcium intake 
+* Bone loss due to more resorption 
+* DEXA 
+* add bisphosphonate if osteoporosis on DEXA 
+## Hematologic abnormalities 
+* anemia 
+	* hypersplenism 
+	* hemolysis 
+	* 
+	  
