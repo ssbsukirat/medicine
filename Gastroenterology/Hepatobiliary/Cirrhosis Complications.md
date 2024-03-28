@@ -178,4 +178,19 @@
     * Staphylococcus aureus
     * Enterococcus
 * If >2 bacteria isolated, consider ***secondary bacterial peritonitis*** from viscus perforation
-* If fluid 
+* If fluid ANC >250/uL then confirmed
+* Send cultures in blood culture bottle
+* Clinical
+    * Fever 
+    * Altered mental status 
+    * Elevated WBCs 
+    * Abdominal pain or discomfort
+    * AKI
+* Peritoneal taps recommended
+* Add 3rd gen cephalosporin IV for 5 days 
+* IV albumin (1.5kg/kg day 1 and 1g/kg day 3) to improve survival and reduce risk of renal failure
+* Add SBP prophylaxis in variceal bleed 
+* Quinolone prophylaxis if previous recovered episode of SBP
+## hepatorenal syndrome
+* Functional renal failure without renal pathology in advanced cirrhosis or acute liver failure
+* 
