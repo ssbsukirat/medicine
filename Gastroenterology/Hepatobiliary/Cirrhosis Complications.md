@@ -321,5 +321,7 @@
 * anemia 
 	* hypersplenism 
 	* hemolysis 
-	* 
-	  
+	* iron deficiency 
+	* folate deficiency 
+* macrocytosis 
+* neutropenia due to hypersplenism 
