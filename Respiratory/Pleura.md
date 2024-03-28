@@ -15,5 +15,18 @@
 * effort to determine cause 
 * Transudate vs exudates 
 	* 1st step 
+	* LDH and protein in fluid 
+	* at least one of the following criteria (Lights) , exudative 
+		1. Pleural fluid protein/serum protein >0.5
+    	2. Pleural fluid LDH/serum LDH >0.6
+	    3. Pleural fluid LDH more than two-thirds the normal upper limit for serum 
+	* May misclassify 25% transudate as exudative 
+	* if criteria ++, measure serum and fluid protein gradient 
+		* if >3.1g/dL 
 * Transudative 
-	* systemic factors that influence the formation and absorption of pleural fluid are altered. The leading causes of transudative pleural are left ventricular failure and cirrhosis.
+	* systemic factors are altered.
+	* The leading causes of transudative pleural are left ventricular failure and cirrhosis.
+* Exudative 
+	* local factors 
+	* bacterial pneumonia , malignancy , viral and pulmonary embolism 
+	* additional diagnosis to find cause 
