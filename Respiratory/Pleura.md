@@ -87,4 +87,36 @@
 	* pleural abrasion for pleurodesis during procedure 
 	* can do CT/USG guided needle biopsy of pleural thickening 
 * treat symptomatic as usually implies mets and not much treatment available 
-* if thoracocentesis improve
+* if thoracocentesis improves dyspnea 
+	* small indwelling catheter insertion 
+	* tube thoracotomy with sclerosant like doxycycline 500mg 
+## Mesothelioma 
+* primary tumour from mesothelial cells 
+* asbestos exposure 
+* chest pain and shortness of breath 
+* pleural effusion 
+* pleural thickening 
+* shrunken hemithorax 
+## Secondary to Pulmonary Embolization
+* overlooked diagnosis 
+* dyspnea 
+* exudative 
+* spiral CT or pulmonary arteriography 
+* manage as pulmonary embolism 
+* if increase size despite therapy 
+	* recurrent embolism 
+	* hemothorax 
+	* pleural infection 
+## TB pleuritis 
+* exudative with small lymphocytosis 
+* associated with primary TB 
+* primarily to a hypersensitivity reaction to tuberculous protein in the pleural space. 
+* present with
+	* fever, 
+	* weight loss, 
+	* dyspnea
+	* pleuritic chest pain 
+* high TB markers in fluid 
+	* ADA >40 
+	* IFN-gamma >140 
+	* cultures 
