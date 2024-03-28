@@ -22,7 +22,7 @@
 	    3. Pleural fluid LDH more than two-thirds the normal upper limit for serum 
 	* May misclassify 25% transudate as exudative 
 	* if criteria ++, measure serum and fluid protein gradient 
-		* if >3.1g/dL 
+		* if >3.1g/dL , classify as transudate 
 * Transudative 
 	* systemic factors are altered.
 	* The leading causes of transudative pleural are left ventricular failure and cirrhosis.
@@ -30,3 +30,21 @@
 	* local factors 
 	* bacterial pneumonia , malignancy , viral and pulmonary embolism 
 	* additional diagnosis to find cause 
+		* appearance 
+		* glucose 
+		* DLC 
+		* microbiology 
+		* cytology 
+## Effusion due to heart failure 
+* most common cause is LVF 
+* increased amounts of fluid in the lung interstitial spaces exit in part across the visceral pleura; 
+* overwhelms the capacity of the lymphatics in the parietal pleura 
+* Thoracocentesis only if 
+	* unilateral 
+	* unequal size 
+	* febrile 
+	* pleuritic chest pain 
+	* persistent despite therapy 
+* Pleural fluid N-terminal pro-brain natriuretic peptide (NT-proBNP) level >1500 pg/mL is virtually diagnostic 
+## HEPATIC hydrothorax 
+* 
