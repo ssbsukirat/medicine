@@ -290,4 +290,15 @@
 * poor prognosis 
 * liver transplant after reducing pulmonary pressure with vasodilator 
 ## Malnutrition 
-* 
+* commonly malnourished.
+* cirrhotic, they are more catabolic, and muscle protein is metabolized.
+* factors 
+	* poor dietary intake, 
+	* alterations in gut nutrient absorption, 
+	* alterations in protein metabolism
+* multiple small meals with evening snack 
+* 25-30kcal/kg of ideal body weight 
+* 1.2-1.5g protein per kg of ideal body weight 
+## Coagulation abnormalities 
+* poorly understood 
+* PT/INR not reliable indicator of clotting aba
