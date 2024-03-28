@@ -71,4 +71,20 @@
 	* Presence of gross pus in the pleural space
 * repeat if recurs 
 * if incomplete removal 
-	* consider chest tube with fibrinolytic agent (tPA 10mg) and de
+	* consider chest tube with fibrinolytic agent (tPA 10mg) and deoxyribonuclease (5mg) or
+	* thoracoscopy and adhesiolysis 
+	* decortication if ineffective 
+## Effusion secondary to malignancy 
+* 2nd most common 
+* tumor 
+	* lung ca
+	* breast ca 
+	* lymphoma 
+* dyspnea out of proportion to size of effusion 
+* exudative with low glucose 
+* cytology 
+	* if negative then thoracoscopy 
+	* pleural abrasion for pleurodesis during procedure 
+	* can do CT/USG guided needle biopsy of pleural thickening 
+* treat symptomatic as usually implies mets and not much treatment available 
+* if thoracocentesis improve
