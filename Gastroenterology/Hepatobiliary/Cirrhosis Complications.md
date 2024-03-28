@@ -234,4 +234,19 @@
 		* treatment to decrease edema is with mannitol 
 		* and judicious use of intravenous fluids
 	* result of precipitating event 
-		* 
+		* hypokalemia, 
+		* infection,
+		* increased dietary protein load
+		* volume depletion
+	* maybe aggressive or sleepy 
+	* If ascites ++, tap to rule out SBP 
+	* GI bleed manage 
+	* hydrate 
+	* Asterixis 
+		* often present 
+		* elicited by having patients extend their arms and bend their wrists back.
+		* encephalopathic patients have a “liver flap”—
+			* a sudden forward movement of the wrist. 
+		* This requires patients to be able to cooperate with the examiner.
+* Treatment 
+	* 
