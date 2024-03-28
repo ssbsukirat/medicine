@@ -213,4 +213,25 @@
 * Midodrine (alpha agonist)and octreotide can be used 
 * Best is liver transplantation (poor prognosis without)
 ## hepatic encephalopathy
-* 
+* Portosystemic encephalopathy is a serious complication 
+* broadly defined as an alteration in mental status and cognitive function occurring in the presence of liver failure 
+* required for diagnosis of ***Severe acute liver injury***
+* maybe seen with life threatening brain edema, usually not seen in CLD 
+* Pathogenesis 
+	* Gut-derived neurotoxins that are not removed by the liver because of 
+		* vascular shunting
+		* decreased hepatic mass
+	* reach the brain and cause the symptoms known as hepatic encephalopathy 
+* Ammonia levels
+	* elevated
+	* but poor correlation to severity of encephalopathy 
+	* no role in diagnosis or follow up of progression 
+* Clinical 
+	* changes in mental status can occur rapidly.
+	* Brain edema 
+		* associated with swelling of the gray matter.
+		* Cerebral herniation is a feared complication
+		* treatment to decrease edema is with mannitol 
+		* and judicious use of intravenous fluids
+	* result of precipitating event 
+		* 
