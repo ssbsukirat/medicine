@@ -47,4 +47,28 @@
 	* persistent despite therapy 
 * Pleural fluid N-terminal pro-brain natriuretic peptide (NT-proBNP) level >1500 pg/mL is virtually diagnostic 
 ## HEPATIC hydrothorax 
-* 
+* predominant mechanism is the direct movement of peritoneal fluid through small openings in the diaphragm into the pleural space. 
+* The effusion is usually right-sided  
+* large enough to produce severe dyspnea.
+## Parapneumonic Effusion 
+* associated with bacterial pneumonia, lung abscess, or bronchiectasis 
+* probably the most common cause of exudative pleural effusion
+* if gross pus --> ***empyema*** 
+* Clinical 
+	* bacterial 
+		* acute febrile illness consisting of chest pain, sputum production, and leukocytosis. 
+	* anaerobic 
+		* subacute illness
+		* weight loss, a brisk leukocytosis, mild anemia,
+		* history of some factor that predisposes them to aspiration
+* Consider  in bacterial pneumonia 
+* if lung to chest wall separation >10mm, therapeutic thoracocentesis 
+* Chest tube indication (increasing importance)
+	* Loculated pleural fluid  
+	* Pleural fluid pH <7.20  
+	* Pleural fluid glucose <3.3 mmol/L (<60 mg/dL)
+	* Positive Gram stain or culture of the pleural fluid 
+	* Presence of gross pus in the pleural space
+* repeat if recurs 
+* if incomplete removal 
+	* consider chest tube with fibrinolytic agent (tPA 10mg) and de
