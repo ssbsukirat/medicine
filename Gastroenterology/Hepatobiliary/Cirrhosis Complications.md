@@ -211,4 +211,6 @@
 * Albumin 1g/kg/day 
 * Vasoconstrictor like terlipressin or low dose norepinephrine
 * Midodrine (alpha agonist)and octreotide can be used 
-* Best is liver tra
+* Best is liver transplantation (poor prognosis without)
+## hepatic encephalopathy
+* 
