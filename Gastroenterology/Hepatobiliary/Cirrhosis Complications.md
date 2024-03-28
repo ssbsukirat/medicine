@@ -148,4 +148,12 @@
 			* malignancy 
 	* if fluid protein <2.5g --> high risk of SBP 
 * Treatment 
-	* 
+	* Small amount by dietary sodium restrictions alone 
+	    * 2g sodium a day around 3/4 teaspoon salt 
+	    * Sodium education pamphlet
+	    * Avoid canned or processed food 
+	* Moderate by diuretic
+	    * Spironolactone 100mg/day single dose
+	    * Add furosemide 40mg/day if peripheral edema present
+	    * Diuretic failure suggests non-compliance with low sodium diet 
+	    * If no effect despite compliance, spironolactone max 400mg/day and furosemide 160mg/day 
