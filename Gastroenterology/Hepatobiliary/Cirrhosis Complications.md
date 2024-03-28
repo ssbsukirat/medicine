@@ -249,4 +249,21 @@
 			* a sudden forward movement of the wrist. 
 		* This requires patients to be able to cooperate with the examiner.
 * Treatment 
-	* 
+	* Multifactorial 
+	* manage precipitating event 
+	* hydration and correct electrolytes 
+	* protein restriction not advised 
+	* Lactulose
+		* nonabsorbed disaccharide 
+		* Colonic acidification causing Catharsis 
+		* eliminate nitrogen products 
+		* goal to cause 2-3 soft stools per day 
+		* patients self titrate 
+		* continue after episode 
+	* Poorly absorbed antibiotic as adjunct 
+	* alternate day neomycin (renal insufficiency and ototoxicity) and metronidazole (peripheral neuropathy ) to reduce individual side effects
+	* Rifaximin 550mg BD 
+	* Zinc supplementation
+	* encephalopathy is sign of poor prognosis 
+## Liver Lung syndrome 
+* HPS 
