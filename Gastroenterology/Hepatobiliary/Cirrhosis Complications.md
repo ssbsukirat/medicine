@@ -266,4 +266,28 @@
 	* Zinc supplementation
 	* encephalopathy is sign of poor prognosis 
 ## Liver Lung syndrome 
-* HPS 
+### HPS 
+* arterial hypoxemia in a patient with cirrhosis without significant lung disease. 
+* liver disease causes intrapulmonary vascular dilations resulting in 
+	* blood shunting past alveoli 
+	* significant ventilation-perfusion mismatch. 
+* Clinical symptoms include dyspnea and platypnea
+* Common in cirrhosis but mild 
+* Diagnosis involves
+	* demonstrating hypoxemia, without evidence of significant lung disease
+	* shunt on bubble echocardiography.
+* Treatment is with oxygen supplementation and liver transplantation.
+### Portopulmonary hypertension (PPHT)
+* pulmonary hypertension in a patient with portal hypertension
+* portal hypertension results in the production of vasoconstrictor substances that affect the pulmonary artery.
+* Many patients are asymptomatic initially 
+* later dyspnea on exertion and fatigue 
+* rare 
+* Diagnosis initial echocardiogram and confirmation on right heart catheterization showing 
+	* elevated mean pulmonary artery pressure,
+	* elevated pulmonary vascular resistance, and 
+	* ***normal pulmonary capillary wedge pressure.***
+* poor prognosis 
+* liver transplant after reducing pulmonary pressure with vasodilator 
+## Malnutrition 
+* 
