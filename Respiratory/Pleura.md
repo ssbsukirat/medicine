@@ -125,3 +125,14 @@
 ## Secondary to Viral Infections 
 * for undiagnosed effusion 
 * resolve spontaneous with no residual 
+## Chylothorax
+* thoracic duct disrupted 
+* ***chyle*** in pleural space 
+* cause 
+	* trauma (most common) --> most commonly due to thoracic surgery 
+	* mediastinal tumours
+* dyspnea + large pleural effusion 
+* ***milky fluid + TGs > 110 mg/dL*** on fluid analysis 
+* if no obvious trauma 
+	* lymphangiogram 
+	* mediastinal CT 
