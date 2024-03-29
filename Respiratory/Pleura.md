@@ -136,3 +136,8 @@
 * if no obvious trauma 
 	* lymphangiogram 
 	* mediastinal CT 
+* Manage with ***chest tube + octreotide*** (prolonged chest tube may cause malnutrition and immune incompetence )
+* if fails, ***percutaneous transabdominal thoracic duct blockage*** 
+* alternate is duct ligation 
+## Hemothorax 
+* 
