@@ -40,3 +40,13 @@
 	* modulate by higher centres and autonomic 
 	* attenuated response to hypercapnia and hypoxemia in sleep 
 		* causes nocturnal hypoventilation 
+* ![[respiratory-balance.png]]
+# Hypoventilation 
+## Clinical Features 
+* categories 
+	* parenchymal lung and chest wall disease, 
+	* sleep-disordered breathing, 
+	* neuromuscular disease, 
+	* respiratory drive disorders
+* ![[hypoventilation-signs.png]]
+* 
