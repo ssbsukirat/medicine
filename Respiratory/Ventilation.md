@@ -70,3 +70,13 @@
 	* an asymptomatic stage where daytime Pao2 and Paco2 are normal 
 	* followed by nocturnal hypoventilation, initially during rapid eye movement (REM) sleep and later in non-REM sleep.
 	* Finally, if vital capacity drops further, daytime hypercapnia develops
+* PACO2 and PaCO2 increase 
+* PAO2 decrease 
+* erythropoiesis 
+* chronic hypoxemia and hypercapnia may also induce 
+	* pulmonary vasoconstriction,
+	* leading eventually to pulmonary hypertension,
+	* right ventricular hypertrophy, 
+	* and right heart failure.
+## Diagnosis 
+* elevated serum bicarbonate + absence of volume depletion 
