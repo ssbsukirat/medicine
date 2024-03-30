@@ -94,4 +94,6 @@
 	* respiratory drive and neuromuscular disorders 
 	* attenuated increase in minute ventilation in response to elevated CO2 and/or low O2 in respiratory drive disorders
 	* suspected when normal respiratory muscle strength, pulmonary function, and  alveolar-arterial Po2 difference.
-	* Brain imaging (CT scan or MRI) can sometimes identify structural abnormalities in the pons or medulla that result in hypoventilation. Chronic narcotic use or significant hypothyroidism can depress the central respiratory drive and lead to chronic hyper- capnia as well.
+	* Brain imaging (CT scan or MRI) can sometimes identify structural abnormalities in the pons or medulla 
+	* Chronic narcotic use or significant hypothyroidism can depress the central respiratory drive
+* 
