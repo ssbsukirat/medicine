@@ -27,7 +27,12 @@
 	* DRG 
 		* Dorsal respiratory group 
 		* initial integration site for afferent 
-		* Pao2, paco2 ph and BP (carotid and aortic chemoreceptors and baroreceptors)
-		* Vagus
-	* VRG 
-		* Ventral respiratory group 
+			* Pao2, paco2 ph and BP (carotid and aortic chemoreceptors and baroreceptors)
+			* Vagus stretch receptor 
+			*  juxtapulmonary capillary receptor in lung parenchyma and chest wall 
+		* 
+	* VRC
+		* Ventral respiratory column 
+		* Respiratory rhythm generation (also in more rostrally located parafacial respiratory group (pFRG) which also gives Active Expiration)
+		* pre-Bötzinger complex
+			* responsible for the generation of various forms
