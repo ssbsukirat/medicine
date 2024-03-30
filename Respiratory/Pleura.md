@@ -186,3 +186,19 @@
 ## Traumatic 
 * penetrating or non penetrating both
 * tube thoracostomy (unless very small )
+* if ***hemopneumothorax***
+	* one chest tube should be placed in the ***superior part*** of the hemithorax to evacuate the air 
+	* Second should be placed in ***the inferior*** part of the hemithorax to remove the blood.
+* Iatrogenic become more common 
+	* manage with oxygen and aspiration 
+	* if fails tube thoracostomy 
+## Tension 
+* during mechanical ventilation or resuscitation 
+* Positive pleural pressure 
+	* life-threatening 
+	* ventilation compromised 
+	* pressure transmitted to mediastinum, reducing cardiac output 
+* suggested by 
+	* difficult ventilation in resuscitation 
+	* high ***Peak inspiratory pressure*** 
+* enlarged hemitho
