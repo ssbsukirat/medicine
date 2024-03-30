@@ -140,4 +140,10 @@
 * if fails, ***percutaneous transabdominal thoracic duct blockage*** 
 * alternate is duct ligation 
 ## Hemothorax 
+* if blood in fluid 
+* obtain hematocrit >0.5 of blood --> hemothorax 
+* causes 
+	* trauma 
+	* vessel rupture 
+	* tumor rupture 
 * 
