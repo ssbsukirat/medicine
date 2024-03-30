@@ -141,9 +141,22 @@
 * alternate is duct ligation 
 ## Hemothorax 
 * if blood in fluid 
-* obtain hematocrit >0.5 of blood --> hemothorax 
+* obtain ***hematocrit >0.5 of blood --> hemothorax*** 
 * causes 
 	* trauma 
 	* vessel rupture 
 	* tumor rupture 
+* tube thoracostomy (chest tube) --> quantification 
+* if laceration of pleura--> appose the surfaces 
+* if >***200ml***/h --> ***angiographic coil embolisation*** 
+## Miscellaneous
+* if amylase raised --> esophagus rupture or pancreas 
+* febrile + PMNs + no parenchymal abnormalities --> abdominal abcess 
+* Asbestos --> diagnosis of exclusion 
+* Meigs Syndrome 
+	* Benign ovarian tumors can produce ascites and a pleural effusion 
+	* also in ovarian hyperstimulation syndrome 
+	* post bypass 
+		* early (first few weeks) --> left sided and bloody , eosinophilic + and respond to thoracocentesis 
+		* late are left sided, yellow, small lymphos and recur 
 * 
