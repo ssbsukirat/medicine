@@ -17,4 +17,17 @@
 	* inappropriate Minute ventilation 
 	* increased dead space 
 ## Normal respiratory Cycle 
-* 
+* spontaneous in brainstem 
+* medulla 
+	* into C/L spinal cord 
+	* Phrenic nerve and diaphragm initiation 
+	* airway muscles a
+	* spinal respiratory neurons 
+	* abdominal and intercostal muscles 
+	* DRG 
+		* Dorsal respiratory group 
+		* initial integration site for afferent 
+		* Pao2, paco2 ph and BP (carotid and aortic chemoreceptors and baroreceptors)
+		* Vagus
+	* VRG 
+		* Ventral respiratory group 
