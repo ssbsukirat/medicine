@@ -84,4 +84,14 @@
 	* serum bicarbonate >27 should prompt Paco2 as confirmatory 
 * An arterial blood gas demonstrating elevated Paco2 with a normal pH confirms chronic alveolar hypoventilation 
 * Physical examination, imaging studies (chest x-ray and/or CT scan), and pulmonary function tests 
-* if 
+* if investigation inconclusive screen for ***Obesity Hypoventilation Syndrome*** 
+	* most common sleep disorder causing hypoventilation 
+	* accompanied by OSA 
+		* Berlin Questionnaire 
+		* Epworth Sleepiness Scale >10 (not useful for sleep disordered breathing )
+		* STOP-Bang questionnaire 
+* If lung, airway, chest excluded 
+	* respiratory drive and neuromuscular disorders 
+	* attenuated increase in minute ventilation in response to elevated CO2 and/or low O2 in respiratory drive disorders
+	* suspected when normal respiratory muscle strength, pulmonary function, and  alveolar-arterial Po2 difference.
+	* Brain imaging (CT scan or MRI) can sometimes identify structural abnormalities in the pons or medulla that result in hypoventilation. Chronic narcotic use or significant hypothyroidism can depress the central respiratory drive and lead to chronic hyper- capnia as well.
