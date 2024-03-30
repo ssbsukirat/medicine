@@ -201,4 +201,11 @@
 * suggested by 
 	* difficult ventilation in resuscitation 
 	* high ***Peak inspiratory pressure*** 
-* enlarged hemitho
+* feature 
+	* enlarged hemithorax +
+	* absence of breath sounds + 
+	* hyperresonance to percussion + 
+	* C/l shift of mediastinum 
+* medical emergency 
+* death due to hypoxemia or reduced CO 
+* insert large bore needle through 2nd anterior ICS --> large amount of gas confirms diagnosis 
