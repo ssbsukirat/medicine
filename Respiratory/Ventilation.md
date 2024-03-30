@@ -49,4 +49,24 @@
 	* neuromuscular disease, 
 	* respiratory drive disorders
 * ![[hypoventilation-signs.png]]
-* 
+* Manifestation dependent on 
+	* severity of hypoventilation, 
+	* rate at which hypercapnia develops
+	* degree of compensation for respiratory acidosis
+	* underlying disorder
+* usually underlying lung disease present with reduced exercise capacity and shortness of breath 
+* obstructive lung diseases (COPD)
+	* Episodes of increased dyspnea and sputum production 
+* [[Interstitial Lung Disease]] 
+	* progressive dyspnea and cough are common 
+* sleep-disordered breathing 
+	* Excessive daytime somnolence, poor-quality sleep, and snoring are common 
+* in neuromuscular disorders.
+	* Sleep disturbance and orthopnea are also described  
+	* As neuromuscular weakness progresses, the respiratory muscles, including the diaphragm, are placed at a mechanical disadvantage in the supine position due to the upward movement of the abdominal contents
+	* New-onset orthopnea is frequently a sign of reduced respiratory muscle force generation.
+	* extremity weakness or bulbar symptoms develop prior to sleep disturbance in neuromuscular diseases such as amyotrophic lateral sclerosis (ALS) or muscular dystrophy.
+* Course 
+	* an asymptomatic stage where daytime Pao2 and Paco2 are normal 
+	* followed by nocturnal hypoventilation, initially during rapid eye movement (REM) sleep and later in non-REM sleep.
+	* Finally, if vital capacity drops further, daytime hypercapnia develops
