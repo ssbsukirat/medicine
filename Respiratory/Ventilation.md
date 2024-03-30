@@ -35,4 +35,8 @@
 		* Ventral respiratory column 
 		* Respiratory rhythm generation (also in more rostrally located parafacial respiratory group (pFRG) which also gives Active Expiration)
 		* pre-Bötzinger complex
-			* responsible for the generation of various forms
+			* responsible for the generation of various forms of inspiration 
+			* lesion causes complete cessation of breathing 
+	* modulate by higher centres and autonomic 
+	* attenuated response to hypercapnia and hypoxemia in sleep 
+		* causes nocturnal hypoventilation 
