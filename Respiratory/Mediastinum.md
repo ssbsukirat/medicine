@@ -32,4 +32,31 @@
 * Iodine-131 scan for intrathoracic goitre 
 * Mediastinoscopy in anterior or middle (VATS is alternate ) 
 * percutaneous FNAC or endoscopy USG-guided biopsy minimally invasive 
-* VATS for r
+* VATS for removal 
+
+# Acute mediastinitis 
+* esophageal perforation
+	* acutely ill 
+	* chest pain 
+	* dyspnea 
+	* explore + primary repair 
+*  after median sternotomy for cardiac surgery (0.4-5.0%)
+	* present with wound drainage. 
+	* sepsis and a widened mediastinum. 
+	* diagnosis with mediastinal needle aspiration. 
+	* Treatment includes immediate drainage, debridement, and parenteral antibiotic
+	* high mortality 20% 
+* Infections from neck, oral , facial 
+# CHRONIC Mediastinitis 
+* granulomatous inflammation of the lymph nodes in the mediastinum 
+	* histoplasmosis or TB 
+	* silicosis 
+	* sarcoid 
+	* fungal 
+	* usually asymptomatic 
+* fibrosing mediastinitis 
+	* signs of compression of a mediastinal structure such as the superior vena cava or large airways, phrenic or recurrent laryngeal nerve paralysis,
+	* obstruction of the pulmonary artery or proximal pulmonary veins.
+	* If veins or arteries are involved 
+		* stent placement 
+# Pneumomediasti
