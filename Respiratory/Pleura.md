@@ -159,4 +159,22 @@
 	* post bypass 
 		* early (first few weeks) --> left sided and bloody , eosinophilic + and respond to thoracocentesis 
 		* late are left sided, yellow, small lymphos and recur 
-* 
+* ![[effusion-causes.png]]
+
+# Pneumothorax 
+* presence of gas in the pleural space. 
+* Spontaneous pneumothorax
+	* is one that occurs without antecedent trauma to the thorax. 
+## **Primary spontaneous pneumothorax*** 
+* occurs in the absence of underlying lung disease 
+* rupture of ***apical pleural blebs***
+	* small cystic spaces that lie within or immediately under the visceral pleura. 
+* occur almost exclusively in smokers (imply underlying disease )
+* 1/2 have recurrence 
+* initial --> simple aspiration 
+* if no expansion by aspiration / recurrent 
+	* thoracoscopy + blep stapling 
+	* + pleural abrasion 
+## Secondary 
+* occurs in presence of lung disease 
+* due to COPD most commonly 
