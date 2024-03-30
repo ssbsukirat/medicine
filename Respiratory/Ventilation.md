@@ -80,3 +80,7 @@
 	* and right heart failure.
 ## Diagnosis 
 * elevated serum bicarbonate + absence of volume depletion 
+	* serum bicarbonate level <27 mmol/L in the setting of normal renal function makes the diagnosis very unlikely
+	* serum bicarbonate >27 should prompt Paco2 as confirmatory 
+* An arterial blood gas demonstrating elevated Paco2 with a normal pH confirms chronic alveolar hypoventilation 
+* Physical examination, imaging studies (chest x-ray and/or CT scan), and pulmonary function tests are sufficient to identify most lung/ chest wall disorders
