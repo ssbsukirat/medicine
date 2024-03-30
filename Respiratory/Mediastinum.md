@@ -59,4 +59,15 @@
 	* obstruction of the pulmonary artery or proximal pulmonary veins.
 	* If veins or arteries are involved 
 		* stent placement 
-# Pneumomediasti
+# Pneumomediastinum 
+* Causes 
+	* alveolar rupture with dissection of air into the mediastinum;
+	* perforation or rupture of the esophagus, trachea, or main bronchi 
+	* dissection of air from the neck or the abdomen into the mediastinum
+* Severe substernal chest pain +/- radiation to neck and arms 
+* subcutaneous emphysema in suprasternal notch 
+	* ***+ hammans sign*** 
+		* crunching or clicking noise synchronous with the heartbeat and is best heard in the left lateral decubitus position.
+* Diagnosis confirmed by USG 
+* no treatment necessary but high concentration O2 speeds up 
+* if compression --> needle aspiration 
