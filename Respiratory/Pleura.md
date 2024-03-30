@@ -178,3 +178,11 @@
 ## Secondary 
 * occurs in presence of lung disease 
 * due to COPD most commonly 
+* more life-threatening as low pulmonary reserves 
+* treat with tube thoracostomy 
+	* add thoracoscopy or thoracostomy + stapling and abrasion 
+* if surgery not possible 
+	* Pleurodesis 
+## Traumatic 
+* penetrating or non penetrating both
+* tube thoracostomy (unless very small )
