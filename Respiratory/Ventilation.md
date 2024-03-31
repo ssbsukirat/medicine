@@ -97,4 +97,14 @@
 	* Brain imaging (CT scan or MRI) can sometimes identify structural abnormalities in the pons or medulla 
 	* Chronic narcotic use or significant hypothyroidism can depress the central respiratory drive
 ## Treatment 
-* 
+* NIPPV (Nocturnal non-invasive positive pressure ventilation ) 
+	* both central and obstructive 
+	* in neuromuscular and chest wall disease 
+	* improve daytime hypercapnia , prolong survival and QoL 
+	* consider if symptoms of hypoventilation + one of 
+		* Paco2 ≥45 mmHg; 
+		* nocturnal oximetry demonstrates oxygen saturation ≤88% for 5 consecutive min; 
+		* maximal inspiratory pressure <60 cmH2O; 
+		* sniff nasal pressure <40 cmH2O and FVC <50% predicted
+* agents that stimulate respiration, such as ***medroxyprogesterone and acetazolamide***, have been poorly studied, focus on treating cause 
+* excessive metabolic alkalosis should be corrected, as serum bicarbonate levels elevated out of proportion for the degree of chronic respiratory acidosis can result in additional hypoventilation.
