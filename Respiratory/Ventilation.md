@@ -126,4 +126,13 @@
 	* ventilation-perfusion mismatching, 
 	* depressed central ventilatory responsiveness to hypoxemia and hypercapnia
 * Treat with weight reduction and positive pressure ventilation 
-* 20-25% body weight loss normalises
+* 20-25% body weight loss normalises Paco2 
+* BiPAP for not able to tolerate CPAP or CPAP 20mmhg but obstructive events persist 
+* if hypercapnia persists after ***several weeks of CPAP therapy*** with adherence or ***OHS without OHA or acute decompensated OHS*** 
+	* bilevel PAP with a ***backup rate (bilevel PAP ST or spontaneous timed) or volume-assured pressure support modes*** should be strongly considered
+## Central Hypoventilation Syndrome 
+* present later in life
+* or in the neonatal period, 
+	* when it is often called ***Ondine’s curse or congenital central hypoventilation syndrome (CCHS)***
+	* gene encoding ***PHOX2b***
+* absent respiratory response to hypoxia or hypercapnia, mildly elevated Paco2 while awake, and markedly elevated Paco2 during non-REM sleep
