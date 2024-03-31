@@ -96,4 +96,5 @@
 	* suspected when normal respiratory muscle strength, pulmonary function, and  alveolar-arterial Po2 difference.
 	* Brain imaging (CT scan or MRI) can sometimes identify structural abnormalities in the pons or medulla 
 	* Chronic narcotic use or significant hypothyroidism can depress the central respiratory drive
+## Treatment 
 * 
