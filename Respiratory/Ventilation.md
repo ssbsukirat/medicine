@@ -108,3 +108,14 @@
 		* sniff nasal pressure <40 cmH2O and FVC <50% predicted
 * agents that stimulate respiration, such as ***medroxyprogesterone and acetazolamide***, have been poorly studied, focus on treating cause 
 * excessive metabolic alkalosis should be corrected, as serum bicarbonate levels elevated out of proportion for the degree of chronic respiratory acidosis can result in additional hypoventilation.
+* supplementation of O2 may worsen hypercapnia 
+* Phrenic nerve or diaphragm pacing is potential therapy 
+# Hypoventilation Syndromes 
+## Obesity Hypoventilation Syndrome 
+* Diagnosis (all)
+	* BMI >30 kg/m2 
+	* chronic daytime alveolar hypoventilation 
+		* Paco2 ≥45 mmHg at sea level in the absence of other known causes of hypercapnia; 
+	* evidence of sleep-disordered breathing.
+* 90% have OSA, 70% severe OSA 
+* 
