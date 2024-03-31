@@ -15,4 +15,7 @@
 	* rapidly progressive chronic liver disease with cirrhosis 
 	* hepatocellular carcinoma
 # Hepatitis A 
-* 
+* nonenveloped 27-nm, 
+* heat-, acid-, and ether- resistant, 
+* single-stranded, positive-sense RNA virus
+* Hepatovirus genus of the ***picornavirus*** family
