@@ -118,4 +118,6 @@
 		* Paco2 ≥45 mmHg at sea level in the absence of other known causes of hypercapnia; 
 	* evidence of sleep-disordered breathing.
 * 90% have OSA, 70% severe OSA 
-* 
+* Severe obesity (BMI >40kg) and severe OSA (AHI >30/hour) are risk factors 
+* Pathogenesis 
+	* 
