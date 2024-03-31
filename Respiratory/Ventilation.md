@@ -136,3 +136,13 @@
 	* when it is often called ***Ondine’s curse or congenital central hypoventilation syndrome (CCHS)***
 	* gene encoding ***PHOX2b***
 * absent respiratory response to hypoxia or hypercapnia, mildly elevated Paco2 while awake, and markedly elevated Paco2 during non-REM sleep
+* augment their ventilation and “normalize” Paco2 during exercise and during REM sleep. 
+* NIPPV or mechanical ventilation 
+* consider phrenic nerve or diaphragm pacing 
+# Hyperventilation 
+## Clinical Features 
+* ventilation in excess of metabolic requirement leading to reduction in PaCO2 
+* no typical presentation 
+* dyspnea , paresthesia, tetany, headache , dizziness, visual disturbance and atypical chest pain 
+* has initiating and sustaining factors 
+* anxiety disorders and panic attacks are not synonymous with hyperventilation.
