@@ -120,4 +120,10 @@
 * 90% have OSA, 70% severe OSA 
 * Severe obesity (BMI >40kg) and severe OSA (AHI >30/hour) are risk factors 
 * Pathogenesis 
-	* 
+	* OSA,
+	* increased work of breathing, 
+	* respiratory muscle impairment relative to the increased load because of excess adiposity,
+	* ventilation-perfusion mismatching, 
+	* depressed central ventilatory responsiveness to hypoxemia and hypercapnia
+* Treat with weight reduction and positive pressure ventilation 
+* 20-25% body weight loss normalises
