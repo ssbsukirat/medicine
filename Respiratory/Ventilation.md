@@ -145,4 +145,17 @@
 * no typical presentation 
 * dyspnea , paresthesia, tetany, headache , dizziness, visual disturbance and atypical chest pain 
 * has initiating and sustaining factors 
-* anxiety disorders and panic attacks are not synonymous with hyperventilation.
+* ***anxiety disorders and panic attacks are not synonymous with hyperventilation.***
+## Diagnosis 
+* maybe initial manifestation of DKA or systemic disorders 
+* acute hyperventilation should be excluded 
+* ABG 
+	* compensated respiratory alkalosis
+	* with a near normal pH, 
+	* low Paco2, and 
+	* low calculated bicarbonate
+## Treatment 
+* lack of universal treatment 
+* reassurance and discussion 
+* identify and eliminate habits that perpetuate hypocapnia 
+* if palpitations and tremors --> beta blockers 
