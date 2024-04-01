@@ -44,3 +44,8 @@
 * Only 3200bp encode for 4 viral products
 * 4 overlapping genes - S C P & X
 * Hepadnavirus family
+* Hepatocyte entry mediated by binding to sodium taurocholate cotransporting polypeptide receptor
+* Reverse transcription of minus strand DNA from ***pregenomic RNA***
+* Proteins
+    * 22nm spherical or filamentous most common form which is similar to HBsAg 
+    * 42nm double shelled spheres are intact HBV virion 
