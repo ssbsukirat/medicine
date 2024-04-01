@@ -30,4 +30,10 @@
 * IP of 3-4 weeks
 * Replication in liver only but 
     * seen in liver bile stools and blood also 
-    * Reduces
+    * ***Reduced in all except liver once jaundice sets in*** (also infectivity)
+    * RNA maybe detected by PCR months in low levels in stool blood liver
+    * PCR levels do not correlate with infectivity
+* ***Anti-hav*** can be detected during acute illness with ***elevated transaminases*** 
+    * IgM initially (3 months) upto 6/12 month
+    * IgG during convalescence
+    * IgG once established gives lifelong immunity
