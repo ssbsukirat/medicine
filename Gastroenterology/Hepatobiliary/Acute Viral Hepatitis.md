@@ -37,3 +37,10 @@
     * IgM initially (3 months) upto 6/12 month
     * IgG during convalescence
     * IgG once established gives lifelong immunity
+
+# hepatitis B 
+* DNA virus
+* Compact structure
+* Only 3200bp encode for 4 viral products
+* 4 overlapping genes - S C P & X
+* Hepadnavirus family
