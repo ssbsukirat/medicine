@@ -22,6 +22,13 @@
 		* dose dependent 
 		* short onset within hours 
 		* direct toxins produce characteristic morphology which is reproducible 
-			* carbon tetrachloride and trichloroethylene that characteristi- cally produce a centrilobular zonal necrosis
+			* carbon tetrachloride and trichloroethylene --> centrilobular necrosis
 	* Idiosyncratic 
+		* infrequent 
+		* unpredictable 
+		* not dose dependent 
+		* 5-90 days after exposure 
+		* adaptation 
+			* mild, transient, nonprogressive serum aminotransferase elevations that resolve with continued drug use 
+			* isoniazid (INH), valproate, phenytoin, HMG-CoA reductase inhibitors (statins)
 * ![[dili-features.png]]
