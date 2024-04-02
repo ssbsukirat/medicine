@@ -31,4 +31,13 @@
 		* adaptation 
 			* mild, transient, nonprogressive serum aminotransferase elevations that resolve with continued drug use 
 			* isoniazid (INH), valproate, phenytoin, HMG-CoA reductase inhibitors (statins)
+		* extrahepatic manifestations 
+			* rash, 
+			* arthralgias, 
+			* fever, 
+			* leukocytosis 
+			* eosinophilia,
+		* maybe autoimmune mediated, influenced by HLA 
+		* autoimmune with ANA ++ 
+			* nitrofurantoin , minoc
 * ![[dili-features.png]]
