@@ -7,4 +7,6 @@
 	* may activate components of the innate or adaptive immune system, 
 	* stimulate apoptotic pathways, or 
 	* initiate damage to bile excretory pathways
-* 
+	* Interfere with canalicular pumps allow accumulation of bile acids 
+	* metabolites sensitize hepatocytes to toxic cytokines 
+# Drug metabo
