@@ -40,4 +40,7 @@
 		* maybe autoimmune mediated, influenced by HLA 
 		* autoimmune with ANA ++ 
 			* nitrofurantoin , minocycline, hydralazine and alpha-methyldopa 
+		* morphology variable 
+			* hepatocellular injury most common 
+		* 
 * ![[dili-features.png]]
