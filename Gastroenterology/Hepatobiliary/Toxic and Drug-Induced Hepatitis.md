@@ -42,5 +42,20 @@
 			* nitrofurantoin , minocycline, hydralazine and alpha-methyldopa 
 		* morphology variable 
 			* hepatocellular injury most common 
-		* 
+* Severity of drug induced cholestasis 
+	* Bland with limited hepatocellular injury 
+		* estrogens, 17,α-substituted androgens);
+	* inflammatory cholestasis
+		* amoxicillin-clavulanic acid (most common cause of DILI ) oxacillin, erythromycin estolate); 
+	* sclerosing cholangitis
+		* after intrahepatic infusion of the chemotherapeutic agent floxuridine for hepatic metastases 
+	* disappearance of bile ducts, “ductopenic” cholestasis or vanishing bile duct syndrome, 
+		* similar to that observed in chronic rejectionfollowing liver transplantation
+		* carbamazepine, levofloxacin
+* Cholestasis vs Hepatocellular injury 
+	* R value decides 
+	* ALT / ALP ratio 
+	* >5.0 is hepatocellular injury 
+	* <2.0 is cholestasis 
+	* 2-5 is mixed pattern 
 * ![[dili-features.png]]
