@@ -9,4 +9,14 @@
 	* initiate damage to bile excretory pathways
 	* Interfere with canalicular pumps allow accumulation of bile acids 
 	* metabolites sensitize hepatocytes to toxic cytokines 
-# Drug metabo
+# Drug metabolism 
+* water insoluble drugs undergo steps to become water soluble 
+* begins with oxidation or methylation by cytochrome P450 (Phase 1)
+	* Toxic metabolite formation most common cause of hepatotoxicity 
+* Glucuronidation or sulfation (phase 2) or
+* Glutathione inactivation 
+# LIVER INJURY CAUSED BY DRUGS 
+* 2 major types 
+	* Direct 
+	* Idiosyncratic 
+* 
