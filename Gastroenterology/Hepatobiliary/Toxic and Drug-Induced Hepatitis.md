@@ -59,3 +59,5 @@
 	* <2.0 is cholestasis 
 	* 2-5 is mixed pattern 
 * ![[dili-features.png]]
+* Morphological patterns 
+	* 
