@@ -18,5 +18,10 @@
 # LIVER INJURY CAUSED BY DRUGS 
 * 2 major types 
 	* Direct 
+		* predictable 
+		* dose dependent 
+		* short onset within hours 
+		* direct toxins produce characteristic morphology which is reproducible 
+			* carbon tetrachloride and trichloroethylene that characteristi- cally produce a centrilobular zonal necrosis
 	* Idiosyncratic 
-* 
+* ![[dili-features.png]]
