@@ -39,5 +39,5 @@
 			* eosinophilia,
 		* maybe autoimmune mediated, influenced by HLA 
 		* autoimmune with ANA ++ 
-			* nitrofurantoin , minoc
+			* nitrofurantoin , minocycline, hydralazine and alpha-methyldopa 
 * ![[dili-features.png]]
