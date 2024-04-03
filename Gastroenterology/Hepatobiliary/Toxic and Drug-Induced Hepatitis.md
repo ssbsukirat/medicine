@@ -1,4 +1,4 @@
-* drug-induced liver injury (DILI)
+ * drug-induced liver injury (DILI)
 	* most common cause of acute liver failure 
 	* Most common reason for failure to approval in drug trials 
 * Mechanism of DILI 
@@ -60,4 +60,24 @@
 	* 2-5 is mixed pattern 
 * ![[dili-features.png]]
 * Morphological patterns 
-	* 
+	* Hepatic granulomas in sulfonamide use 
+	* Steatohepatitis
+	    * Mitochondrial toxicity
+	    * Antiretroviral drugs 
+	    * Now discontinued
+	* Sinusoidal lining cells
+	    * High dose chemotherapy
+	    * Cyclophosphamide, melphalan, busulfan 
+	    * Veno occlusive disease may occur
+	* Nodular regenerative hyperplasia
+	    * Vascular injury to portal or hepatic venous endothelium
+	    * Form of portal Hypertension
+	    * Oxaliplatin 
+	    * Colon cancer treatment
+* OCP induced cholestasis 
+    * Neither toxic nor idiosyncratic
+    * Elevated LFTs or jaundice 
+    * No morphological changes or sign of hypersensitivity
+    * More in women with cholestasis of pregnancy
+    * Genetic susceptibility
+    * Multidrug resistance
