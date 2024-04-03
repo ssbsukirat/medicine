@@ -74,6 +74,7 @@
 	    * Form of portal Hypertension
 	    * Oxaliplatin 
 	    * Colon cancer treatment
+	    * Vitamin A intake 
 * OCP induced cholestasis 
     * Neither toxic nor idiosyncratic
     * Elevated LFTs or jaundice 
@@ -81,6 +82,9 @@
     * More in women with cholestasis of pregnancy
     * Genetic susceptibility
     * Multidrug resistance-associated canalicular transporter proteins 
+    * FNH or hepatic adenoma may form
+    * HCC and Budd Chiari rare 
+    * ***Peliosis hepatis*** is liver blood cysts with anabolic or contraceptive steroids 
 * Idiosyncratic reactions
     * Maybe missed in trial if <1:10000
     * Needs surrogate marker 
@@ -116,5 +120,8 @@
     * Withdrawal of agent if ***aminotransferase >5x elevation***
     * Agents +/- effectiveness
         * Glucocorticoids
-        * 
+        * UDCA 
+    * N-acetylcysteine shows usefulness in some patients in early phases but not yet approved
 
+# Acetaminophen toxicity
+* Direct toxin 
