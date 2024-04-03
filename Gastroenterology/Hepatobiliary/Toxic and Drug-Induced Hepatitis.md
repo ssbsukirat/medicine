@@ -136,3 +136,16 @@
     * <150ug levels unlikely to cause injury
 * Manifestation
     * Early (4-12h) 
+        * Vomiting
+        * Diarrhoea
+        * Abdominal pain
+        * Shock 
+    * 24-48h 
+        * Hepatic injury becomes more apparent
+    * 3-5 days 
+        * Max abnormalities
+        * Liver failure
+        * Aminotransferase >10000 may occur 
+        * Renal failure
+        * Myocardial injury
+* Extremely high aminotransferase with low bilirubin is characteristic
