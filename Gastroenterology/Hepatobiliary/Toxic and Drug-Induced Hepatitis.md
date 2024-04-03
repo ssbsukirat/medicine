@@ -125,3 +125,6 @@
 
 # Acetaminophen toxicity
 * Direct toxin 
+* May progress to coagulopathy or encephalopathy
+* Dose related centrilobular hepatic necrosis
+* 8g/ day
