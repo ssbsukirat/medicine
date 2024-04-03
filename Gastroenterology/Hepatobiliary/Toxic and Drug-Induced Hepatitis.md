@@ -80,4 +80,15 @@
     * No morphological changes or sign of hypersensitivity
     * More in women with cholestasis of pregnancy
     * Genetic susceptibility
-    * Multidrug resistance
+    * Multidrug resistance-associated canalicular transporter proteins 
+* Idiosyncratic reactions
+    * Maybe missed in trial if <1:10000
+    * Needs surrogate marker 
+    * ***Hys law***
+        * Hyman Zimmerman
+        * ***If jaundice occurs during stage 3 of clinical trial, severe liver toxicity was likely,*** 
+        * at a ***ratio of 10:1*** of jaundice to acute liver failure 
+* Diagnosis of DILI
+    * Presumptive diagnosis
+    * Causality difficult
+    * Several supportive variables required
