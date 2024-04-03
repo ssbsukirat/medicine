@@ -92,3 +92,13 @@
     * Presumptive diagnosis
     * Causality difficult
     * Several supportive variables required
+    * Temporal association
+    * Clinical biochemical features
+    * Hepatocellular vs cholestatic 
+    * Extrahepatic manifestation
+    * Known agent to cause Dili
+    * Scoring systems
+        * Roussel-Uclaf Causality Assessment Method (RUCAM)
+        * Uncertainty present so not clinically used 
+* Generally CLD does not increase risk of DILI but may raise severity
+
