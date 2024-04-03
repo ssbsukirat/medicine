@@ -148,4 +148,5 @@
         * Aminotransferase >10000 may occur 
         * Renal failure
         * Myocardial injury
-* Extremely high aminotransferase with low bilirubin is characteristic
+* Extremely high aminotransferase with low bilirubin is characteristic 
+* If history unclear or altered sensorium then can start n-acetylcysteine if biochemical features present
