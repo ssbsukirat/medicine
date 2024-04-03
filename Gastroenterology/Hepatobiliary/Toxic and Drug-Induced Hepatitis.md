@@ -127,4 +127,12 @@
 * Direct toxin 
 * May progress to coagulopathy or encephalopathy
 * Dose related centrilobular hepatic necrosis
-* 8g/ day
+* Opioid-acetaminophen combination maybe more harmful as habituation may occur to opioid leading to higher doses 
+* Dosage
+    * 8g/ day for several days may cause 
+    * 10-15g single dose may cause liver injury
+    * 25g may cause fatal fulminant failure
+    * >300ug/mL 4 hours after ingestion suggest severe damage
+    * <150ug levels unlikely to cause injury
+* Manifestation
+    * Early (4-12h) 
