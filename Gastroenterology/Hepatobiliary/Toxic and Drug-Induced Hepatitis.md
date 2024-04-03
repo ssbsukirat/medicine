@@ -150,3 +150,7 @@
         * Myocardial injury
 * Extremely high aminotransferase with low bilirubin is characteristic 
 * If history unclear or altered sensorium then can start n-acetylcysteine if biochemical features present
+* Metabolism
+    * Acetaminophen is metabolised by phase 2 reaction
+    * Hepatotoxic metabolite N-acetyl-p-benzoquinone-imine (NAPQI)
+    * Detoxification by binding to "hepatoprotective" glutathione to form ***mercapturic acid*** 
