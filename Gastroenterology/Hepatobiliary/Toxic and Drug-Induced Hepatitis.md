@@ -100,5 +100,21 @@
     * Scoring systems
         * Roussel-Uclaf Causality Assessment Method (RUCAM)
         * Uncertainty present so not clinically used 
-* Generally CLD does not increase risk of DILI but may raise severity
+* Generally CLD does not increase risk of DILI but may raise severity of episode
+* CLD increases risk 
+    * Aspirin
+    * Methotrexate
+    * INH 
+    * Antiretroviral
+* Treatment
+    * Supportive
+    * Acetaminophen toxicity
+        * N-acetylcysteine 
+    * ALF in 10% of patients
+        * Spontaneous recovery in 30%
+        * Transplantation in 40% 
+    * Withdrawal of agent if ***aminotransferase >5x elevation***
+    * Agents +/- effectiveness
+        * Glucocorticoids
+        * 
 
