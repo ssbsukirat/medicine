@@ -124,5 +124,21 @@
         - Clostridium difficile most common
 - Small bowel hypersecretion
     - profuse watery diarrhea
-    - Ingestion of preformed toxins 
-    - Enteroto
+    - Ingestion of preformed toxins & Enterotoxin producing bacteria 
+        - marked vomiting and little to no fever
+        - Within few hours 
+    - Enteroadherent pathogens
+        - Less vomiting
+        - More pain and cramping
+        - High fever
+- Cytotoxin producing have high fever and abdominal pain 
+- Invasive and Entamoeba histolytica cause dysentery 
+- Yersinia in terminal ileal and proximal colon mucosa may mimic acute appendicitis
+- Systemic manifestation
+    - reactive arthritis (earlier ***reiters*** syndrome)
+        - arthritis, urethritis, conjunctivitis
+        - Salmonella, campylobacter, shigella, yersinia
+    - Yersioniosis 
+        - autoimmune type 
+        - Thyroiditis, pericarditis, glomerulonephritis
+    - Hemolytic urem
