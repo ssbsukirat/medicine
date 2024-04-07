@@ -163,8 +163,19 @@
 	    * maybe markers for acetaminophen toxicity 
 * injury accentuated by 
 	* alcohol +/- role 
+		* induces cytochrome P450 CYP2E1 
+		* increase NAPQI levels 
+		* 2g dose toxic in chronic alcoholics 
 	* phenobarbital 
 	* INH 
 	* other drugs 
 	* starvation 
+	* HCV 
+* now 3g/day is safe dose (earlier 4g)
+* max in opioid combination is 325mg/tablet
+* Treatment 
+	* gastric lavage (before other agents )
+	* supportive measures, 
+	* activated charcoal or cholestyramine to prevent absorption (usefulness low if >30mins )
 	* 
+
