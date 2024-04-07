@@ -36,4 +36,12 @@
     - Clears nondigestible residue
     - Lasts 4min and occurs 60-90 mins 
     - Involves entire small bowel
-    - After ingestion, small bowel has irregular mixing contraction of low 
+    - After ingestion, ***small bowel has irregular mixing contraction of low amplitude***
+    - Distal ileum has ***powerful intermittent contraction*** for ileus emptying by bolus transfers
+- Ileocolonic storage and salvage 
+    - distal ileum is reservoir emptied intermittently by bolus transfers
+    - ***Haustra segments*** the colon and allows mixing, retention and formation of stools 
+    - Residets microbiome is mainly ***anaerobic***, necessary for digestion of unabsorbed carbohydrates
+    - Microbiome keeps pathogens at bay 
+    - Ascending and transverse colon acts as reservoir (transit time 15h)
+    - Descending
