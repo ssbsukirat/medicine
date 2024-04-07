@@ -43,5 +43,10 @@
     - ***Haustra segments*** the colon and allows mixing, retention and formation of stools 
     - Residets microbiome is mainly ***anaerobic***, necessary for digestion of unabsorbed carbohydrates
     - Microbiome keeps pathogens at bay 
-    - Ascending and transverse colon acts as reservoir (transit time 15h)
-    - Descending
+    - Ascending and transverse colon acts as ***reservoir*** (transit time 15h)
+    - Descending colon as ***conduit*** (transit 3h)
+    - efficient at conserving sodium and water 
+- Colonic motility and tone 
+    - MMC rarely continues into colon 
+    - ***Short duration or phasic contraction*** mix content 
+    - High amplitude (>75)
