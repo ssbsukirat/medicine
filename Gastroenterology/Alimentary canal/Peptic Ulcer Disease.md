@@ -8,4 +8,14 @@
 * Epithelial lining has rugae with microscopic pits 
 * Each pit branches to 4/5 glands of highly specialised epithelial cells 
 * Glands vary with anatomy location
-    * Cardia has <5% glands mostly mu
+    * Cardia has <5% glands mostly mucous and endocrine
+    * 75% in ***oxyntic mucosa*** contain mucous neck, parietal, chief, endocrine, enterochromaffin and enterochromaffin-like (ECL) cells 
+    * Tuft cells in neck region of gland sample luminal contents and regulate secretion
+    * Pyloric gland in antrum have mucosal and endocrine cells 
+* Parietal cells
+    * Oxyntic cells 
+    * Neck or isthmus or in oxyntic gland 
+    * Resting or unstimulated cell has prominent cytoplasmic tubulovesicles and intracellular canaliculi
+    * with short **microvilli** along **apical surface**
+    * ATPase on tubulovesicle membrane
+    * Stimulation causes tubulovesicle and apical membrane to transform to den
