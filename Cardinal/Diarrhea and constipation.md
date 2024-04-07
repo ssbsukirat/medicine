@@ -89,3 +89,22 @@
 - most by fecal-oral transmission or contaminated food or water intake 
 - In immunocompetent, rarely caused by normal flora 
 - Disruption of flora by antibiotics may cause diarrhea by ***Clostridium difficile*** 
+- Maybe early symptom of covid or legionella infection
+- High-risk groups 
+    - travelers
+        - traveler's diarrhea
+        - ETEC OR EAEC
+        - Campylobacter 
+        - Shigella, salmonella
+        - Aeromonas 
+        - Norovirus (cruise ships), Coronavirus 
+        - Nepal-- cyclospora 
+        - Russia -- giardia 
+    - Specific food
+        - at an event -- Salmonella, campylobacter, shigella from chicken 
+        - EHEC (O157:H7) from undercooked hamburger
+        - Bacillus cereus from rice 
+        - Staphylococcus aureus or salmonella from mayonnaise or creams 
+        - Salmonella from eggs 
+        - Listeria from fresh or frozen uncooked food, mushroom, dairy 
+        - Vibrio, salmonella, hep A from seafood
