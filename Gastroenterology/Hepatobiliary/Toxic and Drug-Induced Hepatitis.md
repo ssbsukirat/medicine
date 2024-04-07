@@ -177,5 +177,15 @@
 	* gastric lavage (before other agents )
 	* supportive measures, 
 	* activated charcoal or cholestyramine to prevent absorption (usefulness low if >30mins )
-	* 
+	* NAC 
+		* high acetaminophen blood levels (>200 μg/mL measured at 4 h or >100 μg/mL at 8 h after ingestion)
+		* reduced severity of hepatic necrosis
+		* provides sulfhydryl donor groups to replete glutathione 
+		* must start by 8h but maybe useful upto 24-36h 
+		* oral or iv (iv more common)
+		* iv 140mg/kg loading x 1 hr 
+		* 70mg/kg every 4h for 15-20 doses 
+	* if signs of failure persists despite NAC, liver transplant 
+	* if lac >3.5mmol/L more likely to need transplant  (early ABG)
+	* AKI in 75% but self-limited 
 
