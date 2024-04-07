@@ -31,4 +31,10 @@
         - Blocks H ions 
         - By gastroduodenal surface epithelial cells
         - Mainly water (95%) with mucin and phospholipids
-        - Nonstirred water layer impedi
+        - Nonstirred ***water layer impeding diffusion of ions and molecules***
+        - ***Bicarbonate creates pH gradient*** (1-2 at gastric luminal surface to 6-7 at epithelial cell surface)
+    - Surface epithelial cells
+        - 2nd line 
+        - ***Mucous*** production, ***ionic transporters*** to maintain intracellular pH and produce bicarbonate and intracellular ***tight junctions***
+        - Produce ***Heat Shock Proteins*** that prevent protein denaturation
+        - HSPs protect from high temperature, cytotoxic and oxidative stress
