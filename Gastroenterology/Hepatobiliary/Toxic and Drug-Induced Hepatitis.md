@@ -154,3 +154,17 @@
     * Acetaminophen is metabolised by phase 2 reaction
     * Hepatotoxic metabolite N-acetyl-p-benzoquinone-imine (NAPQI)
     * Detoxification by binding to "hepatoprotective" glutathione to form ***mercapturic acid*** leading to renal excretion
+	  * Adducts 
+	    * in excess NAPQI or low glutathione levels
+	    * covalent binding to nucleophilic macromolecules 
+		    * thought to lead to hepatocyte necrosis 
+	    * Acetaminophen-protein "adducts"
+	    * measured by HPLC 
+	    * maybe markers for acetaminophen toxicity 
+* injury accentuated by 
+	* alcohol +/- role 
+	* phenobarbital 
+	* INH 
+	* other drugs 
+	* starvation 
+	* 
