@@ -44,4 +44,16 @@
             - modulated by EGF, TGF-alpha and FGF 
             - Independent of cell division
         - Larger defects require ***proliferation*** 
-        - Regeneration by PGs, 
+        - Regeneration by PGs, EGF, TGF-alpha
+        - Angiogenesis in new injured bed by FGF and VEGF 
+        - Gastrin stimulates proliferation, migration, angiogenesis
+        - ***Parietal*** cells make ***sonic hedgehog*** which may regulate stem cells 
+    - Elaborate microvascular bed 
+        - provides bicarbonate
+        - Adequate supply of micronutrients and oxygen
+        - Removes toxic byproduct
+    - Prostaglandins (local)
+        - regulate mucosal bicarbonate and mucus
+        - Inhibit parietal cell secretion
+        - Maintain blood and ***restitution***
+        - 
