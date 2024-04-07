@@ -66,3 +66,17 @@
         - Straining
         - Valsalva maneuver
     - Voluntary relaxation of external sphincter after distension causes defecation
+# diarrhea
+## definition
+- loosely defined as ***passage of abnormally liquid or unformed stools at increased frequency***
+- Stool weight >200g/d can be considered
+- Acute <2weeks, persistent 2-4weeks, chronic >4weeks 
+- Pseudodiarrhoea
+    - frequent small stools 
+    - Associated with rectal urgency, tenesmus, feeling of incomplete evacuation
+    - Accompanies IBS or proctitis 
+- Fecal incontinence
+    - involuntary discharge of rectal contents
+    - Caused by neuromuscular disorders or
+    - Structural anorectal problems
+    - Maybe aggravated by diarr
