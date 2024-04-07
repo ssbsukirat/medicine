@@ -49,4 +49,10 @@
 - Colonic motility and tone 
     - MMC rarely continues into colon 
     - ***Short duration or phasic contraction*** mix content 
-    - High amplitude (>75)
+    - High amplitude (>75mmhg) propagated contractions (HAPCs) associated with mass movements
+    - HAPCs 5/day usually on awakening and postprandial
+    - Increased HAPCs cause diarrhoea or urgency 
+    - Colonic tone is background contractility with superimposed phasic activity
+- Colonic motility after meals 
+    - phasic and tonic increase postprandial for 2h 
+    - Initial 10 mins mediated by va
