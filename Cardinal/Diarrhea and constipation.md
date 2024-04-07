@@ -28,3 +28,12 @@
         - can be measured as current
         - No loss of cation
         - By apical membrane
+        - Compensated by export function of basolateral sodium pump 
+        - Active transport in small bowel coupled to monosaccharides (SGLT1, GLUT-5)
+        - Exits via GLUT-2 
+- Small intestinal motility
+    - cyclical migrating motor complex (MMC)
+    - Clears nondigestible residue
+    - Lasts 4min and occurs 60-90 mins 
+    - Involves entire small bowel
+    - After ingestion, small bowel has irregular mixing contraction of low 
