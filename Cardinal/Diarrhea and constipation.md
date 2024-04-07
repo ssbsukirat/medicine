@@ -141,4 +141,29 @@
     - Yersioniosis 
         - autoimmune type 
         - Thyroiditis, pericarditis, glomerulonephritis
-    - Hemolytic urem
+    - Hemolytic uremic syndrome
+        - O157:H7 and shigella
+        - High mortality
+    - Post infectious IBS 
+    - May precede diagnosis of celiac or crohn's
+### other causes
+- side effects of medication
+    - most common noninfectious cause 
+    - Temporal association
+    - Antibiotics, antiarrhythmic, antihypertensive
+    - NSAIDs
+    - Antidepressants
+    - Chemotherapeutic
+    - Bronchodilator
+    - Antacids
+    - Laxatives 
+- Ischemic colitis 
+    - occlusive or non occlusive
+    - Age >50 
+    - Acute lower abdominal pain 
+    - Followed by watery then bloody diarrhea
+    - Sigmoid or left colon changes 
+    - Spares rectum 
+- Colonic diverticulitis or graft-versus-host disease
+- OP poisoning, amanita, mushroom, arsenic 
+- Seafood ci
