@@ -38,3 +38,10 @@
         - ***Mucous*** production, ***ionic transporters*** to maintain intracellular pH and produce bicarbonate and intracellular ***tight junctions***
         - Produce ***Heat Shock Proteins*** that prevent protein denaturation
         - HSPs protect from high temperature, cytotoxic and oxidative stress
+        - Also generate trefoil factor family peptide and cathelicidins protective of surface and regeneration
+        - ***Restitution*** is gastric epithelial cells bordering a site of injury **migrating** to restore damage
+            -  requires alkaline pH and blood supply
+            - modulated by EGF, TGF-alpha and FGF 
+            - Independent of cell division
+        - Larger defects require ***proliferation*** 
+        - Regeneration by PGs, 
