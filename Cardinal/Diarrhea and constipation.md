@@ -5,4 +5,18 @@
         - myenteric
         - Submucosal
         - Mucosal plexus
-        - Mediated by 
+        - Mediated by NTs
+            - VIP
+            - Opioid
+            - Norepinephrine
+            - Serotonin
+            - ATP
+            - NO 
+        - Receives input from extrinsic but capable of independent action
+    - Extrinsic
+        - part of ANS 
+        - Parasympathetic conveys visceral sensory (afferent) and excitatory pathways 
+        - Along SMA 
+        - Distal colon by sacral parasympathetic (S2-4) via pelvic plexus, as ascending intracolonic fibres maybe upto proximal colon 
+        - Excitatory motor control by acetylcholine and tachykinins like substance P 
+        - Sympathetic along arterial vessels, excitatory to sphincters and non-excitatory to non-sphincyers 
