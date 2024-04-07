@@ -108,3 +108,21 @@
         - Salmonella from eggs 
         - Listeria from fresh or frozen uncooked food, mushroom, dairy 
         - Vibrio, salmonella, hep A from seafood
+    - Immunodeficiency
+        - primary or secondary immunodeficiency
+        - More severe and protracted illness
+        - Mycobacterium, CMV, adenovirus, HSV, Cryptosporidium, Isospora belli, microsporidia and blastocystis hominis
+        - Venereal infections may cause proctocolitis 
+        - ***Vibrio and yersinia in hemochromatosis*** 
+    - Daycare attendees
+        - shigella
+        - Giardia 
+        - Cryptosporidium
+        - Rotavirus
+    - Institutionalised persons
+        - nosocomial
+        - Clostridium difficile most common
+- Small bowel hypersecretion
+    - profuse watery diarrhea
+    - Ingestion of preformed toxins 
+    - Enteroto
