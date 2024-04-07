@@ -71,12 +71,21 @@
 - loosely defined as ***passage of abnormally liquid or unformed stools at increased frequency***
 - Stool weight >200g/d can be considered
 - Acute <2weeks, persistent 2-4weeks, chronic >4weeks 
-- Pseudodiarrhoea
+- ***Pseudodiarrhoea***
     - frequent small stools 
     - Associated with rectal urgency, tenesmus, feeling of incomplete evacuation
     - Accompanies IBS or proctitis 
-- Fecal incontinence
+- ***Fecal incontinence***
     - involuntary discharge of rectal contents
     - Caused by neuromuscular disorders or
     - Structural anorectal problems
-    - Maybe aggravated by diarr
+    - Maybe aggravated by diarrhea and urgency 
+- Consider pseudodiarrhea and incontinence in patients complaining of ***chronic diarrhea***
+## acute diarrhea
+- more than 90% infectious
+- Accompanied with fever, vomiting, abdominal pain
+- 10% by medication, toxic, ischemia, food indiscretion
+### Infections
+- most by fecal-oral transmission or contaminated food or water intake 
+- In immunocompetent, rarely caused by normal flora 
+- Disruption of flora by antibiotics may cause diarrhea by ***Clostridium difficile*** 
