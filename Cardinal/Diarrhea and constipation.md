@@ -19,4 +19,12 @@
         - Along SMA 
         - Distal colon by sacral parasympathetic (S2-4) via pelvic plexus, as ascending intracolonic fibres maybe upto proximal colon 
         - Excitatory motor control by acetylcholine and tachykinins like substance P 
-        - Sympathetic along arterial vessels, excitatory to sphincters and non-excitatory to non-sphincyers 
+        - Sympathetic along arterial vessels, excitatory to sphincters and non-excitatory to non-sphincters 
+- Intestinal fluid absorption
+    - 9L enters GI tract and 1L residual reaches colon
+    - Stool fluid excretion around 0.2L/day
+    - Colon has high capacitance may recover upto 4x usual volume (max 0.8L/day)
+    - Sodium absorption is electrogenic 
+        - can be measured as current
+        - No loss of cation
+        - By apical membrane
