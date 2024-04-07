@@ -55,4 +55,14 @@
     - Colonic tone is background contractility with superimposed phasic activity
 - Colonic motility after meals 
     - phasic and tonic increase postprandial for 2h 
-    - Initial 10 mins mediated by va
+    - Initial 10 mins mediated by vagus 
+    - Subsequent requires calories (atleast 500) and mediated partly by hormones (gastrin and serotonin)
+- Defecation
+    - tonic contraction of puborectalis (sling around rectoanal junction) maintains continence 
+    - Parasympathetic relaxation causes defecation by straightening rectoanal angle
+    - Rectum distension causes transient relaxation of internal anal sphincter (by intrinsic and reflex sympathetic innervation)
+    - Increased abdominal pressure opens rectosigmoid angle >15 degree
+        - contractions
+        - Straining
+        - Valsalva maneuver
+    - Voluntary relaxation of external sphincter after distension causes defecation
