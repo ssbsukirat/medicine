@@ -56,4 +56,9 @@
         - regulate mucosal bicarbonate and mucus
         - Inhibit parietal cell secretion
         - Maintain blood and ***restitution***
-        - 
+        - COX-1 is constitutive while COX-2 is inducible (protects mucosal integrity)
+        - NSAIDs blocking COX-1 cause gi side effects
+        - But cox-2 selective inhibitor may increase CVS mortality so valdecoxib and rofecoxib removed 
+    - NO 
+        - NO synthase constitutively expressed
+        - Stimulates mucos, increases blood flow and maintains Barrier function
