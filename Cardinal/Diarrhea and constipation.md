@@ -322,3 +322,23 @@
         - May cause hypokalemia
         - Inhibited by NSAIDs
         - PGs mediated
+- Congenital defects in ion absorption
+    - watery diarrhea from birth 
+    - Rare 
+    - Congenital chloridorrhea 
+        - defective cl bicarb exchange
+        - Alkalosis 
+    - Congenital Na diarrhoea
+        - defective Na/H exchange
+        - NHE3 gene 
+        - Acidosis
+    - Addison's
+        - adrenocortical insufficiency
+        - Watery diarrhea
+        - Skin hyperpigmentation
+### Osmotic causes 
+- due to poorly absorbable, osmotically active solutes 
+- Draw fluid into colon that exceeds absorption capacity
+- Ceases with fasting or discontinuation of agent 
+- Osmotic laxatives
+    - 
