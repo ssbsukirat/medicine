@@ -64,4 +64,17 @@
         - Stimulates mucos, increases blood flow and maintains Barrier function
     - Microbiome of stomach
 ## physiology of gastric secretion
-- 
+- HCl and pepsinogen 
+	- capable of inducing mucosal injury 
+	- physiological role in protein digestion 
+	- absorption of iron, Ca, Mg, Vit B12 
+	- kill ingested bacteria 
+- acid secretion 
+	- basal and stimulated 
+	- basal in circadian pattern 
+		- highest at night 
+		- lowest in morning 
+		- cholinergic vagal input stimulates 
+		- histamine from local gastric sources stimulates 
+	- stimulated 
+		- 3 p
