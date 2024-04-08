@@ -192,4 +192,20 @@
         - enterohemorrhagic and other E coli
         - Vibrio 
         - Yersinia
-    - Persistence
+    - Persistent
+        - giardia 
+        - Clostridium difficile if antibiotic history
+        - E histolytica
+        - Cryptosporidium
+        - Campylobacter
+    - If no results in stool studies
+        - flexible sigmoidoscopy with culture and biopsy
+        - Endoscopy with duodenal aspirates 
+        - if uncharacteristic persistent diarrhea, Exclude IBD and noninfectious (ischemic, diverticulitis, partial obstrucion)
+            - colonoscopy
+            - CT 
+### Treatment acute diarrhea
+- fluid electrolyte replacement
+- In mild, fluids alone 
+- Oral sugar-electrolyte syrups immediately to limit dehydration
+- 
