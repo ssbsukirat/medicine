@@ -23,6 +23,8 @@
     * 30-40% of cell is mitochondria as high energy is required
     * also secretes ***IF*** and ***IL-11*** 
     * receptors for secretion enhancers like H2, gastrin (cholecystokinin 2/gastrin receptor) , acetylcholine (M3)
+    * ***H2*** binding to histamine activates ***adenyl cyclase and phosphoinositol pathways,*** increasing intracellular cAMP and Ca respectively 
+    * ***Gastrin and M3*** activates protein ***kinase C/phosphoinositide signaling*** pathway
 ## gastroduodenal mucosal defence
 - constant attack by endogenous factors like HCl, pepsinogen/Pepsin, bile salts 
 - Exogenous attack by medication, alcohol, bacteria
@@ -104,3 +106,4 @@
 			- Gr cells in the stomach, 
 			- related peptide motilin (released from the duodenum) 
 			- increase gastric acid secretion through stimulation of histamine release from ECL cells 
+	- 
