@@ -77,4 +77,24 @@
 		- cholinergic vagal input stimulates 
 		- histamine from local gastric sources stimulates 
 	- stimulated 
-		- 3 p
+		- 3 phases based on ***signal origin***
+		- cephalic 
+			- sight, smell taste 
+			- via vagus 
+		- gastric 
+			- once food enters stomach 
+			- driven by nutrients (AAs and amines) 
+				- directly (peptone/AA receptor) 
+				- indirectly  --> G cell releases gastrin 
+			- distension of stomach wall 
+		- intestinal 
+			- food in intestine 
+			- distension 
+			- nutrient assimilation 
+		- inhibitory pathways also activated during phases 
+			- Somatostatin 
+				- from D cells in muscosa 
+				- in response to HCl 
+				- direct by parietal cells 
+				- inDirect by reduced histamine , Ghrelin, gastrin 
+		- 
