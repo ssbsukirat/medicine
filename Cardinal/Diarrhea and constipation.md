@@ -299,4 +299,5 @@
         - Diarrhea due to fat maldogestion due to pancreatic enzyme ***inactivation by low duodenal pH***
     - ***Pancreatic cholera*** 
         - ***watery diarrhea hypokalemia achlorhydria syndrome***
-        - Non beta cell 
+        - Non beta cell adenoma (***VIPoma*** )
+        - Secretes 
