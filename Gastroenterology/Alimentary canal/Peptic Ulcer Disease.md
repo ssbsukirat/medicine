@@ -22,7 +22,8 @@
     * Acid secretion at apical canalicular surface
     * 30-40% of cell is mitochondria as high energy is required
     * also secretes ***IF*** and ***IL-11*** 
-    * receptors for secretion enhancers like H2, gastrin (cholecystokinin 2/gastrin receptor) , acetylcholine (M3)
+    * receptors for secretion ***enhancers*** like H2, gastrin (cholecystokinin 2/gastrin receptor) , acetylcholine (M3)
+    * secretion ***inhibitor*** receptors GLP-1 , PGs, Somatostatin , EGF, neurotensin, urocortin 
     * ***H2*** binding to histamine activates ***adenyl cyclase and phosphoinositol pathways,*** increasing intracellular cAMP and Ca respectively 
     * ***Gastrin and M3*** activates protein ***kinase C/phosphoinositide signaling*** pathway
 ## gastroduodenal mucosal defence
@@ -106,4 +107,8 @@
 			- Gr cells in the stomach, 
 			- related peptide motilin (released from the duodenum) 
 			- increase gastric acid secretion through stimulation of histamine release from ECL cells 
-	- 
+	- H,K,ATPase creates H
+		- membrane bound 
+		- alpha and beta subunits 
+		- alpha active 
+		- ATP to secrete H from parietal to secretory canaliculi in exchange of K 
