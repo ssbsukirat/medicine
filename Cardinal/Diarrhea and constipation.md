@@ -284,5 +284,19 @@
     - uncommon but classic
     - Metastatic gastrointestinal carcinoid tumors
     - Primary bronchial carcinoids (rarely)
-    - Maybe as part of carcinoid syndrome
-        - 
+    - Maybe as part of ***carcinoid syndrome***
+        - episodic flushing
+        - Wheeze 
+        - Dyspnea 
+        - Right sided valvular heart disease
+        - Diarrhea
+            - due to secretagogue
+            - Serotonin, histamine, PGs
+        - Pellagra like skin lesions due to niacin deficiency
+    - Gastrinoma 
+        - mainly as multiple refractory peptic ulcers 
+        - Diarrhoea in 1/3 patients
+        - Diarrhea due to fat maldogestion due to pancreatic enzyme ***inactivation by low duodenal pH***
+    - ***Pancreatic cholera*** 
+        - ***watery diarrhea hypokalemia achlorhydria syndrome***
+        - Non beta cell 
