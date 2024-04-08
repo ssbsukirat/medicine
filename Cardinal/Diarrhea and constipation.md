@@ -178,4 +178,18 @@
     - recent antibiotic use 
     - New community outbreak
     - Severe abdominal pain in age >50 
+    - Elderly >70
+    - Immunocompromised
 - If moderately severe febrile with fecal leukocyte or gross blood may give antibiotic trial first 
+- Workup cornerstone is microbiology
+    - viral bacterial cultures
+    - Direct microscopy for ova and parasites
+    - Toxin assay 
+        - clostridium difficile 
+        - Rotavirus
+        - Protozoal giardia, entamoeba histolytica
+    - Special cultures
+        - enterohemorrhagic and other E coli
+        - Vibrio 
+        - Yersinia
+    - Persistence
