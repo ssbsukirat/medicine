@@ -169,4 +169,13 @@
 - Seafood ciguatera (algae that fish eat) or scombroid (histamine excess due to inadequate refrigeration)
 ### Approach to acute diarrhea
 - depend on severity and duration
-- 
+- most are mild and self-limited so don't need diagnostic or pharma intervention
+- Indication of evaluation
+    - profuse with diarrhea
+    - Grossly bloody stools 
+    - Fever >38.5 or 101 
+    - Duration>48h without improvement
+    - recent antibiotic use 
+    - New community outbreak
+    - Severe abdominal pain in age >50 
+- If moderately severe febrile with fecal leukocyte or gross blood may give antibiotic trial first 
