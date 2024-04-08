@@ -166,4 +166,7 @@
     - Spares rectum 
 - Colonic diverticulitis or graft-versus-host disease
 - OP poisoning, amanita, mushroom, arsenic 
-- Seafood ci
+- Seafood ciguatera (algae that fish eat) or scombroid (histamine excess due to inadequate refrigeration)
+### Approach to acute diarrhea
+- depend on severity and duration
+- 
