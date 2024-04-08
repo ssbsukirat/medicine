@@ -208,4 +208,13 @@
 - fluid electrolyte replacement
 - In mild, fluids alone 
 - Oral sugar-electrolyte syrups immediately to limit dehydration
-- 
+- IV fluids
+    - infant 
+    - Elderly
+    - Profuse dehydration
+- Antimotility and antisecretory agents (loperamide)
+    - severe nonfebrile, nonbloody diarrhea
+    - Avoid 
+        - febrile dysentery
+        - Cardiotoxicity
+    - bismuth
