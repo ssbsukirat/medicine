@@ -341,4 +341,16 @@
 - Draw fluid into colon that exceeds absorption capacity
 - Ceases with fasting or discontinuation of agent 
 - Osmotic laxatives
-    - 
+    - magnesium containing antacids, supplements, laxatives 
+    - Osmolar gap >50 
+        - serum osmolarity (290) - (2 X (fecal sodium + potassium))
+        - Not recommended as it maybe be erroneous
+        - Due to carbohydrate digestion by gut bacteria 
+- Carbohydrate malabsorption
+    - acquired or congenital
+    - Defect in brush border disaccharidases and other enzymes 
+    - Low pH Osmotic diarrhea
+    - Lactase deficiency is common 
+        - depends on total lactose load 
+        - 
+	
