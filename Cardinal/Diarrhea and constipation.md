@@ -410,4 +410,17 @@
         - Ataxia 
         - Retinitis pigmentosa
     - Others 
-    - 
+        - infection with giardia 
+        - Numerous medications (olmesartan, MMF, colchicine, cholestyramine, neomycin)
+        - Amyloid 
+- Post mucosal lymphatic obstruction
+    - congenital intestinal lymphangectasia (rare) 
+    - Acquired lymphatic obstruction 
+        - trauma 
+        - Tumour
+        - Cardiac disease
+    - Fat malabsorption, loss of protein, lymphocytopenia 
+### inflammatory causes 
+- accompanied by pain, fever, bleeding or other inflammatory manifestation
+- mechanism
+- 
