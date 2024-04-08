@@ -484,4 +484,4 @@
 - rational approach
 - First history and physical with medication history
 - Routine investigation first 
-- 
+- 2/3 remain uncleared after initia
