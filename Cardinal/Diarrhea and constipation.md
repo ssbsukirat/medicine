@@ -352,5 +352,18 @@
     - Low pH Osmotic diarrhea
     - Lactase deficiency is common 
         - depends on total lactose load 
-        - 
-	
+        - Avoid milk products
+        - Treat with enzyme supplements
+    - Sorbitol, lactulose or fructose frequently involved so maybe caused by gums candies or medicines artificially sweetened
+- Wheat and FODMAP intolerance
+    - chronic diarrhea, bloating, abdominal pain
+    - Non celiac gluten intolerance
+
+### Steatorrheal causes 
+- fat malabsorption
+- Greasy foul smelling, difficult to flush diarrhea
+- Weight loss 
+- Nutritional deficiencies
+- Due to Osmotic effects of fatty acids after hydroxylation
+- Stool fat >7g/day 
+- Rapid transit diarrhea may have >14g/day
