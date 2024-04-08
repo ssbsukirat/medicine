@@ -21,6 +21,7 @@
     * ***Stimulation*** causes tubulovesicle and apical membrane to transform to dense network of apical intracellular canaliculi with ***long microvilli***
     * Acid secretion at apical canalicular surface
     * 30-40% of cell is mitochondria as high energy is required
+    * also secretes ***IF*** and ***IL-11*** 
 ## gastroduodenal mucosal defence
 - constant attack by endogenous factors like HCl, pepsinogen/Pepsin, bile salts 
 - Exogenous attack by medication, alcohol, bacteria
@@ -97,4 +98,8 @@
 				- in response to HCl 
 				- direct by parietal cells 
 				- inDirect by reduced histamine , Ghrelin, gastrin 
-		- 
+		- Ghrelin, 
+			- appetite-regulating 
+			- Gr cells in the stomach, 
+			- related peptide motilin (released from the duodenum) 
+			- increase gastric acid secretion through stimulation of histamine release from ECL cells 
