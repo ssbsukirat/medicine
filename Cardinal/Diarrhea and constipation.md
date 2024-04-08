@@ -433,4 +433,27 @@
 - Idiopathic IBD 
     - crohn's, chronic UC 
     - Most common organic cause of chronic diarrhea in adults 
-    - 
+    - PSC 
+        - uveitis
+        - Polyarthralgias 
+        - Cholestatic liver disease
+    - Skin lesions in ***erythema nodosum, pyoderma gangrenosum*** 
+    - Microscopic colitis 
+        - lymphocytic colitis 
+        - Collagenous colitis
+        - Chronic watery diarrhea
+        - Middle aged women 
+        - NSAIDs, PPIs, SSRI 
+        - Biopsy of normal appearing colon required
+        - Responds to bismuth, loperamide or budesonide 
+- Primary or secondary immunodeficiency
+- Eosinophilic gastroenteritis
+    - mucosa, muscularis, serosa infiltration
+    - At any level 
+    - atopic history ++ 
+    - Charcot Leyden crystals
+        - extruded eosinophilic contents 
+        - Microscopic examination of stool 
+- Others 
+    - radiation enterocolitis
+    - Chronic graft-versus-host
