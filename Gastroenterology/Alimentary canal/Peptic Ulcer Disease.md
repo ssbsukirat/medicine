@@ -123,5 +123,16 @@
 * risk factors 
 	* H. pylori and NSAIDs most common 
 	* COPD 
+	* CKD 
+	* tobacco use (current and former)
+	* older age 
+	* 3 or more doctor visits 
+	* CAD 
+	* former alcohol use 
+	* obesity 
+	* diabetes 
+	* SSRIs 
+	* gastric bypass surgery 
+## Epidemiology 
+* Duodenal Ulcers 
 	* 
-* 
