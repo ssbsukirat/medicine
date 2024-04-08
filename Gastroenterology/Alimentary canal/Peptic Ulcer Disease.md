@@ -115,3 +115,13 @@
 	- Chief cell secreres pepsinogen 
 		- cleaved to pepsin 
 		- requires pH<2 
+		- activity dimnished at pH>4 
+		- inactive at pH>7
+# PATHOPHYSIOLOGIC BASIS OF PUD  
+* PUD encompasses both gastric ulcers (GUs) and duodenal ulcers (DUs).
+* Ulcers are defined as breaks in the mucosal surface >5 mm in size, with depth to the submucosa.
+* risk factors 
+	* H. pylori and NSAIDs most common 
+	* COPD 
+	* 
+* 
