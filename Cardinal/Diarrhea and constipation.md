@@ -300,4 +300,25 @@
     - ***Pancreatic cholera*** 
         - ***watery diarrhea hypokalemia achlorhydria syndrome***
         - Non beta cell adenoma (***VIPoma*** )
-        - Secretes 
+        - Secretes VIP, secretin, gastrin, GIP, neurotensin, calcitonin, PGs
+        - Massive diarrhea
+        - >3L/day (upto 20L)
+        - Life threatening dehydration
+        - Neuromuscular dysfunction
+            - hypokalemia
+            - Hypomagnesemia
+            - Hypercalcaemia
+        - Flushing or hypoglycemia
+    - Medullary carcinoma thyroid 
+        - watery diarrhea 
+        - Due to calcitonin, PGs, other peptides
+        - Diarrhea means metastatic and poor prognosis
+    - ***systemic mastocytosis***
+        - ***urticaria pigmentosa*** on skin
+        - Secretory by histamine
+        - Inflammatory by mast cells 
+    - Colorectal villous adenoma
+        - large ones cause diarrhea
+        - May cause hypokalemia
+        - Inhibited by NSAIDs
+        - PGs mediated
