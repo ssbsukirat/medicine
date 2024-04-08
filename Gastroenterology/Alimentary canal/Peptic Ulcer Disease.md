@@ -22,6 +22,7 @@
     * Acid secretion at apical canalicular surface
     * 30-40% of cell is mitochondria as high energy is required
     * also secretes ***IF*** and ***IL-11*** 
+    * receptors for secretion enhancers like H2, gastrin (cholecystokinin 2/gastrin receptor) , acetylcholine (M3)
 ## gastroduodenal mucosal defence
 - constant attack by endogenous factors like HCl, pepsinogen/Pepsin, bile salts 
 - Exogenous attack by medication, alcohol, bacteria
