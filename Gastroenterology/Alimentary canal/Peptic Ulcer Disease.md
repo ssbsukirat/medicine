@@ -148,3 +148,14 @@
 	* 90% in 3cm of pylorus 
 	* <1cm diameter (occasionally 3-6cm)
 	* sharply demarcated ulcer, may reach upto muscularis propria 
+	* base of the ulcer  zone of eosinophilic necrosis with surrounding fibrosis. 
+	* Malignant extremely rare.
+* GU 
+	* may represent malignancy 
+	* biopsy upon discovery always 
+	* Benign 
+		* most often found distal to the junction between the antrum and the acid secretory mucosa. 
+		* Benign rare in fundus
+		* histologically similar to DUs.
+		* associated with H. pylori are also associated with antral gastritis.
+		* NSAIDs induced have chemical gastropathy 
