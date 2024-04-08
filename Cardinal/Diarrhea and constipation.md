@@ -498,4 +498,27 @@
 * curative , suppresive, empirical 
 * curative 
 	* resection of a colorectal cancer,
-	* antibiotic administration for Whipple’s disease or tropical sprue, or discontinuation of a drug
+	* antibiotic administration for Whipple’s disease or tropical sprue, or 
+	* discontinuation of a drug
+* Suppresive 
+	* elimination of dietary lactose for lactase deficiency or gluten for celiac sprue,
+	* use of glucocorticoids or other anti-inflammatory agents for idiopathic IBDs, 
+	* bile acid sequestrants for bile acid malabsorption, 
+	* PPIs for the gastric hypersecretion of gastrinomas,
+	* somatostatin analogues such as octreotide for malignant carcinoid syndrome,
+	* prostaglandin inhibitors such as indomethacin for medullary carcinoma of the thyroid, and 
+	* pancreatic enzyme replacement for pancreatic insufficiency 
+* Empirical 
+	* Mild opiates, such as diphenoxylate or loperamide, in mild or moderate watery diarrhea
+	* codeine or tincture of opium if severe 
+	* avoid antimotility in IBD as may precipitate toxic megacolon 
+	* Clonidine, 
+		* an α2-adrenergic agonist, 
+		* control of diabetic diarrhea, 
+		* may be poorly tolerated causes postural hypotension
+	* ***IBS***
+		* the ***5-HT3 receptor antagonists (e.g., alosetron, ondansetron)*** may relieve diarrhea and urgency 
+		* rifaximin 
+		* ***mixed μ-opioid receptor (OR) and κ-OR agonist and δ-OR antagonist, eluxadoline*** 
+			* may precipitate sphincter of Oddi spasm 
+			* acute pancreatitis 
