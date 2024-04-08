@@ -390,3 +390,24 @@
         - Villous atrophy and crypt hyperplasia
         - Proximal small bowel 
         - Fatty diarrhea with nutritional deficiencies
+        - May present without Steatorrhea 
+        - May mimic IBS or extraintestinal manifestation
+    - Tropical sprue
+        - similar to celiac 
+        - In tropical climates
+        - Abrupt onset 
+        - Response to antibiotics
+    - Whipple's disease
+        - Tropheryma whipplei bacteria
+        - Small bowel mucosa ***histiocytic infiltration*** 
+        - Young or middle aged men 
+        - Arthralgia, fever, lymphadenopathy, fatigue
+        - May affect CNS or endocardium 
+    - MAC in AIDS (like Whipple)
+    - Abetalipoproteinemia 
+        - rare defect of chylomicron formation in children
+        - Associated with acanthocytic erythrocytes
+        - Ataxia 
+        - Retinitis pigmentosa
+    - Others 
+    - 
