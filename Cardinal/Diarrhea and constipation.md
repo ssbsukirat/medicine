@@ -367,3 +367,26 @@
 - Due to Osmotic effects of fatty acids after hydroxylation
 - Stool fat >7g/day 
 - Rapid transit diarrhea may have >14g/day
+- 15-25 g/day in most small intestinal disease
+- >32 g/day with pancreatic exocrine insufficiency 
+- Intraluminal maldigestion 
+    - pancreatic exocrine insufficiency
+    - At >90% function loss 
+    - Most common with chronic pancreatitis
+        - chronic alcoholism
+        - Cystic fibrosis
+        - Pancreatic duct obstruction
+        - Somatostatinoma 
+    - Small intestinal bacterial overgrowth
+        - deconjugate bile acids and alter micelle formation
+        - Blind loop stasis 
+        - Diverticulum
+        - Dysmotility 
+        - More in elderly
+    - Cirrhosis or biliary obstruction
+- Mucosal malabsorption
+    - most common is celiac disease
+        - all ages 
+        - Villous atrophy and crypt hyperplasia
+        - Proximal small bowel 
+        - Fatty diarrhea with nutritional deficiencies
