@@ -158,4 +158,7 @@
 		* Benign rare in fundus
 		* histologically similar to DUs.
 		* associated with H. pylori are also associated with antral gastritis.
-		* NSAIDs induced have chemical gastropathy 
+		* NSAIDs induced have chemical gastropathy with 
+			* foveolar hyperplasia 
+			* edema of lamnia propria 
+			* epithelial regeneration in absence of 
