@@ -112,3 +112,6 @@
 		- alpha and beta subunits 
 		- alpha active 
 		- ATP to secrete H from parietal to secretory canaliculi in exchange of K 
+	- Chief cell secreres pepsinogen 
+		- cleaved to pepsin 
+		- requires pH<2 
