@@ -161,4 +161,8 @@
 		* NSAIDs induced have chemical gastropathy with 
 			* foveolar hyperplasia 
 			* edema of lamnia propria 
-			* epithelial regeneration in absence of 
+			* epithelial regeneration in absence of H pylori 
+## Pathophysiology 
+* Duodenal Ulcers 
+	* H pylori and NSAIDs maximum 
+	* average basal and nocturnal secretion increased 
