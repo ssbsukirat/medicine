@@ -474,3 +474,14 @@
 - IBS
 ### factitial causes 
 - 15% 
+- Muchausen syndrome (deception or self-injury for secondary gain)
+- Eating disorder 
+- Self administration of laxatives or diuretic before sending stool Sample to add water 
+- Hypotension and hypokalemia presenting features
+- Very high or low stool osmolarity suggests urine and water contamination respectively
+
+### approach to chronic diarrhea
+- rational approach
+- First history and physical with medication history
+- Routine investigation first 
+- 
