@@ -494,4 +494,8 @@
 	- laxative screens.
 - read from harrisons 
 ### Treatment of chronic diarrhea 
-* 
+* specific etiology 
+* curative , suppresive, empirical 
+* curative 
+	* resection of a colorectal cancer,
+	* antibiotic administration for Whipple’s disease or tropical sprue, or discontinuation of a drug
