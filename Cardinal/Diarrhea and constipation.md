@@ -217,4 +217,27 @@
     - Avoid 
         - febrile dysentery
         - Cardiotoxicity
-    - bismuth
+    - bismuth subsalicylate
+        - may reduce vomiting diarrhea
+        - Avoid in immunocompromised 
+        - Avoid in renal insufficiency
+        - May cause bismuth encephalopathy
+- Judicious antibiotics
+    - may reduce severity and duration
+    - Moderately to severely ill patients with dysentery with empirical quinolone like Ciprofloxacin (500mg BD X 3-5d)
+    - Suspected giardiasis with Metronidazole 250 QID for 7 days 
+    - Nitazoxanide
+        - new agent 
+        - Due to resistance to first line 
+        - Giardia and Cryptosporidium
+    - Antibiotics without causative agent
+        - immunocompromised
+        - Mechanical heart valves 
+        - Recent vascular grafts 
+        - Elderly
+    - Prophylaxis in high risk travel areas 
+        - For
+            - immunocompromised
+            - IBD
+            - Hemochromatosis
+            - Gastric achlorhydria 
