@@ -271,9 +271,18 @@
 - Bowel resection, mucosal disease, enterocolic fistula
     - inadequate surface for resorption of fluids 
     - Worsens with eating 
-    - Bile acid diarrhea (***cholerheic diarrhea***) or idiopathic secretory diarrg
+    - Bile acid diarrhea (***cholerheic diarrhea***) or idiopathic secretory diarrhea
         - crohn's 
         - Resection of <100cn of terminal ileum
         - Dihydroxy bile acids escape absorption
         - Stimulate colonic secretion
+        - upto 40% of unexplained chronic diarrhea
+        - Reduced negative feedback to bile acid synthesis by FGF-19 causing ***higher synthesis*** 
+        - Genetic variation in receptor like beta-klotho and FGF-4 
+        - Bile acid receptor (TGR-5) variation
+- Hormones 
+    - uncommon but classic
+    - Metastatic gastrointestinal carcinoid tumors
+    - Primary bronchial carcinoids (rarely)
+    - Maybe as part of carcinoid syndrome
         - 
