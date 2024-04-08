@@ -135,4 +135,10 @@
 	* gastric bypass surgery 
 ## Epidemiology 
 * Duodenal Ulcers 
-	* 
+	* recently reduced surgery and physician visits 
+	* reduced frequency of H pylori and improved sanitary conditions 
+	* before h pylori, frequent recurrent occured 
+* Gastric Ulcer 
+	* later in life 
+	* peak in 6th decade 
+	* usually silent and present after
