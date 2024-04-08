@@ -456,4 +456,21 @@
         - Microscopic examination of stool 
 - Others 
     - radiation enterocolitis
-    - Chronic graft-versus-host
+    - Chronic graft-versus-host disease
+    - Autoimmune enteropathy
+    - Behcets 
+    - Cronkhite-canada syndrome
+### dysmotility
+- rapid transit
+- Secondary or contributing phenomenon
+- Unusual etiology of true diarrhea
+- Secretory diarrhea but fat upto 14g/day 
+- Hyperthyroidism, carcinoid, PGs, prokinetics 
+- Primary visceral neuromyopathies or idiopathic acquired intestinal pseudoobstruction 
+    - stasis 
+    - Bacterial overgrowth
+- Diabetic diarrhea
+    - with peripheral or generalised autonomic neuropathy
+- IBS
+### factitial causes 
+- 15% 
