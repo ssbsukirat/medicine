@@ -484,4 +484,14 @@
 - rational approach
 - First history and physical with medication history
 - Routine investigation first 
-- 2/3 remain uncleared after initia
+- 2/3 remain uncleared after initial investigation 
+- if stool weight >200g/day 
+	- electrolyte concentration, 
+	- pH, 
+	- occult blood testing,
+	- leukocyte inspection (or leukocyte protein assay)
+	- fat quantitation, and 
+	- laxative screens.
+- read from harrisons 
+### Treatment of chronic diarrhea 
+* 
