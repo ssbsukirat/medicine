@@ -259,4 +259,21 @@
     - persists with fasting
 - Fecal osmotic gap
     - none 
-    - No malab
+    - No malabsorbed solute, normal endogenous electrolyte
+- Medication
+    - most common 
+    - Stimulant laxatives (senna, cascara, bisacodyl, castor oil)
+    - Chronic ethanol use 
+        - secretory type 
+        - Due to enterocyte injury with impaired na and water absorption
+    - Arsenic and other environmental toxins 
+    - Olmesartan due to sprue-like enteropathy
+- Bowel resection, mucosal disease, enterocolic fistula
+    - inadequate surface for resorption of fluids 
+    - Worsens with eating 
+    - Bile acid diarrhea (***cholerheic diarrhea***) or idiopathic secretory diarrg
+        - crohn's 
+        - Resection of <100cn of terminal ileum
+        - Dihydroxy bile acids escape absorption
+        - Stimulate colonic secretion
+        - 
