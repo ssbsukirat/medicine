@@ -141,4 +141,10 @@
 * Gastric Ulcer 
 	* later in life 
 	* peak in 6th decade 
-	* usually silent and present after
+	* usually silent and present after complication 
+## Pathology 
+* DU 
+	* D1 
+	* 90% in 3cm of pylorus 
+	* <1cm diameter (occasionally 3-6cm)
+	* sharply demarcated ulcer, may reach upto muscularis propria 
