@@ -241,3 +241,22 @@
             - IBD
             - Hemochromatosis
             - Gastric achlorhydria 
+        - With 
+            - Ciprofloxacin
+            - Rifaximin (not suitable for invasive diarrhea)
+            - Azithromycin
+- Endoscopy has role in immunocompromised only 
+
+## Chronic diarrhea
+- >4 weeks needs evaluation to rule out underlying pathology
+- Mostly noninfectious
+### secretory causes 
+- due to deranged electrolyte transport or fluids 
+- characteristics
+    - Watery, 
+    - large volume fecal output,
+    - typically painless and 
+    - persists with fasting
+- Fecal osmotic gap
+    - none 
+    - No malab
