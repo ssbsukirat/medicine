@@ -423,4 +423,14 @@
 ### inflammatory causes 
 - accompanied by pain, fever, bleeding or other inflammatory manifestation
 - mechanism
-- 
+    - exudation
+    - Fat malabsorption
+    - Disrupted fluid electrolyte absorption
+    - Hypersecretion or hypermotility fr cytokines
+- Stool presence of leukocytes, ***calprotectin*** 
+- Exudative protein loss may cause anasarca 
+- Exclude colorectal tumour in middle aged or elderly with chronic inflammatory diarrhea
+- Idiopathic IBD 
+    - crohn's, chronic UC 
+    - Most common organic cause of chronic diarrhea in adults 
+    - 
