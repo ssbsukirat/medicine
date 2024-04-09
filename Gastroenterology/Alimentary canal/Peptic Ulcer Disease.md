@@ -460,4 +460,14 @@
     - Short term black stools, constipation and tongue darkening 
     - Long term neurotoxicity
 - ***Prostaglandin analogue***
-    - enhance 
+    - enhance mucosal defence and repair
+    - Most common side effects diarrhea
+    - Uterine bleed and contraction 
+    - Misoprostol contraindicated in pregnancy 
+    - 200 ug QID 
+- Miscellaneous
+    - anticholinergic
+    - TCAs 
+    - Teprenone -- acyclic polyisoprenoid is mucosal protector 
+### H pylori treatment
+- greatest role in preventing recurrence
