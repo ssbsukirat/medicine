@@ -313,3 +313,25 @@
     - Secondary to ulcer related inflammation and edema in peripyloric and duodenal is ***relative obstruction*** and usually heals 
     - Fixed mechanical obstruction due to scar formation and requires endoscopy or surgery
     - New onset satiety, nausea, vomiting, more periprandial abdominal pain and weight loss
+## differentials
+- most common is ***functional dyspepsia or essential dyspepsia***
+    - heterogeneous group of disorders without ulcers with abdominal pain 
+    - From postprandial fullness to early satiety to epigastric pain 
+    - ***Postprandial distress syndrome*** (PDS)
+    - ***Epigastric pain syndrome*** (EPS)
+    - Postinfectious states 
+    - Certain foods 
+    - H pylori infection
+- Proximal gi tumours
+- GERD 
+- Vascular disease 
+- Pancreaticobiliary disease 
+- Gastroduodenal Crohn's
+
+## diagnostic evaluation
+- have to establish presence of ulcer 
+- Radiology (barium study) rarely done now 
+- Endoscopy
+- Test for h pylori and antibiotic therapy before evaluation in 
+    - healthy
+    - <45 years age 
