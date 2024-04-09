@@ -438,4 +438,26 @@
     - competitive binding of H,K-ATPase pump 
     - Compound PPI action
     - Revaprazan, vanoprazan, tegoprazan in Korea and Japan 
-    - Vano
+    - Vanoprazan superior to PPIs with antibiotics for h pylori
+### Cytoprotective agents 
+- ***Sucralfate*** 
+    - complex sucrose salt with aluminium hydroxide and sulfate instead of hydroxyl
+    - Insoluble in water
+    - Forms paste in stomach and duodenum
+    - Primarily on active ulceration sites 
+    - Barrier function
+    - Promotes trophic action by growth factors like EGF
+    - Increased PG synthesis
+    - Stimulates bicarbonate and mucus secretion
+    - Constipation most common side effects
+    - Avoid in CKD 
+    - Hypophosphatemia and bezoar rarely 
+    - 1g QID 
+- ***Bismuth***
+    - effective against h pylori
+    - Colloidal bismuth subcitrate (CBS)
+    - bismuth subsalicylate (BSS, pepto-bismol)
+    - Short term black stools, constipation and tongue darkening 
+    - Long term neurotoxicity
+- ***Prostaglandin analogue***
+    - enhance 
