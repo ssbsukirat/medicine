@@ -369,3 +369,18 @@
     - For symptomatic relief
     - Aluminium hydroxide -- constipation and phosphate depletion
     - Magnesium hydroxide -- loose stools 
+    - Most have combo of both 
+    - Magnesium not in CKD due to hypermagnesemia 
+    - Aluminium not in CKD due to chronic neurotoxicity
+    - Ca-carbonate , Na-bicarb (systemic alkalosis) potent 
+    - Ca-carbonate long term causes ***milk alkali syndrome*** -- hypercalcaemia and hyperphosphatemia with renal calcinosis and insufficiency
+- ***H2 receptor antagonist***
+    - cimetidine, ranitidine, ranitidine, nizatidine 
+    - Structural homology to histamine
+    - Inhibition of basal and stimulated secretion is similar for all 
+    - Similar ulcer healing effect for all 
+    - Use for ***active ulcer*** with h pylori antibiotics for **4-6 weeks** 
+    - Cimetidine
+        - first 
+        - Weak antiandrogenic action causing reversible Gynecomastia and impotence
+        - P450 -- monitor with warfarin, phenyo
