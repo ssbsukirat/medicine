@@ -354,4 +354,18 @@
         - Determine is blood loss + 
 - H pylori testing
     - Biopsy urease tests - PyloriTek, CLOtest, Hpfast, Pronto Dry 
-- 
+    - Noninvasive by serology
+    - Urea breath test (c13/14)
+    - Fecal Hp antigen test 
+- serum gastrin and acid analysis in complicated or refractory PUD 
+- Screening for aspirin or NSAIDs in h pylori negative pud 
+## Treatment 
+- before h pylori based on "***no acid no ulcer***"
+- Eradication of h pylori and prevention of NSAID induced disease cornerstone
+### acid neutralising drugs 
+- ***Antacids*** 
+    - before histamine role was discovered
+    - Rarely used as primary
+    - For symptomatic relief
+    - Aluminium hydroxide -- constipation and phosphate depletion
+    - Magnesium hydroxide -- loose stools 
