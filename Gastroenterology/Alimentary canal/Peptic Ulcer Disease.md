@@ -1,4 +1,4 @@
-* peptic Ulcer is disruption of mucosal integrity of stomach or duodenum leading to local defect or excavation due to active inflammation
+   * peptic Ulcer is disruption of mucosal integrity of stomach or duodenum leading to local defect or excavation due to active inflammation
 * Burning epigastric pain more with fasting and reduced by meals is classical 
 * but >90% with symptoms have no ulcer
 * Majority with PUD are asymptomatic
@@ -195,3 +195,22 @@
         - ***Urease*** 
         - ***Vac A*** is vacoulating cytotoxin
         - ***cag-PAI*** (cag pathogenicity island)
+    - Urease 
+        - first step
+		- produces ammonia from urea 
+        - Alkaline pH created 
+- Epidemiology
+    - 80% infected in developing countries
+    - Incidence increase with age 
+    - Higher colonisation with poor socioeconomic status and education
+- Pathophysiology
+    - chronic active gastritis almost always
+    - 10-15% have Frank ulcers
+    - 99% (now 50-70) of DUs have h pylori but only 30-60 with GUs 
+    - End result
+        - gastritis
+        - PUD 
+        - MALT lymphpoma
+        - Adenocarcinoma
+    - Bacterial factor
+    - 
