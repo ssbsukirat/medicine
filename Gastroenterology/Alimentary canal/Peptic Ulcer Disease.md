@@ -407,3 +407,19 @@
     - Omeprazole
         - with sodium bicarbonate as powder given orally or feeding tube 
         - Sodium bicarbonate protects 
+    - Pantoprazole and rabeprazole as enteric coated tablets and pantoprazole as IV
+    - Inhibit all phases of secretion
+    - Rapid action in 2-6 hours 
+    - Duration upto 72-96h 
+    - Daily dosing causes progressive acid inhibition, secretion reduced 95% after 1 week 
+    - Half life 18h so may take 5/6 days for secretion to return to normal 
+    - Best action if taken before a meal 
+    - Mild to moderate hypergastrinemia , no evidence of carcinoid in humans, return to normal in 1-2 weeks 
+    - Rebound acid hypersecretion
+        - h pylori negative
+        - After discontinuation
+        - After short term usage (2months)
+        - Lasts upto 2 months
+        - Gastrin induced hyperplasia of histamine secreting cells 
+        - Worsening symptoms on stopping PPIs
+        - Gradual tapering+ switch to H2 receptor antagonist
