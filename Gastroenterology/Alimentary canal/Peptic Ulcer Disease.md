@@ -1,4 +1,4 @@
-   * peptic Ulcer is disruption of mucosal integrity of stomach or duodenum leading to local defect or excavation due to active inflammation
+* peptic Ulcer is disruption of mucosal integrity of stomach or duodenum leading to local defect or excavation due to active inflammation
 * Burning epigastric pain more with fasting and reduced by meals is classical 
 * but >90% with symptoms have no ulcer
 * Majority with PUD are asymptomatic
@@ -195,6 +195,8 @@
         - ***Urease*** 
         - ***Vac A*** is vacoulating cytotoxin
         - ***cag-PAI*** (cag pathogenicity island)
+            - in most strains 
+            - If present associated with higher rates of PUD, premalignant lesions and gastric cancer
     - Urease 
         - first step
 		- produces ammonia from urea 
@@ -213,4 +215,10 @@
         - MALT lymphpoma
         - Adenocarcinoma
     - Bacterial factor
-    - 
+        - GGT 
+        - CagA 
+        - Vac A -- targets CD4 cells 
+        - PAMPS (pathogen associated molecular patterns)
+            - LPS
+            - Flagella
+        - Urease 
