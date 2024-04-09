@@ -176,4 +176,22 @@
     * Location
         * ***Type 1*** -- gastric **body** with ***low acid*** 
         * ***2 -- antrum with low to normal acid*** 
-        * 3 -- **3cm of pylorus** and associated with DUs with normal to high acid 
+        * **3** -- **3cm of pylorus** and associated with ***DUs with normal to high acid*** 
+        * 4 -- ***Cardia with low acid*** 
+## H pylori and peptic disorders
+- accounts for majority of PUD 
+- Associated with MALT and adenocarcinoma
+- Eradication reduces gastric cancer risk in those without chronic atrophic gastritis and metaplasia
+- Bacterium 
+    - initially Campylobacter pyloridis 
+    - Gram negative
+    - Aerophilic rod 
+    - In deep mucous gel or between mucosa and epithelium
+    - Does not invade cells 
+    - ***S shape*** with multiple ***sheathed flagella***
+    - Initially in antrum but proximal migration over time 
+    - Pathogenesis and colonisation factors 
+        - outer membrane protein ***Hop***
+        - ***Urease*** 
+        - ***Vac A*** is vacoulating cytotoxin
+        - ***cag-PAI*** (cag pathogenicity island)
