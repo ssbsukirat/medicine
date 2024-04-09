@@ -178,7 +178,7 @@
         * ***2 -- antrum with low to normal acid*** 
         * **3** -- **3cm of pylorus** and associated with ***DUs with normal to high acid*** 
         * 4 -- ***Cardia with low acid*** 
-## H pylori and peptic disorders
+### H pylori and peptic disorders
 - accounts for majority of PUD 
 - Associated with MALT and adenocarcinoma
 - Eradication reduces gastric cancer risk in those without chronic atrophic gastritis and metaplasia
@@ -227,4 +227,19 @@
         - genetic predisposition
         - local injury by MHC 2 activation and apoptosis
         - IL 1,2,6,8 
-        - Neutrophil mediated
+        - Neutrophil mediated ROS production
+        - T cell mediated apoptosis
+        - Effect on gut microbiome
+    - In DU
+        - DU-promoting gene A (dupA)
+        - Gastric metaplasia of duodenum
+        - High gastric acid secretion
+    - In GU with h pylori, low gastric secretion
+
+### NSAID induced disease
+* Most common medicine
+* Spectrum
+    * Nausea and dyspepsia in 50-60% 
+    * Peptic Ulcer 15-30% 
+    * Perforation or bleeding in 1.5% 
+* No dose 
