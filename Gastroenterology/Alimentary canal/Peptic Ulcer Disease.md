@@ -285,3 +285,21 @@
     - constant dyspepsia
     - No relief by food or antacid 
     - Radiates to back 
+### physical
+- epigastric tenderness
+- Right of midline pain in 20%
+- Tachycardia and orthostasis suggest dehydration secondary to gi bleed 
+- Severely tender board like abdomen in perforation
+- Succusion splash in outlet obstruction
+
+### complications
+- gastrointestinal bleed 
+    - most common complication
+    - 15% 
+    - More in elderly -- higher NSAID use 
+    - most mortality due to nonbleeding systemic causes 
+- Perforation
+    - second most common
+    - 6-7% 
+    - High mortality 
+    - Acute abdominal pain with tachycardia and rigidity
