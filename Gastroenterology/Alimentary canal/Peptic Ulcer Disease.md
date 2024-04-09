@@ -426,3 +426,5 @@
     - IF production inhibited, still B12 deficiency Anemia uncommon due to stores 
     - May interfere with ketoconazole, ampicillin, iron, digoxin absorption (hypochlorydia) 
     - P450 interaction less but still caution++ 
+    - Side effects
+        - long term acid suppression association with increased pneumonia
