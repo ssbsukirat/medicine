@@ -427,4 +427,15 @@
     - May interfere with ketoconazole, ampicillin, iron, digoxin absorption (hypochlorydia) 
     - P450 interaction less but still caution++ 
     - Side effects
-        - long term acid suppression association with increased pneumonia
+        - long term acid suppression association with increased pneumonia and clostridium difficile
+        - Increased SBP in cirrhotic
+        - Diarrhea
+        - Collagenous colitis with lansoprazole
+        - Hip fracture in elderly women 
+        - Iron, B12 and magnesium deficiency
+        - Negative effect on antiplatelet action of clopidogrel -- 12h separation between both should be done (PPI 30m before breakfast and clopidogrel at bedtime)
+- Potassium Competitive acid pump antagonists (P-CAPS)
+    - competitive binding of H,K-ATPase pump 
+    - Compound PPI action
+    - Revaprazan, vanoprazan, tegoprazan in Korea and Japan 
+    - Vano
