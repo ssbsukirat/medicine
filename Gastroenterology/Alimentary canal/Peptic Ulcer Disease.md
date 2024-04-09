@@ -265,3 +265,23 @@
 - Genetic predisposition
 - H pylori binds to O antigens
 - Diet 
+## clinical features
+### history
+- abdominal pain (but poor predictive value) also may present without
+- Epigastric pain 
+    - burning or gnawing discomfort
+    - Ill defined aching or hunger pain 
+    - 90min - 3 hours after meals 
+    - Pain awaking from sleep around 3am 
+    - Elderly less likely, more to have complications
+    - GU ulcer maybe precipitated by food 
+- nausea and weight loss in gastric
+- Mechanism of pain 
+    - acid induced receptor activation
+    - Higher sensitivity to bile acid andPepsin
+    - Altered motility
+- Variations in intensity or distribution of pain may suggest complications
+- Penetrating ulcer 
+    - constant dyspepsia
+    - No relief by food or antacid 
+    - Radiates to back 
