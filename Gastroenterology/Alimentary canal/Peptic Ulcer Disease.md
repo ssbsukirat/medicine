@@ -396,4 +396,6 @@
         - Thrombocytopenia
     - Ranitidine and nizatidine off market due to ***NDMA*** contamination which is carcinogenic
 - ***PPIs***
-    - 
+    - Omeprazole, esomeprazole, lansoprazole, rabeprazole, pantoprazole 
+    - Esomeprazole is S-enantiomer of Omeprazole
+    - R isomer of lansoprazole is dexlansoprazole which has dual release system for GERD management
