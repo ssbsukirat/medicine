@@ -335,3 +335,23 @@
 - Test for h pylori and antibiotic therapy before evaluation in 
     - healthy
     - <45 years age 
+- Barium 
+    - rarely done 
+    - High sensitivity 80% single contrast, 90% double contrast 
+    - Low sensitivity if small (0.5cm) or previous scarring or post-operative
+    - DU appears as well demarcated crater in the bulb 
+    - GU maybe benign or malignant
+        - >3 cm or association with mass more likely malignant
+        - Appears as crater with mucosal folds appearing from margins 
+    - If ulcer ++, do endoscopy and biopsy
+- Endoscopy
+    - most sensitive and specific
+    - Photographic documentation
+    - Biopsy to rule out malignancy or h pylori
+    - Useful for 
+        - small 
+        - Atypical radiography
+        - Determine is blood loss + 
+- H pylori testing
+    - Biopsy urease tests - PyloriTek, CLOtest, Hpfast, Pronto Dry 
+- 
