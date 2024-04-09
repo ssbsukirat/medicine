@@ -166,3 +166,14 @@
 * Duodenal Ulcers 
 	* H pylori and NSAIDs maximum 
 	* average basal and nocturnal secretion increased 
+	* H pylori 
+	* Bicarbonate secretion reduced 
+- gastric ulcer	
+    - majority NSAIDs or h pylori 
+    - Prepyloric in body with or DU or duodenal scar, similar to duodenal ulcers
+    - Basal and stimulated increased
+	* If minimal acid + ulcer , probably mucosal defence impaired 
+    * Location
+        * ***Type 1*** -- gastric **body** with ***low acid*** 
+        * ***2 -- antrum with low to normal acid*** 
+        * 3 -- **3cm of pylorus** and associated with DUs with normal to high acid 
