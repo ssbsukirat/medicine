@@ -242,4 +242,26 @@
     * Nausea and dyspepsia in 50-60% 
     * Peptic Ulcer 15-30% 
     * Perforation or bleeding in 1.5% 
-* No dose 
+* No dose is completely safe 
+* Risk factors
+    * Advanced age 
+    * History of ulcer 
+    * Glucocorticoid use 
+    * High dose 
+    * Multiple NSAIDs
+    * Anticoagulant or clopidogrel 
+    * Serious or multisystem disease
+* Pathophysiology
+    * PGs play role in gut protection
+    * PGs synthesis block means impaired mucosal defence
+    * Systemic or topical use both cause disease
+    * H pylori and NSAID are independent and synergistic risk factors
+### unrelated to h pylori and NSAID 
+- cigarette smoking
+    - slower healing
+    - Decreased response to therapy
+    - Increase complications
+    - Mechanism unknown
+- Genetic predisposition
+- H pylori binds to O antigens
+- Diet 
