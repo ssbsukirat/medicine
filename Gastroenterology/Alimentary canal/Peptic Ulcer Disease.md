@@ -399,3 +399,11 @@
     - Omeprazole, esomeprazole, lansoprazole, rabeprazole, pantoprazole 
     - Esomeprazole is S-enantiomer of Omeprazole
     - R isomer of lansoprazole is dexlansoprazole which has dual release system for GERD management
+    - Osemprazole lansoprazole 
+        - longest in use 
+        - Acid labile so enteric coated tablets 
+        - Dissolved in small intestine at pH 6 
+        - Lansoprazole as oral disintegrating capsules if dysphagia
+    - Omeprazole
+        - with sodium bicarbonate as powder given orally or feeding tube 
+        - Sodium bicarbonate protects 
