@@ -471,3 +471,6 @@
     - Teprenone -- acyclic polyisoprenoid is mucosal protector 
 ### H pylori treatment
 - greatest role in preventing recurrence
+- Eradication in patients with documented PUD 
+    - independent of time of presentation, size, severity or confounding factors
+    - In 
