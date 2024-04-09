@@ -423,3 +423,6 @@
         - Gastrin induced hyperplasia of histamine secreting cells 
         - Worsening symptoms on stopping PPIs
         - Gradual tapering+ switch to H2 receptor antagonist
+    - IF production inhibited, still B12 deficiency Anemia uncommon due to stores 
+    - May interfere with ketoconazole, ampicillin, iron, digoxin absorption (hypochlorydia) 
+    - P450 interaction less but still caution++ 
