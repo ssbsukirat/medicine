@@ -197,6 +197,7 @@
         - ***cag-PAI*** (cag pathogenicity island)
             - in most strains 
             - If present associated with higher rates of PUD, premalignant lesions and gastric cancer
+            - May inhibit acid secretion by parietal cells, so low acid levels maybe seen in acute infection
     - Urease 
         - first step
 		- produces ammonia from urea 
@@ -222,3 +223,8 @@
             - LPS
             - Flagella
         - Urease 
+    - Host
+        - genetic predisposition
+        - local injury by MHC 2 activation and apoptosis
+        - IL 1,2,6,8 
+        - Neutrophil mediated
