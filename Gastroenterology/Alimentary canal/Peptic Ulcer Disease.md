@@ -308,4 +308,8 @@
     - DUs penetration into pancreas causing pancreatitis 
     - GU penetration into left hepatic lobe 
     - Gatrocolic fistula after GU 
-- Gastric 
+- Gastric outlet obstruction
+    - least common
+    - Secondary to ulcer related inflammation and edema in peripyloric and duodenal is ***relative obstruction*** and usually heals 
+    - Fixed mechanical obstruction due to scar formation and requires endoscopy or surgery
+    - New onset satiety, nausea, vomiting, more periprandial abdominal pain and weight loss
