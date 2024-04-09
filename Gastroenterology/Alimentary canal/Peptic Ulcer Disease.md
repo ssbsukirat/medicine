@@ -302,4 +302,10 @@
     - second most common
     - 6-7% 
     - High mortality 
-    - Acute abdominal pain with tachycardia and rigidity
+    - Acute abdominal pain with tachycardia and rigidity 
+    - Immunosuppression or elderly may not have same presentation
+    - more in elderly
+    - DUs penetration into pancreas causing pancreatitis 
+    - GU penetration into left hepatic lobe 
+    - Gatrocolic fistula after GU 
+- Gastric 
