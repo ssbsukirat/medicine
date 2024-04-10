@@ -579,4 +579,23 @@
     - Multiple biopsy of ulcer 
     - If negative repeat endoscopy at 8-12 weeks to document healing and biopsy again if still present
 - Repeat endoscopy in du ulcer if symptoms persist despite medical therapy or complications
-- 
+- Healing
+    - 90% heal with conventional therapy
+    - GU (after 12 weeks) or DU (8 weeks) is considered ***refractory***
+        - exclude compliance and h pylori
+        - Exclude NSAID use 
+        - Eliminate smoking
+        - GU, meticulously exclude malignancy
+        - Gastric acid hypersecretion state like ZES/idiopathic excluded by gastric acid analysis
+        - Exclude ZES by fasting gastrin or secretin stimulation test 
+        - 80% refractory heal with ***8 weeks of high dose PPI*** 
+        - Exclude rare cause before surgery
+            - ischemic
+            - Crohn's
+            - Amyloid or sarcoidosis 
+            - Lymphpoma
+            - Eosinophilic gastroenteritis
+            - Cocaine
+            - CMV, TB or syphilis infection
+### Surgical therapy
+- elective for 
