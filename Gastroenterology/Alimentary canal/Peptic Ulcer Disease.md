@@ -659,3 +659,17 @@
 	* retained antrum, and, 
 	* less likely, persistent or recurrent H. pylori infection
 	* NSAID use 
+	* H2 blockers for treatment 
+### Afferent Loop Syndromes 
+* seen less frequently now 
+* bacterial overgrowth in the afferent limb secondary to stasis.
+	* more common 
+	* postprandial abdominal pain, bloating, and diarrhea 
+	* with concomitant malabsorption of fats and vitamin B12. 
+	* Cases refractory to antibiotics may require surgical revision of the loop.
+* severe abdominal pain and bloating that occur 20–60 min after meals.
+	* Pain is often followed by nausea and vomiting of bile-containing material.
+	* The pain and bloating may improve after emesis. 
+	* cause is theorized to be incomplete drainage of bile and pancreatic secretions from an afferent loop that is ***partially obstructed*** 
+### Dumping syndrome 
+* 
