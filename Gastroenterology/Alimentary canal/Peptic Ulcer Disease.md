@@ -569,4 +569,14 @@
 - If ulcer + h pylori + eradicate irrespective of NSAID status 
     - triple therapy 14 days followed by
     - Acid suppression for total 4-6 weeks 
-    - Document eradication 4 weeks after
+    - Document eradication
+        - 4 weeks after completing
+        - Stool antigen or urea breath test
+        - Off anti-secretory for 7 days before test 
+        - Serology no role in follow-up as antibodies persist 
+- GU ulcer 
+    - maybe malignant (especially body or fundus)
+    - Multiple biopsy of ulcer 
+    - If negative repeat endoscopy at 8-12 weeks to document healing and biopsy again if still present
+- Repeat endoscopy in du ulcer if symptoms persist despite medical therapy or complications
+- 
