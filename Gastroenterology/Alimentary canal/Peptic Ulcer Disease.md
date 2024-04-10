@@ -479,3 +479,18 @@
     - test and treat approach
     - In uninvestigated dyspepsia
     - if local incidence >20% 
+    - Cancer
+        - first degree relative with Gastric ca 
+        - Previous gastric neoplasm treated with endoscopy or subtotal resection
+        - Risk of gastritis or severe atrophy
+        - Acid inhibition >1 year 
+        - Environmental risk factors++ 
+        - H pylori with fear of cancer 
+- American College of gastroenterology
+    - test and treat 
+    - Age <60 years 
+    - Uninvestigated dyspepsia
+    - Eradication in patients undergone resection for early Gastric cancer
+    - Unexplained
+- Both recommend education and long term PPI with eradication if long term NSAID use is present
+- 
