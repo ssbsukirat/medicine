@@ -622,4 +622,14 @@
     - If mechanical persists, endoscopy balloon dilation
     - If endoscopy fails surgery
 ### specific surgeries for DUs
-- originally des
+- originally designed to reduce acid 
+- Includes
+    - vagotomy and drainage 
+        - pyloroplasty 
+        - Gastroduodenostomy 
+        - Gastrojejunostomy 
+    - High selective vagotomy
+        - no drainage required
+    - Vagotomy with  antrectomy 
+- Vagotomy
+    - decreased acid by eliminating cholinergic input 
