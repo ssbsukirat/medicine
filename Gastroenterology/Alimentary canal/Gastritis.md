@@ -26,3 +26,5 @@
 * Chronic Gastritis 
 	* lymphocytic and plasma cell infiltrates 
 	* very scant neutrophil 
+	* inflammation may be patchy, initially involving superficial and glandular portions of the gastric mucosa 
+	* may progress to more severe glandular destruction, with atrophy and metaplasia 
