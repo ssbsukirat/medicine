@@ -15,4 +15,6 @@
 		* bacterial infections 
 		* rare 
 		* potentially life-threatening 
-		* marked and diffuse acute inflammatory infiltrates of entire 
+		* marked and diffuse acute inflammatory infiltrates of entire gastric wall 
+		* maybe associated with necrosis 
+		* elderly individuals , alcoholics , AIDS patients affected 
