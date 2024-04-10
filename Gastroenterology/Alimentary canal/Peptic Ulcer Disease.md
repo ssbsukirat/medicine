@@ -646,3 +646,16 @@
 	* antrectomy, intraoperative ulcer biopsy, and vagotomy
 	* less invasive 
 	* fragile patients with high GUs 
+### Recurrent Ulceration 
+* directly related to procedure performed 
+* reasons 
+	* incomplete vagotomy,
+		* ruled out by gastric acid analysis coupled with sham feeding.
+		* gastric acid output is measured while the patient sees, smells, and chews a meal (without swallowing).
+		* cephalic phase of gastric secretion  being assessed with this study.
+		* An ***increase in gastric acid output in response to sham feeding is evidence that the vagus nerve is intact.*** 
+		* A rise in serum pancreatic polypeptide >50% within 30 min of sham feeding is also suggestive of an intact vagus nerve.
+	* inadequate drainage, 
+	* retained antrum, and, 
+	* less likely, persistent or recurrent H. pylori infection
+	* NSAID use 
