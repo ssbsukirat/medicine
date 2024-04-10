@@ -28,3 +28,10 @@
 	* very scant neutrophil 
 	* inflammation may be patchy, initially involving superficial and glandular portions of the gastric mucosa 
 	* may progress to more severe glandular destruction, with atrophy and metaplasia 
+	* atrophic gastritis associated with gastric CA 
+	* Serologic and endoscopic  markers of severity 
+		* gross inspection 
+		* standard endoscopy 
+		* magnification endoscopy 
+		* narrow band imaging 
+		* autoflourescence 
