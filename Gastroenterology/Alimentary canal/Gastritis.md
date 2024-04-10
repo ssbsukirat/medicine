@@ -34,4 +34,22 @@
 		* standard endoscopy 
 		* magnification endoscopy 
 		* narrow band imaging 
-		* autoflourescence 
+		* autoflourescence imaging 
+		* Pepsinogen 1 and 2 levels 
+		* gastrin 17 
+		* anti H pylori 
+	* Superficial gastritis 
+		* early 
+		* limited to the lamina propria of the surface mucosa,
+		* edema and cellular infiltrates separating intact gastric glands
+	* Atrophic gastritis 
+		* next 
+		* deeper extension into mucosa 
+		* progressive distortion and destruction of cells 
+	* gastric atrophy 
+		* final 
+		* loss of glandular structure 
+		* paucity of inflammatory changes 
+		* thin mucosa on endoscopy with clear visualisation of underlying vessels 
+	* morphology transformation 
+		* 
