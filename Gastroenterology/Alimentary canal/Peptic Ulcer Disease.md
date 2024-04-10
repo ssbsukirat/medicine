@@ -633,4 +633,6 @@
     - Vagotomy with  antrectomy 
 - Vagotomy
     - decreased acid by eliminating cholinergic input 
-    - both truncal and selective (spare celiac and hepatic branches)
+    - both truncal and selective (spare celiac and hepatic branches) leads to gastric atony 
+    - Drainage required to compensate atony 
+    - High selective vagotomy 
