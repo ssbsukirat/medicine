@@ -18,3 +18,11 @@
 		* marked and diffuse acute inflammatory infiltrates of entire gastric wall 
 		* maybe associated with necrosis 
 		* elderly individuals , alcoholics , AIDS patients affected 
+		* polypectomy and mucosal india ink iatrogenic causes 
+		* organism 
+			* E coli 
+			* proteus 
+			* Haemophilus 
+* Chronic Gastritis 
+	* lymphocytic and plasma cell infiltrates 
+	* very scant neutrophil 
