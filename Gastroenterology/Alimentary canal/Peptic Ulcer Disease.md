@@ -529,4 +529,21 @@
     - Lactobacillus or metabolite may inhibit h pylori
 ### NSAID related gastric or duodenal injury
 - treatment and primary prevention of future injury
-- Ideally, s
+- Ideally, stop the offending drug 
+    - if possible, add H2 blocker or PPI 
+    - If not possible, PPIs only 
+- Primary prevention
+    - avoid 
+    - Lowest possible dose 
+    - Shortest time possible 
+    - NSAIDs that are theoretically less harmful
+        - naproxen and ibuprofen
+        - Harmful at higher doses still
+        - COX-2 inhibitors cause injury equivalent to placebo but higher cardiovascular risk 
+    - Topical NSAIDs
+    - Concomitant therapy to prevent ulcer 
+        - PPI
+        - If PPI not tolerated, misoprostol 200ug QID
+        - High dose H2 blocker (famotidine 40 BD) but still PPI superior
+    - Recommendations
+        - no gastric protection
