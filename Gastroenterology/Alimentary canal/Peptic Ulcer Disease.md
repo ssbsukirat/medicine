@@ -598,4 +598,28 @@
             - Cocaine
             - CMV, TB or syphilis infection
 ### Surgical therapy
-- elective for 
+- elective for refractory disease
+- Emergency for complications
+- Hemorrhage
+    - most common
+    - Any age group but more in elderly (60 or beyond)
+    - majority stop spontaneously, but endoscopy necessary in some 
+    - Parenteral or oral PPI for preventing rebleeding 
+    - If refractory to endoscopy, angiography or surgery
+- Peritoneal perforation
+    - NSAID induced gu most common
+    - Sudden severe abdominal pain with peritoneal signs and pneumoperitoneum in 2/3 
+    - Early diagnosis
+    - Intervention
+        - nasogastric suction
+        - IV PPI
+        - Antibiotics
+        - Surgical consultation
+- Gastric outlet obstruction
+    - conservative with suction 
+    - IV hydration nutrition
+    - Antisecretory agents for 7-10 days 
+    - If mechanical persists, endoscopy balloon dilation
+    - If endoscopy fails surgery
+### specific surgeries for DUs
+- originally des
