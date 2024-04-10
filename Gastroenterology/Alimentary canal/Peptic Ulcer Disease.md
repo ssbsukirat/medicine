@@ -640,4 +640,9 @@
     - High selective vagotomy (AKA parietal cell, super-selective, or proximal vagotomy) where fibres innervating the portion of the stomach that contains parietal cells are transected --> motility intact 
 ### specific surgeries for GUS 
 * dependent on concomitant DU location 
-* antrectomy with bilroth 1 for 
+* antrectomy with bilroth 1 for antral ulcer 
+* esophagogastric junction --> subtotal gastretcomy with Roux-en-Y esophagogastrojejunostomy ***(Csendes’ procedure)***
+* ***Kelling-Madlener procedure***
+	* antrectomy, intraoperative ulcer biopsy, and vagotomy
+	* less invasive 
+	* fragile patients with high GUs 
