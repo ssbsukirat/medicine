@@ -745,3 +745,6 @@
 
 ### Others 
 * reflux esophagitis 
+* higher cholecystitis 
+	* reduced GB contractility 
+	* duodenal bypass 
