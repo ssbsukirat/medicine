@@ -473,4 +473,9 @@
 - greatest role in preventing recurrence
 - Eradication in patients with documented PUD 
     - independent of time of presentation, size, severity or confounding factors
-    - In 
+    - In history of PUD with positive stool antigen or breat test 
+- 60-90% MALT lymphpoma respond to eradication
+- Maastricht IV/Florence consensus
+    - test and treat approach
+    - In uninvestigated dyspepsia
+    - if local incidence >20% 
