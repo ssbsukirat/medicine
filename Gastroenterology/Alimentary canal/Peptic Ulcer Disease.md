@@ -720,4 +720,28 @@
 * reasons 
 	* reduced acid 
 	* rapid gastric emptying 
-	* reduced b
+	* reduced bile concentration 
+	* reduced food dispersion in stomach 
+	* reduced pancreatic response to food 
+	* rapid intestinal transit 
+* reduced B12 levels (mainly due to bacterial overgrowth and hypochlorydia ) ***not due to IF***
+* IDA 
+	* impaired iron absorption 
+	* iron salts absorbed so respond to supplementation 
+	* +/- folate deficiency 
+* Vit D and Calcium malabsorption 
+	* leads to osteoporosis and malacia 
+	* after bilroth 2 
+	* late complication 
+	* Elevated alkaline phosphatase, reduced serum calcium, bone pain, and pathologic fractures 
+	* treat with Vit D and Ca supplementation indefinitely 
+* Copper deficiency 
+
+### Adenocarcinoma 
+* gastric stump 
+* 15 years after resection 
+* 4-5x risk after 20-25 years 
+* alkali reflux , bacterial proliferation and hypochlorydia 
+
+### Others 
+* reflux esophagitis 
