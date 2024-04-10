@@ -546,4 +546,18 @@
         - If PPI not tolerated, misoprostol 200ug QID
         - High dose H2 blocker (famotidine 40 BD) but still PPI superior
     - Recommendations
-        - no gastric protection
+        - no gastric protection needed if 
+            - no risk of cardiovascular events 
+            - No aspirin use 
+            - Low risk of GI complications
+        - If no CVS risk factor+ 
+            - high risk of GI complications (gi bleed or multiple risk factors) 
+                - COX-2 inhibitors with high dose PPI or misoprostol 
+            - Moderate gi risk 
+                - COX-2 alone or 
+                - Nonselective NSAIDs with PPI or misoprostol 
+        - CVS risk + and requires low dose Aspirin
+            - low NSAID toxicity risk 
+                - non-nsaid or naproxen with PPI 
+            - GI risk + 
+                - 
