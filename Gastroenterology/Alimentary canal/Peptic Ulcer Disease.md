@@ -560,4 +560,13 @@
             - low NSAID toxicity risk 
                 - non-nsaid or naproxen with PPI 
             - GI risk + 
-                - 
+                - avoid NSAIDs 
+                - If not possible to avoid, gi protection must 
+    - Test and treat h pylori 
+    - Compliance with protective agent difficult so combination available now 
+### summary of therapy
+- guidelines photo 
+- If ulcer + h pylori + eradicate irrespective of NSAID status 
+    - triple therapy 14 days followed by
+    - Acid suppression for total 4-6 weeks 
+    - Document eradication 4 weeks after
