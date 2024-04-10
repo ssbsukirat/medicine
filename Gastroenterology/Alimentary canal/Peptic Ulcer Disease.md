@@ -512,4 +512,21 @@
 - New approach
     - sequential therapy
         - 5 days Amoxicillin PPI
-        - Then 5 days of PPI and tinidazo
+        - Then 5 days of PPI and tinidazole and clarithromycin/Lcin 
+    - Concomitant therapy
+        - 5 days 
+        - Short duration
+        - Less expensive
+        - Easier
+        - PPI BD
+        - Amoxicillin 1gBD
+        - Lcin 500 BD
+        - Tinidazole 500 BD
+    - N-ACETYLCYSTEINE
+        - pretreatment before antibiotics
+        - Destroys mucos film of h pylori 
+        - Increase antibiotic action
+    - Lactobacillus or metabolite may inhibit h pylori
+### NSAID related gastric or duodenal injury
+- treatment and primary prevention of future injury
+- Ideally, s
