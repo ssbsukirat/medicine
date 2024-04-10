@@ -503,4 +503,13 @@
     - Helidac (BSS, tetracycline, Metronidazole) 
 - Avoid clarithromycin if resistance>15% or previous macrolide use 
 - Antibiotic resistant strains may develop, and is most common cause of treatment failure in compliant patients
-- If resi
+- If resistance, 
+    - Quadruple therapy
+    - substitute clarithromycin for metronidazole or vice-versa
+    - PPI+ Amoxicillin+ rifabutin for 10 days 
+    - Levofloxacin based (Lcin + Amoxicillin + PPI) 10 days 
+- If after 2 regimens, still persist, culture sensitivity
+- New approach
+    - sequential therapy
+        - 5 days Amoxicillin PPI
+        - Then 5 days of PPI and tinidazo
