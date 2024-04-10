@@ -491,6 +491,16 @@
     - Age <60 years 
     - Uninvestigated dyspepsia
     - Eradication in patients undergone resection for early Gastric cancer
-    - Unexplained
+    - Unexplained iron deficiency and ITP
 - Both recommend education and long term PPI with eradication if long term NSAID use is present
-- 
+- no single agent is effective
+- Combination therapy for 14 days is effective (triple therapy)
+- Dual therapy not recommended
+- Bismuth, metronidazole, teratcycline is first successful combination
+- 2 antibiotics+ bismuth/PPI/H2 blocker 
+- Regimens prepackaged
+    - Prevpac (lansoprazole, clarithromycin, Amoxicillin)
+    - Helidac (BSS, tetracycline, Metronidazole) 
+- Avoid clarithromycin if resistance>15% or previous macrolide use 
+- Antibiotic resistant strains may develop, and is most common cause of treatment failure in compliant patients
+- If resi
