@@ -672,4 +672,23 @@
 	* The pain and bloating may improve after emesis. 
 	* cause is theorized to be incomplete drainage of bile and pancreatic secretions from an afferent loop that is ***partially obstructed*** 
 ### Dumping syndrome 
-* 
+* series of vaso- motor and GI signs and symptoms and occurs in patients who have undergone vagotomy and drainage 
+* especially Billroth procedures 
+* Early 
+	* 15–30 min after meals and
+	* consists of crampy abdominal discomfort, nausea, diarrhea, belching, tachycardia, palpitations, diaphoresis, light-headedness, and, rarely, syncope. 
+	* rapid emptying of hyperosmolar gastric contents into the small intestine, resulting in a fluid shift into the gut lumen with plasma volume contraction and acute intestinal distention.
+* Late 
+	* 90m to 3h
+	* Vasomotor symptoms (light-headedness, diaphoresis, palpitations, tachycardia, and syncope) predominate 
+	* secondary to hypoglycemia from excessive insulin release.
+* more after meals rich in simple carbs and high osmolarity 
+* improve with time in most 
+* dietary modifications is therapy 
+	* small, 6 meals 
+	* devoid of simple carbohydrate 
+	* eliminate liquids from meals 
+	* anti-diarrheal and anticholinergic also used 
+	* guar and pectin to increase viscosity 
+	* Acarbose 
+	* Octreotide in 
