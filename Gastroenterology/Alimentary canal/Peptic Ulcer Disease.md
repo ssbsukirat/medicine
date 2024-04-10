@@ -691,4 +691,33 @@
 	* anti-diarrheal and anticholinergic also used 
 	* guar and pectin to increase viscosity 
 	* Acarbose 
-	* Octreotide in 
+	* Octreotide in diet refractory 
+		* 50 ug sc tid 
+		* long acting depot every 28days 
+### Post-vagotomy diarrhea 
+* after truncal vagotomy 
+* intermittent diarrhea 1-2h after meals 
+* occasionally severe and relentless 
+* due to motility disruption 
+* diphenoxylate or loperamide useful 
+* cholestyramine in severe 
+
+## Bile reflux gastropathy 
+* present with abdominal pain, early satiety, nausea, and vomiting 
+* have mucosal erythema of the gastric remnant as the only finding. 
+* Histologic examination --> minimal inflammation but the presence of epithelial cell injury.
+* bile or aklaline reflux 
+* unknown mechanism 
+* treatment 
+	* prokinetics 
+	* cholestyramine 
+	* sucralfate 
+* nuclear scanning with 99mTc-HIDA to document reflux in severe 
+### maldigestion and malabsorption 
+* 60% have weight loss upto 10% of total 
+* stabilises after 3 months post-operative 
+* reduced oral intake +/- mild steatorrhea 
+* reasons 
+	* reduced acid 
+	* rapid gastric emptying 
+	* reduced b
