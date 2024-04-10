@@ -631,8 +631,13 @@
     - High selective vagotomy
         - no drainage required
     - Vagotomy with  antrectomy 
+	    - lowest recurrent 
+	    - highest complication 
 - Vagotomy
     - decreased acid by eliminating cholinergic input 
     - both truncal and selective (spare celiac and hepatic branches) leads to gastric atony 
     - Drainage required to compensate atony 
-    - High selective vagotomy 
+    - High selective vagotomy (AKA parietal cell, super-selective, or proximal vagotomy) where fibres innervating the portion of the stomach that contains parietal cells are transected --> motility intact 
+### specific surgeries for GUS 
+* dependent on concomitant DU location 
+* antrectomy with bilroth 1 for 
