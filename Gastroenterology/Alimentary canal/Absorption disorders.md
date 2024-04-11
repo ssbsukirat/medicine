@@ -163,72 +163,72 @@
 	- Mutations in microsomal TG transfer Protein (MTP) 
 	- Postprandial biopsy shoes lipid laden small intestinal epithelial cells, normal in appearance after 72-96h fast 
 ## mucosal disease with multiple nutrient malabsorption
- Celiac 
+### celiac 
 - Celiac sprue or gluten sensitive enteropathy
-	- Small intestinal
-	- Immune response to gluten ingestion by autoantibodies to tissue transglutaminases 
-	- Genetics
-		- Increasing incidence and prevalence
-		- 10-15% prevalence in first degree relative
-		- HLA-DQ8 And HLA-DQ2 in 25-35% but testing has no value as also present in normal
-		- Negative HLA rules out celiac with NPV >99% 
-	- Presentation
-		- Asymptomatic
-		- Iron deficiency Anemia 
-		- Duodenal disease
-		- Severe diarrhea, weight loss and malabsorption of multiple nutrient
-		- Primarily affects proximal small intestine but if diffuse upto jejunum also 
-		- Growth failure in children
-		- Additionally, bloating, irregular bowel habits, migraine, ataxia 
-		- Osteoporosis
-	- Diarrhea
-		- Villus atrophy leading to Steatorrhea from mucosal malabsorption
-		- Maybe have lactase deficiency
-		- Secretory component due to crypt hyperplasia and fluid hypersecretion
-	- Associated with 
-		- Other autoimmune disease
-		- T1-DM, thyroid disease
-		- ***Dermatitis Herpetiformis vesicular rash mediated by IgA in skin*** 
-		- Downs and turners 
-	- Diagnosis
-		- serum antibodies
-			- tissue transglutaminases IgA 
-			- Anti-endomysial
-			- Deamidated anti-gliadin 
-		- Serum IgA to rule out false negative from IgA deficiency
-		- Confirm by endoscopic small intestinal biopsy
-			- villus blunting
-			- Crypt hyperplasia
-			- Inflammation with increased intraepithelial lymphos 
-		- Marsh classification
-		- Screen family members
-	- Complications
-		- Refractory Celiac
-			- Most common in active disease 
-			- Ongoing diarrhoea weight loss and villus atrophy after 1 year of gluten-free diet
-			- Negative serology to confirm adherence
-			- Type 1 -- normal intraepithelial lymphos
-			- Type 2 --clonal CD 3+ intraepithelial lymphos with monoclonal rearrangement of gamma chain of t cell receptor
-			- Type 2 has worse prognosis and associated with t cell lymphpoma
-		- Hyposplenism 
-		- Small bowel adenocarcinoma
-	- Therapy
-		- strict gluten-free diet
-		- Dietician consult and follow 
-		- Serology followup for confirming adherence
-		- Follow-up biopsy to see healing of villus atrophy
-		- Subsequent biopsy not recommended unless symptoms reappear
-		- If no resolution of symptoms, repeat biopsy for 
-			- severity of disease 
-			- Other causes of diarrhea
-			- Refractory disease
-			- T cell lymphpoma
-		- Most common cause of residual activity is noncompliance to diet 
+- Small intestinal
+- Immune response to gluten ingestion by autoantibodies to tissue transglutaminases 
+- Genetics
+	- Increasing incidence and prevalence
+	- 10-15% prevalence in first degree relative
+	- HLA-DQ8 And HLA-DQ2 in 25-35% but testing has no value as also present in normal
+	- Negative HLA rules out celiac with NPV >99% 
+- Presentation
+	- Asymptomatic
+	- Iron deficiency Anemia 
+	- Duodenal disease
+	- Severe diarrhea, weight loss and malabsorption of multiple nutrient
+	- Primarily affects proximal small intestine but if diffuse upto jejunum also 
+	- Growth failure in children
+	- Additionally, bloating, irregular bowel habits, migraine, ataxia 
+	- Osteoporosis
+- Diarrhea
+	- Villus atrophy leading to Steatorrhea from mucosal malabsorption
+	- Maybe have lactase deficiency
+	- Secretory component due to crypt hyperplasia and fluid hypersecretion
+- Associated with 
+	- Other autoimmune disease
+	- T1-DM, thyroid disease
+	- ***Dermatitis Herpetiformis vesicular rash mediated by IgA in skin*** 
+	- Downs and turners 
+- Diagnosis
+	- serum antibodies
+		- tissue transglutaminases IgA 
+		- Anti-endomysial
+		- Deamidated anti-gliadin 
+	- Serum IgA to rule out false negative from IgA deficiency
+	- Confirm by endoscopic small intestinal biopsy
+		- villus blunting
+		- Crypt hyperplasia
+		- Inflammation with increased intraepithelial lymphos 
+	- Marsh classification
+	- Screen family members
+- Complications
+	- Refractory Celiac
+		- Most common in active disease 
+		- Ongoing diarrhoea weight loss and villus atrophy after 1 year of gluten-free diet
+		- Negative serology to confirm adherence
+		- Type 1 -- normal intraepithelial lymphos
+		- Type 2 --clonal CD 3+ intraepithelial lymphos with monoclonal rearrangement of gamma chain of t cell receptor
+		- Type 2 has worse prognosis and associated with t cell lymphpoma
+	- Hyposplenism 
+	- Small bowel adenocarcinoma
+- Therapy
+	- strict gluten-free diet
+	- Dietician consult and follow 
+	- Serology followup for confirming adherence
+	- Follow-up biopsy to see healing of villus atrophy
+	- Subsequent biopsy not recommended unless symptoms reappear
+	- If no resolution of symptoms, repeat biopsy for 
+		- severity of disease 
+		- Other causes of diarrhea
+		- Refractory disease
+		- T cell lymphpoma
+	- Most common cause of residual activity is noncompliance to diet 
 - Non-celiac gluten sensitivity
-	- Symptomatic Celiac but no serology or biopsy 
-	- Response to gluten restricted diet 
-	- Unknown etiology
-## Whipple's disease
+- Symptomatic Celiac but no serology or biopsy 
+- Response to gluten restricted diet 
+- Unknown etiology
+### Whipple's disease
 - Chronic multiorgan disease 
 - Tropheryma whipplei --
 	- Gram positive
@@ -267,3 +267,16 @@
 	- Prolonged antibiotics
 	- Unsure optimal regimen 
 	- Relapse common and especially with first manifestation of CNS involvement
+### Tropical sprue
+- poorly understood syndrome
+- Chronic diarrhea, weight loss, malabsorption
+- Both folate and b12 deficiency
+- Malabsorption of 2 unrelated substances required for diagnosis
+- 8-20% of those having attack of gastroenteritis in India 
+- Maybe a postinfectious complication
+- Chronic diarrhea maybe infectious so do not consider unless cysts and trophozoites have been ruled out 
+- Environmental enteropathy is a new diagnosis but closely related
+- Etiology
+	- Since response to antibiotics, likely infectious 
+	- Uncertain etiology
+	- 
