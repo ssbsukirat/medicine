@@ -107,3 +107,24 @@
 			- Treat underlying
 			- Rifaximin nonabsorbable antibiotic
 			- others like metronidazole, doxicycline , Amoxicillin-clavulinic acid or cephalosporin for several weeks
+# mucosal phase 
+- mediated by enterocyte brush border enzymes
+## enterocyte carbohydrate transporter defects and enzyme deficiency
+- Lactose intolerance
+	- Lactase deficiency
+	- Most common
+	- Diarrhoea, pain, gassines, bloating
+	- Dairy products and other hidden sources 
+	- Primary genetic -- adult type hypolactasia 
+	- Secondary
+	    - infection 
+	    - Mucosal diseases
+	- Congenital is rare and AR 
+	- Adult type 
+    	- very common
+    	- Genetic wild type 
+    	- Lack the "persistence" allele
+    - Diarrhea
+        - lactose in lumen acts as osmotic
+        - Draws fluid into lumen
+        - Gut bacteria ferment lactose producing gas 
