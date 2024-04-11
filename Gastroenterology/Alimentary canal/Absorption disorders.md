@@ -213,4 +213,25 @@
 		- Hyposplenism 
 		- Small bowel adenocarcinoma
 	- Therapy
-		- 
+		- strict gluten-free diet
+		- Dietician consult and follow 
+		- Serology followup for confirming adherence
+		- Follow-up biopsy to see healing of villus atrophy
+		- Subsequent biopsy not recommended unless symptoms reappear
+		- If no resolution of symptoms, repeat biopsy for 
+			- severity of disease 
+			- Other causes of diarrhea
+			- Refractory disease
+			- T cell lymphpoma
+		- Most common cause of residual activity is noncompliance to diet 
+- Non-celiac gluten sensitivity
+	- Symptomatic Celiac but no serology or biopsy 
+	- Response to gluten restricted diet 
+	- Unknown etiology
+## Whipple's disease
+- Chronic multiorgan disease 
+- Tropheryma whipplei --
+	- Gram positive
+	- Rod 
+	- Non acid fast 
+	- PAS positive
