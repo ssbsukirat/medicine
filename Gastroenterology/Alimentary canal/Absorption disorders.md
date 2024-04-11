@@ -47,4 +47,19 @@
 - Large peptides to dipeptide tripeptide of free amino acids at brush border
 - All converted to amino acids which go to bloodstream via basolateral membrane
 # Luminal phase 
-- 
+- starts at mouth, continues in stomach and into bowel 
+- Disorders due to 
+    - gastric or intestinal motility like Surgery, scleroderma, DM 
+    - Pancreatic disease
+    - Luminal bile salt deficiency by heptobiliary disease, ileal disease or small bowel bacterial overgrowth
+- Gastric resection
+    - remove or bypass part of stomach and duodenal bulb like roux-en-Y or Bilroth 2 
+    - Diarrhea and weight loss
+    - Inadequate mixing of contents with enzyme and bile salts 
+- Disordered motility
+    - hyperthyroidism due to increased motility
+    - Long-standing DM due to enteric nervous system defects causing increased motility
+    - Scleroderma etc may reduce motility
+- Pancreatic insufficiency
+    - chronic pancreatitis
+    - All nutrients m
