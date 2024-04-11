@@ -390,4 +390,21 @@
 		- Spot or 24h stool collection
 		- If elevated is diagnostic
 		- Clearance can be measured by stool volume and stool and plasma concentration 
-	- Peripheral lymphocyte loss leading to relative lymphopenia with CD3
+	- Peripheral lymphocyte loss leading to ***relative lymphopenia with CD3+ loss*** 
+	- Steatorrhea and diarrhea if due to lymphatic
+		- Altered lymphatic flow 
+		- Lipid containing chylomicrons exit epithelial cells normal 
+	- Intestinal lymphangectasia
+		- Absence of mechanical or anatomical obstruction
+		- Intrinsic intestinal lymphatic dysfunction
+		- In 50% with Milroys (intrinsic peripheral lymphatic dysfunction)
+		- All functions normal except Steatorrhea and protein loss 
+- Endoscopy and imaging
+	- Rule out mucosal disease
+	- MR enterography in children with lymphangectasia
+- Other causes 
+	- Treat the cause and not hypoproteinemia
+	- If secondary to lymphatic obstruction, establish the nature of obstruction
+	- fontan physiology
+	- 
+	- 
