@@ -9,3 +9,4 @@
         - reprocessing
         - Enter into lymphatic as long-chain TGs in chylomicrons
         - bloodstream transport
+- ![[Malabsorption-class.PNG]]
