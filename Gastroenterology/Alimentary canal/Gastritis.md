@@ -64,7 +64,23 @@
     	* HLA-B8 and HLA-DR3
     	* Low pepsinogen
     	* Achlorhydria 
-    	* Hypergastrinemia (due to G cell sparing and low acid)
+    	* Hypergastrinemia (due to G cell sparing and low acid) 
+    	* May have gastric carcinoid tumors
     * Type B
         * Antrum predominant
-        * 
+        * More common
+        * H pylori 
+        * May progress to body and fundus 
+        * Increases with age, in almost all with age >70 
+        * Histology improvement after eradication
+        * Early dense chronic infiltrate of lamnia propria with epithelial cell infiltration and polymorphonuclear leukocytes
+        * Gastric adenocarcinoma may develop
+        * H pylori is independent risk factor for Gastric cancer with 3-6x increase risk 
+        * Low grade B cell MALT lymphoma
+            * Initial stage with CT  and EUS 
+            * Eradication regresses tumour in most 
+            * Follow with EUS 2-3 months till regression
+            * If grows, likely high grade lymphpoma which is unresponsive to eradication
+    * Treatment
+        * Aimed at sequelae
+        * Vit b
