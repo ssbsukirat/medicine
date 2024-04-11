@@ -326,4 +326,9 @@
     	- ***ileum*** loses B12 and bile salt resorption
     	- Colon causes fluid electrolyte loss and imbalance
 - Long term complications
+	- fat soluble vitamins deficiency
+	- Vitamin D difficult to treat even with high dose supplements orall leading to high osteoporosis risk
+	- Frequent renal calcium oxalate stone (calcium saponified, freeing oxalate)
+	- Adhesions
+- treatment
 	- 
