@@ -160,3 +160,14 @@
 	- Acanthocytes, neurological symptoms and Steatorrhea
 	- Lipolysis, micelle formation and lipid uptake normal 
 	- Re-esterified ***TGs cannot exit epithelial cell due to chylomicron production defect***
+	- Mutations in microsomal TG transfer Protein (MTP) 
+	- Postprandial biopsy shoes lipid laden small intestinal epithelial cells, normal in appearance after 72-96h fast 
+## mucosal disease with multiple nutrient malabsorption
+- Celiac 
+	- Celiac sprue or gluten sensitive enteropathy
+	- Small intestinal
+	- Immune response to gluten ingestion by autoantibodies to tissue transglutaminases 
+	- Genetics
+		- Increasing incidence and prevalence
+		- 10-15% prevalence in first degree relative
+		- HLA-DQ8 And HLA-DQ
