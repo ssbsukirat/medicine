@@ -83,4 +83,28 @@
             * If grows, likely high grade lymphpoma which is unresponsive to eradication
     * Treatment
         * Aimed at sequelae
-        * Vit b
+        * Vit b12 parenteral long term in pernicious
+        * Eradication of h pylori
+        * If metaplasia without dysplasia, 3 yearly endoscopy
+* Miscellaneous gastritis
+    * Lymphocytic gastritis
+        * Intense infiltration of epithelium with lymphos 
+        * Body 
+        * Mature T cells and plasmacytes 
+        * Maybe in celiac sprue 
+        * Thickened folds on endoscopy maybe 
+        * Varioliform Gastritis
+            * Folds capped with small nodules with central depression or erosion
+            * Type of lymphocytic gastritis
+        * Little role of h pylori
+    * Eosinophilic Gastritis
+        * Marked eosinophilic infiltration of any layer of stomach
+        * Circulating eosinophilia with manifestation of allergy
+        * Antral predominant
+        * Prominent edematous folds may cause outlet obstruction
+        * Epigastric discomfort, nausea, vomiting
+        * Treat with glucocorticoid
+    * Granulomatous Gastritis
+        * Systemic disorders
+        * Crohn's disease 
+        * Infiltrate only on biosp
