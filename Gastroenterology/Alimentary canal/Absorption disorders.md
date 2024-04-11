@@ -444,4 +444,24 @@
 		- 2(stool na +k)
 		- 290 is normal serum
 		- Gap is 290- stool osmolarity
-		- If >50-100 osmotic gap is present and it's 
+		- If >50-100 osmotic gap is present and it's osmotic diarrhoea
+		- Malabsorption diarrhea may have both Osmotic and secretory component
+	- Urinar D-xylose test
+		- Carbohydrate malabsorption 
+		- Proximal bowel absorption function
+		- 25g D-xylose and then 5h urine collection
+		- If <4.5g excretion implies duodenal or jejunal mucosal disease
+		- Maybe abnormal in 
+			- Delayed gastric emptying
+			- Impaired motility
+			- Renal function impaired
+			- 3rd space loss 
+		- Intestinal biopsy easier and better 
+	- Radiology
+		- Small bowel follow-through barium examination for celiac, jejunal diverticulitis for sibo, Crohn's
+		- MR enterography and CT enterography for inflammatory stricturing disorders like crohn's and as means to visualise entire gut and hbs 
+	- Endoscopy
+		- With biopsy
+		- Essential in all with Steatorrhea or chronic diarrhea
+		- Evaluate abnormalities seen in radiology
+		- If Steatorrhea without pancreatic
