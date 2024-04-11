@@ -52,4 +52,19 @@
 		* paucity of inflammatory changes 
 		* thin mucosa on endoscopy with clear visualisation of underlying vessels 
 	* morphology transformation 
-		* 
+		* ***Intestinal metaplasia*** is gastric glands to intestinal type with mucosal cells ***containing goblet cells***
+		* Patchy to fairly extensive
+		* Predisposition to cancer 
+	* Type A 
+    	* Body predominant with antral sparing
+    	* Autoimmune abs against parietal cells and IF (anti-IF more specific)
+    	* Less common
+    	* Pernicious Anemia maybe seen 
+    	* Maybe seen in h pylori by molecular mimicry and abs develop to H, K-ATPase
+    	* HLA-B8 and HLA-DR3
+    	* Low pepsinogen
+    	* Achlorhydria 
+    	* Hypergastrinemia (due to G cell sparing and low acid)
+    * Type B
+        * Antrum predominant
+        * 
