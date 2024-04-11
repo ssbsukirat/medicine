@@ -279,4 +279,8 @@
 - Etiology
 	- Since response to antibiotics, likely infectious 
 	- Uncertain etiology
+	- Uneven distribution in tropics 
+	- May develop long after leaving endemic areas
+	- Multiple microorganisms implicated but not sure yet, some suggest their toxins maybe the cause 
+	- Use of widespread antibiotics for acute diarrhea and better sanitation has reduced prevalence in 2-3 decades 
 	- 
