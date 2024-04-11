@@ -306,4 +306,24 @@
 	- Atresia 
 	- Volvulus
 	- Malrotation 
-- Extensive removal of small intestine resulting in <200cm remaining small bowel 
+- ***Extensive removal of small intestine resulting in <200cm remaining small bowel*** 
+- ***Intestinal failure is functionally defined as persistent TPN dependence in patients with <100cm bowel and no residual colon*** 
+- Clinical
+	- Severe diarrhea weight loss malabsorption
+	- Multiple nutrients
+	- Severity and dependence on TPN
+		- Extent of resection
+		- Presence of colon in continuity
+		- Retention of ileocecal valve
+		- Severity of underlying disease
+	- Adaptation post resection
+		- Crypt cell proliferation increase
+		- Epithelial hyperplasia
+		- 2 years post resection this continues
+	- Massive diarrhea usually in 3 months post operative, with increased gastric acid secretion and malabsorption
+	- Gradually increase function and reduced diarrhea
+	- Nutrient deficiencies depend on gut segment
+    	- ***ileum*** loses B12 and bile salt resorption
+    	- Colon causes fluid electrolyte loss and imbalance
+- Long term complications
+- 
