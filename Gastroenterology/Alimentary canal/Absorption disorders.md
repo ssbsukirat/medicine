@@ -80,4 +80,14 @@
         - functional diarrhea or IBS 
         - Reduced FGF-19 by ileal enterocyte
         - Bile acid sequestrants are treatment
-    - Small 
+    - Small bowel bacterial overgrowth
+        - bacterial titres increase from duodenum to ileum normally
+        - If motility affected or Stasis, bacterial overgrowth maybe seen 
+        - like 
+            - scleroderma
+            - Pseudoobstruction chronic
+            - Blind loop like Bilroth 2
+            - Stricture
+            - Crohn's fibrosis 
+            - Diffuse diverticulitis
+            - Resection of ileocecal valve increases counts from colon 
