@@ -10,3 +10,15 @@
         - Enter into lymphatic as long-chain TGs in chylomicrons
         - bloodstream transport
 - ![[Malabsorption-class.PNG]]
+- Diverse presentation
+    - lactase deficiency causes diarrhea in lactose 
+    - Celiac sprue may present with iron deficiency or multiple nutrient deficiencies
+- Diarrhea
+    - most common symptom of malabsorption
+    - 72 hour fecal fat is best to define Steatorrhea
+    - Steatorrhea is stool fat >7% of dietary fat 
+# Nutrient digestion and absorption
+- surface area of small intestine (6-12Ft long) increased by folds, villi, microvilli
+- Intense has 7-9L fluid daily with stool volume <200g or ML per day 
+## Lipids 
+- hydrolo
