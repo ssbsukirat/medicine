@@ -36,4 +36,15 @@
 - medium TGs absorbed intact directly so no pancreatic lipolysis or micelle needed 
 - Small TGs made and absorbed in colon 
 ## Carbohydrate
+- final digested products are glucose fructose galactose
+- Transported to enterocyte by SLCA5 (earlier SGLT1), Na dependent and GLUT-5 for fructose by facilitated diffusion
+- Exit the cell by GLUT-2
+## protein
+- starts in stomach by pepsin 
+- Pancreatic endopeptidase exopeptidase and trypsin
+- Trypsinogen to trypsin by enterokinases 
+- Trypsin activates chymotrypsin proelastase and carboxypeptidase a and b 
+- Large peptides to dipeptide tripeptide of free amino acids at brush border
+- All converted to amino acids which go to bloodstream via basolateral membrane
+# Luminal phase 
 - 
