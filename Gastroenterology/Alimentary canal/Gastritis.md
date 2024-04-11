@@ -106,5 +106,26 @@
         * Treat with glucocorticoid
     * Granulomatous Gastritis
         * Systemic disorders
-        * Crohn's disease 
-        * Infiltrate only on biosp
+        * Crohn's disease (usually with intestinal disease also present)
+        * Infiltrate only on biopsy or 
+        * Frank ulcers with stricture 
+        * Infections
+            * Histoplasmosis
+            * Candidiasis
+            * Syphilis
+            * TB 
+        * Other 
+            * Sarcoidosis
+            * Idiopathic granulomatous Gastritis
+            * Eosinophilic granulomas
+    * Russell body gastritis
+        * Unknown etiology
+        * Mucosal
+        * Pseudo tumour endoscopy appearance
+        * Numerous plasma cells with Russell body on histology with Kappa and lambda light chains 
+        * Only 10 known cases with 7 associated with h pylori
+    * Immune-checkpoint inhibitor induced enterocolitis and gastritis
+        * Recognised sequelae of oncological therapy
+        * Gastritis occurs late 
+        * Histological diagnosis
+        * Glucocorticoids and il-6 blocker therapy
