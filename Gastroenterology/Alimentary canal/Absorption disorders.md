@@ -21,4 +21,14 @@
 - surface area of small intestine (6-12Ft long) increased by folds, villi, microvilli
 - Intense has 7-9L fluid daily with stool volume <200g or ML per day 
 ## Lipids 
-- hydrolo
+- hydrolysis by pancreatic enzymes and bile salts for dispersion
+- Absorbed as micelle by intestine
+- Bile acids 
+    - synthesis by liver and secreted to Intestinal lumne 
+    - Constant reabsorption
+    - FGF 19 is physiological sensor 
+    - FGF 19 by ileum into bloodstream and reduces hepatic bile acid synthesis by blocking CYP7A1 
+- Lipolysis intitiated by gastric lipases and long chain TGs (>12C) are hydrolysed by pancreatic lipase to fatty acid and monoglyceride 
+- Long chain FFAs dispersed by bile salts to ***Micelles*** which permits ***absorption across apical brush border*** 
+- Medium and short chain FFAs soluble in water layer 
+- Long chain 
