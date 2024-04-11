@@ -127,4 +127,24 @@
     - Diarrhea
         - lactose in lumen acts as osmotic
         - Draws fluid into lumen
-        - Gut bacteria ferment lactose producing gas 
+        - Gut bacteria ferment lactose producing gas pain and bloating 
+        - Bacteria may make it absorbable by converting to short chain FFAs but diarrhea when load beyond absorption capacity
+    - Diagnosis
+	    - Lactose exclusion diet and look for resolution
+	    - Lactose tolerance test 
+		    - 50g of Lactose
+		    - Timed serum glucose levels for 90mins 
+		    - If normal, rise by >20mg /L 
+		    - If less than 20 with symptoms of intolerance test is positive
+	    - hydrogen breath test
+		    - Should not exceed >20ppm above baseline after lactose
+			- Peak at 2-4 h 
+		    - Maybe abnormal in 
+	    	    - abnormal gastric emptying
+	    	    - Abnormal intestinal motility
+	    	    - Bacterial overgrowth
+	- treatment
+		- eliminate Lactose
+		- Alternative calcium sources 
+		- Avoid hidden lactose 
+		- Lactase supplement
