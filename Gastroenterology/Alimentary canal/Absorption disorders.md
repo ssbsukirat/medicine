@@ -408,3 +408,21 @@
 	- Right sided valvular disease
 	- Chronic pericarditis
 	- Menetriers disease
+- Treatment
+	- Direct treatment to detect underlying pathology
+	- Critical to establish nature of lymphatic obstruction if any 
+	- Mesenteric nodes and lymphoma to be identified
+	- Exclude cardiac causes 
+	- If congenital heart disease, ***intradonal lymohangiography or non contrast MR lymohangiography***
+	- Surgical intervention to decompress lymphatic system 
+	- Low fat high protein diet and medium chain TGs 
+	- Octreotide a somatostatin analogue
+	- IV heparin
+	- Budesonide
+# Approach to suspected malabsorption
+- History 
+	- Symptoms like diarrhea abdominal pain weight loss 
+	- Selective nutrition deficiency like iron, osteoporosis, peripheral neuropathy for b12 hair loss forProtein
+	- Predisposing factors like chronic pancreatitis or liver disease like PBC PSC
+	- Small bowel resection
+	- 
