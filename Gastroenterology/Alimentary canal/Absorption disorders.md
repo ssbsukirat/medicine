@@ -191,4 +191,21 @@
 		- ***Dermatitis Herpetiformis vesicular rash mediated by IgA in skin*** 
 		- Downs and turners 
 	- Diagnosis
-		- 
+		- serum antibodies
+			- tissue transglutaminases IgA 
+			- Anti-endomysial
+			- Deamidated anti-gliadin 
+		- Serum IgA to rule out false negative from IgA deficiency
+		- Confirm by endoscopic small intestinal biopsy
+			- villus blunting
+			- Crypt hyperplasia
+			- Inflammation with increased intraepithelial lymphos 
+		- Marsh classification
+		- Screen family members
+	- Complications
+		- Refractory Celiac
+			- Most common in active disease 
+			- Ongoing diarrhoea weight loss and villus atrophy after 1 year of gluten-free diet
+			- Negative serology to confirm adherence
+			- Type 1 -- normal intraepithelial lymphos
+			- Type 2 --clonal CD 3+ intraepithelial lymphos with monoclonal rearrangement of gamma chain of t cell receptor
