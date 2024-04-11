@@ -283,4 +283,27 @@
 	- May develop long after leaving endemic areas
 	- Multiple microorganisms implicated but not sure yet, some suggest their toxins maybe the cause 
 	- Use of widespread antibiotics for acute diarrhea and better sanitation has reduced prevalence in 2-3 decades 
-	- 
+	- Folate malabsorption seen (absorbed in duodenum and proximal jejunum) 
+	- Disease may resolve with folate supplements but unclear how 
+- Diagnosis
+	- Abnormal intestinal mucosal biopsy with chronic diarrhea
+	- Evidence of malabsorption
+	- Currently residing or lived in tropical countries
+	- Similar biopsy to celiac 
+		- More mononuclear infiltration
+		- Less villous changes 
+	- Does not respond to gluten free diet
+- Treatment
+	- Broad spectrum antibiotics
+		- Tetracycline upto 6 months but shows response in 1-2 weeks 
+	- Folate supplements
+		- Hematologic remission
+		- Improve appetite weight loss and histological
+# Short bowel syndrome
+- Intestinal resection for any disorder 
+- Children
+	- Necrotising enterocolitis
+	- Atresia 
+	- Volvulus
+	- Malrotation 
+- Extensive removal of small intestine resulting in <200cm remaining small bowel 
