@@ -425,4 +425,23 @@
 	- Selective nutrition deficiency like iron, osteoporosis, peripheral neuropathy for b12 hair loss forProtein
 	- Predisposing factors like chronic pancreatitis or liver disease like PBC PSC
 	- Small bowel resection
-	- 
+	- Outside travel 
+- Physical
+	- Weight loss by bitemporal wasting
+	- Reduced arm circumference
+	- Iron deficiency nail spooning
+	- B12 neuropathy
+- Lab examination
+	- Exclusive proximal small intestine iron deficiency
+	- Terminal ileum resection B12 deficiency
+	- Steatorrhea with fat soluble vitamin deficiencies (PT-inr for vit K )
+	- Steatorrhea diagnosis by spot stool for ***Sudan III stain*** specific for fecal fat 
+	- 24h stool volume weight assessment
+	- 72h fecal fat with 100g fat diet 
+	- Stool osmotic gap
+		- Fecal sodium potassium 
+		- Measurements inaccurate due to bacterial metabolism of carbohydrates
+		- 2(stool na +k)
+		- 290 is normal serum
+		- Gap is 290- stool osmolarity
+		- If >50-100 osmotic gap is present and it's 
