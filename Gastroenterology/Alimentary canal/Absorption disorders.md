@@ -163,8 +163,8 @@
 	- Mutations in microsomal TG transfer Protein (MTP) 
 	- Postprandial biopsy shoes lipid laden small intestinal epithelial cells, normal in appearance after 72-96h fast 
 ## mucosal disease with multiple nutrient malabsorption
-- Celiac 
-	- Celiac sprue or gluten sensitive enteropathy
+ Celiac 
+- Celiac sprue or gluten sensitive enteropathy
 	- Small intestinal
 	- Immune response to gluten ingestion by autoantibodies to tissue transglutaminases 
 	- Genetics
@@ -235,3 +235,35 @@
 	- Rod 
 	- Non acid fast 
 	- PAS positive
+- Most common in middle aged men 
+- Classic
+	- Arthralgia
+	- Weight loss
+	- Diarrhea
+	- Abdominal pain
+- Other in late disease
+	- CNS
+	- Cardiac
+- Clinical
+	- Arthralgia and arthritis for 6 before GI symptoms
+	- Joint disease in >80% patients
+	- Diarrhea, abdominal pain, weight loss
+	- CNS
+		- Common
+		- Psychiatric manifestation
+		- Memory problems
+		- Dementia late
+		- Encephalitis late
+	- Cardiac 
+		- Endocarditis
+		- Pericarditis
+		- Myocarditis
+- Diagnosis
+	- Endoscopy with biopsy
+	- Tissue PCR for Tropheryma whipplei
+	- PAS positive macrophages 
+	- IHC for Tropheryma whipplei
+- Treatment
+	- Prolonged antibiotics
+	- Unsure optimal regimen 
+	- Relapse common and especially with first manifestation of CNS involvement
