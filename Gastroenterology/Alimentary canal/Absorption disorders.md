@@ -209,3 +209,8 @@
 			- Negative serology to confirm adherence
 			- Type 1 -- normal intraepithelial lymphos
 			- Type 2 --clonal CD 3+ intraepithelial lymphos with monoclonal rearrangement of gamma chain of t cell receptor
+			- Type 2 has worse prognosis and associated with t cell lymphpoma
+		- Hyposplenism 
+		- Small bowel adenocarcinoma
+	- Therapy
+		- 
