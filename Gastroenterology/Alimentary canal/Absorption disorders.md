@@ -148,3 +148,15 @@
 		- Alternative calcium sources 
 		- Avoid hidden lactose 
 		- Lactase supplement
+- GLUCOSE GALACTOSE MALABSORPTION
+	- Rare congenital
+	- AR with SGLT1 OR SLC5A1 mutations
+	- Loss of function
+	- Homozygous have severe congenital diarrhea and death 
+	- Eliminate glucose and galactose foods 
+	- Fructose absorption normal 
+- Abetalipoproteinemia
+	- Rare disorder of lipid metabolism
+	- Acanthocytes, neurological symptoms and Steatorrhea
+	- Lipolysis, micelle formation and lipid uptake normal 
+	- Re-esterified ***TGs cannot exit epithelial cell due to chylomicron production defect***
