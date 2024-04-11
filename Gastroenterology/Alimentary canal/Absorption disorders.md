@@ -170,4 +170,25 @@
 	- Genetics
 		- Increasing incidence and prevalence
 		- 10-15% prevalence in first degree relative
-		- HLA-DQ8 And HLA-DQ
+		- HLA-DQ8 And HLA-DQ2 in 25-35% but testing has no value as also present in normal
+		- Negative HLA rules out celiac with NPV >99% 
+	- Presentation
+		- Asymptomatic
+		- Iron deficiency Anemia 
+		- Duodenal disease
+		- Severe diarrhea, weight loss and malabsorption of multiple nutrient
+		- Primarily affects proximal small intestine but if diffuse upto jejunum also 
+		- Growth failure in children
+		- Additionally, bloating, irregular bowel habits, migraine, ataxia 
+		- Osteoporosis
+	- Diarrhea
+		- Villus atrophy leading to Steatorrhea from mucosal malabsorption
+		- Maybe have lactase deficiency
+		- Secretory component due to crypt hyperplasia and fluid hypersecretion
+	- Associated with 
+		- Other autoimmune disease
+		- T1-DM, thyroid disease
+		- ***Dermatitis Herpetiformis vesicular rash mediated by IgA in skin*** 
+		- Downs and turners 
+	- Diagnosis
+		- 
