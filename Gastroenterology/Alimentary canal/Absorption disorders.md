@@ -403,8 +403,8 @@
 	- Rule out mucosal disease
 	- MR enterography in children with lymphangectasia
 - Other causes 
-	- Treat the cause and not hypoproteinemia
-	- If secondary to lymphatic obstruction, establish the nature of obstruction
+	- Cardiac causes 
 	- fontan physiology
-	- 
-	- 
+	- Right sided valvular disease
+	- Chronic pericarditis
+	- Menetriers disease
