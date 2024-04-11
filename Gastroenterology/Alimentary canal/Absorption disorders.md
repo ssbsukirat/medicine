@@ -62,4 +62,22 @@
     - Scleroderma etc may reduce motility
 - Pancreatic insufficiency
     - chronic pancreatitis
-    - All nutrients m
+    - All nutrients malabsorption
+    - Steatorrhea with high volume, bulk and malodorous
+    - Fat soluble vitamins deficiency
+    - Weight loss 
+- Bile salt deficiency
+    - Heptobiliary disease
+        - decreased synthesis or reduced secretion into gut lumen (PSC or PBC)
+    - Ileal resection
+        - reduced recycling of bile acids by enterohepatic circulation
+        - Increased entry and concentration in colon causing ***secretory diarrhea***
+        - Malabsorption due to inadequate concentration in lumen 
+        - <100cm resection causes spillage into colon
+        - >100cm resection causes loss of bile acids and malabsorption is predominant 
+        - Crohn's
+    - Bile acid diarrhea
+        - functional diarrhea or IBS 
+        - Reduced FGF-19 by ileal enterocyte
+        - Bile acid sequestrants are treatment
+    - Small 
