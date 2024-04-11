@@ -326,4 +326,4 @@
     	- ***ileum*** loses B12 and bile salt resorption
     	- Colon causes fluid electrolyte loss and imbalance
 - Long term complications
-- 
+	- 
