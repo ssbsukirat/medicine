@@ -31,4 +31,6 @@
 - Lipolysis intitiated by gastric lipases and long chain TGs (>12C) are hydrolysed by pancreatic lipase to fatty acid and monoglyceride 
 - Long chain FFAs dispersed by bile salts to ***Micelles*** which permits ***absorption across apical brush border*** 
 - Medium and short chain FFAs soluble in water layer 
-- Long chain 
+- Long chain FFAs re-esterified to tgs in enterocyte 
+- and packed into ***chylomicrons*** with apolipoprotein on surface, secreted into ECF and because of size enter lymphatic and not capillary
+- 
