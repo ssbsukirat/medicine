@@ -1,0 +1,11 @@
+- depends on which phase affected
+    - Luminal Digestion (initiate in lingual and gastric lipase and continue with action of pancreatic enzymes and bile salt )
+    - Small intestinal mucosal digestion
+        - enterocyte brush border enzymes
+        - Disaccharidases, enterokinases, peptidases
+        - Digest on contact
+        - Mixed micelles with lipid and bile salt 
+    - Post mucosal absorption
+        - reprocessing
+        - Enter into lymphatic as long-chain TGs in chylomicrons
+        - bloodstream transport
