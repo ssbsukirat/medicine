@@ -347,4 +347,30 @@
 	- TPN
 - Monitorin
 	- Risk of osteoporosis so monitor with vitamin D and DEXA 
-	- 
+	- Fat soluble vitamins, 
+	- B12 folate
+	- Iron
+	- Magnesium
+	- Zinc monitoring 
+	- Signs and symptoms of vitamin mineral deficiency
+# post-mucosal disorders
+- Primary or secondary disorders of lymphatic
+- Primary lymphangectasia 
+- Secondary
+	- Retroperitoneal fibrosis
+	- Fibrosing mesenteritis 
+	- Lymphpoma
+- Circulatory causes 
+	- Fontan physiology
+	- CHF
+	- Constrictive pericarditis
+## protein losing enteropathy
+- group of GI and non-GI isorders
+- Hypoproteinemia and Edema in absence of
+	- Liver disease with reduced protein synthesis
+	- Kidney disease with proteinuria
+- Excess protein loss from GI tract 
+	- Mucosal ulceration -- exudative loss across mucosa like ulcerative colitis, carcinoma
+	- Non-ulcerated damaged mucosa 
+		- Loss across epithelial
+		- 
