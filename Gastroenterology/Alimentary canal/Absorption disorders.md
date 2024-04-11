@@ -373,4 +373,21 @@
 	- Mucosal ulceration -- exudative loss across mucosa like ulcerative colitis, carcinoma
 	- Non-ulcerated damaged mucosa 
 		- Loss across epithelial
-		- 
+		- Altered permeability
+		- Celiac
+		- Menetriers disease 
+	- Lymphatic dysfunction
+- Diagnosis
+	- Diarrhoea, edema and low albumin and globulin
+	- in absence of renal and hepatic disease
+	- Rarely selective loss of Protein
+	- So only albumin loss suggests renal or hepatic dysfunction
+	- Only globulin loss suggests reduced synthesis and not more loss 
+	- Alpha-1 antitrypsin 
+		- Resistance to proteolysis
+		- Detects enhanced losses from intestine
+		- Cannot detect stomach losses 
+		- Spot or 24h stool collection
+		- If elevated is diagnostic
+		- Clearance can be measured by stool volume and stool and plasma concentration 
+	- Peripheral lymphocyte loss leading to relative lymphopenia with CD3
