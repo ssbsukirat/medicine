@@ -33,4 +33,7 @@
 - Medium and short chain FFAs soluble in water layer 
 - Long chain FFAs re-esterified to tgs in enterocyte 
 - and packed into ***chylomicrons*** with apolipoprotein on surface, secreted into ECF and because of size enter lymphatic and not capillary
+- medium TGs absorbed intact directly so no pancreatic lipolysis or micelle needed 
+- Small TGs made and absorbed in colon 
+## Carbohydrate
 - 
