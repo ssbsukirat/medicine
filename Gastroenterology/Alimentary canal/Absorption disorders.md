@@ -464,4 +464,14 @@
 		- With biopsy
 		- Essential in all with Steatorrhea or chronic diarrhea
 		- Evaluate abnormalities seen in radiology
-		- If Steatorrhea without pancreatic
+		- If Steatorrhea without pancreatic or hepatobiliary disease, endoscopy for biopsy 
+		- Enteroscopy using pediatrics colonoscope allows visualisation of jejunum and sometimes ileum 
+		- Capsule endoscopy
+	- Biopsy
+		- Diffuse findings
+			- Whipple--  PAS positive macrophages
+			- Agammaglobulinemia (common variable immunodeficiency) -- absent or significant reduction in plasma cells in lamina propria 
+			- Abetalipoproteinemia lipid postprandial in mucosal cells
+		- Patchy lesions
+			- Sometimes may not be diagnosed as we may biopsy normal site or it may look normal on appearance
+			- Lymphpoma or lymphangectasia
