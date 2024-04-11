@@ -331,4 +331,20 @@
 	- Frequent renal calcium oxalate stone (calcium saponified, freeing oxalate)
 	- Adhesions
 - treatment
+	- control diarrhea 
+	- Normalise nutrition fluid and electrolyte
+	- Minimise TPN support
+	- Opiates and derivative like loperamide and diphenoxylate-atropine 
+	- Acid blocking in ***first year*** PPI or H2 blocker
+	- SIBO treat with antibiotics
+	- In ***TPN or IV fluids dependent*** patients, ***teduglutide*** a GLP-2 analogue 
+- Dietary therapy
+	- 3-4x normal caloric intake
+	- Early feeding even with TPN
+	- If colon in continuity present, low fat diet to minimise secretory diarrhea
+	- Highly complex carbohydrates recommend (converted to short chain FFAs and absorbed) 
+	- High potency multivitamin
+	- TPN
+- Monitorin
+	- Risk of osteoporosis so monitor with vitamin D and DEXA 
 	- 
