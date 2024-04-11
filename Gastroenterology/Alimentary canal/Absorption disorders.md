@@ -91,3 +91,19 @@
             - Crohn's fibrosis 
             - Diffuse diverticulitis
             - Resection of ileocecal valve increases counts from colon 
+            - Diarrhea predominant IBS
+        - Deconjugate bile acids, increasing absorption and reducing intraluminal concentration
+        - Carbohydrate malabsorption and short chain FFAs production causing diarrhea and gas 
+        - B12 deficiency due to bacterial metabolism of B12 leading to macrocytic Anemia
+		- ***Elevated folate*** from bacterial folate systems
+		- Diagnosis
+			- Duodenal aspirates for bacterial titres is gold standard
+			- Breath hydrogen test with lactulose
+			- May treat empirically
+		- Treatment
+			- Surgical correction of blind loop
+			- Endoscopic stricture dilation
+			- Remove large diverticula 
+			- Treat underlying
+			- Rifaximin nonabsorbable antibiotic
+			- others like metronidazole, doxicycline , Amoxicillin-clavulinic acid or cephalosporin for several weeks
