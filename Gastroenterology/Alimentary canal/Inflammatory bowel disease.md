@@ -9,4 +9,4 @@
 			* protect from UC 
 			* increases Crohn's 
 		* OCPs increase Crohn's risk 
-		* infections in first year of l
+		* infections in first year of life increase risk 
