@@ -17,3 +17,6 @@
 * all three from "supraorganism" and function in integrated matter 
 * affected by specific genetic and environment factors (smoking , antibiotics , enteropathogens) 
 * chronic state of dysregulated inflammation 
+* IBD is inappropriate immune response to the endoge- nous (autochthonous) commensal microbiota within the intestines, with or without some component of autoimmunity
+* In normal state, gut immune cells not active against commensals 
+	* T regulatory cells that express FoxP3 transcription and suppress inflammation 
