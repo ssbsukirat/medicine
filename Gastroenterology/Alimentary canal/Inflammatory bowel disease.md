@@ -15,4 +15,5 @@
 # Etiology and Pathogenesis 
 * homeostasis between commensals, epithelial cells and immune cells in tissues 
 * all three from "supraorganism" and function in integrated matter 
-* affected by specific genetic and environment factors 
+* affected by specific genetic and environment factors (smoking , antibiotics , enteropathogens) 
+* chronic state of dysregulated inflammation 
