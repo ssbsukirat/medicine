@@ -475,3 +475,10 @@
 		- Patchy lesions
 			- Sometimes may not be diagnosed as we may biopsy normal site or it may look normal on appearance
 			- Lymphpoma or lymphangectasia
+			- Eosinophilic Gastritis
+			- Crohn's 
+			- Amyloidosis
+		- Diffuse non specific
+			- villus atrophy in Celiac, tropical sprue, sibo 
+			- Multiple microorganisms maybe identified 
+			- Candida, aspergillus, cryptococcus or histoplasma on biopsy in immunocompromised suggests systemic infection
