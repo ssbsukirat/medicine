@@ -10,3 +10,5 @@
 			* increases Crohn's 
 		* OCPs increase Crohn's risk 
 		* infections in first year of life increase risk 
+		* breast feeding protect 
+		* Infectious gastroenteritis with pathogens (e.g., Salmonella, Shigella, Campylobacter spp., Clostridium difficile) increases by 2x-3x
