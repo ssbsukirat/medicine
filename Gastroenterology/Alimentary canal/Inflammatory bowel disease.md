@@ -41,4 +41,17 @@
 - Also associated with immune process as responds to same immunotherapy
 	- Rheumatoid arthritis TNFAIP3 
 	- Psoriasis  IL23R IL12B 
-	- ANKYLOSING SPONDOL
+	- ANKYLOSING SPONDOLYITIS (IL23R)
+	- type 1 DM (IL10 PTPN2)
+	- Asthma
+	- SLE 
+## Commensal microbiome
+- central role in pathogenesis
+- Born with sterile gut but get microbiome from mother during birth canal egress and later through environment
+- 1000 species with 10^12 CFUs per gram of feces by age 3 
+- Unique in everyone
+- Control by 
+	- Host as immune and epithelial response
+	- Environment as diet and antibiotic
+	- Genetic like NOD2 
+- Early role during immune and epithelial cell development and may affect later risk of IBD 
