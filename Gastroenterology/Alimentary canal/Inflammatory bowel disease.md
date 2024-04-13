@@ -74,3 +74,13 @@
 ## inflammatory cascade in IBD
 - both genetic predisposition and environmental factors cause inflammation
 - Response is ***perpetuated by T cell activation and inadequate regulatory pathways*** 
+- Inflammatory cytokines IL1, 6 12 , 23 TNF-Alpha have unregulated activity in IBD 
+- TH1 
+	- IFN-GAMMA 
+	- Transmural granulomatous inflammation like CD
+- TH2 
+	- Secrete IL 4/5/13 
+	- Superficial mucosal Inflammation like in UC 
+- TH17 
+	- IL 17/21/22 
+	- Neutrophil recruitment
