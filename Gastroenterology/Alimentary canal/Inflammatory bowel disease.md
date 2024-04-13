@@ -61,4 +61,16 @@
 - Many changes in commensal due to inflammatory process 
 - Agents that alter microbiome may improve CD (metronidazole, Ciprofloxacin, elemental diet)
 ## defective immune regulation
-- 
+- normally nonresponse to luminal contents
+- Soluble antigens when given orally (not parenterally) leads to ability to tolerate the antigen
+- Tolerance mechanisms
+	- Deletion
+	- Anergy (non responsive) of antigen reactive T cells 
+	- Induction of CD4+ T cells that supress Inflammation
+	- Anti-inflammatory cytokines like IL10 IL35 And TGF-Beta 
+- Suppression of Inflammation altered in IBD
+- Absence of tolerance mechanisms may cause IBD 
+- Activation of Inflammation ***eacerbated by absence of bacteria***
+## inflammatory cascade in IBD
+- both genetic predisposition and environmental factors cause inflammation
+- Response is ***perpetuated by T cell activation and inadequate regulatory pathways*** 
