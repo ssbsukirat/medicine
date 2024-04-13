@@ -20,3 +20,16 @@
 * IBD is inappropriate immune response to the endoge- nous (autochthonous) commensal microbiota within the intestines, with or without some component of autoimmunity
 * In normal state, gut immune cells not active against commensals 
 	* T regulatory cells that express FoxP3 transcription and suppress inflammation 
+	* Local parenchyal cells oversee 
+## genetics
+- concordance in identical twins
+- Occurs with genetic syndrome 
+- Severe refractory IBD in immune system single gene defects
+- >60 defects recognised
+	- ***IL10*** 
+	- ***IL 10 receptor***
+	- ***CTLA 4*** 
+	- Neutrophil cytosolic factor 2 protein (***NCF2***)
+	- X linked inhibitor of apoptosis protein (***XIAP***)
+	- ***LRBA*** lipopolysaccharide responsive and beige like anchor protein
+	- tetratricopeptide 
