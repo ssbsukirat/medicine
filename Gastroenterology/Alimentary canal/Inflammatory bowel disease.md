@@ -55,3 +55,10 @@
 	- Environment as diet and antibiotic
 	- Genetic like NOD2 
 - Early role during immune and epithelial cell development and may affect later risk of IBD 
+- Dysbiosis seen in affected individuals
+	- Proteobacteria like EIEC EAEC drive disease 
+	- Firmicutes like Faecalibacterium prausniitzi are lost (usually reduce inflammation)
+- Many changes in commensal due to inflammatory process 
+- Agents that alter microbiome may improve CD (metronidazole, Ciprofloxacin, elemental diet)
+## defective immune regulation
+- 
