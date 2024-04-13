@@ -24,7 +24,7 @@
 ## genetics
 - concordance in identical twins
 - Occurs with genetic syndrome 
-- Severe refractory IBD in immune system single gene defects
+- Severe refractory IBD in immune system ***single gene defects***
 - >60 defects recognised
 	- ***IL10*** 
 	- ***IL 10 receptor***
@@ -32,4 +32,13 @@
 	- Neutrophil cytosolic factor 2 protein (***NCF2***)
 	- X linked inhibitor of apoptosis protein (***XIAP***)
 	- ***LRBA*** lipopolysaccharide responsive and beige like anchor protein
-	- tetratricopeptide 
+	- tetratricopeptide repeat domain 7A protein (TTC7)
+- familial in 10% 
+- Majority are polygenic, some maybe monogenic
+- ![[IBDgenetics.PNG]]
+- Most gene defects occur in regulatory areas of specific gene 
+- Genetics only explains 20% disease occurence
+- Also associated with immune process as responds to same immunotherapy
+	- Rheumatoid arthritis TNFAIP3 
+	- Psoriasis  IL23R IL12B 
+	- ANKYLOSING SPONDOL
