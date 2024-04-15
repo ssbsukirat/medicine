@@ -88,3 +88,13 @@
 	- TH1 initiated by IL12 
 	- IL 4/23/6 and TGF-beta induce TH2 And TH17 
 	- IL 23 inhibit regulatory T cells 
+# Ulcerative Colitis
+## Pathology
+- ***mucosal*** disease involving **rectum** to ***all and any part of colon*** 
+- Location
+	- Rectosigmoid and rectum in 40-50
+	- Beyond sigmoid but not entire colon in 30-40 
+	- Pancolitis in 20 
+	- Pancolitis may extend to 2-3cm of terminal ileum in 10-20 (***Backwash Ileitis***)
+- Proximal spread, Continuous, no breaks (biopsy from normal appearing areas is usually abnormal)
+- 
