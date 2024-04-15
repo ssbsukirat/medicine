@@ -90,6 +90,7 @@
 	- IL 23 inhibit regulatory T cells 
 # Ulcerative Colitis
 ## Pathology
+### macroscopic
 - ***mucosal*** disease involving **rectum** to ***all and any part of colon*** 
 - Location
 	- Rectosigmoid and rectum in 40-50
@@ -97,4 +98,16 @@
 	- Pancolitis in 20 
 	- Pancolitis may extend to 2-3cm of terminal ileum in 10-20 (***Backwash Ileitis***)
 - Proximal spread, Continuous, no breaks (biopsy from normal appearing areas is usually abnormal)
-- 
+- always obtain ***biopsy from uninvolved mucosa*** also in endoscopy 
+- Mucosal appearance
+	- Mild has erythema with ***sandpaper*** (granular) surface
+	- Severe has hemorrhagic, edematous, ***ulcerated mucosa*** 
+	- Long-standing has ***inflammatory pseudopolyps*** 
+	- ***Atrophic and featureless*** in many years and colon maybe narrowed and shortened
+	- ***Fulminant may have toxic megacolon*** with thin wall and chance of perforation due to ulcerated mucosa
+### microscopic
+- histology correlates with appearance and clinical course 
+- Mucosa submucosa affected
+- Deeper layer unaffected except in fulminant
+- Chronic features to differentiate from infectious or acute colitis
+	- 
