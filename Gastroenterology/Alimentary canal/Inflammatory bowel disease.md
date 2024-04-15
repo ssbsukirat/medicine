@@ -84,3 +84,7 @@
 - TH17 
 	- IL 17/21/22 
 	- Neutrophil recruitment
+- Cross regulations in cytokines pathway
+	- TH1 initiated by IL12 
+	- IL 4/23/6 and TGF-beta induce TH2 And TH17 
+	- IL 23 inhibit regulatory T cells 
