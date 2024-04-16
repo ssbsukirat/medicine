@@ -153,8 +153,12 @@
 		* loss of haustra 
 		* rare and maybe triggered by electrolyte disturbance or narcotic 
 		* 50% resolve wtih conservative management 
-	* Perforation most da
-	* 
+	* Perforation most danger
+	* mortality of perforation is 15%
+	* strictures in 5-10 
+		* possible underlying neoplasm 
+		* strictures impassable from colonoscopy is considered malignancy & is indication of surgery 
+		* 
 
 # Crohn's
 ## Pathology
