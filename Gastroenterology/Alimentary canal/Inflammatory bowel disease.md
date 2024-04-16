@@ -116,6 +116,9 @@
 - Neutrophil invasion of crypts causes ***cryptitis and crypt abscesses***
 - Backwash Ileitis has ***villous atrophy and crypt regeneration, cryptitis and crypt abscesses*** 
 
+## Clinical Presentation 
+* 
+
 # Crohn's
 ## Pathology
 ### Macroscopic
@@ -142,3 +145,4 @@
 ### Microscope 
 - earliest are ***noncaseating granulomas***, apthoid ulcers, focal crypt abcess 
 - granulomas characteristic but usually seen in surgical specimen >> mucosal biopsy 
+- submucosal or subserosal lymphoid aggregates, particularly away from areas of ulceration
