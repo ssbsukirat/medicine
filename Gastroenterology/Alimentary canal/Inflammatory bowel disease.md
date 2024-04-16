@@ -134,4 +134,10 @@
 	liver and pancreas rarely 
 - ***Skip*** lesions present 
 - ***Transmural*** process
+- endoscopy 
+	- mild -->aphthous or small superficial ulcerations
+	- active disease --> stellate ulcerations fuse longitudinally and transversely to ***separate islands of normal mucosa (Cobblestone appearance )***
+	- active has focal inflammation and fistula formation , which fibrose and form ***strictures*** 
+- thickened mesenteric projections aka ***Creeping Fat*** 
+### Microscope 
 - 
