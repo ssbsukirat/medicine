@@ -187,3 +187,9 @@
 - earliest are ***noncaseating granulomas***, apthoid ulcers, focal crypt abcess 
 - granulomas characteristic but usually seen in surgical specimen >> mucosal biopsy 
 - submucosal or subserosal lymphoid aggregates, particularly away from areas of ulceration
+## Clinical 
+* Signs symptoms 
+	* acute or chronic bowel inflammation 
+	* 2 patterns 
+		* fibrostenotic obstructing pattern 
+		* penetrating fistulas patterns 
