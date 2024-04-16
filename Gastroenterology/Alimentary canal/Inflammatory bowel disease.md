@@ -205,4 +205,8 @@
 			* inflamed bowel, induration of mesentery and enlarged abdominal lymph nodes 
 			* ***String sign*** --> 
 				* severely narrowed loop of bowel, which makes the lumen resemble a frayed cotton string
-				* incomplete filling of the lumen as the result of edema, irritability, and spasms associated with inflammation and ulcerations 
+				* incomplete filling of the lumen as the result of edema, irritability, and spasms associated with inflammation and ulcerations
+		* Obstruction 
+			* bowel wall edema and spasm in early disease 
+			* fibrostenotic narrowing and strictures over several years 
+		* diarrhea replaced by obstr
