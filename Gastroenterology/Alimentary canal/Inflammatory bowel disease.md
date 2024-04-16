@@ -117,7 +117,11 @@
 - Backwash Ileitis has ***villous atrophy and crypt regeneration, cryptitis and crypt abscesses*** 
 
 ## Clinical Presentation 
-* 
+* Signs and Symptoms 
+	* diarrhea rectal bleeding , tenesmus , passage of mucus, crampy abdominal pain 
+	* severity of symptoms related to disease extent 
+	* Proctitis 
+		* fresh blood or blood stained m
 
 # Crohn's
 ## Pathology
