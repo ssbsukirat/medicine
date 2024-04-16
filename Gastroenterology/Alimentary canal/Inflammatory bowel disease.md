@@ -121,7 +121,15 @@
 	* diarrhea rectal bleeding , tenesmus , passage of mucus, crampy abdominal pain 
 	* severity of symptoms related to disease extent 
 	* Proctitis 
-		* fresh blood or blood stained m
+		* pass fresh blood or blood stained mucus 
+		* tenesmus 
+		* urgency with a feeling of incomplete evacuation 
+		* slow proximal transit causing constipation 
+	* beyond rectum 
+		* blood mixed with stool or grossly bloody diarrhea 
+		* rapid transit 
+		* liquid bloody, pus stool in severe disease 
+		* abdominal pain +/- 
 
 # Crohn's
 ## Pathology
