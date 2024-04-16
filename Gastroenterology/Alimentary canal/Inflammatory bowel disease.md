@@ -130,6 +130,12 @@
 		* rapid transit 
 		* liquid bloody, pus stool in severe disease 
 		* abdominal pain +/- 
+	* physical signs 
+		* tender anal canal 
+		* blood on PR exam 
+		* tenderness to palpation over colon in severe disease 
+		* ***hepatic tympany*** in toxic megacolon 
+* Lab, endoscop
 
 # Crohn's
 ## Pathology
