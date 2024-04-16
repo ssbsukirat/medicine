@@ -140,4 +140,5 @@
 	- active has focal inflammation and fistula formation , which fibrose and form ***strictures*** 
 - thickened mesenteric projections aka ***Creeping Fat*** 
 ### Microscope 
-- 
+- earliest are ***noncaseating granulomas***, apthoid ulcers, focal crypt abcess 
+- granulomas characteristic but usually seen in surgical specimen >> mucosal biopsy 
