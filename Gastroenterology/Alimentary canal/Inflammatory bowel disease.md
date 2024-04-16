@@ -198,3 +198,11 @@
 		* chronic history of recurrent RLQ pain with diarrhea 
 		* may mimic appendicitis 
 		* Colicky pain precedes and relieved by defecation 
+		* low grade fever 
+		* if high grade fever is intraabdominal abcess 
+		* weight loss 10-20% 
+		* RLQ inflammatory mass maybe palpated 
+			* inflamed bowel, induration of mesentery and enlarged abdominal lymph nodes 
+			* ***String sign*** --> 
+				* severely narrowed loop of bowel, which makes the lumen resemble a frayed cotton string
+				* incomplete filling of the lumen as the result of edema, irritability, and spasms associated with inflammation and ulcerations 
