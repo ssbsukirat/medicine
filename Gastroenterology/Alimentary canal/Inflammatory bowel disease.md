@@ -209,4 +209,8 @@
 		* Obstruction 
 			* bowel wall edema and spasm in early disease 
 			* fibrostenotic narrowing and strictures over several years 
-		* diarrhea replaced by obstr
+		* diarrhea replaced by obstruction as disease progresses 
+		* localised wall thinning may cause Enterovesical. eneterovaginal, enterocutaneous fistula 
+		* Enterovesical fistulas present as dysuria or recurrent bladder infections or pneumaturia or fecaluria 
+	* jejunoileitis 
+		* 
