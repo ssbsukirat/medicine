@@ -110,4 +110,18 @@
 - Mucosa submucosa affected
 - Deeper layer unaffected except in fulminant
 - Chronic features to differentiate from infectious or acute colitis
-	- 
+	- Bifid and reduced crypts 
+	- Gap between crypt base and muscularis
+	- Basal plasma cells and multiple lymphoid aggregates 
+- Neutrophil invasion of crypts causes ***cryptitis and crypt abscesses***
+- Backwash Ileitis has ***villous atrophy and crypt regeneration, cryptitis and crypt abscesses*** 
+
+# Crohn's
+## Pathology
+### Macroscopic
+- any part of GI tract 
+- Location
+	- Small bowel only 30-40 
+	- Both small and large 40-55 
+	- Colitis only 15/25 
+	- If small bowel involved (75%) then terminal ileum involved in 90% 
