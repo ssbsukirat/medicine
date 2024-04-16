@@ -143,7 +143,15 @@
 	* severely ill have low albumin 
 	* CRP not raised in proctitis or proctosigmoiditis 
 	* leukocytosis present but not specific 
-	* Sigmoidoscopy to assess disease activity and done ***before treatment***  
+	* Sigmoidoscopy to assess disease activity and done ***before treatment*** 
+	* ![[UC-severity.png]]
+* Complications 
+	* only 15% have severe disease at presentation 
+	* 1% have massive hemorrhage 
+	* Toxic megacolon 
+		* transverse or right colon diameter >6cm 
+		* loss of haustra 
+		* rare and maybe triggered 
 
 # Crohn's
 ## Pathology
