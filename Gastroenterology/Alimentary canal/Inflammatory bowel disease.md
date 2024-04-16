@@ -193,3 +193,8 @@
 	* 2 patterns 
 		* fibrostenotic obstructing pattern 
 		* penetrating fistulas patterns 
+	* Ileocolitis 
+		* terminal ileum 
+		* chronic history of recurrent RLQ pain with diarrhea 
+		* may mimic appendicitis 
+		* Colicky pain precedes and relieved by defecation 
