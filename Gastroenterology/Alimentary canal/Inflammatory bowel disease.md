@@ -125,3 +125,13 @@
 	- Both small and large 40-55 
 	- Colitis only 15/25 
 	- If small bowel involved (75%) then terminal ileum involved in 90% 
+	- ***rectum often spared*** 
+	- Perianal disease 1/3 
+		- perirectal fistulas 
+		- fissures 
+		- abcess 
+		- anal stenosis
+	liver and pancreas rarely 
+- ***Skip*** lesions present 
+- ***Transmural*** process
+- 
