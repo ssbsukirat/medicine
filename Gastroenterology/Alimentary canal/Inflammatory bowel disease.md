@@ -151,7 +151,10 @@
 	* Toxic megacolon 
 		* transverse or right colon diameter >6cm 
 		* loss of haustra 
-		* rare and maybe triggered 
+		* rare and maybe triggered by electrolyte disturbance or narcotic 
+		* 50% resolve wtih conservative management 
+	* Perforation most da
+	* 
 
 # Crohn's
 ## Pathology
