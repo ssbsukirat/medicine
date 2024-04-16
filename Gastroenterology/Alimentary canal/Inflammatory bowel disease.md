@@ -135,7 +135,15 @@
 		* blood on PR exam 
 		* tenderness to palpation over colon in severe disease 
 		* ***hepatic tympany*** in toxic megacolon 
-* Lab, endoscop
+* Lab, endoscopy and radiological 
+	* rise in acute phase reactants, platelet and ESR 
+	* reduced Hb 
+	* Fecal Lactoferrin (glycoprotein in activated neutrophil ) marker of intestinal inflammation 
+	* Fecal Calprotectin (in neutros and monocytes) correlation with histologically inflammation , relapse and pouchitis
+	* severely ill have low albumin 
+	* CRP not raised in proctitis or proctosigmoiditis 
+	* leukocytosis present but not specific 
+	* Sigmoidoscopy to assess disease activity and done ***before treatment***  
 
 # Crohn's
 ## Pathology
