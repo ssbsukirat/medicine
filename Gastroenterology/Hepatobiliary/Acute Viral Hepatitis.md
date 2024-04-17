@@ -115,4 +115,17 @@
 		* Acquired at birth
 		* High level of immune tolerance to HBV so active hepatitis not seen 
 		* But invariably chronic hepatitis B seen 
-		* Neonatal acquired culminates in cirrho
+		* Neonatal acquired culminates in cirrhosis or HCC few decades later 
+		* Adult onset usually has low rates of HCC
+		* Immunoreactive phase may occur late in life with tolerance present but liver injury and progressive fibrosis occur 
+* Extrahepatic manifestation
+	* Immune complex mediated tissue damage 
+	* Prodromal serum sickness like in acute HBV due to immune complex deposit in blood vessel wall and complement activation
+	* Glomerulonephritis with nephrotic syndrome
+	* Vasculitis (PAN or polyarteritis nodosa) 
+		* in 1% but >30% with PAN have chronic HBV
+		* Small and medium vessels
+		* HBsAg IGs and complement in vessel wall
+	* Essential mixed cryoglobulinemia (EMC)
+		* More in HCV than HBV 
+		* Arthritis, palpa
