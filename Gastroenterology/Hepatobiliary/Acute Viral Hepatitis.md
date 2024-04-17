@@ -128,4 +128,18 @@
 		* HBsAg IGs and complement in vessel wall
 	* Essential mixed cryoglobulinemia (EMC)
 		* More in HCV than HBV 
-		* Arthritis, palpa
+		* Arthritis, palpable purpura and glomerulonephritis occasionally
+		* Circulating cryoprecipitatable immune complex of multiple ig classes 
+* Pathology (Common to most viral hepatitis)
+	* Panlobular infiltration with mononuclear cell
+	* Hepatic cell necrosis
+	* Kupffer cell hyperplasia
+	* Cholestasis
+	* "Rosette" or "pseudoacinar" formation due to cell regeneration
+	* Ballooning and acidophilic degeneration aka "***Councilman bodies" or apoptotic bodies***
+	* Ground glass appearance in chronic
+	* Bridging hepatic necrosis or subacute or confluent necrosis or interface hepatitis
+		* Severe histological lesion 
+		* In acute infection
+		* Bridging between lobules due to cell dropout and collapse of framework 
+		* Earle
