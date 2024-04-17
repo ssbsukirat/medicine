@@ -175,3 +175,15 @@
 		- Low grade (100-102) in A and E 
 		- B has serum sickness like syndrome 
 	- Dark urine and clay coloured stool before onset of clinical jaundice
+- Clinical jaundice 
+	- Prodrome diminishes
+	- Mild weight loss common and may continue to entire icteric phase 
+	- Enlarged tender liver with ruq pain and discomfort
+	- Cholestatic maybe present suggesting extrahepatic biliary obstruction
+	- Splenomegaly and cervical lymphadenopathy in 10-20% 
+	- Spider angiomas rarely but disappear in convalescence
+	- Posticteric phase 2-12 weeks (prolonged in B and C )
+	- HDV may occur with acute or chronic HBV
+		- Duration depends on duration of HBV infection
+		- When acute HDV and HBV occur, indistinguishable from HBV alone (***coinfection***)
+		- If chronic HBV, supports indefinite HDV replication (***Superinfection*** resembling acute exacerbation)
