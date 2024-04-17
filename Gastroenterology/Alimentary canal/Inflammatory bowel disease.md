@@ -238,8 +238,28 @@
 		* Gross bleeding is less common and only in 50%
 		* Pain due to passage of stools through stricture areas
 		* Structure may cause bowel obstruction
-		* If endoscope cannot be passed, perform surgery on stricture
-		* Fistula between different parts of the GI tract may cause
+		* If endoscope cannot be passed, perform surgery on stricture 
+		* Fistula may form between different parts of GI tract, leading to “short-circuiting “of GI tract and malabsorption
+	* Gastroduodenal disease
+		* Nausea, vomiting, epigastric pain
+		* H pylori negative gastritis
+		* The two more common than bulb
+		* May have chronic gastric outlet obstruction
+* Lab endoscopy and radiology
+	* Lab
+		* Raised ESR and CRP
+		* Hypoalbuminaemia
+		* Anaemia
+		* Leucocytosis 
+		* Focal calprotectin and lactoferrin
+			* Differentiate IBS and IBD
+			* Disease activity
+			* recurrence post surgery
+	* Endoscopy
+		* Rectal sparing
+		* After ulcers
+		* Fistula
+		* Skip lesions
 		
 
 
