@@ -107,3 +107,12 @@
 * Pathogenesis
 	* Inactive carriers with normal liver exists, suggesting **no direct cytopathic activity**
 	* Cellular response involved in pathogenesis
+	* Cytotoxic T cells sensitised to both host and HBV antigen on hepatocyte surface
+	* Innate immune response (NK cells) and inflammatory cytokines remove HBV from cytoplasm and nucleus of hepatocyte
+	* Sometimes rapid liver injury may develop even after transplant suggests immune response involved in pathogenesis (Fibrosing Cholestatic hepatitis )
+	* Immunotolerant chronic hepatitis B 
+		* In endemic areas
+		* Acquired at birth
+		* High level of immune tolerance to HBV so active hepatitis not seen 
+		* But invariably chronic hepatitis B seen 
+		* Neonatal acquired culminates in cirrho
