@@ -213,4 +213,17 @@
 		* localised wall thinning may cause Enterovesical. eneterovaginal, enterocutaneous fistula 
 		* Enterovesical fistulas present as dysuria or recurrent bladder infections or pneumaturia or fecaluria 
 	* jejunoileitis 
-		* 
+		- malabsorption
+    		* Loss of digestive and absorptive surface
+    		* Poor intake
+    		* Enteric losses of protein
+    		* Leads to 
+	    		* Anaemia, 
+	    		* hypoalbuminaemia, 
+	    		* hypocalcaemia 
+	    		* hypomagnesium, 
+	    		* coagulopathy, 
+	    		* hyperoxaluria, nephrolithiasis
+	    	* Poor tolerance to oral iron, so iv iron may be needed
+	    	* Vertebral fractures due to vitamin D deficiency hypocalcaemia
+
