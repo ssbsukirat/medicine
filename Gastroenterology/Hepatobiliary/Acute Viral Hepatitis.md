@@ -160,3 +160,18 @@
 		* ***Not related to breast feeding*** 
 		* More with HbeAg and high replication
 	* ![[HBV-highriskgroups.PNG]]
+# Clinical features
+## signs symptoms
+- IP varies by agent
+	- A has 15-45 
+	- B and D 30-180 
+	- C from 15-160 
+	- E from 14-60 days 
+- Prodromal
+	- Systemic and variable
+	- Constitutional --> anorexia, nausea, vomiting fatigue malaise arthralgia myalgia, headache, photophobia, pharyngitis, cough and coryza 
+	- Constitutional precedes by 1-2 weeks 
+	- Fever 
+		- Low grade (100-102) in A and E 
+		- B has serum sickness like syndrome 
+	- Dark urine and clay coloured stool before onset of clinical jaundice
