@@ -55,4 +55,10 @@
     * HbeAg is soluble nonparticulate nucleocapsid protein (made by C gene but different from HbcAg)
     * Translation at C gives HbcAg while precore region translation gives HbeAg
 * HbeAg 
-	* Marker of HBV replication andi
+	* Marker of HBV replication and infectivity
+	* Qualitative
+	* If present with HBsAg more like to be Highly infectious and have HBV virion
+	* If mothers HbeAg positive alongwith HBsAg then >90% transmission to child 
+	* If persists after acute infection after 3 months then predicts chronic infection
+* P gene codes for polymerase both DNA dependent DNA polymerase and reverse transcriptase
+* X gene makes HbxAg which transactivates both cellular and viral gene transcription
