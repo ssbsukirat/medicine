@@ -225,5 +225,21 @@
 	    		* coagulopathy, 
 	    		* hyperoxaluria, nephrolithiasis
 	    	* Poor tolerance to oral iron, so iv iron may be needed
-	    	* Vertebral fractures due to vitamin D deficiency hypocalcaemia
+	    	* Vertebral fractures due to vitamin D, deficiency, hypocalcaemia and steroid use
+	    	* Pellagra from Niacin deficiency
+	    	* Megaloblastic anaemia and neurological symptoms due to vitamin B12 deficiency
+	    * Diarrhoea
+		    * Bacterial over root in obstruction or fistula 
+		    * Bile acid malabsorption
+		    * Inflammation and reduced water absorption
+		    * Fistula enteroenteric
+	* Colitis and perianal disease
+		* low grade fever malaise Diarrhoea, crampy abdominal pain, haematochezia 
+		* Gross bleeding is less common and only in 50%
+		* Pain due to passage of stools through stricture areas
+		* Structure may cause bowel obstruction
+		* If endoscope cannot be passed, perform surgery on stricture
+		* Fistula between different parts of the GI tract may cause
+		
+
 
