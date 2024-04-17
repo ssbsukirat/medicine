@@ -106,4 +106,4 @@
 	* May recur after liver transplantation due to these sites 
 * Pathogenesis
 	* Inactive carriers with normal liver exists, suggesting **no direct cytopathic activity**
-	* 
+	* Cellular response involved in pathogenesis
