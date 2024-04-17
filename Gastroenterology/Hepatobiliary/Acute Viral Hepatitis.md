@@ -154,4 +154,9 @@
 		* Perinatal transmission
 	* HBsAg identified in ***every body fluids*** and ***semen and saliva are very infectious*** 
 	* Perinatal transmission
-		* 
+		* Third trimester or early postpartum
+		* In active hepatitis mothers 
+		* Most at time of delivery
+		* ***Not related to breast feeding*** 
+		* More with HbeAg and high replication
+	* ![[HBV-highriskgroups.PNG]]
