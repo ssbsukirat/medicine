@@ -49,3 +49,10 @@
 * Proteins
     * 22nm spherical or filamentous most common form which is similar to HBsAg 
     * 42nm double shelled spheres are intact HBV virion 
+    * Upstream of S gene is pre-S genes 
+    * HBsAg (major protein) and pre-S2 is ***middle protein*** and middle protein + pre-S1 is ***large protein***
+    * Nucleocapsid core by C gene 
+    * HbeAg is soluble nonparticulate nucleocapsid protein (made by C gene but different from HbcAg)
+    * Translation at C gives HbcAg while precore region translation gives HbeAg
+* HbeAg 
+	* Marker of HBV replication andi
