@@ -187,3 +187,18 @@
 		- Duration depends on duration of HBV infection
 		- When acute HDV and HBV occur, indistinguishable from HBV alone (***coinfection***)
 		- If chronic HBV, supports indefinite HDV replication (***Superinfection*** resembling acute exacerbation)
+	- In chronic HBV
+		- Acute events may occur 
+		- HbeAg to anti-hbe seroconversion
+		- Spontaneous reactivation
+		- Reactivation in therapeutically immunosuppressed patients with chronic HBV when immunosuppression withdrawan 
+		- Due to emergence of precore mutant in chronic HBV exacerbation may occur
+
+
+## labs 
+- AST ALT rise to variable levels and precedes rise in bilirubin
+- Enzyme level does not correlate to level of liver cell damage 
+- Usually 400-4000 and resolved with recovery phase 
+- Jaundice when bilirubin >2.5 and typically bilirubin is 5-20 
+- Bilirubin may rise even with falling transaminases and usually equally in conjugated and unconjugated
+- If >20 peri
