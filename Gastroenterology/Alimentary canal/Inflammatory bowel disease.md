@@ -276,7 +276,19 @@
 			* Better soft tissue contrast
 			* Lack of ionising radiation for young
 			* Superior for pelvic imaging
-		* Small bowel ultrasound Br
-		
+		* Small bowel ultrasound SBUS Is under utilised
+* Complications
+	* Transmural process
+	* serosal adhesions provide pathway for fistula
+	* Perforation in 1 to 2%, but more in ileum and toxic megacolon
+	* Intra abdominal and pelvic abscess in 10 to 30%
+	* If absence, CT guided percutaneous drainage
+	* Higher risk of abscess in systemic steroid therapy 
+	* 40% have obstruction
+	* Others like massive haemorrhage, male absorption and severe perineal disease
+* Serological tests
+	* Anti sachharomyces cerevisiae (ASCA) IN CD 
+	* pANCA in UC 
+	* clinical features more reliable than serology to differentiate UC and CD
 
 
