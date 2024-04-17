@@ -142,4 +142,16 @@
 		* Severe histological lesion 
 		* In acute infection
 		* Bridging between lobules due to cell dropout and collapse of framework 
-		* Earle
+		* Earlier thought to be poor prognosis but not recognised now 
+	* ***Massive hepatic necrosis or acute yellow atrophy*** has fulminant course and soft shrunken liver in autopsy
+	* HBsAg in Cytoplasm and membrane
+	* HbcAg in nucleus or rarely in cytoplasm
+* Epidemiology
+	* Percutaneous route was major route but now not so 
+	* Now nonpercutaneous or covert percutaneous route occurs 
+		* Oral is viable but inefficient
+		* Intimate sexual contact
+		* Perinatal transmission
+	* HBsAg identified in ***every body fluids*** and ***semen and saliva are very infectious*** 
+	* Perinatal transmission
+		* 
