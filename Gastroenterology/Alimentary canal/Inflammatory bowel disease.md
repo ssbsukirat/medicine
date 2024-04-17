@@ -260,6 +260,23 @@
 		* After ulcers
 		* Fistula
 		* Skip lesions
+		* Colonic dilatation by endoscope for strictures response better if
+			* Less than or equal to 4 cm
+			* anastomotic sites 
+		* Wireless capsule endoscopy (WCE) 
+			* Allows visualisation of entire mucosa
+			* Better diagnostic yield, then CT or MRI 
+			* Better in the setting of strictures
+	* Radiology
+		* Thick folds and Apthous ulcers
+		* “Cobblestone appearance “more in small bowel
+		* Earliest finding is Apthous ulcer
+		* CT and MRI have equal value, but MRI may be better 
+			* Reduced radiation exposure
+			* Better soft tissue contrast
+			* Lack of ionising radiation for young
+			* Superior for pelvic imaging
+		* Small bowel ultrasound Br
 		
 
 
