@@ -66,10 +66,12 @@
 	* HBsAg first marker between 8-12 (1-12weeks) 
 	* HBsAg detectable before transaminase activity and symptoms by 2-6 weeks and elevated through entire icteric period
 	* Undetectable after 1-2 months 
-	* Anti-hbsag once detectable stays indefinitely
+	* Anti-hbsag once detectable stays indefinitely and protective
 	* HbcAg
 		* Intracellular
 		* In serum surrounded by HBsAg coat so not routinely detected
-	* Anti-hbc is detectable 1-3 weeks after HBsAg and precedes anti-hbsag by weeks to months
+	* Anti-hbc is detectable 1-3 weeks after HBsAg and precedes anti-hbsag by weeks to months IgM in first 6 months then IgG
 	* There is "gap period" between HBsAg disappeared and Anti-hbsag present so anti-hbc maybe the only detectable antibody then 
 	* Isolated anti-hbc represent HBV infection in remote past 
+	* HbeAg usually in combination with HBsAg
+	* HbeAg temporally associated with high replication and detectable HBV DNA
