@@ -197,8 +197,23 @@
 
 ## labs 
 - AST ALT rise to variable levels and precedes rise in bilirubin
+- ALP normal or slightly elevated
+- Fall in albumin uncommon
 - Enzyme level does not correlate to level of liver cell damage 
 - Usually 400-4000 and resolved with recovery phase 
 - Jaundice when bilirubin >2.5 and typically bilirubin is 5-20 
 - Bilirubin may rise even with falling transaminases and usually equally in conjugated and unconjugated
-- If >20 peri
+- If >20 persisting late into course suggests severe disease but maybe due to superimposed hemolysis in (not associated with.poor prognosis then)
+	- G6PD deficiency
+	- Hemolytic Anemia
+	- Sickle cell Anemia
+- Transient neutropenia and lymphopenia followed by relative lymphocytosis 
+- Atypical lymphos in acute phase 
+- PT to be measured as if deranged
+	- Extensive necrosis
+	- Poor prognosis
+- Hypoglycemia
+	- Prolonged nausea vomiting
+	- Inadequate carbohydrate intake 
+	- Poor glycogen reserves 
+- 
