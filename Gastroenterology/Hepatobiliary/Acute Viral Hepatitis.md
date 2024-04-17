@@ -87,3 +87,23 @@
 		* Anti-hbe but no HbeAg
 		* Cannot encode HbeAg 
 		* Single base substitute from G to A at site 1896 
+		* Tryptophan to stop codon
+		* Lower levels of HBV DNA usually
+	* Core-promoter mutant
+		* No transcription of HbeAg region 
+		* Severe liver disease 
+		* Rapid progress to cirrhosis
+	* Escape mutants
+		* Glycine to arginine at 145 of alpha determinants in HBsAg
+		* Loss of neutralising activity by anti-hbsag 
+		* In immunisation, favours evolutionary change to this type 
+* Extrahepatic sites 
+	* Lymph nodes
+	* Bone marrow
+	* Lymphos 
+	* Spleen 
+	* Pancreas 
+	* May recur after liver transplantation due to these sites 
+* Pathogenesis
+	* Inactive carriers with normal liver exists, suggesting **no direct cytopathic activity**
+	* 
