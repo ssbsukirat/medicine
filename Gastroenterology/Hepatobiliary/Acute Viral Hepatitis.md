@@ -75,3 +75,15 @@
 	* Isolated anti-hbc represent HBV infection in remote past 
 	* HbeAg usually in combination with HBsAg
 	* HbeAg temporally associated with high replication and detectable HBV DNA
+	* Chronic HBV
+		* IgG HbcAg, HBsAg beyond 6 months and undetectable or low anti-hbsag
+		* Early chronic has HBV DNA in hepatocyte and serum 
+		* In non replicative phase , ***seroconversion*** from HbeAg to anti-hbe 
+		* Seroconversion may have mild transient acute hepatitis like transamnitis due to cell mediated clearance of infected hepatocyte
+		* Intact virions do not circulate, only spherical and tubular forms 
+* Molecular variants
+	* Precore mutant
+		* Mediterranean
+		* Anti-hbe but no HbeAg
+		* Cannot encode HbeAg 
+		* Single base substitute from G to A at site 1896 
