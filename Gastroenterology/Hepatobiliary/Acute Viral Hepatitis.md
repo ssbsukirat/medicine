@@ -237,3 +237,9 @@
 	- Anti-hbsag rare in HBsAg and acute HBV
 	- Anti-hbsag maybe seen in 10-20% of chronic HBV against heterotypic subtype determinant due to stimulation of related clone of antibody making cells 
 	- Anti-hbsag only marker after immunisation
+	- HBV levels now tested by amplification assays 
+	- Higher HBV DNA levels correlate with replication and liver injury (except in perinatal acquired and immunocompromised)
+- HCV
+	- Episodic pattern of transaminase elevation
+	- Serum anti-HCV diagnostic
+	- False positive in low probability of infection and
