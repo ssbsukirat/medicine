@@ -262,4 +262,14 @@
 - More complicated and protracted
 	- Advanced age 
 	- Underlying comorbidities
-	- Presentation with ascutes
+	- Presentation with ascites, edema and hepatic encephalopathy
+	- Prolonged PT 
+	- Low albumin, hypoglycemia
+	- Very high bilirubin 
+- Hep E on CLD has fulminant course
+- Superinfection of HDV on chronic HBV has poorer prognosis
+# complications and sequelae
+- hep A may develop ***relapsing hepatitis*** weeks to months after recovery
+- ***Cholestatic hepatitis*** in hep A with protracted cholestatic jaundice and pruritus
+- Serum sickness in acute HBV
+- EMC in chronic HCV and may evolve rarely to b cell lymphpoma
