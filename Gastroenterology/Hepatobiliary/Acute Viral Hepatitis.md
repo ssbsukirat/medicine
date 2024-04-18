@@ -273,3 +273,14 @@
 - ***Cholestatic hepatitis*** in hep A with protracted cholestatic jaundice and pruritus
 - Serum sickness in acute HBV
 - EMC in chronic HCV and may evolve rarely to b cell lymphpoma
+- HCV associated with ***porphyria cutanea tarda and lichen planus*** 
+- Fulminant hepatitis
+	- Rare 
+	- HBV HDV HEV 
+	- More in HBV with HDV/HCV 
+	- Present with encephalopathy that may evolve to coma 
+	- Small liver with elevated PT 
+	- Cerebral edema l, brainstem compression
+	- GI bleed
+	- 80 mortality but if recovery happened then total 
+	- Early liver transplantation is helpful
