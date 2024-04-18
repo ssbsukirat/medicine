@@ -217,4 +217,16 @@
 	- Inadequate carbohydrate intake 
 	- Poor glycogen reserves 
 - mild and transient Steatorrhea
-- Mild elevation of gamma globulin fraction
+- Mild elevation of gamma globulin fraction 
+- IgM elevation characteristics in acute hepatitis A 
+- Other antibodies
+	- To smooth muscle, cell components
+	- Low titres of rheumatoid factor
+	- Nuclear antibody
+	- Heterophile antibody
+	- Anti-LKM in hepatitis B and C
+		- Different type in both 
+		- Not the same as autoimmune hepatitis
+- IgM anti-HAV may be false positive by rheumatoid factor
+- HBsAg for diagnosis
+	- If low then anti-Hbc can be used (IgM)
