@@ -284,3 +284,9 @@
 	- GI bleed
 	- 80 mortality but if recovery happened then total 
 	- Early liver transplantation is helpful
+- Document HBsAg disappeared after acute HBV
+- Chronic HBV is late complication of HBV progression is suggested by 
+	- lack of complete resolution of anorexia, weight loss, hepatomegaly
+	- Bridging or multilobular necrosis on liver biopsy 
+	- Failure of aminotransferase, bilirubin, globulin to return to normal
+	- Persistence of HbeAg >3months or HBsAg for >6 months after acute hepatitis
