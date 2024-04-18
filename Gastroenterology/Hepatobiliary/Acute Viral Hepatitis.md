@@ -249,3 +249,17 @@
 	- Anti-HCV with absent RNA implies recovery either Spontaneous or therapeutic
 - HDV 
 	- ***Intrahepatic*** HDV antigen (circulating present briefly if at all) or anti-HDV seroconversion 
+	- Coinfection with HBV IgM anti-Hbc
+	- Superinfection has IgG anti-Hbc
+- Liver biopsy
+	- Rarely indicated
+	- If diagnosis is suspected
+	- If chronic hepatitis is suspected
+- All serological markers is ***non-A, non-B, non-C hepatitis***
+# prognosis
+- virtually all hepatitis A recover without sequelae
+- 95-99 of hep B have complete recovery
+- More complicated and protracted
+	- Advanced age 
+	- Underlying comorbidities
+	- Presentation with ascutes
