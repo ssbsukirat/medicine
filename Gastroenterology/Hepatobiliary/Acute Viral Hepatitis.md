@@ -233,3 +233,7 @@
 	- Titre has no relation to degree of liver damage
 	- Inverse correlation between HBsAg titre and liver damage 
 	- Liver damage related to immune status rather than HBsAg
+	- If HBsAg present of unknown significance then IgM anti-Hbc for acute vs chronic
+	- Anti-hbsag rare in HBsAg and acute HBV
+	- Anti-hbsag maybe seen in 10-20% of chronic HBV against heterotypic subtype determinant due to stimulation of related clone of antibody making cells 
+	- Anti-hbsag only marker after immunisation
