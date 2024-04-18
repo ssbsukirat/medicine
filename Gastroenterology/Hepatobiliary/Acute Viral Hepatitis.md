@@ -242,4 +242,10 @@
 - HCV
 	- Episodic pattern of transaminase elevation
 	- Serum anti-HCV diagnostic
-	- False positive in low probability of infection and
+	- False positive in low probability of infection and rheumatoid factor
+	- HCV RNA is most sensitive and gold standard to distinguish false and true positive
+	- HCV RNA not a marker of severity or prognosis
+	- RNA levels used to monitor response to therapy
+	- Anti-HCV with absent RNA implies recovery either Spontaneous or therapeutic
+- HDV 
+	- ***Intrahepatic*** HDV antigen (circulating present briefly if at all) or anti-HDV seroconversion 
