@@ -216,4 +216,5 @@
 	- Prolonged nausea vomiting
 	- Inadequate carbohydrate intake 
 	- Poor glycogen reserves 
-- 
+- mild and transient Steatorrhea
+- Mild elevation of gamma globulin fraction
