@@ -229,4 +229,7 @@
 		- Not the same as autoimmune hepatitis
 - IgM anti-HAV may be false positive by rheumatoid factor
 - HBsAg for diagnosis
-	- If low then anti-Hbc can be used (IgM)
+	- If low then anti-Hbc can be used (IgM) 
+	- Titre has no relation to degree of liver damage
+	- Inverse correlation between HBsAg titre and liver damage 
+	- Liver damage related to immune status rather than HBsAg
