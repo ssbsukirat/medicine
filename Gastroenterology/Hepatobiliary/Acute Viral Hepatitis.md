@@ -168,6 +168,16 @@
 		* Frequent exposure (healthcare workers, first responders, hemodialysis, custodial staff, injection drug users, correction facility residenta, multiple partners, men having sex with men, long-term blood therapy recipient, household contacts , endemic traveling, CLD, age<60 with Diabetes, ESRD and HIV patients
 		* 3 deltoid IM injections 0,1,6 months 
 		* Pregnancy not a contraindication
+		* Vaccine detail study from Harrison
+	* Postexposure prophylaxis
+		* Unvaccinated exposure
+		* Combination of HBIG and hepB vaccine
+		* Perinatal transmission to HBsAg mothers - ***0.5mL HBIG stat followed by 3 dose regimen started within 12 hour's*** 
+		* Percutaneous or transmucosal single IM dose of HBIG 0.06ml/kg followed by complete course within a week 
+		* In ***pregnant women with high titres (2x10^5) add nucleoside analogues*** in 3rd trimester
+		* Sexual contact single HBIG 0.06ml/kg within 14 days followed by complete course
+		* If both vaccine and HBIG to be given, can be given together but at different sites 
+		* Anti-hbsag levels to be tested post course in adults but not in children 
 # Clinical features
 ## signs symptoms
 - IP varies by agent
