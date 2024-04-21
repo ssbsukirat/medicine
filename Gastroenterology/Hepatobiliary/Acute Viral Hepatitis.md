@@ -178,6 +178,10 @@
 		* Sexual contact single HBIG 0.06ml/kg within 14 days followed by complete course
 		* If both vaccine and HBIG to be given, can be given together but at different sites 
 		* Anti-hbsag levels to be tested post course in adults but not in children 
+		* Boosters not recommended unless
+			* Immunosuppressed without detectable anti-hbsag
+			* Immunocompetent with exposure without detectable anti-hbsag
+			* Hemodialysis patients annual anti-hbsag and booster if less than 10 
 # Clinical features
 ## signs symptoms
 - IP varies by agent
