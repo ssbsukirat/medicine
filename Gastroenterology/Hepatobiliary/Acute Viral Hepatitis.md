@@ -358,3 +358,22 @@
 		- Absent drug abuse 
 	- Now waiting for spontaneous recovery is not advised 
 	- Advised treating with any one of 4 approved regimens for 8-12 weeks 
+- High calorie diet, better tolerated in morning 
+- Avoid cholestatic or heptotoxic drugs 
+- Cholestyramine if pruritus
+- Glucocorticoids not advised and maybe harmful
+- Physical isolation if 
+	- Fecal incontinence in hep A and E
+	- Uncontrolled voluminous bleeding in hep B and C 
+- Enteric precautions no longer recommended
+- Hep B and C blood precautions
+- Fulminant hepatitis
+	- Conservative supportive management
+	- Fluid balance circulation respiration
+	- Bleeding control 
+	- Hypoglycemia control 
+	- ***Restricted protein intake*** 
+	- Lactulose orally
+	- Glucocorticoids, exchange transfusion, plasmapheresis and other ineffective
+	- ***Orthotopic*** liver transplantation
+	- Acute hep E or acute on chronic, ribavirin 600mg BD but contraindicated in pregnancy
