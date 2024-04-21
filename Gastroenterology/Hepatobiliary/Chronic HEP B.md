@@ -4,4 +4,18 @@
 - Young adulthood has more acute and 1% chronic
 - Most chronic HBV has no past detectable acute episode
 - Adults with chronic HBV-- histology is prognostic
-- HBV replication more important than histology only
+- HBV replication more important than histology only as it correlate with level of injury and risk of progress
+- Phases in HbeAg reactive
+	- Replicative phase
+		- HbeAg and HBV DNA greater than  10^3-4 sometimes 10^9 
+		- Detectable intrahepatocyte nucleocapsid antigen (HbcAg)
+		- High infectivity
+		- Higher liver injury
+	- nonreplicative phase
+		- Absent HbeAg
+		- Anti-hbe
+		- Low HBV 
+		- Absent intrahepatocyte HbcAg
+		- Low infectivity
+		- Minimal liver injury
+
