@@ -160,6 +160,12 @@
 		* ***Not related to breast feeding*** 
 		* More with HbeAg and high replication
 	* ![[HBV-highriskgroups.PNG]]
+* Prophylaxis
+	* Until 1982 passive immunization
+	* Active immunisation from 1982 from purified non-infectious 22nm HBsAg 
+	* 1987 genetic yeast vaccine
+	* Preexposure prophylaxis
+		* Frequent exposure (healthcare workers, first responders, hemodialysis, custodial staff, injection drug users, correction facility residenta, multiple partners, men having sex with men, long-term blood therapy recipient, household contacts , endemic traveling, )
 # Clinical features
 ## signs symptoms
 - IP varies by agent
