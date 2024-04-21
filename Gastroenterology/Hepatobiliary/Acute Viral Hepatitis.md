@@ -333,4 +333,16 @@
 - Drug induced .
 - If multiple repeat episodes, likely autoimmune of chronic
 - Alcohol
-- Maybe confused with acute chol
+- Maybe confused with acute cholecystitis or ascending cholangitis
+- Tolerate surgery poorly so exclude before laparotomy. 
+- Right ventricular failure
+- Disorders interfering with venous return like RA myxoma, constrictive pericarditis, Budd Chiari syndrome
+- AFLP, HELLP, eclampsia maybe confused with hepatitis in pregnancy 
+- Genetic disorders like Wilson alpha one antitrypsin
+- Malignancy
+- Nafld 
+
+# treatment.
+- most recover spontaneously and don't require therapy
+- Hep B 99% recovery so antiviral not much use 
+- If ***severe acute hep B*** rarely, treat with ***nucleoside analogue*** for 3 months after HBsAg seroconversion or 
