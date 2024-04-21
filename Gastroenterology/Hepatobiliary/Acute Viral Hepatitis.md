@@ -312,7 +312,25 @@
 	- Peripheral neuropathy
 	- Anicteric hepatitis
 		- Children
+	- ***Gianotti crosti syndrome***
 		- Nonpruritic Papular rash over face buttocks limbs 
 		- Lymphadenopathy
 		- Aka Papular acrodermatitis of childhood
-		- Aka gianotti crosti syndrome
+# differentials
+- virals
+	- Infectious mononucleosis
+	- CMV
+	- HSV 
+	- Coxsackie virus 
+	- Toxoplasmosis
+- Transamnitis by any systemic infection like covid 19 also 
+- Liver injury in infectious
+	- Leptospira
+	- Brucella
+	- Candida 
+	- Mycobacterium
+	- Pneumocystis
+- Drug induced .
+- If multiple repeat episodes, likely autoimmune of chronic
+- Alcohol
+- Maybe confused with acute chol
