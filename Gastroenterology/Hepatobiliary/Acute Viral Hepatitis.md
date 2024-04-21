@@ -303,3 +303,16 @@
 		- Hepatitis coinfection
 		- HIV coinfection
 - HEV may cause chronic disease, HCC or cirrhosis in immunocompromised host 
+- Rare complications
+	- Pancreatitis
+	- Myocarditis
+	- Atypical pneumonia
+	- Aplastic Anemia
+	- Transverse myelitis
+	- Peripheral neuropathy
+	- Anicteric hepatitis
+		- Children
+		- Nonpruritic Papular rash over face buttocks limbs 
+		- Lymphadenopathy
+		- Aka Papular acrodermatitis of childhood
+		- Aka gianotti crosti syndrome
