@@ -345,4 +345,16 @@
 # treatment.
 - most recover spontaneously and don't require therapy
 - Hep B 99% recovery so antiviral not much use 
-- If ***severe acute hep B*** rarely, treat with ***nucleoside analogue*** for 3 months after HBsAg seroconversion or 
+- If ***severe acute hep B*** rarely, treat with ***nucleoside analogue*** for 3 months after HBsAg seroconversion or 6 months after HbeAg seroconversion
+- Acute hep C 
+	- Only 15-20 recovery
+	- More recovery's in 
+		- Jaundice
+		- Type 1 genotype
+		- Low HCV RNA
+		- Women 
+		- Early age infection
+		- HBV coinfection
+		- Absent drug abuse 
+	- Now waiting for spontaneous recovery is not advised 
+	- Advised treating with any one of 4 approved regimens for 8-12 weeks 
