@@ -290,3 +290,16 @@
 	- Bridging or multilobular necrosis on liver biopsy 
 	- Failure of aminotransferase, bilirubin, globulin to return to normal
 	- Persistence of HbeAg >3months or HBsAg for >6 months after acute hepatitis
+- HDV ***does not increase risk of chronicity but increase severity***
+- Acute HCV
+	- Risk of chronic is 85-90 
+	- Cirrhosis in 20% in 10-20 years 
+	- Annual risk of decompensation is 4% 
+	- Progress of chronic HCV by 
+		- Advanced age at infection
+		- Long-standing infection
+		- Immunosuppression
+		- Alcohol use 
+		- Hepatitis coinfection
+		- HIV coinfection
+- HEV may cause chronic disease, HCC or cirrhosis in immunocompromised host 
