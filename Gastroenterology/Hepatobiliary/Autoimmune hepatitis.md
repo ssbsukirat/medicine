@@ -13,4 +13,14 @@
 	- HPE shoes cytotoxic T cells and plasma cells
 	- Circulating autoantibodis, RF, hyperglobulinemia common
 	- Associated with other autoimmune disease
-	- HLA B1,B8 
+	- HLA B1,B8 DR3 DR4 DRB1-0301 DRB1-0401 
+	- Response to glucocorticoid therapy 
+- Cellular toxicity predominant (CD4) t cells 
+	- Molecular mimicry
+	- Immunoregulatory control abnormal (CD4-CD25 influence impaired) 
+- Antibodies
+	- ANA (homogeneous pattern) 
+	- Anti-smooth muscle (to actin, vimentin, skeletin) 
+	- Antibodies to F-actin 
+	- Anti-LKM 
+	- Soluble liver antigen antibodies (against UGA transfer RNA suppressor protein)
