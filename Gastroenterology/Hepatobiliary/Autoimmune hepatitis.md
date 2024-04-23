@@ -19,8 +19,8 @@
 	- Molecular mimicry
 	- Immunoregulatory control abnormal (CD4-CD25 influence impaired) 
 - Antibodies
-	- ANA (homogeneous pattern) 
-	- Anti-smooth muscle (to actin, vimentin, skeletin) 
+	- ANA (homogeneous pattern) most common
+	- Anti-smooth muscle (to actin, vimentin, skeletin) less specific
 	- Antibodies to F-actin 
 	- Anti-LKM 
 	- Soluble liver antigen antibodies (against UGA transfer RNA suppressor protein)
@@ -61,4 +61,20 @@
 	- May have normal LFT 
 	- Severe have bilirubin 3-10 
 	- Hypoalbuminemia
-	- [ ] ALP moderately high or normal while some have very high
+	- ALP moderately high or normal while some have very high 
+- Polyclonal hypergammaglobulinemia (2.5 or more) and RF positive common
+- Type 1 
+	- classic 
+	- Young women
+	- Marked hyperglobulinemia, lupoid
+	- ANA HLA DR3 or DR4 
+	- Actin and pANCA antibodies 
+	- Some maybe LKM and ANA negative 
+- Type 2 
+	- HLA DRB1- DQB1 
+	- Anti LKM1 
+		- Anti LKM2 in drug induced hepatitis
+		- LKM3 in UDP glucoronyltransferase 
+- Histology
+	- Similar to chronic viral hepatitis
+	- Interface or piecemeal
