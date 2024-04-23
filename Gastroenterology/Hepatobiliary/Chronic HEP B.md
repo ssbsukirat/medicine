@@ -11,6 +11,7 @@
 		- Detectable intrahepatocyte nucleocapsid antigen (HbcAg)
 		- High infectivity
 		- Higher liver injury
+		- May not always correlate with injury like in childhood acquired HBV there is some tolerance but later in life tolerance reduces and reactivation may occur 
 	- nonreplicative phase
 		- Absent HbeAg
 		- Anti-hbe
@@ -18,4 +19,5 @@
 		- Absent intrahepatocyte HbcAg
 		- Low infectivity
 		- Minimal liver injury
+		- 
 
