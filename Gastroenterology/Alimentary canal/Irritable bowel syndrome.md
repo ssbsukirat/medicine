@@ -17,4 +17,26 @@
 - Women 2x diagnosed
 - Pain should be associated with defecation or onset associated with changed in frequency or form 
 - Discomfort is no longer a criteria 
-- Painless diarrhea or constipation is not 
+- Painless diarrhea or constipation is not IBS 
+## abdominal pain
+- Prerequisites
+- Episodic and crampy 
+- Superimposed on background of ache 
+- Ignored or may interfere with daily activities
+- Malnutrition is rare 
+- Sleep deprivation rare as pain in daytime 
+- Exacerbated by eating or emotional stress and improved by flatus or stool passage 
+- May worsen in menstrual or premenstrual phase 
+## altered bowel habits 
+- altered bowel habits consistent feature
+- Constipation alternating with diarrhea and one of them predominant
+- Initially constipation is eisodic but later refractory to laxatives 
+- Hard stool with narrow calibre due to excessive dehydration due to colonic spasm and retention
+- Incomplete evacuation
+- Diarrhea usually small volume <200ml 
+- No nocturnal diarrhea but maybe aggravated by stress or eating
+- Bleeding does not happen unless hemorrhoids
+- Subtypes of predominance may change 
+
+## gas and flatulence
+- Abdominal distention, 
