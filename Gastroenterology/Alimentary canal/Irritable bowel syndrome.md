@@ -1,0 +1,20 @@
+- functional bowel disorder
+- Abdominal pain, discomfort, altered bowel habits in the absence of structural defects
+- Diagnosis depends on clinical presentation
+- Rome IV latest criteria
+	- Recurrent abdominal pain on average 1/week for past 3 months with >_2 
+		- Related to defecation
+		- Associated with changed frequency of stool 
+		- Change in form of stool 
+	- Criteria fulfilled in last 3 months but symptoms onset atleast 6 months before diagnosis
+- Symptoms on off and associated with functional disorders like 
+	- Fibromyalgia
+	- Headache
+	- Backache
+	- Genitourinary symptoms
+# clinical features
+- all ages but first symptom usually<45 
+- Women 2x diagnosed
+- Pain should be associated with defecation or onset associated with changed in frequency or form 
+- Discomfort is no longer a criteria 
+- Painless diarrhea or constipation is not 
