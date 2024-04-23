@@ -136,3 +136,16 @@
 	- Azathioprine alone not much use 
 - Therapy effective in severe disease 
 - Not indicated for mild chronic hepatitis 
+- Histological improvement may take 6-24 months 
+- Continue therapy for 12-18 months 
+- Continue azathioprine 2mg/kg weight daily after stopping Prednisone reduces relapse
+- Refractory
+	- High dose glucocorticoid monotherapy (60mg Daily) 
+	- 30mg glucocorticoid with 150mg azathioprine daily
+	- after 1 month taper by 10mg/month Prednisone and 50mg/month azathioprine to normal doses 
+	- If still no response cyclosporine, tacrolimus, MMF 
+	- Infliximab (Anti tnf) and rituximab (cd20 ab) 
+	- If no response of bilirubin in 2 weeks consider early liver transplantation
+- Hep A and B vaccine before treatment starts 
+- USG screening for HCC every 6 months 
+- 
