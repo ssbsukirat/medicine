@@ -94,4 +94,31 @@
 	- Alcohol
 - Include 
 	- Hyperglobulinemia
-	- 
+	- Autoantibodies
+	- Histology 
+- Weighing in favour
+	- Female 
+	- Aminotransferase elevation
+	- Hyperglobulinemia
+	- ANA, smooth muscle or lkm1 abs 
+	- Other autoimmune disease
+	- Histology
+	- HLA DR3 DR4 
+- Against
+	- ALP predominant
+	- Mitochondrial abs 
+	- Viral hepatitis
+	- Drugs or alcohol
+	- Bile duct injury
+# differential 
+- May resemble acute viral hepatitis at onset 
+- Severe vs mild chronic only on histology
+- Wilson's may present with CLD before neurological or KF rings develop 
+	- Serum copper and urinary copper 
+	- Serum ceruloplasmin 
+	- Liver copper level
+- Postnecrotic / cryptogenic cirrhosis and PBC 
+- Alcohol and non-alcoholic hepatitis may present 
+- Extrahepatic manifestation may confuse with rheumatologic disease
+- Budd Chiari rarely
+- Post immune ch
