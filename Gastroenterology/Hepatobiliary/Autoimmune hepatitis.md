@@ -77,4 +77,21 @@
 		- LKM3 in UDP glucoronyltransferase 
 - Histology
 	- Similar to chronic viral hepatitis
-	- Interface or piecemeal
+	- Interface or piecemeal necrosis
+		- Expanding portal tracts 
+		- Extension beyond periportal hepatocyte to parenchyma 
+		- Mononuclear
+		- Plasma cells
+	- regeneration
+		- Rosette formation 
+		- Pseudo lobules 
+		- Thickened plates
+# diagnostic criteria
+- Exclude liver disease by 
+	- Genetic
+	- Viral 
+	- Drug induced
+	- Alcohol
+- Include 
+	- Hyperglobulinemia
+	- 
