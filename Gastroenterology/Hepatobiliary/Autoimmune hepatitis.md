@@ -24,3 +24,22 @@
 	- Antibodies to F-actin 
 	- Anti-LKM 
 	- Soluble liver antigen antibodies (against UGA transfer RNA suppressor protein)
+	- Alpha actinin 
+	- Hepatic lectin 
+- Humoral immunity role in extrahepatic manifestation
+	- Arthralgia arthritis
+	- Cutaneous vasculitis
+	- Glomerulonephritis
+	- By deposit of circulating immune complex 
+# clinical features
+-  acute or insidious
+- May mimic acute viral hepatitis
+- Upto 1/4 may have no symptoms but abnormal liver function tests
+- Lupoid hepatitis
+	- Middle aged or young women 
+	- High ANA titres 
+	- Hyperglobulinemia
+	- Positive SLE preparations
+	- Fatigue, malaise, arthralgia, anorexia, amenorrhea, acne, jaundice 
+	- Arthritis, maculopapular eruptions, erythema nodosum, colitis, pleuritis, pericarditis, Anemia azotemia occasionally
+	- Keratoconjunctivitis, xerostomia (AKA SICCA SYNDROME) occasionally
