@@ -148,4 +148,4 @@
 	- If no response of bilirubin in 2 weeks consider early liver transplantation
 - Hep A and B vaccine before treatment starts 
 - USG screening for HCC every 6 months 
-- 
+- Varices screening by EGD every 1-3 years 
