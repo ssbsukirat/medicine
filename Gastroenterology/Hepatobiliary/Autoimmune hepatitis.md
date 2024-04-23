@@ -43,3 +43,22 @@
 	- Fatigue, malaise, arthralgia, anorexia, amenorrhea, acne, jaundice 
 	- Arthritis, maculopapular eruptions, erythema nodosum, colitis, pleuritis, pericarditis, Anemia azotemia occasionally
 	- Keratoconjunctivitis, xerostomia (AKA SICCA SYNDROME) occasionally
+- Variable course
+	- Limited progress
+		- Mild disease
+		- Limited histological lesion (Piecemeal necrosis without bridging)
+		- Clinical monitoring necessary
+	- Severe symptomatic
+		- Aminotransferase>10 times upper limit
+		- Marked hyperbilirubinemia
+		- Aggressive histology (bridging necrosis or multilobular collapse or cirrhosis) 
+	- Poor prognosis
+		- Bilirubin not responding after 2 weeks 
+		- Multilobular collapse
+- Laboratory features
+	- Similar to chronic viral 
+	- LFT abnormal but no correlation to severity
+	- May have normal LFT 
+	- Severe have bilirubin 3-10 
+	- Hypoalbuminemia
+	- [ ] ALP moderately high or normal while some have very high
