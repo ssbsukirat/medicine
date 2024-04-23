@@ -31,5 +31,11 @@
 	- Jaundice
 		- Common in severe or advanced
 	- Intermittent worsening of jaundice with maalise and anorexia similar to acute hepatitis with reactivation and may cause decompensation
-	- Extrahepatic manifestation similar to acute hep B [[Acute Viral Hepatitis]]
+	- Extrahepatic manifestation similar to acute hep B [[Acute Viral Hepatitis#hepatitis B]] 
+	- Modest AST ALT elevation with ALT more 
+	- ALP only mildly elevated or normal 
+	- ***Hypoalbuminemia and prolonged PT in severe or end stage***
+	- ***Hyperglobulinemia and autoantibodies absent in HBV***
+# treatment
+- 
 
