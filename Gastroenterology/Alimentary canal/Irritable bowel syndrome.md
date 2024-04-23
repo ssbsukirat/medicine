@@ -39,4 +39,17 @@
 - Subtypes of predominance may change 
 
 ## gas and flatulence
-- Abdominal distention, 
+- Abdominal distention, increased belching or flatulence 
+- Gas is normal level but attributed to gas 
+- Impaired tolerance and transit of gas load
+- Reflux of gas from distal to proximal intestine causing belching 
+## upper GI symptoms
+-  dyspepsia, nausea, heartburn, vomiting
+- High abnormalities in waking up period but nocturnal normal 
+- Dyspepsia IBS overlap is great 
+- Functional dyspepsia and IBS maybe manifestation of same extensive GI tract disorder
+# Pathophysiology 
+## GI motor abnormalities
+- Unstimulated conditions normal 
+- Under stimulated condition, motor abnormalities present 
+- Increased rectosigmoid activity upto 3h after eating
