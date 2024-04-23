@@ -19,5 +19,17 @@
 		- Absent intrahepatocyte HbcAg
 		- Low infectivity
 		- Minimal liver injury
-		- 
+- HbeAg non reactive
+	- Core or precore mutant
+	- Activity correlate to HBV DNA levels 
+	- Easier to suppress DNA levels 
+	- Sustained response difficult to achieve
+- Clinical spectrum
+	- Fatigue
+		- Common 
+		- Persistent 
+	- Jaundice
+		- Common in severe or advanced
+	- Intermittent worsening of jaundice with maalise and anorexia similar to acute hepatitis with reactivation and may cause decompensation
+	- Extrahepatic manifestation similar to acute hep B [[Acute Viral Hepatitis]]
 
