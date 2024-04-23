@@ -121,4 +121,18 @@
 - Alcohol and non-alcoholic hepatitis may present 
 - Extrahepatic manifestation may confuse with rheumatologic disease
 - Budd Chiari rarely
-- Post immune ch
+- Post immune checkpoint inhibitors therapy hepatitis is similar and respond to glucocorticoid
+# Treatment
+- Glucocorticoids response in 80% 
+- Prednisone or prednisolone both effective (prednisolone is hepatic metabolite of Prednisone but Harrison recommend Prednisone)
+- Initiate with 60mg/day (can give 20mg also)
+- Taper over a month to 20mg/day 
+- Alternative
+	- Half Prednisone (30mg) and azathioprine (50mg)
+	- Maintain azathioprine same dose 
+	- Taper Prednisone to 10mg/day 
+	- Reduced glucocorticoid side effects
+	- S-methyltransferase levels not needed 
+	- Azathioprine alone not much use 
+- Therapy effective in severe disease 
+- Not indicated for mild chronic hepatitis 
