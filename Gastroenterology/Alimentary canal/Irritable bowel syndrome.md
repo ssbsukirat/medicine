@@ -99,3 +99,6 @@
 - Abnormal H2 breath test (false positive) due to rapid small bowel transit 
 - Increase ratio of fecal Firmicutes to bacteroides
 - Diversity of microbiome reduced
+- Increased instability of gut flora 
+- Decreased Bifidobacterium and Feacalibacterium (butyrate producing and anti-inflammatory) 
+- Higher enterobacteriacae (proteobacteria), Lactobacillacae and Bacteroides 
