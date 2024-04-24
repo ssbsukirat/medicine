@@ -161,4 +161,15 @@
 	- delays gut transit 
 	- motor inhibitory effect 
 - no improve in IBS-C patients 
-- effect 
+- effect independent of treating depression 
+- SSRIs (paroxetine) increase orocecal transit so maybe useful in IBS-C
+- Citalopram (SSRI) limited effect in reducing pain 
+## Anti-flatulence 
+- gas management rarely satisfactory 
+- avoid chewing gum or carbonated beverages 
+- eat slowly 
+- bloating may improve with IBS or constipation treatment 
+- dietary exclusion trial if 
+	- If bloating is accompanied by diarrhea 
+	- and worsens after ingesting dairy products, fresh fruits, vegetables, or juices
+- 
