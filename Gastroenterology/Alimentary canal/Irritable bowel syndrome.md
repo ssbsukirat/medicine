@@ -117,3 +117,18 @@
 	- progressive course 
 	- persistent diarrhea after 48h fast 
 	- nocturnal diarrhea 
+- do from harrison 
+# Treatment 
+## Patient counselling and Diet 
+- avoid obvious precipitants 
+- meticulously diet history for coffee, disaccharide , legumes, cabbage 
+- fructose , sorbitol , mannitol 
+- elimination trial 
+- low FODMAPs diet 
+## Stool bulking agent 
+- high fiber diet 
+- bulk by bran or hydrophillic colloid 
+- slow transit time in diarrhea  (increases normally )
+- binds water so avoid excess hydration or dehydration of stool 
+- fiber improves visceral afferent function 
+- may produce variable results 
