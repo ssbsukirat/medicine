@@ -206,4 +206,11 @@
 	- IBS-C 
 - Tenapanor GI Na-H exchange -3 inhibition 50mg BD 
 ## Osmotic laxative 
+- osmotics
+	- magnesium citrate based 
+	- sodium phosphate based (hyperphosphatemia , hypocalcemia, hypokalemia )
+	- non absorbable carbs 
+- PEG (polyethylene glycol) is isotonic and causes high volume lavage 
+- MgOH may cause hypermagnesemia in renal impaired 
+## Modulate gut flora 
 - 
