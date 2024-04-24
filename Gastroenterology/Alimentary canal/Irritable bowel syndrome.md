@@ -107,4 +107,13 @@
 - higher postprandial serotonin 
 - functional TPH1 (tryptophan hydroxylase rate limiting step) polymorphism 
 - gut microbes promote colonic serotonin production 
-- downregulation of SERT expression (mucosal serotonin reuptake rt)
+- downregulation of SERT expression (mucosal serotonin reuptake transport )
+# Approach 
+- no pathognomic abnormalities 
+- relies on symptoms and excluding organic causes 
+- ROME IV criteria 
+- do not consider if 
+	- first presentation in old age 
+	- progressive course 
+	- persistent diarrhea after 48h fast 
+	- nocturnal diarrhea 
