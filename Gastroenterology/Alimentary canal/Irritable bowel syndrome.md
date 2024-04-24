@@ -147,4 +147,18 @@
 - peppermint oil helps but mechanism unknown 
 ## Anti-diarrheal 
 - ***peripheral acting opiate based agents initial therapy of choice*** for IBS-D
-- 
+- in severe diarrhea , painless especially 
+	- loperamide 
+	- 2-4mg every 4-6h 
+	- upto 12mg/day 
+	- less addictive 
+	- effective when taken before anticipated stress events 
+- intestines do not become tolerant to effect of opiods so increasing doses usually not required 
+- cholestyramine also useful 
+## Antidepressants 
+- TCAs (imipramine) in IBS-D 
+	- slows jejunal MMCs 
+	- delays gut transit 
+	- motor inhibitory effect 
+- no improve in IBS-C patients 
+- effect 
