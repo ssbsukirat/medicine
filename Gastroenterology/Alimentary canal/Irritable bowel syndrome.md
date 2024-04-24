@@ -52,4 +52,11 @@
 ## GI motor abnormalities
 - Unstimulated conditions normal 
 - Under stimulated condition, motor abnormalities present 
-- Increased rectosigmoid activity upto 3h after eating
+- Increased rectosigmoid activity upto 3h after eating  
+- Transverse descending and sigmoid colon have ***High motility index and peak amplitude of HAPCs*** (high amplitude propagating contractions)
+## visceral hypersensitivity
+- exaggerated sensory response to visceral stimulation 
+- Food intolerance 2x more common than general population
+- Prolonged fasting improves symptoms
+- Visceral afferent dysfunction produce pain at lower distension pressure
+- Lipids lower the threshold for gas, discomfort and pain sensation in IBS 
