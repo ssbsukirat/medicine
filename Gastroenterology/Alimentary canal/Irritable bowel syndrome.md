@@ -101,4 +101,8 @@
 - Diversity of microbiome reduced
 - Increased instability of gut flora 
 - Decreased Bifidobacterium and Feacalibacterium (butyrate producing and anti-inflammatory) 
-- Higher enterobacteriacae (proteobacteria), Lactobacillacae and Bacteroides 
+- Higher enterobacteriacae (proteobacteria causes lipopolysaccharide induced mucosal inflammation ), Lactobacillacae and Bacteroides 
+## Altered Serotonin Pathway 
+- serotonin-containing enterochromaffin cells in the colon are increased in IBS-D 
+- higher postprandial serotonin 
+- functional TPH1 (tryptophan hydroxylase)
