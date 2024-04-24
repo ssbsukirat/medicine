@@ -68,4 +68,22 @@
 ## Abnormal psychology
 - in 80% 
 - Exaggerated response to visceral stimulation persists even after excluding psychological factors 
-- Influence
+- Influence pain threshold
+- Abuse is associated with more pain reporting, distress and poor outcome
+- Greater Activation of affect processing area (***posterior and middle dorsal cingulate gyrus***)
+## Postinfectious IBS 
+- gi infection predisposes 
+- More in females and younger 
+- Risk factors
+	- Prolonged duration of illness
+	- Toxicity of bacterial strains - Campylobacter, Salmonella, Shigella 
+	- Smoking
+	- Mucosal markers 
+	- Female 
+	- Depression
+	- Hypochondriac 
+	- Adverse events in previous 3 month's 
+	- Antibiotic use 
+## Immunr activation and Mucosal Inflammation
+- Persistent low grade Inflammation with activated lymphos, mast cells, proinflammatory cytokines 
+- IL
