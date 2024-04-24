@@ -200,4 +200,10 @@
 	- IBS-C 
 - Linaclotide and plecanatide 
 	- minimally absorbed 
-	- 14 AA peptide 
+	- 14 AA peptide Guanylate cyclase-C agonist (GC-C)
+	- activate GC-C on luminal surface 
+	- activation of CFTR and fluid secretion 
+	- IBS-C 
+- Tenapanor GI Na-H exchange -3 inhibition 50mg BD 
+## Osmotic laxative 
+- 
