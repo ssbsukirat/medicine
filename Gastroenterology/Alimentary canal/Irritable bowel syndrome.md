@@ -172,4 +172,24 @@
 - dietary exclusion trial if 
 	- If bloating is accompanied by diarrhea 
 	- and worsens after ingesting dairy products, fresh fruits, vegetables, or juices
-- 
+- low FODMAP 
+- Simethicone usefulness doubtful 
+- Beano (oral beta-glycosidase ) reduces rectal gas passage 
+- Pancreatic enzymes 
+## Serotonin Receptor modulators 
+- 5-HT3 and 5-HT4 in GI 
+- Prucalopride 
+	- dihydrobenzo-furancarboxamide derivative, is 
+	- a new selective agonist of 5-HT4.
+	- chronic constipation 
+	- side effects of headache nausea diarrhea 
+	- no CVS side effects  (present with 5-HT4 agonist Tegaserod)
+- Tegaserod 
+	- 5-HT4 agonist 
+	- prokinetics 
+	- improve constipation and bloating 
+	- voluntary withdrawal due to CVS side effects 
+## Secretagogue 
+- Lubiprostone, linaclotide, and plecanatide 
+- net efflux of ions and water into intestinal lumen 
+- increase ch
