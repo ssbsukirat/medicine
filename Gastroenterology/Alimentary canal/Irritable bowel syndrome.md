@@ -105,4 +105,6 @@
 ## Altered Serotonin Pathway 
 - serotonin-containing enterochromaffin cells in the colon are increased in IBS-D 
 - higher postprandial serotonin 
-- functional TPH1 (tryptophan hydroxylase)
+- functional TPH1 (tryptophan hydroxylase rate limiting step) polymorphism 
+- gut microbes promote colonic serotonin production 
+- downregulation of SERT expression (mucosal serotonin reuptake rt)
