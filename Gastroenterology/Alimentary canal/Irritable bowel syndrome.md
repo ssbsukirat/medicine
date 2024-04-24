@@ -57,6 +57,15 @@
 ## visceral hypersensitivity
 - exaggerated sensory response to visceral stimulation 
 - Food intolerance 2x more common than general population
-- Prolonged fasting improves symptoms
-- Visceral afferent dysfunction produce pain at lower distension pressure
-- Lipids lower the threshold for gas, discomfort and pain sensation in IBS 
+- ***Prolonged fasting improves symptoms***
+- Visceral afferent dysfunction produce pain at lower distension pressure (***only visceral with somatic sparing)***
+- ***Lipids lower the threshold*** for gas, discomfort and pain sensation in IBS 
+- Increased sensitivity only in gut not in other parts
+## CNS dysregulation 
+- Associated with emotional disorders and stress 
+- ***Mid-cingulate cortex*** (attention and response selection) activated more in IBS patients 
+- Preferential activation of ***prefrontal lobe*** involved with more alertness 
+## Abnormal psychology
+- in 80% 
+- Exaggerated response to visceral stimulation persists even after excluding psychological factors 
+- Influence
