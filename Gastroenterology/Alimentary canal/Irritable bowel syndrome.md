@@ -192,4 +192,4 @@
 ## Secretagogue 
 - Lubiprostone, linaclotide, and plecanatide 
 - net efflux of ions and water into intestinal lumen 
-- increase ch
+- increase chloride secretion by apical surface channel activation 
