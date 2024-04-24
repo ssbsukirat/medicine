@@ -192,4 +192,12 @@
 ## Secretagogue 
 - Lubiprostone, linaclotide, and plecanatide 
 - net efflux of ions and water into intestinal lumen 
-- increase chloride secretion by apical surface channel activation 
+- increase chloride secretion by apical surface channel activation which also causes Na secretion and h20 secretion 
+- Lubiprostone 
+	- bicyclic fatty acid derivative of PGE1 
+	- type 3 Cl channel activation 
+	- oral 24mg bd 
+	- IBS-C 
+- Linaclotide and plecanatide 
+	- minimally absorbed 
+	- 14 AA peptide 
