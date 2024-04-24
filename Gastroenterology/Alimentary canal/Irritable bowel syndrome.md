@@ -88,3 +88,6 @@
 - Persistent low grade Inflammation with activated lymphos, mast cells, proinflammatory cytokines 
 - IL 6, 1B TNF 
 - Abnormal epithelial secretion and visceral hypersensitivity 
+- Mast cell activation in colonic mucosa -- proximity to submucosal nerve fibres correlate to frequency and severity of pain
+- TRP (Transient receptor potential channels) like TRP1 Vanilloid receptor initiates and maintaining visceral hypersensitivity
+- 
