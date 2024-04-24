@@ -224,4 +224,11 @@
 	- live microbes 
 	- significant pain and bloating relief 
 	- bifidobacterium breve, bifidobacterium longum, lactobacillus acidophilus 
-	- no chm
+	- no change in stool frequency or consistency 
+- Low FODMAP Diet 
+	- FODMAP triggers symptoms 
+	- poor absorbable and high fermentation 
+	- growth of gram negative commensals 
+	- low FODMAP reduces symptoms 
+	- many recommended as first line therapy 
+![[IBSsummary.png]]
