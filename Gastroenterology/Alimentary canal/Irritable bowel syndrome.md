@@ -86,4 +86,5 @@
 	- Antibiotic use 
 ## Immunr activation and Mucosal Inflammation
 - Persistent low grade Inflammation with activated lymphos, mast cells, proinflammatory cytokines 
-- IL
+- IL 6, 1B TNF 
+- Abnormal epithelial secretion and visceral hypersensitivity 
