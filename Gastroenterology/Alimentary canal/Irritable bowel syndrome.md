@@ -213,4 +213,15 @@
 - PEG (polyethylene glycol) is isotonic and causes high volume lavage 
 - MgOH may cause hypermagnesemia in renal impaired 
 ## Modulate gut flora 
-- 
+- antibiotics 
+	- neomycin 500 BD for 10 days 
+	- Rifaximin 550 BD 2 weeks for global symptoms and bloating 
+- Prebiotics 
+	- non digestible food ingredients 
+	- stimulate bacterial growth or activity 
+	- worsened or did not improve in 3/4 studies 
+- Probiotics 
+	- live microbes 
+	- significant pain and bloating relief 
+	- bifidobacterium breve, bifidobacterium longum, lactobacillus acidophilus 
+	- no chm
