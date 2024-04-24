@@ -132,3 +132,14 @@
 - binds water so avoid excess hydration or dehydration of stool 
 - fiber improves visceral afferent function 
 - may produce variable results 
+- poor response in diarrhea predominant or pain predominant IBS 
+- start at low dose and titrate to 20-30g/day over weeks 
+## Antispasmodics 
+- anticholinergic drugs for painful cramps 
+- inhibit gastrocolic reflex so best given 30min before meals 
+- most contain belladona alkaloids , side effects 
+	- xerostomia
+	- urinary hesitancy and retention 
+	- blurred vision 
+	- drowsiness 
+- peppermint oil helps but mechanism unknown 
