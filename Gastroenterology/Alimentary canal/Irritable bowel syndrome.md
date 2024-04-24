@@ -89,5 +89,13 @@
 - IL 6, 1B TNF 
 - Abnormal epithelial secretion and visceral hypersensitivity 
 - Mast cell activation in colonic mucosa -- proximity to submucosal nerve fibres correlate to frequency and severity of pain
-- TRP (Transient receptor potential channels) like TRP1 Vanilloid receptor initiates and maintaining visceral hypersensitivity
-- 
+- TRP (Transient receptor potential channels) like TRPV1 Vanilloid receptor initiates and maintaining visceral hypersensitivity
+- increased TRPV1 expression in enteric nervous system 
+- Increased intestinal permeability
+- Higher FBDSI score (functional bowel disorder severity index) 
+
+## altered gut flora 
+- small intestinal Bacterial overgrowth prevalence is plus minus on studies 
+- Abnormal H2 breath test (false positive) due to rapid small bowel transit 
+- Increase ratio of fecal Firmicutes to bacteroides
+- Diversity of microbiome reduced
