@@ -142,4 +142,9 @@
 	- urinary hesitancy and retention 
 	- blurred vision 
 	- drowsiness 
+	- avoid in elderly 
+- synthetics like dicyclomine have less side effects 
 - peppermint oil helps but mechanism unknown 
+## Anti-diarrheal 
+- ***peripheral acting opiate based agents initial therapy of choice*** for IBS-D
+- 
