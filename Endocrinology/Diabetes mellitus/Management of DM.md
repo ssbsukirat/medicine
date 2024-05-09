@@ -567,3 +567,12 @@
 * Insulin at bedtime or morning maybe used with OHAs 
 * Later prandial cover is also required as DM progressive
 * Some patients can use infusion devices
+
+### Choice of initial therapy
+- influenced by hyperglycemia and individual goal
+- In hyperglycemia
+	- Mild (FPG 126-199) single oral agent 
+	- Moderate (FPG 200-250) >1 oral agents or insulin 
+	- Serve (FPG >250) unlikely to be controlled on orals 
+- Insulin as initial therapy if FPG 250-300 or symptomatic hyperglycemia 
+- 
