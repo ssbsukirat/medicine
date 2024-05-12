@@ -567,3 +567,20 @@
 * Insulin at bedtime or morning maybe used with OHAs 
 * Later prandial cover is also required as DM progressive
 * Some patients can use infusion devices
+
+### Choice of initial therapy
+- influenced by hyperglycemia and individual goal
+- In hyperglycemia
+	- Mild (FPG 126-199) single oral agent 
+	- Moderate (FPG 200-250) >1 oral agents or insulin 
+	- Serve (FPG >250) unlikely to be controlled on orals 
+- Insulin as initial therapy if FPG 250-300 or symptomatic hyperglycemia 
+- Initial insulin therapy reduces ***GLUCOSE toxicity***, improves endogenous insulin production and allows orals to be effective so it can be discontinued later 
+- Monotherapy approved with 
+	- Secretagogue
+	- Alpha glucosidase inhibitors
+	- Thiazolidinediones 
+	- GLP 1 agonist
+	- DPP 4 inhibitors
+	- sglt2 inhibitors
+	- Insulin
