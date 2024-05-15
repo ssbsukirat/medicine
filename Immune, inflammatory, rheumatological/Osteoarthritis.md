@@ -28,4 +28,17 @@
 # Definition 
 - Joint failure , a disease where all structure of joint have undergone pathological change, often in concert 
 - pathological sine qua non is ***hyaline cartilage loss, FOCAL and initially NON-UNIFORM*** 
-- 
+- increased thickness and sclerosis of subchondral bony plate by 
+	- osteophyte outgrowth at joint margin 
+	- stretching of capsules 
+	- synovitis variable 
+	- weakness of bridging muscles of joint 
+- meniscal degeneration in knees 
+- pathway is major joint injury in absence of protective mechanism 
+# Protective measure and failure 
+- joint capsule and ligaments 
+	- limit excursion 
+	- fix range of motion 
+- muscle, sensory afferent and bone 
+- synovial fluid 
+	- reduces friction in articulat
