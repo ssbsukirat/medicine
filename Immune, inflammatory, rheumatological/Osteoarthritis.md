@@ -225,3 +225,10 @@
 	- ***buckling , catching or locking from internal derangements also (ACL or miniscal tear)***
 	- to be evaluated if after acute injury 
 	- pain on flexion from ***patellofemoral*** component usually after 35 degree bending 
+	- most common cause of chronic knee pain in >45 age but differential 
+		- Inflammatory arthritis if prolonged morning stiffness and many joints involved 
+		- Bursitis around hips knees 
+		- Anserine bursitis medial and distal to knee responds to glucocorticoid injection 
+		- nocturnal pain without end-stage OA needs workup 
+- No blood tests routinely advised unless inflammatory arthritis suspected 
+- Joint aspiration better than X-ray 
