@@ -146,3 +146,6 @@
 	- ***no associated OA with exercise*** 
 	- in prior injury , exercise may increase risk 
 	- elite runners more risk than nonrunners 
+# Pathology 
+- many joint structure involved 
+- 
