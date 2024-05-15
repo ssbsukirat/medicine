@@ -62,4 +62,16 @@
 		- proteoglycan linked to hyaluronic acid 
 		- highly negative glucosaminoglycans 
 	- type 2 woven tight , constrains aggrecan , fixing negative charge in close proximity 
-	- ***repulsion of negative charges give cartilage compressive stiffness***  
+	- ***repulsion of negative charges give cartilage compressive stiffness*** 
+- Chondrocytes 
+	- cells in avascular tissue 
+	- synthesise all elements of matrix and enzymes of breakdown 
+	- balance between matrix synthesis and breakdown is dynamic and influenced by cytokines and growth factor 
+	- MMPs (matrix metalloproteinases ) and ADAMTS-5 for breakdown 
+
+- Local inflammation 
+	- accelerates development and progress of OA 
+	- if present more likely OA joint is painful 
+	- some induced by mechanical stimuli (***Mechanoinflammation***)
+	- Matrix component from cartilage cause ***Synovitis*** 
+	- 
