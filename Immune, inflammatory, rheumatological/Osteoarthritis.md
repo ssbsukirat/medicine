@@ -85,4 +85,19 @@
 - Gradual depletion of Aggrecan with age, unfurling of matrix and loss of type 2 collagen 
 # Risk Factors 
 - Joint vulnerability and Loading major factors 
-- old joint vulnerable with small inju
+- old joint vulnerable with small injury 
+- young joint with intact defences requires major acute injury or long-term overloading to precipitate OA 
+## Systemic factors 
+- Age 
+	- Dynamic loading increase matrix synthesis in young but dimnished in elderly 
+	- cartilage thins with age and has higher Shear stress and risk of damage 
+	- protectors fail more with age 
+	- muscles weaker and slow to respond 
+	- sensory loops slow with age 
+	- ligaments stretch so make it less able to absorb 
+- women due to maybe hormone loss but unclear why 
+## Heritable and genetics 
+- joint specific heritability 
+- hand and hip 50% is heritable 
+- "generalised OA" age related not inheritable 
+- GDF5 (growth differentiation factor 5) polymorphism involved (by alterin)
