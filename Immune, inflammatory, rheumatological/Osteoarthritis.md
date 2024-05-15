@@ -82,4 +82,7 @@
 	- angiogenesis causes nerve growth which have nociceptor innervation
 - With aging, matrix synthesis decreased but proinflammatory mediators and matrix degrade (***Senescent secretory phenotype*** )
 - Aging cartilage less resistant to injury 
-- Gradual depletion of Aggrecan with age, unfurling
+- Gradual depletion of Aggrecan with age, unfurling of matrix and loss of type 2 collagen 
+# Risk Factors 
+- Joint vulnerability and Loading major factors 
+- old joint vulnerable with small inju
