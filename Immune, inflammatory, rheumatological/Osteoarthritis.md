@@ -161,3 +161,12 @@
 	- subchondral 
 	- due to cartilage loss 
 	- osteoclast and osteoblast activation due to growth factors and cytokines 
+	- thickening of subchondral plate even before cartilage ulceration 
+	- trauma during loading causes this 
+	- healing from injury or microcracks inducing remodeling 
+	- osteonecrosis may occur in advance disease 
+	- bone death due to cutoff vascular supply with shearing of microvasculature 
+- Osteophyte 
+	- margin of joint 
+	- near point of cartilage loss 
+	- outgrowth of new cartilage 
