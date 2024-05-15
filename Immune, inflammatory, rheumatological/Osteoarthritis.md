@@ -40,5 +40,14 @@
 	- limit excursion 
 	- fix range of motion 
 - muscle, sensory afferent and bone 
+	- muscle absorbs focal stress before impact preventing injury 
 - synovial fluid 
-	- reduces friction in articulat
+	- reduces friction in articulating cartilage surface 
+	- protects from friction induced wear 
+	- ***hyaluronic acid and lubricin involved*** 
+	- lubricin is mucinous glycoprotein, reduces after injury and inflammation 
+- mechanoreceptor sensory nerves  
+	- ligamens, skin tendons 
+	- different frequency at different range of motion 
+	- feedback through spinal cord 
+	- anticipated joint loading and prevent excursions 
