@@ -222,4 +222,6 @@
 	- ***morning stiffness <30 min***
 - Knees 
 	- Buckling from weakness of muscles 
-	- buckling , catchoi
+	- ***buckling , catching or locking from internal derangements also (ACL or miniscal tear)***
+	- to be evaluated if after acute injury 
+	- pain on flexion from ***patellofemoral*** component usually after 35 degree bending 
