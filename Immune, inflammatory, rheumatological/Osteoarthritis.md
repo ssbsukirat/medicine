@@ -250,4 +250,11 @@
 	- self management 
 - Ongoing disabling pain need physical and pharmacological 
 ## Physical management 
-
+- alter loading and improve function of joint protectors
+- reduce focal load 
+	- avoid painful activity that overload joint 
+	- strength and condition bridging muscles 
+	- unload by brace or splint or cane or crutch 
+- weight loss 
+- splinting in Hand OA 
+- weight bearing joints like knee or hip unload with ***cane in opposite hand*** 
