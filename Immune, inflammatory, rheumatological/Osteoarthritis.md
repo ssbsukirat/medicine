@@ -203,4 +203,11 @@
 	- bursae 
 	- anserine bursitis 
 	- iliotibial band syndrome 
-- 
+- more pain when nociceptor stimulated during weight bearing activity 
+- as progression, pain more constant and at rest 
+- Peripheral Sensitisation 
+	- alteration in Peripheral nociceptor 
+	- become more responsive to sensory input 
+- Central Sensitisation 
+	- increased facilitated central nociceptor signalling 
+- insufficient descending inhibitory modulation 
