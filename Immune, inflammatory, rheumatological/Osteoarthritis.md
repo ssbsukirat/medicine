@@ -129,4 +129,17 @@
 - weakness of quadriceps 
 ## loading factors 
 - Obesity 
+	- 3x-6x force in knee in single leg position 
+	- more in obesity 
+	- knee> hip OA 
+	- precedes OA but maybe consequence due to inactivity
+	- women > men 
+	- weight loss decreases risk 
+	- more pain in obese 
+- Repeated joint use 
+	- Occupational vs leisure activity 
+	- workers in jobs have higher risk 
+	- farmers ***hip OA*** 
+	- miner ***knee and spine OA*** 
+	- lifting or carrying or bending jobs have ***Knee OA***
 	- 
