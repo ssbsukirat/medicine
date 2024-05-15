@@ -1,0 +1,14 @@
+- most common arthritis 
+- high prevalence in elderly and high negative impact on function especially in elderly 
+- affected 
+	- hip 
+	- knee 
+	- 1st MTP 
+	- cervical and lumbosacral knee 
+	- DIP PIP 
+	- base of thumb 
+- spared 
+	- wrist 
+	- elbow 
+	- ankle 
+	- 
