@@ -123,3 +123,6 @@
 	- best studied in knee 
 	- Varus (bowlegged) knees have medial cartilage loss 
 	- Valgus (knock-kneed) have lateral cartilage loss 
+	- severe focal stress 
+	- marrow lesions in MRI 
+	- 
