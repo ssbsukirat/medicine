@@ -76,4 +76,10 @@
 	- Matrix component from cartilage cause ***Synovitis*** 
 	- IL-1B and TNF-α induce PG-E2 and NO from chondrocytes 
 	- early inflammation may cause matrix synthesis but net matrix degradation by cytokines 
-	- enzymes held in check by activation inhibitors like ***TIMP (tissue inhibitors of metalloproteinases )***
+	- enzymes held in check by activation inhibitors like ***TIMP (tissue inhibitors of metalloproteinases )*** 
+	- Growth factors like BMP-2 (Bone morphogenic protein ) and TGF-Beta stimulate osteophytes 
+	- healthy cartilage is avascular due to angiogenesis inhibitors but OA has ***vascular invasion*** from bone due to VEGF (vascular endothelial growth factor )
+	- angiogenesis causes nerve growth which have nociceptor innervation
+- With aging, matrix synthesis decreased but proinflammatory mediators and matrix degrade (***Senescent secretory phenotype*** )
+- Aging cartilage less resistant to injury 
+- Gradual depletion of Aggrecan with age, unfurling
