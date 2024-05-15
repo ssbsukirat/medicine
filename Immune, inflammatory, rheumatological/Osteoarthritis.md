@@ -100,4 +100,21 @@
 - joint specific heritability 
 - hand and hip 50% is heritable 
 - "generalised OA" age related not inheritable 
-- GDF5 (growth differentiation factor 5) polymorphism involved (by alterin)
+- GDF5 (growth differentiation factor 5) polymorphism involved (by altering joint shape)
+## Joint environment 
+- local 
+- uneven distribution of loading forces due to change in anatomy 
+- Hip congenital conditions leading to OA later in life 
+	- congenital dysplasia 
+	- Legg-Perthes disease 
+	- Slipped capital femoral epiphysis 
+- Femoroacetabular impingement
+	- adolescent 
+	- outgrowth of bone at femoral head/neck junction 
+	- during bone plate closure 
+	- abnormal contact during flexion and rotation 
+	- increase OA risk 
+- Major injury 
+	- fracture through surface 
+	- avascular necrosis 
+- Ligament or fibrocartilage 
