@@ -144,4 +144,5 @@
 	- lifting or carrying or bending jobs have ***Knee OA***
 	- muscles exhausted so dont protect 
 	- ***no associated OA with exercise*** 
-	- 
+	- in prior injury , exercise may increase risk 
+	- elite runners more risk than nonrunners 
