@@ -11,4 +11,11 @@
 	- wrist 
 	- elbow 
 	- ankle 
+- structural changes of OA are universal in elderly 
+	- cartilage loss -- seen as joint space loss in xray 
+	- osteophytes 
+- symptoms more important than structural anomaly 
+	- usually pain 
+	- 12% patients  >60 age 
+	- Hip OA 1/3 common as knee 
 	- 
