@@ -18,4 +18,14 @@
 	- usually pain 
 	- 12% patients  >60 age 
 	- Hip OA 1/3 common as knee 
-	- 
+	- Hand 
+		- radiographic OA and bony enlargement common 
+		- pain rare in hand 
+		- painful in 10% elderly 
+		- limitation in function 
+- uncommon <40 and very common >60 
+- women > men 
+# Definition 
+- Joint failure , a disease where all structure of joint have undergone pathological change, often in concert 
+- pathological sine qua non is ***hyaline cartilage loss, FOCAL and initially NON-UNIFORM*** 
+- 
