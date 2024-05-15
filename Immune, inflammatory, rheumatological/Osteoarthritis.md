@@ -148,4 +148,11 @@
 	- elite runners more risk than nonrunners 
 # Pathology 
 - many joint structure involved 
-- 
+- cartilage 
+	- initially ***surface fibrillation and irregularity***
+	- ***focal erosions spreading to subjacent bone*** with progress 
+	- erosion down to bone and larger proportion of joint surface 
+- Post injury mitosis and clustering in chondrocytes 
+	- high metabolic activity 
+	- promote ***proteoglycan depletion*** in matrix
+	- matrix damage , exposure 
