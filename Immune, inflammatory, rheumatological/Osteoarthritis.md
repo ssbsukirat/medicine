@@ -51,3 +51,7 @@
 	- different frequency at different range of motion 
 	- feedback through spinal cord 
 	- anticipated joint loading and prevent excursions 
+- Cartilage 
+	- joint protector 
+	- lubricated by synovial fluid almost frictionless surface 
+	- earliest changes of OA in cartilage 
