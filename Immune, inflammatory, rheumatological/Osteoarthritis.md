@@ -76,4 +76,4 @@
 	- Matrix component from cartilage cause ***Synovitis*** 
 	- IL-1B and TNF-α induce PG-E2 and NO from chondrocytes 
 	- early inflammation may cause matrix synthesis but net matrix degradation by cytokines 
-	- enzymes held in check by activation 
+	- enzymes held in check by activation inhibitors like ***TIMP (tissue inhibitors of metalloproteinases )***
