@@ -178,4 +178,16 @@
 	- edematous and inflamed in OA 
 	- macrophage migration from periphery to tissue with proliferation of cells lining synovium 
 	- capsule stretches, edematous , fibrotic 
-- 
+- pathology different across joints 
+	- hand OA has erosion of cartilage in center of joint, probably from bony pressure from opposite side of joint 
+- basic calcium phosphate and calcium pyrophosphate dihydrate crystals microscopy in end-stage OA 
+# Source of pain 
+- cartilage is aneural, so loss alone is not causative of pain 
+- pain likely from structures outside 
+- Innervated structure 
+	- synovium
+	- ligaments 
+	- joint capsules 
+	- muscle 
+	- subchondral bone 
+- most i
