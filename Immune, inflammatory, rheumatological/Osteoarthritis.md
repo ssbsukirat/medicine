@@ -155,4 +155,9 @@
 - Post injury mitosis and clustering in chondrocytes 
 	- high metabolic activity 
 	- promote ***proteoglycan depletion*** in matrix
-	- matrix damage , exposure 
+	- matrix damage , exposure of negative charges, swelling of cartilage 
+	- apoptosis of basal chondrocytes 
+- Bone alteration 
+	- subchondral 
+	- due to cartilage loss 
+	- osteoclast and osteoblast activation due to growth factors and cytokines 
