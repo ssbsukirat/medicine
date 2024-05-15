@@ -142,4 +142,6 @@
 	- farmers ***hip OA*** 
 	- miner ***knee and spine OA*** 
 	- lifting or carrying or bending jobs have ***Knee OA***
+	- muscles exhausted so dont protect 
+	- ***no associated OA with exercise*** 
 	- 
