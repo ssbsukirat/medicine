@@ -191,3 +191,16 @@
 	- muscle 
 	- subchondral bone 
 - x-ray poor correlation with pain 
+- source 
+	- synovial inflammation 
+		- correlates with pain presence and severity 
+		- on MRI 
+	- joint effusion 
+	- bone marrow edema 
+		- MRI 
+		- histologically has microcracks and scars 
+- outside the joint sources 
+	- bursae 
+	- anserine bursitis 
+	- iliotibial band syndrome 
+- 
