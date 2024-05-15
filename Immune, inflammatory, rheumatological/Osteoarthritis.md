@@ -51,7 +51,15 @@
 	- different frequency at different range of motion 
 	- feedback through spinal cord 
 	- anticipated joint loading and prevent excursions 
-- Cartilage 
-	- joint protector 
-	- lubricated by synovial fluid almost frictionless surface 
-	- earliest changes of OA in cartilage 
+##  Cartilage 
+- joint protector 
+- lubricated by synovial fluid almost frictionless surface 
+- earliest changes of OA in cartilage 
+- Macromolecules 
+	- ***Type 2 collagen*** 
+		- tensile strength 
+	- ***Aggrecan*** 
+		- proteoglycan linked to hyaluronic acid 
+		- highly negative glucosaminoglycans 
+	- type 2 woven tight , constrains aggrecan , fixing negative charge in close proximity 
+	- ***repulsion of negative charges give cartilage compressive stiffness***  
