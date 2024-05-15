@@ -117,4 +117,9 @@
 - Major injury 
 	- fracture through surface 
 	- avascular necrosis 
-- Ligament or fibrocartilage 
+- Ligament or fibrocartilage tear (menisci or hip labrum) cause premature OA 
+- Framingham Study subjects, men with a history of major knee injury, but no surgery, had a 3.5-fold increased risk for subsequent knee OA 
+- Malalignment 
+	- best studied in knee 
+	- Varus (bowlegged) knees have medial cartilage loss 
+	- Valgus (knock-kneed) have lateral cartilage loss 
