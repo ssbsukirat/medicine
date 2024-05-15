@@ -205,9 +205,21 @@
 	- iliotibial band syndrome 
 - more pain when nociceptor stimulated during weight bearing activity 
 - as progression, pain more constant and at rest 
-- Peripheral Sensitisation 
-	- alteration in Peripheral nociceptor 
-	- become more responsive to sensory input 
-- Central Sensitisation 
-	- increased facilitated central nociceptor signalling 
-- insufficient descending inhibitory modulation 
+	- ***Peripheral Sensitisation*** 
+		- alteration in Peripheral nociceptor 
+		- become more responsive to sensory input 
+	- ***Central Sensitisation*** 
+		- increased facilitated central nociceptor signalling 
+	- ***insufficient descending inhibitory modulation*** 
+	- nervous alterations cause ***Allodynia and hyperalgesia***
+- obesity increase severity of pain 
+# Clinical features 
+- Pain 
+	- activity related early on 
+	- during or just after use 
+	- early is episodic and triggered by overuse 
+	- stiffness maybe present 
+	- ***morning stiffness <30 min***
+- Knees 
+	- Buckling from weakness of muscles 
+	- buckling , catchoi
