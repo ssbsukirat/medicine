@@ -125,4 +125,8 @@
 	- Valgus (knock-kneed) have lateral cartilage loss 
 	- severe focal stress 
 	- marrow lesions in MRI 
+	- if severe progress despite other factors 
+- weakness of quadriceps 
+## loading factors 
+- Obesity 
 	- 
