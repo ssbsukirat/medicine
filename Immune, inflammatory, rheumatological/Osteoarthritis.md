@@ -190,4 +190,4 @@
 	- joint capsules 
 	- muscle 
 	- subchondral bone 
-- most i
+- x-ray poor correlation with pain 
