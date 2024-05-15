@@ -232,3 +232,22 @@
 		- nocturnal pain without end-stage OA needs workup 
 - No blood tests routinely advised unless inflammatory arthritis suspected 
 - Joint aspiration better than X-ray 
+	- if WBC >1000/uL inflammatory or gout or pseudogout 
+- X-ray or MRI not indicated in workup 
+	- if pain and findings atypical for OA 
+	- pain persistent after treatment for OA 
+	- never change treatment based on MRI alone 
+# Treatment 
+- Goals 
+	- alleviated pain 
+	- minimise loss of physical function 
+- multi-modal with physical and pharmacological 
+- Mild and intermittent symptoms 
+	- symptomatic management 
+	- weight loss 
+	- exercise 
+	- physical activity 
+	- self management 
+- Ongoing disabling pain need physical and pharmacological 
+## Physical management 
+
