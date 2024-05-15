@@ -74,4 +74,5 @@
 	- if present more likely OA joint is painful 
 	- some induced by mechanical stimuli (***Mechanoinflammation***)
 	- Matrix component from cartilage cause ***Synovitis*** 
-	- 
+	- IL-1B and TNF-α induce PG-E2 and NO from chondrocytes 
+	- early inflammation may cause matrix synthesis but net matrix degradation by cytokines 
