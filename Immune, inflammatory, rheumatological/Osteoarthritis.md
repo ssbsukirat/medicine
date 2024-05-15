@@ -166,7 +166,16 @@
 	- healing from injury or microcracks inducing remodeling 
 	- osteonecrosis may occur in advance disease 
 	- bone death due to cutoff vascular supply with shearing of microvasculature 
-- Osteophyte 
+- ***Osteophyte*** 
 	- margin of joint 
 	- near point of cartilage loss 
 	- outgrowth of new cartilage 
+	- with neurovascular invasion , ossification 
+	- radiological hallmark 
+- Synovium 
+	- lubricating fluids 
+	- macrophage and fibroblast with fat in a single discontinous layer normally 
+	- edematous and inflamed in OA 
+	- macrophage migration from periphery to tissue with proliferation of cells lining synovium 
+	- capsule stretches, edematous , fibrotic 
+- 
