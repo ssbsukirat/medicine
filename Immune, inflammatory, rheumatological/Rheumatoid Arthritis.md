@@ -143,3 +143,16 @@
 	- Late in severe RA 
 	- Differential is T-LGL
 		- T cell large granular lymphocyte leukaemia 
+		- Associated with RA 
+		- Chronic indolent clonal growth of LGL cells causing neutropenia and splenomegaly 
+		- Early in RA (feltys late)
+- Leukopenia uncommon
+## Lymphoma
+- 2-4x higher risk 
+- DLBCL most common
+- Higher risk if high disease activity or feltys syndrome
+## Associated conditions
+- Cardiovascular disease
+	- Most common cause of death 
+	- Higher incidence of CAD and carotid atherosclerosis 
+	- CHF at 2x higher rates 
