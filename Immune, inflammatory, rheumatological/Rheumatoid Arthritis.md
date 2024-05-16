@@ -67,4 +67,20 @@
 	- Firm 
 	- Non tender 
 	- Adherent to periosteum, tendons or bursae 
-	- 
+	- Areas with frequent trauma or irritations like forearm, sacral prominence and Achilles tendon 
+- Also in 
+	- Lungs 
+	- Pleura 
+	- Pericardium
+	- Peritoneum
+- benign
+- Maybe associated with infection ulceration or gangrene
+- Accelerated growth maybe seen if taking methotrexate
+## Sjogrens syndrome
+- secondary Sjogrens is presence of ***Keratoconjunctivitis sicca or xerostomia with another connective tissue disease like RA*** 
+- 10% 
+## pulmonary
+- pleuritis
+	- Most common Pulmonary manifestation
+	- Pleuritic chest pain and dyspnea
+	- Friction rub and effusion
