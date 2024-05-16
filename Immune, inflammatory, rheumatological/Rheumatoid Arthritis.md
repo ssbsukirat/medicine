@@ -369,4 +369,5 @@
 - ***Anakinra*** 
 	- recombinant IL-1 receptor antagonist
 	- Limited use in RA
-	- Effective in systemic juvenile onse
+	- Effective in systemic juvenile onset inflammatory arthritis and adult Stills disease
+	- In neonatal onset inflammatory disease, Muckle-Wells syndrome, familial cord urticaria and macrophage activation syndrome
