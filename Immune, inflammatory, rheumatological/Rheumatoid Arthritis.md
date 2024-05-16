@@ -306,4 +306,23 @@
 - Ischemic heart disease most common cause 
 # Treatment
 - Several scores to assess disease activity clinically
+- ACR 20, 50, 70 improvement criteria
+	- 20,50,70 % improvement 
+	- Joint counts, pain scale , ESR CRP, physician/patient assessment of disease severity and functional assessment of disability
+	- Used in trials for response to therapy
+- Clinical scores 
+	- Disease Activity Score (DAS)
+	- Simplified Disease Activity Index (SDAI) 
+	- Clinical Disease Activity Index (CDAI) 
+	- ROUTINE Assessment of Patient Index Data 3 (RAPID3)
+- Development over 20 years 
+	- Methotrexate is DMARD of choice in early RA 
+	- Novel biologicals developed
+	- DMARD regimes superior over methotrexate alone 
+## NSAIDs 
+- Earlier core of therapy
+- Now adjunct in symptomatic management if uncontrolled 
+- Both analgesic and anti-inflammatory 
+- Minimise chronic use 
+## Glucocorticoids
 - 
