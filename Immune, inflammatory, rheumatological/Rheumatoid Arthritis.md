@@ -22,4 +22,15 @@
 	- May cause tendon rupture
 	- Flexor pollicis Longus most common 
 - Deformities
-- 
+	- Ulnar deviation
+		- Subluxation of MCP joint with subluxation of proximal phalanx to volar side of hand 
+	- ***Swan neck*** 
+		- Hyperextension of PIP with flexed DIP 
+	- ***Boutonniere deformity***
+		- Flexion of PIP with hyperextension of DIP 
+	- ***Z line deformity***
+		- Subluxation of first MCP with hyperextension of first IP joint 
+	- ***Piano key movement of ulnar styloid***
+		- Inflammation around ulnar styloid and tenosynovitis of extensor carpi ulnaris 
+		- Subluxation of distal ulna 
+- MTP in feet is early but later ***pes planovalgas or flat feet*** seen 
