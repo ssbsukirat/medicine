@@ -22,7 +22,7 @@
 	- May cause tendon rupture
 	- Flexor pollicis Longus most common 
 - Deformities
-	- Ulnar deviation
+	- ***Ulnar deviation***
 		- Subluxation of MCP joint with subluxation of proximal phalanx to volar side of hand 
 	- ***Swan neck*** 
 		- Hyperextension of PIP with flexed DIP 
@@ -34,3 +34,16 @@
 		- Inflammation around ulnar styloid and tenosynovitis of extensor carpi ulnaris 
 		- Subluxation of distal ulna 
 - MTP in feet is early but later ***pes planovalgas or flat feet*** seen 
+- Large joints in established disease (knees and shoulders) but asymptomatic for many years
+- Atlantoaxial joint involvement (subluxation in <10%)
+	- may cause compressive myelopathy
+	- neurological symptoms rarely a presenting sign 
+	- May evolve over time with instability of C1 on C2 
+- Extraarticular symptoms
+	- 40% 
+	- Some prior to onset of arthritis
+	- More in
+		- Cigarette smoke
+		- Early onset of physical disability
+		- RF or ACPA positive
+	- 
