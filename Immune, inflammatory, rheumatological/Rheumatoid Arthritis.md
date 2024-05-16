@@ -253,3 +253,12 @@
 - Earlier >6 weeks symptoms required but not now 
 - ACPA now include which is more specific for RA 
 - These are classification criteria and not diagnostic criteria which tell of high likelihood of transition to chronic disease 
+- Differential
+	- all acute and chronic inflammatory arthritis
+	- Sjogrens primary maybe confused as may have joint involvement
+	- Spondyloarthropathies have sacroiliitis and other enthesopathic symptoms with symptoms of psoriasis or IBD 
+	- Polymyalgia Rheumatica (PMR) in elderly but RA has wrists hands ankle feet involvement 
+	- RS3PE (remitting seronegative symmetrical synovitis with pitting edema) has pitting edema not seen in RA plus quick response to steroid (low dose Prednisone) 
+# Laboratory features
+- Elevated non-specific markers like ESR CRP 
+- RF and ACPA but RF has low sensitivity
