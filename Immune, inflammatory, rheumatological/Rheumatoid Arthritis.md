@@ -198,4 +198,7 @@
 	- CD 68, TRAP (tartrate resistant phosphatase) , cathepsin K and calcitonin receptor positive 
 	- At pannus-bone interface form ***resorption lacunae*** 
 	- Lacunae at insertion site of synovial membrane to periosteal surface 
-	- At insertion site of
+	- At insertion site of ligament and tendon sheath 
+	- ***MCP radial site more common*** as insertion of ligament, tendon and synovial membrane
+	- ***Periarticular osteopenia*** in active inflammation due to **marrow cavity inflammation** of trabeculae along metaphysis  
+	- Seen on MRI as water rich with 
