@@ -338,4 +338,21 @@
 - HCQ, sulfasalazine, methotrexate, leflunomide conventional with delayed action upto 6-12 weeks 
 - Methotrexate
 	- Approved since 1988 
-	- DMARD f
+	- DMARD of choice
+	- Stimulates adenosine release which has anti-inflammatory effects
+	- Weekly by oral or subcutaneous route 
+	- Folic acid cotherapy to prevent side effects
+- Leflunomide inhibits pyrimidine synthesis and has similar action to methotrexate
+- Hydroxychloroquine not a true DMARD as doesn't delay radiological progression
+	- In early mild or as adjunct to others 
+	- 5mg/kg or lower to reduce renal toxicity
+- Minocycline, gold, penicillamine, azathioprine, cyclosporine have varying results
+## Biologicals
+- Protein therapeutic to target cytokines and cell surface molecules
+- Anti-TNF 
+	- First agents 
+	- 5 currently
+		- Infliximab (chimeric monoclonal)
+		- Adalimumab (humanized)
+		- Golimumab (humanized)
+		- 
