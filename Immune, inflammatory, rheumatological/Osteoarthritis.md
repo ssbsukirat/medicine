@@ -337,3 +337,7 @@
 - If knee or hip OA failed drug therapy and willing for surgery, total hip or knee arthroplasty
 - Timing has great role as if too late then muscle loss may not improve performance status much 
 - Cartilage regeneration
+	- Chondrocyte transplant not useful
+	- Joint mechanics not corrected with chondrocyte transplant
+	- Abrasion arthroplasty tries to replace hyaline with fibrocartilage
+	- More likely to be effective in early disease when malalignment and noncartilage abnormalities not developed
