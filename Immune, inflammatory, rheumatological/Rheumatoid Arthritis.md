@@ -5,4 +5,21 @@
 - incidence max 25-55 years , plateau till 75 then decline
 - Symptoms due to Inflammation of joint tendon bursae 
 - Early morning stiffness >1hour easing with physical activity
-- Earliest small joints of hand and feet
+- Earliest small joints of hand and feet 
+- Initial maybe monoarticular, oligoarticular (<4 joints) or polyarticular (>5 joints) usually symmetric
+- Initially may have too few joints to classify as RA so maybe ***undifferentiated inflammatory arthritis*** with high risk of RA progression in 
+	- Higher number of tender or swollen joints 
+	- RF positive
+	- Anti CCP 
+	- High physical disability scores 
+- Wrist, MCP, PIP most common involved
+- DIP maybe involved but usually implies coexistent [[Osteoarthritis]]
+- Flexor tendon tenosynovitis
+	- Hallmark
+	- Reduced range of motion
+	- Reduced grip strength
+	- ***Trigger*** fingers
+	- May cause tendon rupture
+	- Flexor pollicis Longus most common 
+- Deformities
+- 
