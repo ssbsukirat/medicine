@@ -297,4 +297,5 @@
 - Topical or oral 
 - Oral NSAIDs 30% better relief than Acetaminophen high dose 
 - Initial, topical and SOS oral as side effects low with intermittent dosage 
-- If ocassi
+- If occassional is ineffective, daily treatment with anti-inflammatory dose 
+- ![[Osteoarthritisnsaid.png]]
