@@ -331,4 +331,9 @@
 - Duloxetine if NSAIDs ineffective
 - Glucosamine or chondroitin must be avoided
 ## Surgery
-- efficacy of arthroscopic debr
+- efficacy of arthroscopic debridement and lavage is same as sham surgery
+- If meniscal tear present, arthroscopic meniscectomy no relief in pain or catching or locking
+- If ***medial knee OA only, realignment procedure to reduce loading*** 
+- If knee or hip OA failed drug therapy and willing for surgery, total hip or knee arthroplasty
+- Timing has great role as if too late then muscle loss may not improve performance status much 
+- Cartilage regeneration
