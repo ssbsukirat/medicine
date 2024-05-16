@@ -264,4 +264,12 @@
 - Muscle weakness multifactorial
 	- Age related decline
 	- Disuse muscle atrophy
-	- Gait alterations
+	- Gait alterations to reduce loading of joint 
+	- ***Arthrogenous inhibition*** where muscle contraction of joint is inhibited by afferent feedback loop emanating in swollen stretched capsule, preventing maximum strength attainment
+- Weakness correlate to pain and degree of limitation
+- Exercise improve pain and function
+- Effective is aerobic with resistance training of muscles around joint 
+- Avoid painful exercise and optimise for individual daily activities
+- Range of motion exercise (do not strengthen) or isometric exercise (strengthen muscle but not through Range of motion) alone not useful
+- Low impact like water aerobics and resistance better tolerated 
+- No strong evidence for exercise in hand OA 
