@@ -325,4 +325,17 @@
 - Both analgesic and anti-inflammatory 
 - Minimise chronic use 
 ## Glucocorticoids
-- 
+- Low to moderate doses for rapid control before DMARD can act which takes weeks to months 
+- 1-2 week burst for flair 
+- Chronic low dose (5-10mg daily) of Prednisone for inadequate response to DMARD therapy 
+- Avoid chronic use and look for DMARD
+- High dose maybe needed in extraarticular symptoms like ILD 
+- Intraarticular triamcinolone acetate for inflamed joints (exclude infection first)
+- Maybe associated with osteoporosis long-term so bisphosphonate therapy maybe warranted 
+- Teriparatide and denosumab also approved for osteoporosis
+## DMARDs 
+- Slow or prevent progression 
+- HCQ, sulfasalazine, methotrexate, leflunomide conventional with delayed action upto 6-12 weeks 
+- Methotrexate
+	- Approved since 1988 
+	- DMARD f
