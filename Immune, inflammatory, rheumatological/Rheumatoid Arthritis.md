@@ -200,5 +200,16 @@
 	- Lacunae at insertion site of synovial membrane to periosteal surface 
 	- At insertion site of ligament and tendon sheath 
 	- ***MCP radial site more common*** as insertion of ligament, tendon and synovial membrane
-	- ***Periarticular osteopenia*** in active inflammation due to **marrow cavity inflammation** of trabeculae along metaphysis  
-	- Seen on MRI as water rich with 
+- ***Periarticular osteopenia*** in active inflammation 
+	- due to **marrow cavity inflammation** of trabeculae along metaphysis  
+	- Seen on MRI as water rich with low fat 
+	- Precede bony lesions 
+- Endosteal bone absorption occurs  
+- Generalised osteoporosis
+- Articular cartilage
+	- 4 layers (superficial, middle, deep and calcified cartilage) 
+	- Avascular
+	- Highly responsive to inflammation and mechanical factors
+	- Matrix has ***generalised loss of proteoglycans*** in RA
+# Pathogenesis
+- 
