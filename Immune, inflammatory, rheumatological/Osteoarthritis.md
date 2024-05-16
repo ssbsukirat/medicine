@@ -299,3 +299,16 @@
 - Initial, topical and SOS oral as side effects low with intermittent dosage 
 - If occassional is ineffective, daily treatment with anti-inflammatory dose 
 - ![[Osteoarthritisnsaid.png]]
+- Oral have substantial frequent side effects
+	- Upper GI symptoms most common
+		- Dyspepsia
+		- Nausea
+		- Bloating
+		- GI bleed
+		- Ulcer Disease
+		- 30-40% have so severe needing discontinuation
+		- Take after food, if high risk add PPI 
+		- ***Non-acetylated salicylate and nabumetone safer***  
+		- Maybe asymptomatic 
+	- Conventional NSAIDs like diclofenac have high CVS events, so inappropriate in elderly with high risk of heart disease or stroke 
+	- ***Naproxen and low-dose celecoxib low CVS risk*** but GI risk present
