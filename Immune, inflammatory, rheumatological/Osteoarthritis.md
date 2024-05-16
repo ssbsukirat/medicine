@@ -310,5 +310,13 @@
 		- Take after food, if high risk add PPI 
 		- ***Non-acetylated salicylate and nabumetone safer***  
 		- Maybe asymptomatic 
-	- Conventional NSAIDs like diclofenac have high CVS events, so inappropriate in elderly with high risk of heart disease or stroke 
+	- Conventional NSAIDs like diclofenac have high CVS events, so inappropriate in elderly with high risk of heart disease or stroke (COX-2 also CVS risk but low dose celecoxib <200mg daily doesn't add much risk)
 	- ***Naproxen and low-dose celecoxib low CVS risk*** but GI risk present
+	- Edema due to PG inhibition of blood supply to glomerulus 
+	- Reversible renal insufficiency
+	- Modest increase in BP
+	- No NSAID in 4-5 stage CKD and avoid in stage 3 
+- Topical less effective than orals but significant less side effects also 
+- Topical may cause some skin local irritation on application
+- Acetaminophen small effect but if patients respond then better than NSAID as fewer side effects
+##
