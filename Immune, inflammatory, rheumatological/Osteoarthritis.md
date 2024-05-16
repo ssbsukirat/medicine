@@ -319,4 +319,16 @@
 - Topical less effective than orals but significant less side effects also 
 - Topical may cause some skin local irritation on application
 - Acetaminophen small effect but if patients respond then better than NSAID as fewer side effects
-##
+### Intraarticular injection- glucocorticoid and hyaluronic acid
+- synovial inflammation major source of pain 
+- Intraarticular injection reduce pain upto 3 months at a time 
+- Synovitis abates after injection and reduce pain 
+- Glucocorticoids for acute flairs of pain 
+- Repeated injections may cause minor cartilage loss but not clinically significant
+- Hyaluronic acid injection in knee and hip OA but not much benefit over placebo
+### other drugs and nutraceuticals 
+- opiods have limited benefits but risk of dependence
+- Duloxetine if NSAIDs ineffective
+- Glucosamine or chondroitin must be avoided
+## Surgery
+- efficacy of arthroscopic debr
