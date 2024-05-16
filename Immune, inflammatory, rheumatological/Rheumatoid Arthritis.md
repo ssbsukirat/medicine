@@ -238,3 +238,6 @@
 - Mechanism of self reactive 
 	- Abnormal thymic selection
 	- Intrinsic defect lowering threshold of activation of T cells 
+- CD 4 T cells involved mainly
+	- SE on MHC 2 is a risk factor 
+	- Memory T cells enriched in synovium and implicated by ***guilt through association*** 
