@@ -156,3 +156,6 @@
 	- Most common cause of death 
 	- Higher incidence of CAD and carotid atherosclerosis 
 	- CHF at 2x higher rates 
+	- Higher inflammatory markers higher risk 
+- Osteoporosis
+- 
