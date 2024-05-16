@@ -258,3 +258,10 @@
 - weight loss 
 - splinting in Hand OA 
 - weight bearing joints like knee or hip unload with ***cane in opposite hand*** 
+### Exercise 
+- Pain reduces activity leading to high risk of CVS mortality and obesity
+- Aerobic capacity worse than others of same age 
+- Muscle weakness multifactorial
+	- Age related decline
+	- Disuse muscle atrophy
+	- Gait alterations
