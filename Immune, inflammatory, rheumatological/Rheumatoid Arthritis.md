@@ -281,4 +281,20 @@
 - progression and diagnosis both
 - X-ray common but limited to bone and joint space 
 - MRI and USG have better soft tissue sensitivity
-- Musculoskeletal usg
+- ***Musculoskeletal USG with power Doppler*** for synovitis and bone erosion
+- Plain radiographs
+	- Initial periarticular osteopenia but difficult to read 
+	- Soft tissue swelling, symmetric joint space loss and subchondral erosion in MCP MTP PIP
+	- severe disease shows joint subluxation and collapse
+- MRI
+	- Greatest sensitivity for synovitis and effusion
+	- Early bone and marrow changes
+	- Bone marrow edema early marker and predicts development of erosions 
+- Ultrasound
+	- More erosion than x-ray in accessible joints 
+	- Synovitis and increased vascularity of joint 
+# Clinical course
+- Affected by age, gender, phenotype, comorbidities
+- Heterogeneous condition
+- 10% with classification criteria will have spontaneous remission in 6 months
+- Majority h
