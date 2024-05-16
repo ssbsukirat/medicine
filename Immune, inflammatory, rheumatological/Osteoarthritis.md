@@ -286,4 +286,15 @@
 	- Malalignment with patella in femoral trochlear groove 
 	- Relieve by ***patellar brace or taping*** 
 	- Tape is difficult and irritable to skin 
-- Neoprene sleeves over knee popular but unclear effect on 
+- Neoprene sleeves over knee popular but unclear effect on pain
+- Acupuncture unclear effect mostly from placebo
+- In long standing pain RFA of nerves of joint 
+## Pharmacotherapy
+- physical therapy mainstay but drugs have adjunctive role 
+- No drugs to alter disease process
+### Acetaminophen, NSAIDS, COX-2 inhibitors
+- NSAIDs most popular
+- Topical or oral 
+- Oral NSAIDs 30% better relief than Acetaminophen high dose 
+- Initial, topical and SOS oral as side effects low with intermittent dosage 
+- If ocassi
