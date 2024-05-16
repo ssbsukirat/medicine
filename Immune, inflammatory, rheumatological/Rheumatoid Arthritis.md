@@ -250,3 +250,6 @@
 - Signs and symptoms of chronic inflammatory arthritis with labs and radiology to corroborate
 - ![[RAclassification.PNG]]
 - If score atleast 6/10 then RA 
+- Earlier >6 weeks symptoms required but not now 
+- ACPA now include which is more specific for RA 
+- These are classification criteria and not diagnostic criteria which tell of high likelihood of transition to chronic disease 
