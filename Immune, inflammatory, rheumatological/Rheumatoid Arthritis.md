@@ -212,4 +212,24 @@
 	- Highly responsive to inflammation and mechanical factors
 	- Matrix has ***generalised loss of proteoglycans*** in RA
 # Pathogenesis
-- 
+- Preclinical stage
+	- Breakdown of self tolerance
+	- RF and ACPA positive years before clinical disease
+	- ACPA and RF roles speculative
+- ACPA
+	- directed to Deaminated peptides
+	- Posttranslational modification by PAD14 
+	- Recognise citrulline containing area of protein
+	- Like 
+		- Filaggrin 
+		- Keratin 
+		- Fibrinogen
+		- Vimentin
+- Other antibodies
+	- Type 2 Collagen
+	- Human cartilage gp39 
+	- Aggrecan 
+	- Calpastatin 
+	- Immunoglobulin binding protein (BiP)
+	- Glucose-6-phosphate isomerase
+- Long term smoking induces higher citrullination of protein by PAD1 in lung 
