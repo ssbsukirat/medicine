@@ -92,3 +92,21 @@
 	- Progressive
 	- Cigarette smoking and higher disease activity
 	- HRCT shows infiltrative opacification or ***Ground glass opacities*** in periphery of both lungs 
+	- UIP - progressive scarring showing honeycomb on HRCT in periphery and lower portion
+	- NSIP relatively symmetric bilateral GGOs with fine reticulation and traction [[Bronchiectasis]] and volume loss 
+	- Restrictive pattern with reduced DLCO 
+	- Poor prognosis
+	- Responds to immunosuppression
+- Pulmonary nodules maybe solitary or multiple
+- Caplans syndrome
+	- Rare 
+	- Nodules with pneumoconiosis on silica exposure
+- Respiratory bronchiolitis and bronchiectasis very rarely
+## Cardiac 
+- pericardium most common (upto 50% on echo or autopsy)
+- Symptomatic in <10% 
+- Upto 20% have asymptomatic pericardial effusion
+- Cardiomyopathy
+	- Necrotising or granulomatous myocarditis
+	- Coronary artery disease
+	- Diastolic dysfunction
