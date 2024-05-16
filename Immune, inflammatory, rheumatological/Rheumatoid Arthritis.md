@@ -297,4 +297,13 @@
 - Affected by age, gender, phenotype, comorbidities
 - Heterogeneous condition
 - 10% with classification criteria will have spontaneous remission in 6 months
-- Majority h
+- Majority have persistent progressive waxing waning disease
+- Minority have intermittent explosive recurring attacks with period of quiescence 
+- Aggressive form in few with progression of joint erosions 
+- Disability assessed by Health Assessment Questionnaire (HAQ) 
+- Disability in early disease due to joint inflammation and later it is joint damage 
+- Mortality 2x general population 
+- Ischemic heart disease most common cause 
+# Treatment
+- Several scores to assess disease activity clinically
+- 
