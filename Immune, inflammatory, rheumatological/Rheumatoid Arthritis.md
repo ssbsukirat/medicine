@@ -173,3 +173,12 @@
 	- Type B synoviocytes (fibroblasts derived)
 		- more common
 		- Structural components like collagen fibronectin and laminin produced
+	- Sublining of blood vessels and mononuclear cell with loose connective tissue 
+	- Synovial fluid is ultrafiltrate of blood and has hyaluronan and lubricin 
+- Pathologic hallmark
+	- Synovial inflammation and proliferation 
+	- Focal bone erosion
+	- Thinning of articular cartilage
+- Synovial lining hyperplasia
+- ***pannus*** formation
+	- 
