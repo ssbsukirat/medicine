@@ -262,3 +262,23 @@
 # Laboratory features
 - Elevated non-specific markers like ESR CRP 
 - RF and ACPA but RF has low sensitivity
+- IgM IgG IgA RF are seen in disease but labs measure only IgM (seen in 75%) so negative does not exclude
+- RF in 
+	- Primary Sjogrens
+	- SLE 
+	- Type 2 mixed essential cryoglobulinemia
+	- SABE 
+	- Hep B and C 
+- ACPA has same sensitivity but 95% specificity and positive also associated with worse outcome 
+- 30% have ANAs and some have ANCA (particular pANCA) 
+- Synovial fluid analysis
+	- Acute inflammatory type 
+	- WBC 5000-50000 (<2000 non inflammatory)
+	- neutrophil 
+	- Confirms inflammatory 
+	- Exclude infection or crystal induced 
+## Joint imaging
+- progression and diagnosis both
+- X-ray common but limited to bone and joint space 
+- MRI and USG have better soft tissue sensitivity
+- Musculoskeletal usg
