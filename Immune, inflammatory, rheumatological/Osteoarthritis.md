@@ -273,3 +273,17 @@
 - Range of motion exercise (do not strengthen) or isometric exercise (strengthen muscle but not through Range of motion) alone not useful
 - Low impact like water aerobics and resistance better tolerated 
 - No strong evidence for exercise in hand OA 
+- Biggest problem is compliance
+### Correct malalignment 
+- In frontal plane (Varus-Valgus) malalignment causes increased stress 
+- Correction of Varus-Valgus with braces or surgery relieved pain 
+- Fitted braces are effective but 
+	- Patients unwilling to wear 
+	- Slip with use in obese legs making ineffective
+- Shoes with rubber hemispheres on sole to alter alignment have some benefits
+- Patellofemoral pain by 
+	- Tilting of patella 
+	- Malalignment with patella in femoral trochlear groove 
+	- Relieve by ***patellar brace or taping*** 
+	- Tape is difficult and irritable to skin 
+- Neoprene sleeves over knee popular but unclear effect on 
