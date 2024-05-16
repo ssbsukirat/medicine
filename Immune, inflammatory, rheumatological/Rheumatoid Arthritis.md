@@ -84,3 +84,11 @@
 	- Most common Pulmonary manifestation
 	- Pleuritic chest pain and dyspnea
 	- Friction rub and effusion
+- Effusion
+	- Exudative
+	- Monocytes and neutrophil
+- ILD (12% but 3.5% have before arthritis)
+	- Dry cough and shortness of breath
+	- Progressive
+	- Cigarette smoking and higher disease activity
+	- HRCT shows infiltrative opacification or ***Ground glass opacities*** in periphery of both lungs 
