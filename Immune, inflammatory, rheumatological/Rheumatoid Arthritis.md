@@ -110,3 +110,8 @@
 	- Necrotising or granulomatous myocarditis
 	- Coronary artery disease
 	- Diastolic dysfunction
+	- Subclinical only on echo or Cardiac MRI
+- Rarely rheumatoid nodules or amyloid in muscle 
+- MR most common valvular anomaly
+## Vasculitis
+- 
