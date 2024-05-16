@@ -181,4 +181,21 @@
 	- Thinning of articular cartilage
 - Synovial lining hyperplasia
 - ***pannus*** formation
-	- 
+	- thickened cellular membrane
+	- multiple layers of fibroblasts like synoviocytes and granulation reactive fibrovascular tissue 
+	- Invades underlying cartilage and bone 
+	- Infiltrate has 6 cells 
+		- T cells 30-50% 
+		- B cells 
+		- Plasma cells
+		- Dendritic cell
+		- Mast cells
+		- Granulocyte
+	- Lymphos are diffusely organised 
+	- May form lymphoid follicles and germinal centre like structures (B, T and dendritic cells)
+- Structural damage mediated by osteoclast
+	- Multinucleated giant cells 
+	- CD 68, TRAP (tartrate resistant phosphatase) , cathepsin K and calcitonin receptor positive 
+	- At pannus-bone interface form ***resorption lacunae*** 
+	- Lacunae at insertion site of synovial membrane to periosteal surface 
+	- At insertion site of
