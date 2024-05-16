@@ -235,3 +235,6 @@
 - Long term smoking induces higher citrullination of protein by PAD1 in lung 
 - TLR2 (lipoprotein), TLR 3 (dsRNA virus) TLR 4 (heat shock proteins) expressed in synovium in early RA and activation may induce inflammation
 - Self-reactive T cells drive the chronic inflammatory response
+- Mechanism of self reactive 
+	- Abnormal thymic selection
+	- Intrinsic defect lowering threshold of activation of T cells 
