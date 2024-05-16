@@ -114,4 +114,32 @@
 - Rarely rheumatoid nodules or amyloid in muscle 
 - MR most common valvular anomaly
 ## Vasculitis
-- 
+- more in 
+	- Long-standing disease
+	- RF positive
+	- Anti CCP positive
+	- Hypocomplementemia 
+- <1% 
+- Cutaneous
+	- Petechiae
+	- Purpura
+	- Digir infarct
+	- Livedo reticularis 
+	- Large painful lower extremity ulcers 
+- Vasculitic ulcers treated with immunosuppression and skin grafting
+- Mononeuritis multiplex 
+	- Numbness
+	- Tingling
+	- Focal muscle weakness
+## Hematologic
+- Normocytic normoschromic Anemia most common
+- Anemia parallel inflammation and correlates with ESR And CRP levels 
+- Platelet counts raised as acute phase reactants 
+- Thrombocytopenia rare 
+- Feltys 
+	- Neutropenia, splenomegaly, nodular RA 
+	- Less than 1% 
+	- Declining due to therapy
+	- Late in severe RA 
+	- Differential is T-LGL
+		- T cell large granular lymphocyte leukaemia 
