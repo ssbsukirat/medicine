@@ -349,10 +349,24 @@
 - Minocycline, gold, penicillamine, azathioprine, cyclosporine have varying results
 ## Biologicals
 - Protein therapeutic to target cytokines and cell surface molecules
-- Anti-TNF 
+- ***Anti-TNF*** 
 	- First agents 
 	- 5 currently
-		- Infliximab (chimeric monoclonal)
-		- Adalimumab (humanized)
-		- Golimumab (humanized)
-		- 
+		- **Infliximab** (chimeric monoclonal) (***not for monotherapy)***
+		- **Adalimumab** (humanized)
+		- **Golimumab** (humanized)
+		- **Certolizumab pegol** (pegylated Fab fragment of humanized antibody)
+		- **Etanercerpt** (soluble fusion protein with TNF receptor 2 with Fc of IgG)
+	- Used with background of methotrexate therapy 
+	- Next step after methotrexate monotherapy
+	- avoid in 
+		- History of hypersensitivity
+		- Active infection 
+		- Chronic HEP B 
+		- Class 3/4 heart failure
+	- Concerns for risk of infection, bacterial, opportunistic fungal and reactivation of TB 
+	- SCREEN for latent TB before starting
+- ***Anakinra*** 
+	- recombinant IL-1 receptor antagonist
+	- Limited use in RA
+	- Effective in systemic juvenile onse
