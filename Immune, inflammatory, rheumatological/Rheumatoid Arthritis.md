@@ -241,3 +241,12 @@
 - CD 4 T cells involved mainly
 	- SE on MHC 2 is a risk factor 
 	- Memory T cells enriched in synovium and implicated by ***guilt through association*** 
+- CD 4 T cell activation by 
+	- T cell receptor binding to peptide-MHC on APCs 
+	- CD28 Binding to CD 80/86 on APCs 
+	- IL 17 promote joint inflammation 
+- Complete from Harrison
+# Diagnosis
+- Signs and symptoms of chronic inflammatory arthritis with labs and radiology to corroborate
+- ![[RAclassification.PNG]]
+- If score atleast 6/10 then RA 
