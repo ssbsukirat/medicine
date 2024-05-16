@@ -46,4 +46,25 @@
 		- Cigarette smoke
 		- Early onset of physical disability
 		- RF or ACPA positive
+	- ![[RAExtraarticular.PNG]]
+## Constitutional
+- weight lose
+- Fatigue
+- Fever 
+- Malaise
+- Depression
+- Cachexia in severe cases 
+- if fever > 101 ***suspect systemic vasculitis*** or infection
+## nodules 
+- 30-40% 
+- More in 
+	- High disease activity
+	- Disease related shared epitope (SE)
+	- RF positive
+	- Joint erosion on radiology
+- Declining trend due to aggressive therapy
+- Palpation
+	- Firm 
+	- Non tender 
+	- Adherent to periosteum, tendons or bursae 
 	- 
