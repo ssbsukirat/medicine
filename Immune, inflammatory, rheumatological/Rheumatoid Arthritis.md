@@ -158,4 +158,18 @@
 	- CHF at 2x higher rates 
 	- Higher inflammatory markers higher risk 
 - Osteoporosis
-- 
+	- 2x risk 
+	- Fragility fracture risk increase
+	- Generalised bone loss by osteoclast activation
+	- Cortical > trabecular lost but both involved
+	- Glucocorticoids use and immobility contribute
+	- Hip fracture more common and increase disability and mortality
+# Pathology
+- Affects synovial tissue of primarily diarthrodial joints with underlying cartilage and bone 
+- Synovium
+	- thin sheath 
+	- Faces bone and cartilage and attached to periosteal region 
+	- Type A synoviocytes (macrophage derived) 
+	- Type B synoviocytes (fibroblasts derived)
+		- more common
+		- Structural components like collagen fibronectin and laminin produced
