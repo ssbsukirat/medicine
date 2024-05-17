@@ -371,3 +371,14 @@
 	- Limited use in RA
 	- Effective in systemic juvenile onset inflammatory arthritis and adult Stills disease
 	- In neonatal onset inflammatory disease, Muckle-Wells syndrome, familial cord urticaria and macrophage activation syndrome
+- ***Abatacept*** 
+	- soluble fusion protein
+	- Extracellular domain of human CTLA-4 linked to modified human IgG
+	- Blocks CD80/86-CD28 Interaction
+	- Inhibits costimulation of T cells 
+	- Reduces disease activity, slows radiographic progress and improved disability
+	- ***Increased infection risk***  
+- ***Rituximab***
+	- **Chimeric** monoclonal antibody to ***cd20*** of mature B cells 
+	- Depletes B cells 
+	- Unknown mechanism
