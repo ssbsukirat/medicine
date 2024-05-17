@@ -382,3 +382,23 @@
 	- **Chimeric** monoclonal antibody to ***cd20*** of mature B cells 
 	- Depletes B cells 
 	- Unknown mechanism
+		- reduced autoantibodies 
+		- inhibit T cell activation 
+		- altered cytokine production 
+	- Approved for ***Refractory RA (Failure of treatment with TNF-α inhibitor)*** 
+	- to be used with methotrexate 
+	- better outcome in seropositive cases 
+	- mild to moderate infusion reactions may occur 
+	- increased risk of infections 
+	- ***PML (progressive multifocal leukoencephalopathy)***
+		- low risk 
+		- potential lethal 
+		- ***more if exposure to other potent immunosuppresants in past or current*** 
+- Anti IL-6 agents 
+	- IL-6 proinflammatory in RA with effects on joint 
+	- Activates acute phase response , cytokines and osteoclast activation 
+	- ***Tocilizumab and Sarilumab*** 
+	- monotherapy or combination both 
+	- increase infections 
+	- neutropenia , thrombocytopenia \
+	- hematologic reverse on
