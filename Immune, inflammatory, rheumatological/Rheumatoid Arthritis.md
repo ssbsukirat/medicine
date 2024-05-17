@@ -401,4 +401,11 @@
 	- monotherapy or combination both 
 	- increase infections 
 	- neutropenia , thrombocytopenia \
-	- hematologic reverse on
+	- hematologic reverse on stopping drug 
+	- increased LDL cholesterol 
+## Targeted synthetic DMARDs 
+- focus on intracellular signalling pathway 
+- ***oral formulations*** with similar efficacy as biologics 
+- ***JAK inhibitors*** 
+	- only kinase inhibitors in RA 
+	- ts DMARDs 
