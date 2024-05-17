@@ -409,3 +409,17 @@
 - ***JAK inhibitors*** 
 	- only kinase inhibitors in RA 
 	- ts DMARDs 
+	- JAK 
+		- JAK1, JAK2, JAK3, tyrosine kinase 2 (Tyk2)
+		- extracellular cytkoine receptors to intracellular signalling pathway 
+		- IL-2, 4, 7, 9, 15, 21 IFN-gamma , IL6 
+	- ***Tofacitinib*** 
+		- JAK1 JAK3 inhibitors 
+		- minor effect on JAK2 Tyk2 
+	- ***Baricitinib*** 
+		- JAK2 JAK1 selective 
+		- Tyk2 moderate 
+		- JAK3 minimal 
+	- ***Upadacitinib*** 
+		- potentially JAK1 
+		- might reduce dose related toxicity with similar efficacy 
