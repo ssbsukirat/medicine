@@ -491,4 +491,13 @@
 		- severe pain and ulnar drift 
 - Pregnancy  
 	- 75% have symptomatic improve in pregnancy but flair up after 
-	- treat flairs with low dose 
+	- treat flairs with  ***low dose prednisone*** 
+	- hydroxychloroquine and sulfasalazine safesr 
+	- methotrexate leflunomide contraindicated in pregnancy 
+	- biologics +/- in pregnancy 
+	- active disease has worse outcome in pregnancy 
+	- controlling activity takes precedence 
+- Elderly Patient 
+	- 1/3 may develop after 60 
+	- equally ***effective and safety of DMARDs and biologics in young and elderly*** 
+	- higher side effects from NSAIDs 
