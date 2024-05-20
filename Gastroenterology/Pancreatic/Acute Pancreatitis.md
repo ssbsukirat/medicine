@@ -100,3 +100,10 @@
 	- 3-7 days later amylase returns to normal 
 	- Lipase elevated 7-14 days 
 	- Other conditions of elevation later to be done 
+	- Acidemia (<7.32) may elevate Amylase falsely (DKA may have amylase high without pancreatitis ) 
+	- Spurious low amylase in hypertriglyceridemia 
+	- Lipase more specific than amyase 
+- Leucocytosis 
+	- 15000-20000 
+	- frequently 
+	- if severe hem
