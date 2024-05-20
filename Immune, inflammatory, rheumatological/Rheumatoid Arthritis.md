@@ -423,3 +423,14 @@
 	- ***Upadacitinib*** 
 		- potentially JAK1 
 		- might reduce dose related toxicity with similar efficacy 
+	- side effects 
+		- elevated transaminase 
+		- neutropenia 
+		- cholesterol high 
+		- elevated creatinine 
+		- higher bacterial and herpes zoster infections 
+## Extraarticular Manifestation Treatment 
+- usually get better with management of RA 
+- aggressive early management 
+- RA-ILD challenge as drugs used for RA may cause pulmonary toxicity like methotrexate and leflunomide 
+- high dose steroids and immunosuppresants like azathioprine , MMF and rituximab maybe used 
