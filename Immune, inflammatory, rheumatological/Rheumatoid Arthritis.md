@@ -501,3 +501,4 @@
 	- 1/3 may develop after 60 
 	- equally ***effective and safety of DMARDs and biologics in young and elderly*** 
 	- higher side effects from NSAIDs 
+	- lower dose of methotrexate in 70+ for renal function 
