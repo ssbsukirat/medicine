@@ -78,4 +78,9 @@
 	- erythematous skin nodules due to subcutaneous fat necrosis 
 	- pulmonary findings in 10-20% 
 		- basilar rales 
-		- 
+		- atelectasis 
+		- pleural effusion (most commonly left sided)
+	- Abdominal 
+		- tenderness 
+		- muscle rigidity 
+		- dimnished or absent bowel sounds 
