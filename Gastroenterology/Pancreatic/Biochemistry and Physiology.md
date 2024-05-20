@@ -1,0 +1,11 @@
+- 1500-3000ml of isotonic alkaline fluid per day (pH>8)
+- 20 enzymes in fluid 
+- enzymes and bicarbonate for digestion 
+# Regulation 
+- Neurohumoral in phasic manner 
+	- cephalic 
+	- gastric 
+	- intestinal phase 
+- Gastric Acid stimulate ***secretin from Duodenal mucosa S cells*** 
+- Secretin stimulate water and electrolyte from pancreatic ductal cells 
+- 
