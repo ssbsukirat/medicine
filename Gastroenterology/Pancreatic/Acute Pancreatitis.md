@@ -106,4 +106,16 @@
 - Leucocytosis 
 	- 15000-20000 
 	- frequently 
-	- if severe hem
+- hemoconcentration
+	- and hematocrit >44% 	
+	-  if severe 
+- prerenal azotemia with BUN >22 mg/dL
+	- due to plasma loss in retroperitoneum and peritoneal 
+	- risk of mortality higher 
+- Hyperglycemia 
+	- common 
+	- decreased insulin, increased glucagon and increased adrenal glucocorticoid and catecholamines 
+- Hypocalcemia 
+	- 25% 
+	- maybe due to impaired response of PTH gland 
+	- intraperitoneal saponification of calcium by fatty acids in fat necrosis 
