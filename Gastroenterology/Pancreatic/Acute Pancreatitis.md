@@ -67,4 +67,12 @@
 	- distressed, anxious 
 	- low-grade fever, tachycardia , hypotension 
 	- shock 
-		- hypov
+		- hypovolemia secondary to blood and protein exudates in retroperitoneum 
+		- increased formation and release of kinin peptides, which cause vasodilation and increased vascular permeability 
+		- systemic effects of proteolytic and lipolytic enzymes 
+	- Jaundice 
+		- infrequent 
+		- due to compression from pancreatic edema 
+		- pancreatic head mass 
+		- CBD stone or sludhe 
+	- erythematous skin nodule
