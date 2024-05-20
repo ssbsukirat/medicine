@@ -44,4 +44,16 @@
 	- Third 
 		- effects of activated proteolytic enzymes and cytokines on distant organs 
 		- trypsin and others activate other enzymes such as elastase and phospholipase A2
-		- 
+		- digest cellular membranes and cause proteolysis, edema, interstitial hemorrhage, vascular damage, coagulation necrosis, fat necrosis, and cellular necrosis in the parenchyma.
+		- Cellular injury and death result in the liberation of bradykinin peptides, vasoactive substances, and histamine 
+		- produce vasodilation, increased vascular permeability, and edema with profound effects on other organs
+		- may lead to SIRS, [[Acute Respiratory distress syndrome - ARDS]], multiorgan failure 
+- Genetic factors 
+	- center on control of trypsin activity in acinar cell 
+	- 6 genetic variants 
+		- cationic trypsinogen gene (PRSS1)
+		- pancreatic secretory trypsin inhibitor (SPINK1) 
+		- cystic fibrosis transmembrane conductance regulator gene (CFTR)
+		- chymotrypsin C gene (CTRC)
+		- calcium-sensing receptor (CASR) 
+		- claudin-2 (CLDN2)
