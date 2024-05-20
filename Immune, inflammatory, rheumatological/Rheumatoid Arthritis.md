@@ -477,3 +477,18 @@
 		- improve pain 
 		- decrease dexterity 
 		- curb grip strength variably 
+- Surgery 
+	- varying long-term success 
+	- hands wrists feet 
+	- knee, hip, shoulder elbow better for total arthroplasty 
+	- small hand joints 
+		- silicone MCP prosthetic implants 
+		- in severe reduced range of motion 
+		- in flexure contractures 
+		- severe radiological abnormalities 
+		- ulnar drift 
+	- Arthrodesis and total wrist arthroplasty 
+		- severe pain and ulnar drift 
+- Pregnancy  
+	- 75% have symptomatic improve in pregnancy but flair up after 
+	- treat flairs with low dose 
