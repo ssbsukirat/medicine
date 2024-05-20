@@ -461,4 +461,19 @@
 - Oral triple therapy 
 	- ***hydroxychloroquine, methotrexate, and sulfasalazine*** 
 	- may be used effectively for the treatment of ***early*** RA. 
-	- Treatment may be ***initiated with methotrexate alone*** and, lacking an adequate treatment response, followed within 6 months by a step-up to oral triple therapy.
+	- Treatment may be ***initiated with methotrexate alone*** and, lacking an adequate treatment response, ***followed within 6 months by a step-up to oral triple therapy.*** 
+- Low disease activity or remission is optimal goal of therapy 
+- ![[remissionRA.png]]
+- ***SDAI*** 
+	- the sum of a tender joint and swollen joint count (using 28 joints), 
+	- patient global assessment (0–10 scale), 
+	- physician global assessment (0–10 scale)
+	- CRP (in mg/dL)
+- ***Physical activity and assistive devices*** 
+	- prescribe exercise and physical activity 
+	- ***Dynamic strength training, community-based comprehensive physical therapy, and physical-activity coaching*** (emphasizing ***achieving 150 min of moderate-to-vigorous physical activity per week)*** have all been shown to improve muscle strength and perceived health status, as well as improve DAS-28 scores and inflammatory markers
+	- foot orthotics for painful valgus 
+	- wrist splints 
+		- improve pain 
+		- decrease dexterity 
+		- curb grip strength variably 
