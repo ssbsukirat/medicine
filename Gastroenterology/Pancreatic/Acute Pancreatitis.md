@@ -75,4 +75,7 @@
 		- due to compression from pancreatic edema 
 		- pancreatic head mass 
 		- CBD stone or sludhe 
-	- erythematous skin nodule
+	- erythematous skin nodules due to subcutaneous fat necrosis 
+	- pulmonary findings in 10-20% 
+		- basilar rales 
+		- 
