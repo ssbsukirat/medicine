@@ -434,3 +434,19 @@
 - aggressive early management 
 - RA-ILD challenge as drugs used for RA may cause pulmonary toxicity like methotrexate and leflunomide 
 - high dose steroids and immunosuppresants like azathioprine , MMF and rituximab maybe used 
+# Approach to RA 
+- Principles and goals 
+	- early aggressive therapy to limit joint damage and disability 
+	- frequent modification of DMARD therapy to achieve treatment goals
+	- utilization of combination therapy where appropriate
+	- individualization of DMARD to maximize response and minimize side effects
+	- minimal use of long-term glucocorticoid therapy; 
+	- achieving low disease activity or clinical remission
+- Methotrexate 
+	- first choice 
+	- if fails, shift DMARD to combination 
+	- methotrexate , sulfasalazine , HCQ is effective (oral triple therapy )
+	- methotrexate leflunomide 
+	- methotrexate + biologics 
+		- TNF-α inhibitors in combination superior to methotrexate alone 
+- cannot predict progression accurately but high acute phase markers may be indication 
