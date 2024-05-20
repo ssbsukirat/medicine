@@ -164,3 +164,25 @@
 		- 1-2 weeks 
 		- severity is clinical not morphology 
 		- SIRS +, if persistent predisposes to organ damage 
+		- Assess respiratory , renal and CVS for organ damage 
+		- Organ Failure is Marshall score >2 for one of 3 organ systems 
+		- persistent >48h organ failure is severe pancreatitis 
+		- CT not advised for first 48h 
+	- Late phase (>2 weeks)
+		- protracted course 
+		- require imaging 
+		- organ failure is critical marker 
+		- Supportive measures like dialysis, ventilation , supplemental nutrition from NJ or parenteral route 
+		- Necrotising pancreatitis on CT is important 
+			- prolonged hospitalization 
+			- if infected , surgery 
+- Severity 
+	- Mild 
+		- without local complication or failure 
+		- in most interstitial pancreatitis 
+		- mild acute is self-limited and subsides in 3-7 day s
+		- Oral if 
+			- hunger 
+			- normal bowel function 
+			- no nausea or vomiting 
+			- liquid (full or clear ) diet 
