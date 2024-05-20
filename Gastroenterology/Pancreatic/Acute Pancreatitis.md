@@ -141,4 +141,26 @@
 		- walled-off necrosis  (NOC) 
 		- ![[atlantapancreas.png]]
 # Diagnosis 
-- 
+- any back or abdominal pain 
+- 2 out of 3 
+	- typical epigastric pain radiating to back 
+	- 3x rise in amylase and/or lipase 
+	- findings of pancreatitis on cross-sectional abdominal imaging 
+- Differential 
+	- perforation  (especially peptic ulcer)
+	- acute cholecystitis and biliary colic 
+	- acute intestinal obstrucion 
+	- mesenteric vascular occlusion 
+	- renal colic 
+	- inferior MI 
+	- dissecting aortic aneurysm 
+	- CTD with vasculitis 
+	- pneumonia 
+	- DKA 
+# Clinical course, definition , classification 
+- According to Revised Atlanta Criteria 
+- Phases of Acute pancreatitis 
+	- Early (<2 weeks)
+		- 1-2 weeks 
+		- severity is clinical not morphology 
+		- SIRS +, if persistent predisposes to organ damage 
