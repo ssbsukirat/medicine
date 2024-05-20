@@ -454,4 +454,11 @@
 	- treatment of early (<6 months) vs established disease 
 	- ***Treat-to-target approach*** 
 	- more intensive initial approach (e.g., combination DMARD therapy) has been shown to produce superior long-term outcomes compared with starting methotrexate alone
-	- usual approach is to begin with methotrexate and rapidly step up (e.g., after 3–6 months) to a combination of DMARDs or an anti-TNF or non-TNF biological agent in the absence of an adequate therapeutic response.
+	- usual approach is to begin with methotrexate and rapidly step up (e.g., after 3–6 months) to a combination of DMARDs or an anti-TNF or non-TNF biological agent in the absence of an adequate therapeutic response 
+	- ![[remissionRA.png]]
+- Some may not respond to anti-TNF or side effects , then ***switch to another anti-TNF or alternate Biologics with different mechanism*** 
+- some suggest switch to abatacept better than another anti-TNF 
+- Oral triple therapy 
+	- ***hydroxychloroquine, methotrexate, and sulfasalazine*** 
+	- may be used effectively for the treatment of ***early*** RA. 
+	- Treatment may be ***initiated with methotrexate alone*** and, lacking an adequate treatment response, followed within 6 months by a step-up to oral triple therapy.
