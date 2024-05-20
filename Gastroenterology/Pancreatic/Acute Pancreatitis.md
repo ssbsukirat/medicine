@@ -186,3 +186,13 @@
 			- normal bowel function 
 			- no nausea or vomiting 
 			- liquid (full or clear ) diet 
+			- low-fat solid diet post recovery 
+	- Moderate 
+		- transient organ failure (<48h) or
+		- local or systemic complication in absence of persistent organ failure 
+		- necrosis +/- 
+		- mortality low 
+	- Severe 
+		- persistent organ failure (>48h) of one or more organs 
+		- CT or MRI for necrosis or complication 
+		- prophylactic antibiotics no longer recommended 
