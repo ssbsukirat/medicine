@@ -51,9 +51,20 @@
 - Genetic factors 
 	- center on control of trypsin activity in acinar cell 
 	- 6 genetic variants 
-		- cationic trypsinogen gene (PRSS1)
+		- cationic trypsinogen gene (PRSS1) -- only which can precipitate isolated, rest others need other risk factors 
 		- pancreatic secretory trypsin inhibitor (SPINK1) 
 		- cystic fibrosis transmembrane conductance regulator gene (CFTR)
 		- chymotrypsin C gene (CTRC)
 		- calcium-sensing receptor (CASR) 
 		- claudin-2 (CLDN2)
+# Approach 
+- Abdominal pain is predominant symptom 
+	- mild to severe and constant incapacitating distress 
+	- epigastric , steady, boring, 
+	- radiate to back chest flanks and lower abdomen 
+- nausea, vomiting , abdominal distension 
+- Examine 
+	- distressed, anxious 
+	- low-grade fever, tachycardia , hypotension 
+	- shock 
+		- hypov
