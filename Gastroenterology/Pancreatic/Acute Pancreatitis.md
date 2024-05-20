@@ -84,3 +84,19 @@
 		- tenderness 
 		- muscle rigidity 
 		- dimnished or absent bowel sounds 
+	- Pancreas 
+		- enlarged from acute fluid collections , walled-off necrosis or pseudocyst in later course (4-6 weeks) 
+	- Cullen's sign 
+		- blue discolouration around umblicus 
+		- due to hemoperitoneum 
+	- Turners Sign 
+		- blue-red-purple or green-brown discolouration of flanks 
+		- tissue breakdown of hemoglobin 
+		- severe necrotising pancreatitis 
+# Laboratory 
+- Amylase and Lipase 3x or more above normal 
+	- exclude alternate like gut perforation , ischemia , infarct
+	- no correlation between degree of severity 
+	- 3-7 days later amylase returns to normal 
+	- Lipase elevated 7-14 days 
+	- Other conditions of elevation later to be done 
