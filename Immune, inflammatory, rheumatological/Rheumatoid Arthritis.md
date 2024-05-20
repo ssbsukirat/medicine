@@ -448,7 +448,10 @@
 	- methotrexate , sulfasalazine , HCQ is effective (oral triple therapy )
 	- methotrexate leflunomide 
 	- methotrexate + biologics 
-		- TNF-α inhibitors in combination superior to methotrexate alone 
+		- ***TNF-α inhibitors in combination superior to methotrexate alone*** 
 - cannot predict progression accurately but high acute phase markers may be indication 
 - 2015 ACR Guidelines 
-	- treatment of early (<6 months) vs established diseas
+	- treatment of early (<6 months) vs established disease 
+	- ***Treat-to-target approach*** 
+	- more intensive initial approach (e.g., combination DMARD therapy) has been shown to produce superior long-term outcomes compared with starting methotrexate alone
+	- usual approach is to begin with methotrexate and rapidly step up (e.g., after 3–6 months) to a combination of DMARDs or an anti-TNF or non-TNF biological agent in the absence of an adequate therapeutic response.
