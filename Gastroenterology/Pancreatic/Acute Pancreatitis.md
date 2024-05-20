@@ -14,4 +14,17 @@
 	- >2 contrast in pancreatic duct 
 	- endoscopy experience 
 - Hypertriglyceridemia in 1-4% 
-- 
+	- TGs >1000 
+	- most have uncontrolled or undiagnosed Diabetes 
+	- may have underlying derangements in lipid metabolism 
+	- Alcohol or drugs like OCP may cause abrupt TGs increase and pancreatitis 
+- Apolipoprotein C2 have increase incidence 
+	- activates lipoprotein lipase which clears chylomicron from blood 
+- Drug related are <2% 
+- ![[etiologyPancreatitis.png]]
+- Pathologically 
+	- Interstitial Pancreatitis 
+		- blood supply maintain 
+	- Necrotising Pancreatitis 
+		- cut off blood supply 
+	- Auto-digestion is accepted theory 
