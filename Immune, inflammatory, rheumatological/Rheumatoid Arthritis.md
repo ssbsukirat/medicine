@@ -450,3 +450,5 @@
 	- methotrexate + biologics 
 		- TNF-α inhibitors in combination superior to methotrexate alone 
 - cannot predict progression accurately but high acute phase markers may be indication 
+- 2015 ACR Guidelines 
+	- treatment of early (<6 months) vs established diseas
