@@ -118,4 +118,27 @@
 - Hypocalcemia 
 	- 25% 
 	- maybe due to impaired response of PTH gland 
-	- intraperitoneal saponification of calcium by fatty acids in fat necrosis 
+	- intraperitoneal saponification of calcium by fatty acids in fat necrosis  
+- Hyperbilirubinemia 
+	- >4
+	- 10% 
+	- transient 
+	- normal in 4-7 days 
+- Elevate transaminase 
+	- parallel bilirubin 
+	- sign of gallstones if ALT >3x normal 
+- Hypoxemia (pO2 <60mmHg)
+	- 10-20% 
+	- heralds ARDS 
+- ECG -- ST and T abnormalities like MI 
+- CT findings 
+	- Revised Atlanta Criteria 
+		- Interstitial Pancreatitis 
+		- Necrotising Pancreatitis 
+		- Acute pancreatic fluid collection 
+		- Pancreatic pseudocyst 
+		- Acute necrotic Collection (ANC) 
+		- walled-off necrosis  (NOC) 
+		- ![[atlantapancreas.png]]
+# Diagnosis 
+- 
