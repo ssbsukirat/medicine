@@ -1,1 +1,17 @@
+# Etiology 
+- Gallstones (30-60%) and Alcohol account for 80-90% 
+- more risk if gallstones <5mm (if single is <5mm there is 4x increase risk) 
+- Alcohol alone is low but with smoking and genetic predisposition high risk 
+- 5-10% of post-ERCP have pancreatitis but reduced with 
+	- proper patient selection
+	- prophylactic pancreatic duct stent 
+	- rectal NSAIDs like indomethacin 
+- risk factors for post-ERCP 
+	- minor papilla sphincterotomy 
+	- suspected Sphincter of Oddi dysfunction 
+	- Prior history of post-ERCP pancreatitis 
+	- age<60 
+	- >2 contrast in pancreatic duct 
+	- endoscopy experience 
+- Hypertriglyceridemia in 1-4% 
 - 
