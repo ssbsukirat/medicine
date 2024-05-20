@@ -28,3 +28,20 @@
 	- Necrotising Pancreatitis 
 		- cut off blood supply 
 	- Auto-digestion is accepted theory 
+# Enzyme activation in Pathogenesis 
+- 3 phases 
+	- Initial 
+		- intrapancreatic digestive enzyme activation 
+		- acinar cell injury 
+		- ***Trypsin activation*** mediated by lysosomal hydrolases such as ***cathepsin B*** that become colocalized with digestive enzymes in intracellular organelles
+		- acinar cell injury is the consequence of trypsin activation
+	- Second 
+		- activation, chemoattraction, and sequestration of leukocytes and macrophages in the pancreas, 
+		- causes enhanced intrapancreatic inflammatory reaction 
+		- Neutrophil have role in trypsin activation 
+			- early neutrophil independent 
+			- late neutrophil dependent 
+	- Third 
+		- effects of activated proteolytic enzymes and cytokines on distant organs 
+		- trypsin and others activate other enzymes such as elastase and phospholipase A2
+		- 
