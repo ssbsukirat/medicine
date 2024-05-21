@@ -48,4 +48,21 @@
 	- Shift to ketosis in liver 
 - Inflammatory markers (CRP, cytokines) elevated in both DKA and HHS
 ## Labs 
-- 
+- RBS>250 
+	- Maybe only mildly elevated
+	- Maybe normal in euglycemic DKA (sglt2 inhibitors)
+- Ketosis 
+- metabolic Acidosis
+	- Bicarbonate<15-18
+	- with high anion gap
+	- 6.8-7.3  
+- potassium
+	- Total body deficit 
+	- Maybe normal or slightly higher
+		- Acidosis
+		- Volume depletion
+- Sodium, chloride, phosphate, magnesium reduced but not accurate as hypovolemia and hyperglycemia
+- BUN and creatinine reflect volume depletion
+- Leukocytosis, TGs raised, hyperlipoproteinemia 
+- Lipase maybe increased
+	- May suspect pancreati
