@@ -183,4 +183,12 @@
 - 1-3 L saline in 2-3 hours 
 - Too rapid correction may worsen neurological status as deficit is accumulated over multiple days or weeks 
 - Use 0.45 NS if Na>150 
-- After hemodynamic stable, provide free water by 
+- After hemodynamic stable, provide free water by 0.45 NS and then D5 
+- Free water deficit upto 9-10L to be corrected in 1-2 days with 200-300ml/hour of isotonic fluid 
+- Replete potassium and measure repeatedly
+- Initially glucose lowered by volume expansion but insulin also needed 
+- 0.1 U per kg IV bolus followed by 0.1U/kg/hour infusion 
+- Increase infusion by 2x if glucose doesn't fall 
+- Add glucose to IV fluids when RBS 200-250 and lower to 0.02-0.1U/kg/hour infusion
+- Continue infusion till eating is resumed and can be put on SC
+- Discharge on insulin and may switch to orals later 
