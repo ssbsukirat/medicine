@@ -126,4 +126,25 @@
 		- Urinary potassium loss 
 	- Begin replacement as soon as urine output and normal serum potassium documented 
 	- Delay replacement if hyperkalemia initially
-	- Add 20-40 meq
+	- Add 20-40 meq for every litre of IV fluids 
+	- Potassium phosphate or acetate to reduce chloride administration
+	- Maintain K at >3.5 
+- Bicarbonate
+	- Not usually replaced 
+		- Impaired cardiac function
+		- Reduced tissue oxygenation
+		- Promotes hypokalemia 
+		- Increased risk of cerebral edema
+	- If pH<7.0 may replace
+		- 50 mmol in 200ml of sterile water with 10meq/L KCl per hour for 2 hours till pH>7.0 
+- Hypophosphatemia
+	- Increased glucose usage
+	- No need to replace
+	- If phosphate <1mg/dL then replace and monitor serum calcium 
+- Hypomagnesemia may require replacement
+- Low mortality (<1%) with appropriate management
+- Complications
+	- Venous thromboembolism
+	- Upper GI bleed
+	- ARDS 
+	- Cerebral edema
