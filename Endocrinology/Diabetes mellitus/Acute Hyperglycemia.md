@@ -171,3 +171,16 @@
 - Hyperosmolarity (>350)
 - Prerenal azotemia 
 - Sodium normal or only slightly lower despite Hyperglycemia 
+- Acidosis or ketosis mild or absent 
+- Acidosis mild but secondary to increased lactic acid
+- Ketosis moderate secondary to starvation
+
+## Treatment
+- careful monitoring like DKA
+- Treat underlying cause and precipitating factors 
+- Fluid loss and dehydration more prominent
+- Higher mortality than DKA upto 15% 
+- 1-3 L saline in 2-3 hours 
+- Too rapid correction may worsen neurological status as deficit is accumulated over multiple days or weeks 
+- Use 0.45 NS if Na>150 
+- After hemodynamic stable, provide free water by 
