@@ -12,4 +12,19 @@
 	- Continuum of Hyperglycemia
 - ![[Dkahhs.png]]
 # Diabetic Ketoacidosis
-## Clinical
+## Clinical features
+- ![[Dkafeautures.png]]
+- Nausea vomiting common and if ***present in Diabetic must evaluate for DKA***
+- Thirst polydipsia 
+- Abdominal pain severe and may resemble rupture viscus 
+- Shortness of breath
+- Develop over 24 hours 
+- Hyperglycemia causes 
+	- glucosuria, 
+	- volume depletion and 
+	- tachycardia
+- Hypotension
+	- Volume depletion
+	- Peripheral vasodilation
+- Kussmaul respiration with fruity odour (secondary to metabolic acidosis and acetone) classical 
+- Lethargy and CNS depre
