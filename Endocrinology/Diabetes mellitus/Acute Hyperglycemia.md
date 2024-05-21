@@ -85,4 +85,14 @@
 	- HAGMA causes 
 ## Treatment
 - ![[Dkamanagement.png]]
-- Start 
+- Start IV fluids, insulin then focus on cause of DKA and evaluate
+- Careful monitoring and frequent reassessment 
+- After initial bolus of NS or RL, correct fluid and sodium deficit over 24 hours 
+- Usual fluid deficit is 3-5 L 
+- When hemodynamic stable and urine output maintained, switch to 0.45 Saline of RL as it reduces hyperchloremia in DKA
+- Insulin
+	- 0.1 U/Kg as bolus 
+	- Continuous levels via infusion usually IV 0.1U/Kg/hour in severe or complicated
+	- Mild to moderate uncomplicated can give short acting SC 
+	- IV insulin till acidosis resolve and metabolic stability
+	- As acidosis resolve and insulin resistance decreased, reduces IV infusion to 0.02-0
