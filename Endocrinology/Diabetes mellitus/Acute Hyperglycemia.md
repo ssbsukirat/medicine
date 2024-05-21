@@ -148,3 +148,20 @@
 	- Upper GI bleed
 	- ARDS 
 	- Cerebral edema
+# Hyperglycemic Hyperosmolar State (HHS)
+## Clinical features
+- elderly individual with T2DM with several weeks history of polyuria, weight loss and diminished oral intake culminating in mental confusion, lethargy or coma 
+- Profound dehydration and hyperosmolar state 
+- Hypotension tachycardia and altered mental status 
+- Absent 
+	- Nausea vomiting
+	- Abdominal pain
+	- Kussmaul respiration
+- Precipitate by concurrent illness like MI or stroke, pneumonia, sepsis 
+- Reduced water intake situation may contribute to development
+## Pathophysiology
+- Relative insulin deficiency and inadequate fluid intake 
+- Insulin deficiency 
+	- Hepatic glucose production 
+	- Impaired glucose uptake by muscle 
+- Hyperglycemia causes osmotic diuresis 
