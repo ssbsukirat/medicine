@@ -95,4 +95,17 @@
 	- Continuous levels via infusion usually IV 0.1U/Kg/hour in severe or complicated
 	- Mild to moderate uncomplicated can give short acting SC 
 	- IV insulin till acidosis resolve and metabolic stability
-	- As acidosis resolve and insulin resistance decreased, reduces IV infusion to 0.02-0
+	- As acidosis resolve and insulin resistance decreased, reduces IV infusion to 0.02-0.1U/kg/hour 
+	- Long acting and short acting SC combination as soon as patient is eating to reduce length of stay 
+	- If inadequate insulin may relapse DKA 
+	- Euglycemic DKA due to SGLT2 inhibitors may have 10-14 days of effect 
+- Hyperglycemia reduces by 50-100 mg/dL per hour
+	- Insulin mediated disposal 
+	- Reduced Hepatic glucose release
+	- Rehydration
+		- Reduces catecholamines
+		- Urinary glucose loss 
+		- Expand intravascular volume
+	- May fall rapidly in 1st hour due to volume expansion
+	- Add glucose to 0.45 Saline when RBS 200-250 
+	- Maintain RBS at 150-200 with low rate insulin infusion
