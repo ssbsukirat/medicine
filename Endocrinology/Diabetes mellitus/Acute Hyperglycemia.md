@@ -108,4 +108,22 @@
 		- Expand intravascular volume
 	- May fall rapidly in 1st hour due to volume expansion
 	- Add glucose to 0.45 Saline when RBS 200-250 
-	- Maintain RBS at 150-200 with low rate insulin infusion
+	- ***Maintain RBS at 150-200 with low rate insulin infusion to inhibit ketogenesis*** 
+	- Rapid correction of glucose may cause cerebral edema
+- Ketoacidosis
+	- Resolve with insulin
+	- Insulin reduces lipolysis
+	- Increased peripheral ketone use 
+	- Lower hepatic ketosis 
+	- bicarbonate regeneration by insulin
+	- Resolve slower than Hyperglycemia 
+	- Anion gap may resolve before bicarb increase due to rise in chloride
+- Potassium
+	- Depleted (3-5meq/kg deficit)
+	- Mechanism of hypokalemia
+		- Insulin mediated transport into cells 
+		- Resolution of acidosis
+		- Urinary potassium loss 
+	- Begin replacement as soon as urine output and normal serum potassium documented 
+	- Delay replacement if hyperkalemia initially
+	- Add 20-40 meq
