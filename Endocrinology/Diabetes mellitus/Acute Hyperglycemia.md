@@ -84,4 +84,5 @@
 	- Alcohol Ketoacidosis (bicarbonate >15) 
 	- HAGMA causes 
 ## Treatment
-- 
+- ![[Dkamanagement.png]]
+- Start 
