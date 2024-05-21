@@ -27,4 +27,25 @@
 	- Volume depletion
 	- Peripheral vasodilation
 - Kussmaul respiration with fruity odour (secondary to metabolic acidosis and acetone) classical 
-- Lethargy and CNS depre
+- Lethargy and CNS depression
+	- May occur
+	- May evolve to coma in severe DKA
+	- If ***present must also evaluate for other causes*** like infection hypoxemia
+- Cerebral edema more in children
+- Look for signs of infection even in absence of fever 
+## Pathophysiology
+- relative to absolute insulin deficiency
+- Counter-regulatory hormonal excess 
+	- Glucagon
+	- Catecholamines
+	- Cortisol
+	- Growth hormone
+- Glucagon excess necessary for DKA
+	- promotes gluconeogenesis, glycogenolysis and ketone body formation
+	- Increased substrate delivery from fat and muscle  (FFAs)
+- Ketosis
+	- Marked increase in FFAs from liver 
+	- Shift to ketosis in liver 
+- Inflammatory markers (CRP, cytokines) elevated in both DKA and HHS
+## Labs 
+- 
