@@ -65,4 +65,23 @@
 - BUN and creatinine reflect volume depletion
 - Leukocytosis, TGs raised, hyperlipoproteinemia 
 - Lipase maybe increased
-	- May suspect pancreati
+	- May suspect pancreatitis
+	- But amylase of salivary origin
+	- Lipase to be sure of pancreatitis 
+- Sodium
+	- Reduced body stores 
+	- Falsely low value due to Hyperglycemia
+	- 1.6 meq fall for 100mg/dL rise in RBS
+	- If normal sodium reflects high sodium loss 
+- Ketones 
+	- Beta hydroxybutyrate is 3x as acetoacetate
+	- But acetoacetate measured easier by nitroprusside tests 
+	- Usually positive at 1:8 dilution
+	- Captopril or penicillamine may give false positive on nitroprusside
+	- Serum or plasma beta hydroxybutyrate better
+- Differential
+	- Starvation ketosis 
+	- Alcohol Ketoacidosis (bicarbonate >15) 
+	- HAGMA causes 
+## Treatment
+- 
