@@ -164,4 +164,10 @@
 - Insulin deficiency 
 	- Hepatic glucose production 
 	- Impaired glucose uptake by muscle 
-- Hyperglycemia causes osmotic diuresis 
+	- Less severe than DKA so no ketosis
+- Hyperglycemia causes osmotic diuresis exacerbated by inadequate fluid intake 
+## Labs and Diagnosis
+- Marked Hyperglycemia (sometimes>1000) 
+- Hyperosmolarity (>350)
+- Prerenal azotemia 
+- Sodium normal or only slightly lower despite Hyperglycemia 
