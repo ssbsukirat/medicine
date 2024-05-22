@@ -313,4 +313,8 @@
 		- Continued culturing of urine, monitoring of chest x-rays, and routine changing of intravenous lines are important during hospitalization.
 - Follow-up Care 
 	- development of diabetes 
-	- exocrine pancreas 
+	- exocrine pancreas insufficiency 
+	- recurrent cholangitis 
+	- infected collections 
+- Complications 
+	- ![[pancreatitiscomplicationacute.png]]
