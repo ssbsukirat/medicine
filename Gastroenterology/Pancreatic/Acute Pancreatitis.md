@@ -249,3 +249,7 @@
 		- 3 or more have higher mortality 
 	- hematocrit >44 or BUN >22 at admission have more severe acute pancreatitis 
 	- If SIRS absent in 1st 24h, unlikely to develop necrosis or organ failure 
+- Special Consideration 
+	- History , medication , labs (LFT, TGs, calcium ), USG for gallbladder 
+	- Gallstone Pancreatitis 
+		- if ascending cholangitis (Rising WBCs, LFTs)
