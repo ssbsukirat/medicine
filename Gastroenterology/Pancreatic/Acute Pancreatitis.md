@@ -236,4 +236,16 @@
 		- Rising BUN in hospital 
 			- has higher mortality 
 			- repeated volume challenge with 2L crystalloid 
+			- increase fluid rate by 1.5ml/kg/hour 
 		- Fall in hematocrit and BUN in 12-24h is sign of adequate fluids 
+- Assessment of Severity 
+	- BISAP (Bedside Index of Severity in Acute Pancreatitis) 
+		- in first 24h 
+		- BUN >25mg/dl 
+		- GCS <15 
+		- SIRS 
+		- age >60 
+		- Pleural effusion on radiography 
+		- 3 or more have higher mortality 
+	- hematocrit >44 or BUN >22 at admission have more severe acute pancreatitis 
+	- If SIRS absent in 1st 24h, unlikely to develop necrosis or organ failure 
