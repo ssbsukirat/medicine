@@ -195,4 +195,9 @@
 	- Severe 
 		- persistent organ failure (>48h) of one or more organs 
 		- CT or MRI for necrosis or complication 
-		- prophylactic antibiotics no longer recommended 
+		- prophylactic antibiotics no longer recommended
+- Imaging 
+	- Interstitial ir necrotising based on perfusion 
+	- CT with IV contrast 3-5 days after hospitalization if patient not responding to conservative management 
+	- overused in 1st 72h in mild severity 
+	- 
