@@ -323,6 +323,10 @@
 - Alcohol and cholelithiasis most common 
 - If no obvious cause 
 	- occult biliary tract disease 
-		- microlithiasis 
+		- microlithiasis  (2/3)
 		- Hypertriglyceridemia 
-		- 
+		- Pancreatic Cancer 
+		- Hereditary pancreatitis 
+# Pancreatitis In AIDS 
+- High incidence of infections like CMV, Cryptosporidium and MAC 
+- Medications like pentamidine, trimethoprim-sulfamethoxazole and protease inhibitors 
