@@ -257,4 +257,20 @@
 		- perform cholecystectomy in same admission if mild acute 
 		- if not surgical candidate, do endoscopic biliary sphincterotomy 
 	- Hypertriglyceridemia 
-		- 
+		- >1000 associated with acute pancreatitis 
+		- IV insulin for hyperglycemia corrects hypertriglyceridemia 
+		- Heparin or plasmapheresis have +/- evidence 
+		- OPD 
+			- control diabetes 
+			- lipid lowering agents 
+			- weight loss drugs 
+- Nutrition 
+	- low-fat solid diet 
+	- 2-3 days after admission in acute severe pancreatitis 
+	- Enteral 
+		- gut barrier integrity maintained 
+		- limits bacterial translocation 
+		- less expensive 
+		- less complication 
+- Management of local complication 
+	- 
