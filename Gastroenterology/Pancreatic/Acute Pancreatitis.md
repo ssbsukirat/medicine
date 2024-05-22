@@ -286,4 +286,17 @@
 		- Empirical therapy if clinical decompensated 
 		- Repeat CT or MRI for complication 
 		- Sterile necrosis managed conservative 
-		- Infected necrosis give targeted antibiotics 
+		- Infected necrosis
+			- give targeted antibiotics 
+			- drainage and/or debridement 
+			- 2/3 respond to antibiotics only 
+		- Step-up approach 
+			- percutaneous or endoscopic transgastric/transduodenal drainage followed, if necessary, by surgical necrosectomy 
+		- more conservative approach better with close supervision 
+		- conservative if successful continue for 4-6 weeks till more definite outcome either as resolution or organisation into walled-off 
+	- Pseudocyst 
+		- low incidence and most resolve spontaneous 
+		- <10% have collections after 4 weeks 
+		- symptomatic require endoscopic or surgical drainage 
+	- Pancreatic Duct Disruption 
+		- 
