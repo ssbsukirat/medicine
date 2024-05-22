@@ -200,4 +200,10 @@
 	- Interstitial ir necrotising based on perfusion 
 	- CT with IV contrast 3-5 days after hospitalization if patient not responding to conservative management 
 	- overused in 1st 72h in mild severity 
-	- 
+	- Interstitial 
+		- 90-95% 
+		- diffuse gland enlargement , homogenous contrast enhancement and mild inflammatory changes or peripancreatic stranding 
+	- Necrotising 
+		- 5-10 
+		- evolves over several days 
+		- lack of parenchymal enhance
