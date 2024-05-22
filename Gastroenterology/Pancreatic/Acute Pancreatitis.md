@@ -252,4 +252,4 @@
 - Special Consideration 
 	- History , medication , labs (LFT, TGs, calcium ), USG for gallbladder 
 	- Gallstone Pancreatitis 
-		- if ascending cholangitis (Rising WBCs, LFTs)
+		- if ascending cholangitis (Rising WBCs, LFTs) do ERCP in 24-48h 
