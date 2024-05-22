@@ -61,7 +61,7 @@
 	- Maybe normal or slightly higher
 		- Acidosis
 		- Volume depletion
-- Sodium, chloride, phosphate, magnesium reduced but not accurate as hypovolemia and hyperglycemia
+- Sodium, chloride, phosphate, magnesium reduced in body but serum concentration not accurate as hypovolemia and hyperglycemia
 - BUN and creatinine reflect volume depletion
 - Leukocytosis, TGs raised, hyperlipoproteinemia 
 - Lipase maybe increased
@@ -72,7 +72,7 @@
 	- Reduced body stores 
 	- Falsely low value due to Hyperglycemia
 	- 1.6 meq fall for 100mg/dL rise in RBS
-	- If normal sodium reflects high sodium loss 
+	- If normal sodium reflects high water loss 
 - Ketones 
 	- Beta hydroxybutyrate is 3x as acetoacetate
 	- But acetoacetate measured easier by nitroprusside tests 
