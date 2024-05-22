@@ -206,4 +206,22 @@
 	- Necrotising 
 		- 5-10 
 		- evolves over several days 
-		- lack of parenchymal enhance
+		- lack of parenchymal enhancement 
+		- findings of peripancreatic necrosis +/- 
+		- variable course 
+			- remain solid or liquefy,
+			- remain sterile or become infected, and 
+			- persist or disappear over time
+		- ***Peripancreatic necrosis only has better prognosis than pancreatic necrosis*** 
+# Management of Acute Pancreatitis 
+- 85-90 self-limited and resolve in 3-7 days 
+- In emergency ward
+	- After diagnosis , early and aggressive fluid resuscitation
+		- if non responding , admit to ICU for aggressive management , monitor and organ failure management 
+	- IV analgesia 
+	- Assess Severity 
+	- Etiology 
+- Fluid Resuscitation 
+	- early aggressive 
+	- prevents systemic complication from SIRS 
+	- initially NPO 
