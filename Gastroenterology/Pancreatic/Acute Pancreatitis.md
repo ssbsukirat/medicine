@@ -299,4 +299,18 @@
 		- <10% have collections after 4 weeks 
 		- symptomatic require endoscopic or surgical drainage 
 	- Pancreatic Duct Disruption 
-		- 
+		- Increasing abdominal pain or SOB in setting of enlarging fluid collection resulting in ***pancreatic ascites*** 
+		- confirm by MRCP or ERCP 
+		- Bridging pancreatic stent for 6 weeks or more resolves 90% cases 
+		- Non-bridging stents less useful but give with parenteral nutrition and octreotide 
+	- Perivascular Complications 
+		- Splenic vein thrombosis with gastric varices and pseudoaneurysms 
+		- portal or SMV thromboses 
+		- Gastric varices bleed rarely 
+		- Pseudoaneurysms rupture diagnosis by mesenteric angiography and embolisation 
+	- Extrapancreatic Infections 
+		- monitored for the development of pneumonia, urinary tract infection, and line infection. 
+		- Continued culturing of urine, monitoring of chest x-rays, and routine changing of intravenous lines are important during hospitalization.
+- Follow-up Care 
+	- development of diabetes 
+	- exocrine pancreas 
