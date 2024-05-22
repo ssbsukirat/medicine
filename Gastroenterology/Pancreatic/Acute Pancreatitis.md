@@ -253,3 +253,8 @@
 	- History , medication , labs (LFT, TGs, calcium ), USG for gallbladder 
 	- Gallstone Pancreatitis 
 		- if ascending cholangitis (Rising WBCs, LFTs) do ERCP in 24-48h 
+		- Higher risks of recurrent 
+		- perform cholecystectomy in same admission if mild acute 
+		- if not surgical candidate, do endoscopic biliary sphincterotomy 
+	- Hypertriglyceridemia 
+		- 
