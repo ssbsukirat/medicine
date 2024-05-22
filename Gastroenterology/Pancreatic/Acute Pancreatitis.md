@@ -318,3 +318,11 @@
 	- infected collections 
 - Complications 
 	- ![[pancreatitiscomplicationacute.png]]
+# Recurrent Acute Pancreatitis 
+- 25 % have recurrent 
+- Alcohol and cholelithiasis most common 
+- If no obvious cause 
+	- occult biliary tract disease 
+		- microlithiasis 
+		- Hypertriglyceridemia 
+		- 
