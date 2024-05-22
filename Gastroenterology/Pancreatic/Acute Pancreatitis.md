@@ -273,4 +273,17 @@
 		- less expensive 
 		- less complication 
 - Management of local complication 
-	- 
+	- Include 
+		- necrosis 
+		- pseudocyst 
+		- Duct disruption 
+		- peripancreatic vascular complication 
+		- extrapancreatic infections 
+	- Necrosis 
+		- multidisciplinary team 
+		- Percutaneous fine needle aspiration +/- depends on institutional preference 
+		- No role of prophylactic antibiotics 
+		- Empirical therapy if clinical decompensated 
+		- Repeat CT or MRI for complication 
+		- Sterile necrosis managed conservative 
+		- Infected necrosis give targeted antibiotics 
