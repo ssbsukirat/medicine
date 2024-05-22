@@ -224,4 +224,16 @@
 - Fluid Resuscitation 
 	- early aggressive 
 	- prevents systemic complication from SIRS 
-	- initially NPO 
+	- initially NPO to reduce nutrient induced pancreatic stimulation 
+	- IV analgesia to control abdominal pain 
+	- supplemental O2 
+	- IV NS or RL at 15-20mL/kg (1000-1400mL) bolus followed by 2-3mL/kg/hour (200-250ml/hour)
+	- serial bedside evaluation at 6-8h to assess vitals 
+	- RL reduces systemic inflammation  (lower CRP) and better than NS 
+	- Targeted Resuscitation Strategy 
+		- measure hematocrit and BUN every 8-12h 
+		- less aggressive in milder pancreatitis 
+		- Rising BUN in hospital 
+			- has higher mortality 
+			- repeated volume challenge with 2L crystalloid 
+		- Fall in hematocrit and BUN in 12-24h is sign of adequate fluids 
