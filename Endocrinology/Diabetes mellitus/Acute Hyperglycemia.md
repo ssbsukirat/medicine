@@ -23,7 +23,7 @@
 	- glucosuria, 
 	- volume depletion and 
 	- tachycardia
-- Hypotension
+- Hypotension due to
 	- Volume depletion
 	- Peripheral vasodilation
 - Kussmaul respiration with fruity odour (secondary to metabolic acidosis and acetone) classical 
