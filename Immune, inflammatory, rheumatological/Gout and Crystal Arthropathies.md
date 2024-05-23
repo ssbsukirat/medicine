@@ -22,3 +22,22 @@
 	- Modifiable risk factors
 		- Obesity
 		- Western diet 
+		- Alcohol
+		- Sedentary lifestyle
+		- **Dieuretics** 
+## Clinical manifestation
+- Acute recurrent gout flares 
+- Usually one joint is affected, oligo and polyarticular flares may happen over time 
+- MTP of 1st toe in 70-90% (podagra)
+- Others
+	- Tarsal joint
+	- Ankle 
+	- Knees 
+	- Finger wrist elbow in elderly or advance disease
+- Flares
+	- At night to early morning
+	- Most painful condition
+	- Affected joint rapidly becomes warm tender and swollen
+	- Appearance mimics cellulitis (***pseduocellulitis*** ) 
+	- Spontaneous subsides 
+	- May have variable interval of no 
