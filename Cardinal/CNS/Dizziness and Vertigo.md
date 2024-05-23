@@ -51,4 +51,5 @@
 		- Alignment by cover test 
 		- Vertical misalignment in brainstem or cerebellar lesion
 		- Spontaneous Nystagmus - involuntary back and forth movement of eyes 
-		- Jerk type most common, slow drift 
+		- Jerk type most common, slow drift (slow phase) in one direction alternate with rapid saccadic movement (fast phase) in opposite direction 
+		- If primary position nystagmus in light, usually central Pathology (except vestibular neuritis)
