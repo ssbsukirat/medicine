@@ -167,4 +167,9 @@
 - CPPD predominantly affect elderly 
 - Doubling prevalence with each decade >60years age (>50% in 85 year)
 - Most asymptomatic with unclear etiology 
-- ***Increased levels of inorganic pyrophosphate*** in cartilage matrix central to Pathogenesis 
+- Pathophysiology
+	- ***Increased levels of inorganic pyrophosphate*** in cartilage matrix central to Pathogenesis 
+	- Pyrophosphate combine with calcium to form CPP crystal in cartilage matrix vesicles or Collagen fibres 
+	- Inorganic pyrophosphate from extracellular ATP breakdown 
+	- ANKH gene mutation increase elaboration and extracellular transport of pyrophosphate 
+	- Higher activity of ATP pyrophosphohydrolase and 5-neuclotidase which catalyse ATP to adenosine and Pyrophosphate 
