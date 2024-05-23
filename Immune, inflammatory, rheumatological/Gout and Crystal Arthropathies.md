@@ -256,4 +256,16 @@
 	- Usually reported in patients of long-term hemodialysis or peritoneal dialysis 
 	- Many patients have previously received ascorbic acid supplement which is metabolised to oxalate and cannot be excretes in CKD 
 	- Avoid supplements of ascorbic acid or oxalate rich food in CKD patients on dialysis
-	- Crystals shed from bone cartilage synovium and cause acute synovitis
+	- Crystals shed from bone cartilage synovium and cause acute synovitis 
+	- Persistent aggregate may stimulate synovial cell proliferation and enzyme release causing joint destruction 
+	- Primary oxalosis is rare disorder where this maybe seen 
+- Clinical
+	- Same as MSU CPP of apatite 
+	- Chondrocalcinosis or soft tissue calcification 
+	- Non-inflammatory with leucocytes <2000 or mild inflammatory 
+	- Variable shape and bifringence of crystals
+	- Most common crystal bipyramidal with strong bifringence and stain with Alizarin red S 
+- Treatment
+	- NSAIDs colchicine or Glucocorticoids limited effect
+	- Increased dialysis some effect
+	- Liver transplantation in primary oxalosis
