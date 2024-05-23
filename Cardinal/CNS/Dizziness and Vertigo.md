@@ -61,4 +61,16 @@
 	- Head impulse test 
 		- Most useful bedside test for peripheral vestibular system
 		- Vestibulo-ocular reflex is assessed with small amplitude (20 degree) rapid head rotation
-		- If VOR deficient, catch-up saccade in opposite direction of movement
+		- If VOR deficient, catch-up saccade in opposite direction of movement 
+		- Can identify bilateral or unilateral lesions (catch-up saccade after rotation to weak side) 
+	- Dix-Hallpike maneuver 
+		- In all patients with episodic dizziness 
+		- Sitting with head turned 45 degree
+		- Then lowered into supine with head extended to 20 degree while watching eyes -- if ***transient upbeating-torsional nystagmus then Posterior canal BPPV*** 
+		- If no nystagmus for 15-20s turn head to opposite side and repeat 
+	- Dynamic visual acuity
+		- Functional test of vestibular function 
+		- Visual acuity tested at rest then when head is rotated back and forth at 1-2hz 
+		- If drop is more than one line in near or Snellen then abnormal test 
+- Ancillary tests 
+- 
