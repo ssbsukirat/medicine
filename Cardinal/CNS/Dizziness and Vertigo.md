@@ -4,3 +4,10 @@
 	- Faintness
 	- Imbalance
 - Vertigo is sense of spinning or other motion that maybe physiological (sustained head rotation) or pathological (vestibular dysfunction)
+- Many causes
+	- Peripheral disorders that affect Labrinth or vestibular nerves 
+	- Central vestibular pathway disruption
+	- Paroxysmal 
+	- Fixed unilateral or bilateral vestibular deficit 
+	- Acute unilateral lesions cause due to imbalance in input
+	- Bilateral lesions cause imbalance and instability of vision ()
