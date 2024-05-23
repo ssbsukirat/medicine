@@ -171,5 +171,14 @@
 	- ***Increased levels of inorganic pyrophosphate*** in cartilage matrix central to Pathogenesis 
 	- Pyrophosphate combine with calcium to form CPP crystal in cartilage matrix vesicles or Collagen fibres 
 	- Inorganic pyrophosphate from extracellular ATP breakdown 
-	- ANKH gene mutation increase elaboration and extracellular transport of pyrophosphate 
+	- ANKH gene mutation (responsible for regulating ATP efflux) increase elaboration and extracellular transport of pyrophosphate 
 	- Higher activity of ATP pyrophosphohydrolase and 5-neuclotidase which catalyse ATP to adenosine and Pyrophosphate 
+	- Lower cartilage glycosaminoglycans and higher transglutaminases enzyme also contribute
+	- Release of CPP crystal in joint is followed by ingestion by macrophages and neutrophil, release of inflammatory mediators and inflammasome activation
+	- Consider hereditary cause of age <50 
+	- Endocrine metabolic condition associated are 
+		- Hyperparathyroidism
+		- Hemochromatosis
+		- Hypophosphatasia 
+		- Hypomagnesemia
+	- 
