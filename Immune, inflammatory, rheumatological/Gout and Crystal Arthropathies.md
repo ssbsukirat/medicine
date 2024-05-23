@@ -237,3 +237,17 @@
 	- Minimal to severe pain 
 	- Disability may lead to joint replacement
 	- ![[Apatiteclinical.PNG]]
+- Diagnosis
+	- Intra or periarticular calcification with or without erosive, destructive or hypertrophic changes in radiographs 
+	- Synovial fluid leukocyte count low (<2000) with mononuclear cell 
+	- Identification of crystals in fluid or tissue 
+	- Individual crystals only on electron microscopy
+	- Clumps may appear as 1-20um shiny extra or intracellular ***non-bifringent globules staining purple with Wright's stain and bright red with Alizarin red S*** 
+- Treatment
+	- Nonspecific
+	- Acute attacks self-limited resolve in days to weeks 
+	- Aspiration of effusion
+	- Intraarticular or periarticular depot Glucocorticoids
+	-  NSAIDs or oral colchicine for 2 weeks 
+	- Phophate lowering agents may lead to resorption of deposit in renal failure patients with Dialysis
+# CaO
