@@ -91,4 +91,22 @@
 - Acute 
 	- NSAIDs, colchicine, Glucocorticoids mainstay 
 	- Depends on comorbidities, other drugs and response 
-	- Early initiation of anti-inflammatory re
+	- Early initiation of anti-inflammatory reduces severity of flares 
+	- NSAIDs
+		- Most common if no underlying comorbidities
+		- Full anti-inflammatory doses 
+			- Indomethacin 25-50 TID 
+			- naproxen 500 BD 
+			- Ibuprofen 800 TID 
+			- celecoxib 800 followed by 400 mg 12 hour later then 400 BD 
+	- Oral colchicine
+		- Effective particularly in early flare 
+		- Low dose regimen
+			- 1.2mg stat followed by 0.6mg in 1 hour then next day dose according to response
+			- Better tolerated and same effect as high dose 
+		- P-glycoprotein (MDR 1) eliminate via liver , small intestine and kidney and enteric and Hepatic cytochrome CYP3A4 
+		- Reduce dose in renal disease or other CYP3A4 inhibitors like clarithromycin or tacrolimus 
+		- Caution in hepatorenal impairment
+	- Glucocorticoids
+		- IM injection 
+		- Oral Prednisone (30-50m)
