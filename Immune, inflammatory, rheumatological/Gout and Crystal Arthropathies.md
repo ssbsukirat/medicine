@@ -7,4 +7,18 @@
 	- super-saturation and crystal formation and deposition of MSU in joints and connective tissue 
 - Untreated may progress to chronic gouty arthritis , low-grade persistent synovitis and erosive deformities due to deposition of MSU crystals 
 - Humans only mammals to have gout due to ***loss of uricase (converts urate to allantoin)*** 
-- 
+- chronic hyperuricemia prerequisite but other factors
+	- ![[Goutfactors.PNG]]
+- Uric acid exists as urate at physiological pH as it is weak acid (pKa 5.8) 
+- Hyperuricemia
+	- Insulin resistance syndrome part 
+	- Associated with multiple comorbidities
+		- Obesity
+		- Hypertension
+		- Type 2 DM 
+		- Myocardial infarct
+		- Stroke 
+		- Urate nephrolithiasis
+	- Modifiable risk factors
+		- Obesity
+		- Western diet 
