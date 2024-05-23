@@ -218,4 +218,16 @@
 	- NSAIDs, colchicine, low dose Glucocorticoids, HCQ or methotrexate for chronic synovitis have some limited studies
 	- If progressive destructive large joint inflammation, joint replacement
 # Calcium Apatite Deposit Disease
-- 
+- Pathogenesis
+	- Apatite primary mineral of normal bone and teeth 
+	- Abnormal deposition of basic calcium phosphates (largely carbonate substituted Apatite)
+	- Occurs in 
+		- Dystrophic calcification (in areas of tissue damage)
+		- Hypercalcaemia or hyperparathyroidism (metastatic calcification)
+		- Connective tissue disease (calcinosis) 
+		- CKD (hyperphosphatemia contribute to deposit in and around joint)
+		- Familial aggregation rare 
+	- Synovial lining cell or fibroblasts exposed to Apatite undergo mitosis and release PGE2 Cytokines, collagenase and neutral proteases which cause destruction 
+	- Crystals seen in 30-50% of patients with osteoarthritis
+- Clinical 
+	- 
