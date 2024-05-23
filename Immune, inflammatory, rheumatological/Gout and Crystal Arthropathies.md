@@ -127,4 +127,21 @@
 	- Allopurinol
 		- Xanthine oxidase inhibitor 
 		- Single morning dose 100mg titrated upto 800mg Daily
-		- Target 
+		- Target uric acid <5-6 mg 
+		- Lower dose in CKD with clearance (30-45 start with 50mg ) and slower titration
+		- Lower dose and uptitration reduces SCARs risk (Severe Cutaneous Adverse Reactions) and flare due to rapid fall
+			- Steven Johnson's syndrome
+			- Toxic Epidermal Necrolysis 
+		- Risk factors for SCARs
+			- CKD
+			- High initial dose 
+			- HLA B5801 
+			- Older age 
+			- Female sex 
+	- Febuxostat 
+		- Newer xanthine oxidase inhibitor
+		- Predominant glucoronide and oxidative metabolism in liver 
+		- No modification in moderate to severe CKD
+	- Uricosuric (probenacid)
+		- second line
+		- Use in good renal function wi
