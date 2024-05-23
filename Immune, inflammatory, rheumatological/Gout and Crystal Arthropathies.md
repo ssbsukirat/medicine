@@ -144,4 +144,21 @@
 		- No modification in moderate to severe CKD
 	- Uricosuric (probenacid)
 		- second line
-		- Use in good renal function wi
+		- Use in good renal function with allopurinol or febuxostat or as monotherapy  
+		- Start at 250 BD and increase to 3g/day 
+		- Probenecid not useful if creatinine >2mg/dL 
+		- ***Benzbromarone*** 
+			- More effective in CKD 
+	- Other drugs used for other treatments
+		- Avoid loop or thiazide Diuretic
+		- Losartan, Amlodipine, fenofibrate and SGLT2 inhibitors 
+	- Pegloticase 
+		- Pegylated uricase 
+		- For patients failing full dose of other treatments
+	- Avoid in acute flares as it may worsen 
+	- Give in resolution phase or after flare with anti-inflammatory prophylaxis 
+	- Paradoxical flares
+		- Initiation with urate lowering therapy
+		- Due to inflammatory response to MSU shedding from  tophi (organised synovial MSU deposit) 
+		- Prophylaxis antiinflammatory reduces 
+		- Give prophylaxis till patient is nor
