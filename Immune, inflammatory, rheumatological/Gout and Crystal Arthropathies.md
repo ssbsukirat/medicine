@@ -73,4 +73,22 @@
 		- Large number of crystal means thick, pasty, chalky joint fluid or drainage
 		- Always stain and culture for septic arthritis as infection may coexist
 		- MSU maybe demonstrated in 1st MTP and knee between flares also 
-	- Serum urate levels maybe low or normal at time of flares due to uricosuric property of IL-6 lowering it by 
+	- Serum urate levels maybe low or normal at time of flares due to uricosuric property of IL-6 lowering it by 2mg 
+	- Always check historic or postflare urate levels 
+- Radiology
+	- Plain
+		- Cystic changes 
+		- Well defined erosion with sclerotic change and overhanging bony edges 
+		- Soft tissue masses  
+		- Absent in early stages 
+	- Musculoskeletal USG
+		- Early diagnosis
+		- Double contour sign over the articular cartilage (MSU deposit)
+	- Dual energy CT
+		- 2 different energy beams 
+		- Identify MSU based in chemical process
+## Treatment
+- Acute 
+	- NSAIDs, colchicine, Glucocorticoids mainstay 
+	- Depends on comorbidities, other drugs and response 
+	- Early initiation of anti-inflammatory re
