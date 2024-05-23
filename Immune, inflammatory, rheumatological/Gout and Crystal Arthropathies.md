@@ -181,4 +181,20 @@
 		- Hemochromatosis
 		- Hypophosphatasia 
 		- Hypomagnesemia
-	- 
+	- ![[CPPDfactors.PNG]]
+- Clinical 
+	- Acute CPP crystal arthritis was aka ***PSEUDOGOUT*** 
+	- Knee followed by wrist while 1st MTP is rare 
+	- Shoulder ankle elbow hands 
+	- Episodes longer than gout flares, lasting weeks to months 
+	- May have fever, chills and acute phase reactants high 
+	- Precipitation
+		- Trauma
+		- Medical illness
+		- Surgery specially parathyroidectomy
+	- Chronic 
+		- Several pattern 
+		- Polyarticular arthritis resembling osteoarthritis most common (but atypical joined like MCP, wrist, elbow, shoulder or anklr)
+		- Chronic symmetric synovitis less common
+		- Severe destructive disease mimicking neuropathic arthritis 
+		- Intervertebral disc calcification and 
