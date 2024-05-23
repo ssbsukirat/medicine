@@ -1,0 +1,6 @@
+- Dizziness imprecise symptom including
+	- Vertigo 
+	- Lightheadedness (classic means presyncopal sensation due to brain hypoperfusion)
+	- Faintness
+	- Imbalance
+- Vertigo is sense of spinning or other motion that maybe physiological (sustained head rotation) or pathological (vestibular dysfunction)
