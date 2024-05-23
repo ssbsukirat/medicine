@@ -230,4 +230,10 @@
 	- Synovial lining cell or fibroblasts exposed to Apatite undergo mitosis and release PGE2 Cytokines, collagenase and neutral proteases which cause destruction 
 	- Crystals seen in 30-50% of patients with osteoarthritis
 - Clinical 
-	- 
+	- periarticular or articular deposit present with acute reversible inflammation or chronic damage to joint capsule, tendons, bursae or articular surface
+	- ***Most common sites are bursae and tendons*** around knee shoulder hip fingers 
+	- In synovial fluid, aggregate cause extremely destructive arthropathy of elderly in shoulder called ***Milwaukee Shoulder*** 
+	- Indolent progression 
+	- Minimal to severe pain 
+	- Disability may lead to joint replacement
+	- ![[Apatiteclinical.PNG]]
