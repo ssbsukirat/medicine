@@ -109,4 +109,22 @@
 		- Caution in hepatorenal impairment
 	- Glucocorticoids
 		- IM injection 
-		- Oral Prednisone (30-50m)
+		- Oral Prednisone (30-50mg/day) followed by tapering with resolution
+		- In single or fee joint, Intraarticular injection useful 
+		- Anakinra (IL-1Beta and inflammasome role ) 
+- Urate lowering therapy
+	- Ultimate control of gout 
+	- Subsaturation point (<5-6mg/dl) prevent flare and reduces tophi 
+	- Required for life 
+	- Consider if cannot be corrected by risk factor management
+		- Body weight
+		- Healthy diet 
+		- limiting alcohol use 
+		- Reduce fructose rich fruit and beverage
+		- Avoid loop and thiazides 
+	- Decide on basis of number of flares, severity and duration of flares, quality of life and willingness to commit lifelong
+	- Initiate in all patients with subcutaneous tophi, chronic gouty arthritis or uric acid stones 
+	- Allopurinol
+		- Xanthine oxidase inhibitor 
+		- Single morning dose 100mg titrated upto 800mg Daily
+		- Target 
