@@ -161,4 +161,10 @@
 		- Initiation with urate lowering therapy
 		- Due to inflammatory response to MSU shedding from  tophi (organised synovial MSU deposit) 
 		- Prophylaxis antiinflammatory reduces 
-		- Give prophylaxis till patient is nor
+		- Give prophylaxis till patient is normouricemic and without attack for 3-6 months or tophi disappear
+
+# Calcium Pyrophosphate Deposition Disease
+- CPPD predominantly affect elderly 
+- Doubling prevalence with each decade >60years age (>50% in 85 year)
+- Most asymptomatic with unclear etiology 
+- ***Increased levels of inorganic pyrophosphate*** in cartilage matrix central to Pathogenesis 
