@@ -40,4 +40,27 @@
 	- Affected joint rapidly becomes warm tender and swollen
 	- Appearance mimics cellulitis (***pseduocellulitis*** ) 
 	- Spontaneous subsides 
-	- May have variable interval of no 
+	- May have variable interval of no symptoms in between (***intercritical gout***)
+	- Trigger
+		- Purine rich foods 
+		- Alcohol
+		- Diuretic use 
+		- Initial urate lowering therapy
+		- Local Trauma 
+		- CHF, respiratory hypoxic conditions
+- Chronic gouty arthritis
+	- After years of flares without treatment
+	- Ongoing synovitis, subcutaneous tophi, deformity and bony destruction 
+	- Maybe the only manifestation rarely
+	- May have only tophi very rarely
+- Women 
+	- 5-20% of all gout patients
+	- postmenopausal and elderly
+	- Have osteoarthritis, hypertension or mild renal insufficiency
+	- Usually receiving Diuretic 
+	- Premenopausal rare but precocious gout in young women has been described caused by decreased urate clearance and renal insufficiency
+## Diagnosis
+- Labs 
+	- Confirm with needle aspiration as mimicry by 
+		- Acute septic arthritis
+		- Crystal associated a
