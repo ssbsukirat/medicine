@@ -10,4 +10,17 @@
 	- Paroxysmal 
 	- Fixed unilateral or bilateral vestibular deficit 
 	- Acute unilateral lesions cause due to imbalance in input
-	- Bilateral lesions cause imbalance and instability of vision ()
+	- Bilateral lesions cause imbalance and instability of vision (***==oscillopsia==***) due to loss of normal vestibular reflexes 
+- Presyncopal Dizziness
+	- Cardiac dysrhythmias, orthostatic hypotension, medication or other cause of brain hypoperfusion
+	- Vary in duration 
+	- May increase in severity till loss of consciousness or may resolve spontaneous
+	- Consider in patients with episode of dizziness in upright position
+- Questions
+	- Dangerous (dysrhythmias, TIA or stroke)
+	- Vestibular? 
+	- If vestibular, peripheral or central! 
+# Approach
+- History 
+	- Unilateral or bilateral, acute or chronic
+	- Vertigo is illusion of self or environmental motion
