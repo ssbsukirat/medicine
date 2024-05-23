@@ -197,4 +197,9 @@
 		- Polyarticular arthritis resembling osteoarthritis most common (but atypical joined like MCP, wrist, elbow, shoulder or anklr)
 		- Chronic symmetric synovitis less common
 		- Severe destructive disease mimicking neuropathic arthritis 
-		- Intervertebral disc calcification and 
+		- Intervertebral disc calcification and ligament calcification 
+		- Crowned dens syndrome 
+		- Spinal stenosis in elderly
+		- Tumoral CPP deposit in soft tissue
+	- radiographic or USG if punctate or linear radiodense deposit in fibrocartilage joint menisci or articular hyaline cartilage (chondrocalcinosis) increases chance of diagnosis
+	- Definite diagnosis needs typical rhomboid or rod-like crystal (weak positive bifringence of non-bifringent to polarised light) in synovial fluid or articular tissue
