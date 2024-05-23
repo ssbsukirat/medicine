@@ -23,4 +23,24 @@
 # Approach
 - History 
 	- Unilateral or bilateral, acute or chronic
-	- Vertigo is illusion of self or environmental motion
+	- Vertigo is illusion of self or environmental motion 
+	- Symmetric bilateral vestibular dysfunction causes imbalance but not vertigo 
+	- History is unreliable due to imprecise symptom
+	- Dizziness
+		- Episodes lasting seconds, minutes, hours or days 
+		- Seconds 
+			- BPPV 
+			- Orthostatic hypotension 
+			- Both provoked by change in head or body posture 
+		- Minutes 
+			- Posterior circulation TIAs 
+			- Migraine
+		- Hours 
+			- Vestibular migraine
+			- Menieres disease
+	- Peripheral vs Central 
+		- Unilateral hearing loss and acute aural symptoms (ear pain, pressure, fullness, tinnitus) point to peripheral 
+		- Double vision, ataxia, numbness imply central cause 
+- Examination
+	- Neurological examination important 
+	- Assess eye movements, vestibular
