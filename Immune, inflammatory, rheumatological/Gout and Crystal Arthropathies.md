@@ -61,6 +61,16 @@
 	- Premenopausal rare but precocious gout in young women has been described caused by decreased urate clearance and renal insufficiency
 ## Diagnosis
 - Labs 
-	- Confirm with needle aspiration as mimicry by 
-		- Acute septic arthritis
-		- Crystal associated a
+	- Confirm with needle aspiration 
+		- as mimicry by 
+			- Acute septic arthritis
+			- Crystal associated arthropathy
+			- Palindromic rheumatism 
+			- Psoriatic arthritis
+		- Needle shaped MSU crystals typically in acute gout both intracellular and extracellular 
+		- Bright negative bifringence on compressed polarised light 
+		- Cloudy synovial fluid due to leucocytes (5000-75000) 
+		- Large number of crystal means thick, pasty, chalky joint fluid or drainage
+		- Always stain and culture for septic arthritis as infection may coexist
+		- MSU maybe demonstrated in 1st MTP and knee between flares also 
+	- Serum urate levels maybe low or normal at time of flares due to uricosuric property of IL-6 lowering it by 
