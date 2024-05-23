@@ -203,3 +203,19 @@
 		- Tumoral CPP deposit in soft tissue
 	- radiographic or USG if punctate or linear radiodense deposit in fibrocartilage joint menisci or articular hyaline cartilage (chondrocalcinosis) increases chance of diagnosis
 	- Definite diagnosis needs typical rhomboid or rod-like crystal (weak positive bifringence of non-bifringent to polarised light) in synovial fluid or articular tissue
+	- If no joint effusion and no indication of synovial biopsy, chondrocalcinosis is Diagnostic (except chondrocalcinosis due to CaOx in CKD) 
+	- Many have low grade fever or even upto 104 in these cases aspirate to rule out septic arthritis 
+	- Leucocytes range from 1000s to 100000 cells with mean around 24000 mainly neutrophil
+- Treatment
+	- Similar to gout flare 
+	- Ice pack with rest 
+	- Aspiration of joint 
+	- Glucocorticoid injection
+	- Oral colchicine
+	- NSAIDs
+	- Systemic steroids
+	- Colchicine prophylaxis in frequent relapses
+	- NSAIDs, colchicine, low dose Glucocorticoids, HCQ or methotrexate for chronic synovitis have some limited studies
+	- If progressive destructive large joint inflammation, joint replacement
+# Calcium Apatite Deposit Disease
+- 
