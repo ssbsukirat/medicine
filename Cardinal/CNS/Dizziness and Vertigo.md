@@ -53,3 +53,12 @@
 		- Spontaneous Nystagmus - involuntary back and forth movement of eyes 
 		- Jerk type most common, slow drift (slow phase) in one direction alternate with rapid saccadic movement (fast phase) in opposite direction 
 		- If primary position nystagmus in light, usually central Pathology (except vestibular neuritis)
+		- Cerebellar characteristic nystagmus
+			- Vertical nystagmus with downward fast phase (downbeat)
+			- Horizontal nystagmus Changing with gaze (gaze evoked nystagmus)
+		- Peripheral lesions cause unidirectional horizontal nystagmus
+		- Frenzel eyeglasses (self-illuminated goggles with convex lens to blur patients vision but allow examination with amplification) aid in peripheral vestibular nystagmus detection as they limit ability of fixation to eliminate
+	- Head impulse test 
+		- Most useful bedside test for peripheral vestibular system
+		- Vestibulo-ocular reflex is assessed with small amplitude (20 degree) rapid head rotation
+		- If VOR deficient, catch-up saccade in opposite direction of movement
