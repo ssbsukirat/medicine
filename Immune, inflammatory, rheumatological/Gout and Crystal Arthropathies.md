@@ -250,4 +250,10 @@
 	- Intraarticular or periarticular depot Glucocorticoids
 	-  NSAIDs or oral colchicine for 2 weeks 
 	- Phophate lowering agents may lead to resorption of deposit in renal failure patients with Dialysis
-# CaO
+# CaOx deposit disease
+- Pathogenesis
+	- CaOx deposit in CKD in organs, vessels, bone and cartilage 
+	- Usually reported in patients of long-term hemodialysis or peritoneal dialysis 
+	- Many patients have previously received ascorbic acid supplement which is metabolised to oxalate and cannot be excretes in CKD 
+	- Avoid supplements of ascorbic acid or oxalate rich food in CKD patients on dialysis
+	- Crystals shed from bone cartilage synovium and cause acute synovitis
