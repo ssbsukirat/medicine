@@ -46,7 +46,7 @@
 	- Assess eye movements, vestibular function, hearing
 	- Eyes 
 		- Range of eye movements and if bilaterally equal 
-		- Peripheral eye movement disorders like cranial neuropathy, eye muscle weakness ***disconjugate***  
+		- Peripheral eye movement disorders like cranial neuropathy, eye muscle weakness ***disconjugate***
 		- Pursuit (follow smooth moving target) and saccades (back and forth between 2 targets) if weak imply cerebellar Pathology or central 
 		- Alignment by cover test 
 		- Vertical misalignment in brainstem or cerebellar lesion
@@ -82,3 +82,5 @@
 	- Vestibular evoked potentials for otolith reflexes 
 	- Neuroimaging if central is suspected
 	- If unexplained unilateral hearing loss or vestibular hypofunction, MRI internal auditory canal with gadolinium contrast for schwannoma 
+# Differential 
+- 
