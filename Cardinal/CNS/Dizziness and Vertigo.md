@@ -94,3 +94,12 @@
 	- dysarthria 
 - Acute peripheral unlikely if head impulse normal 
 - Central cannot be excluded by examination alone so rule out stroke in elderly with vascular risk factors 
+- Vestibular Neuritis most recover spontaneous , but some chronic dizziness , motion sensitivity and disequilibrium may persist 
+- Glucocorticoid therapy +/- 
+- Antiviral only in ***Ramsay Hunt Syndrome*** (herpes zoster oticus )
+- Vestibular suppresant dont give beyond first few days as may delay central compensation and recovery 
+# Benign Paroxysmal Positional Vertigo 
+- recurrent vertigo 
+- brief episodes (<1 min, typical 15-20s) 
+- always provoked by change in head position relative to gravity 
+- rolling over in bed to differentiate  BPPV vs orthostatic hypotension 
