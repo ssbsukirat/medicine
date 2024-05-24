@@ -164,4 +164,8 @@
 - Phobic postural Vertigo/ psychophysiological vertigo/ chronic subjective dizziness earlier but now known as Persistent postural-perceptual dizziness (PPPD)
 - Chronic (3 months) feeling of fluctuating dizziness and disequilibrium at rest but worse on standing 
 - increased sensitivity to self motion and visual motion 
-- 
+- past history of neuritis maybe present 
+- all otological and vestibular testing normal or compensated vestibular disorder  
+- SSRIs , cognitive behavioral therapy and vestibular rehab 
+- avoid suppresant 
+# Treatment 
