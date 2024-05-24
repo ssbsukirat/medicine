@@ -82,7 +82,7 @@
 	- Vestibular evoked potentials for otolith reflexes 
 	- Neuroimaging if central is suspected
 	- If unexplained unilateral hearing loss or vestibular hypofunction, MRI internal auditory canal with gadolinium contrast for schwannoma
-- 
+- ![[peripheralvscentral.png]]
 # Acute Prolonged Vertigo  
 - Acute unilateral vestibular lesion causes vertigo, nausea , vomiting , oscillopsia and imbalance 
 - due to sudden asymmetry of input from 2 labyrinths or in central connections 
@@ -92,4 +92,5 @@
 	- diplopia 
 	- weakness or numbness 
 	- dysarthria 
-	- 
+- Acute peripheral unlikely if head impulse normal 
+- Central cannot be excluded by examination alone so rule out stroke in elderly with vascular risk factors 
