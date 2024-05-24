@@ -103,3 +103,7 @@
 - brief episodes (<1 min, typical 15-20s) 
 - always provoked by change in head position relative to gravity 
 - rolling over in bed to differentiate  BPPV vs orthostatic hypotension 
+- free-floating otoconia (calcium carbonate crystals) that have been dislodged from the utricular macula and have moved into one of the semicircular canals
+- posterior canal most common 
+- otoconia move in canal with change in head position 
+- Posterior Canal -- upward and torsional nystagmus (upper pole of eyes towards affected ear)
