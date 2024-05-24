@@ -81,6 +81,15 @@
 	- Video head-impulse testing measures all 6 semicircular canals integrity 
 	- Vestibular evoked potentials for otolith reflexes 
 	- Neuroimaging if central is suspected
-	- If unexplained unilateral hearing loss or vestibular hypofunction, MRI internal auditory canal with gadolinium contrast for schwannoma 
-# Differential 
+	- If unexplained unilateral hearing loss or vestibular hypofunction, MRI internal auditory canal with gadolinium contrast for schwannoma
 - 
+# Acute Prolonged Vertigo  
+- Acute unilateral vestibular lesion causes vertigo, nausea , vomiting , oscillopsia and imbalance 
+- due to sudden asymmetry of input from 2 labyrinths or in central connections 
+- Continuous vertigo persists even when head still (unlike BPPV) 
+- Central (brainstem infarct or hemorrhage ) vs peripheral  (vestibular nerve or labyrinth)
+- Central 
+	- diplopia 
+	- weakness or numbness 
+	- dysarthria 
+	- 
