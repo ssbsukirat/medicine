@@ -73,4 +73,12 @@
 		- Visual acuity tested at rest then when head is rotated back and forth at 1-2hz 
 		- If drop is more than one line in near or Snellen then abnormal test 
 - Ancillary tests 
-- 
+	- Audiometry
+	- Unilateral hearing loss support peripheral 
+	- Predominantly low frequency loss is menieres disease 
+	- Videonystamography for spontaneous nystagmus and measuring positional nystagmus
+	- Caloric testing to compare 2 horizontal semicircular canals 
+	- Video head-impulse testing measures all 6 semicircular canals integrity 
+	- Vestibular evoked potentials for otolith reflexes 
+	- Neuroimaging if central is suspected
+	- If unexplained unilateral hearing loss or vestibular hypofunction, MRI internal auditory canal with gadolinium contrast for schwannoma 
