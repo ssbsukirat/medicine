@@ -134,4 +134,24 @@
 # Bilateral Vestibular Hypofunction 
 - typically do not have vertigo, because vestibular function is lost on both sides simultaneously, and there is no asymmetry of vestibular input 
 - loss of balance in dark 
-- oscillopsia 
+- oscillopsia in head movement 
+- maybe 
+	- idiopathic and progressive 
+	- part of neurodegenerative disorders 
+	- iatrogenic due to gentamicin or aminoglycosides 
+	- bilateral schwannoma (NF2)
+	- autoimmune 
+	- superficial siderosis 
+	- meningeal based infection or tumor 
+	- peripheral polyneuropathy (both vestibular loss and propioception contribute to disbalance)
+- dimnished dynamic visual acuity 
+- abnormal head impulse bilateral 
+- romberg 
+- caloric testing response reduced 
+- avoid suppresant 
+# Central Vestibular Disorder 
+- vestibular pathway in brainstem and/or cerebellum 
+- discrete lesions like stroke or hemorrhage 
+- demyelination 
+- tumours 
+- neurdod
