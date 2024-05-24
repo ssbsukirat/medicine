@@ -113,3 +113,10 @@
 - Vertigo preceding a typical migraine headache but many times no or mild headache 
 - frequent migraines in past may present as vertigo later in life 
 - duration of vertigo minutes to hours, disequilibrium lasting upto days to weeks in very few 
+- Motion sensitivity and sensitivity to visual motion (movies etc) common 
+- without headache , features of migraine like photohobia, phonophobia, visual aura 
+- treat with migraine prophylactic drugs 
+# Menieres Diseases 
+- Vertigo and hearing loss with pain, pressure and fullness of affected ear 
+- Low-frequency hearing and aural symptoms 
+- Audiometry shp
