@@ -154,4 +154,14 @@
 - discrete lesions like stroke or hemorrhage 
 - demyelination 
 - tumours 
-- neurdod
+- neurodegenerative conditions 
+- Subacute cerebellar degeneration due to immune or paraneoplastic process 
+- Emergency due to life threatening stroke possible 
+- brain MRI and full NeurologicaL workup 
+# Psychosomatic and Functional 
+- maybe manifestation of psychiatric disease like MDD, anxiety , panic 
+- may have anxiet and autonomic symptoms secondary to independent vestibular disorders 
+- Phobic postural Vertigo/ psychophysiological vertigo/ chronic subjective dizziness earlier but now known as Persistent postural-perceptual dizziness (PPPD)
+- Chronic (3 months) feeling of fluctuating dizziness and disequilibrium at rest but worse on standing 
+- increased sensitivity to self motion and visual motion 
+- 
