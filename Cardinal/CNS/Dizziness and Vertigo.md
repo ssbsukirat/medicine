@@ -130,3 +130,8 @@
 - cause slowly progressive unilateral sensorineural hearing loss and vestibular hypofunction
 - typically do not have vertigo, because the gradual vestibular deficit is compensated centrally as it develops 
 - diagnosis when significant hearing loss already present 
+- deficient response to the head impulse test when the head is rotated toward the affected side, but nystagmus will not be prominent 
+# Bilateral Vestibular Hypofunction 
+- typically do not have vertigo, because vestibular function is lost on both sides simultaneously, and there is no asymmetry of vestibular input 
+- loss of balance in dark 
+- oscillopsia 
