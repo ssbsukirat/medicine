@@ -169,3 +169,8 @@
 - SSRIs , cognitive behavioral therapy and vestibular rehab 
 - avoid suppresant 
 # Treatment 
+- ![[vertigotreat.png]]
+- use as short-term measure 
+- less helpful in chronic and may hinder recovery 
+- benzodiazepines may accentuate psychosomatic dizziness and anxiety and SSRIs preferred 
+- graded 
