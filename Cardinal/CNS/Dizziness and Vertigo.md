@@ -119,4 +119,11 @@
 # Menieres Diseases 
 - Vertigo and hearing loss with pain, pressure and fullness of affected ear 
 - Low-frequency hearing and aural symptoms 
-- Audiometry shp
+- Audiometry shows asymmetric low-frequency hearing loss at time of attack, hearing improves between attacks 
+- Endolymphatic Hydrops with exess endolymph in inner ear 
+- Diuretic and sodium restriction initial treatment 
+- Glucocorticoid or gentamicin injection in middle ear if persistent disease 
+- Nonablative surgical options include decompression and shunting of the endolymphatic sac.
+- Full ablative procedures (vestibular nerve section, labyrinthectomy) are seldom required
+# Vestibular Schwannoma 
+- 
