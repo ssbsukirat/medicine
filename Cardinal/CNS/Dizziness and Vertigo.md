@@ -106,5 +106,10 @@
 - free-floating otoconia (calcium carbonate crystals) that have been dislodged from the utricular macula and have moved into one of the semicircular canals
 - posterior canal most common 
 - otoconia move in canal with change in head position 
-- Posterior Canal -- upward and torsional nystagmus (upper pole of eyes towards affected ear)
+- Posterior Canal -- upward and torsional nystagmus (upper pole of eyes towards affected ear), Epley maneuver 
 - Horizontal Canal -- horizontal nystagmus when lying with either ear down 
+# Vestibular Migraine 
+- Common underdiagnosed 
+- Vertigo preceding a typical migraine headache but many times no or mild headache 
+- frequent migraines in past may present as vertigo later in life 
+- duration of vertigo minutes to hours, disequilibrium lasting upto days to weeks in very few 
