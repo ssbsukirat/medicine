@@ -126,4 +126,7 @@
 - Nonablative surgical options include decompression and shunting of the endolymphatic sac.
 - Full ablative procedures (vestibular nerve section, labyrinthectomy) are seldom required
 # Vestibular Schwannoma 
-- 
+- sometimes termed acoustic neuromas 
+- cause slowly progressive unilateral sensorineural hearing loss and vestibular hypofunction
+- typically do not have vertigo, because the gradual vestibular deficit is compensated centrally as it develops 
+- diagnosis when significant hearing loss already present 
