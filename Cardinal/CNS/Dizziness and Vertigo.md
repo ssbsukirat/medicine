@@ -107,3 +107,4 @@
 - posterior canal most common 
 - otoconia move in canal with change in head position 
 - Posterior Canal -- upward and torsional nystagmus (upper pole of eyes towards affected ear)
+- Horizontal Canal -- horizontal nystagmus when lying with either ear down 
