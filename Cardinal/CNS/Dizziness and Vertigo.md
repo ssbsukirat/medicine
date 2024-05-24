@@ -173,4 +173,4 @@
 - use as short-term measure 
 - less helpful in chronic and may hinder recovery 
 - benzodiazepines may accentuate psychosomatic dizziness and anxiety and SSRIs preferred 
-- graded 
+- graded series of exercises that progressively challenge gaze stabilization and balance.
