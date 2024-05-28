@@ -72,4 +72,17 @@
 	- 5-10 years -- microalbuminuria (albuminuria is urinary albumin-to-creatinine ratio more than 30mg/g) 
 	- albuminuria may better with glycemic control or bp control with ACE/ARB blocker or SGLT2 inhibitors
 	- Diabetic Kidney Disease is albuminuria with GFR<60 
-	- Once marked albuminuria and reduced creatinine, pathology is mostly irreversible
+	- Once marked albuminuria and reduced creatinine, pathology is mostly irreversible 
+- Type 2 DM may have albuminuria at Diagnosis (unlike T1-DM) and maybe secondary to other factors like Hypertension, CHF prostate or infection
+- Assessment must have urine albumin-to-creatinine ratio and eGFR 5 years after T1-DM Diagnosis and at time of t2-dm Diagnosis
+- Type IV RTA (hyporeninemic hypoaldosteronism) may occur in both 1/2 DM
+	- Hyperkalemia
+	- Acidemia 
+	- Exacerbated by ACE ARB And mineralocorticoid receptor antagonist 
+- DM patients predisposed to contrast induced nephropathy so prehydrate and monitor creatinine for 24-48 hours and hold metformin till confirmation of kidney function 
+- Treatment
+	- Slow progress 
+		- by control of sugar 
+		- Strict HTN control
+		- ACE or ARB 
+	- 
