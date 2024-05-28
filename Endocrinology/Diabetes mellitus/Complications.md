@@ -50,4 +50,17 @@
 	- Preventive photocoagulation
 		- Known retinopathy before starting intensive control 
 		- Prior to pancreatic or islet cell transplantation 
-	- 
+	- Lowering triglycerides with fenofibrate will reduce progress
+	- Regular comprehensive eye exams 
+	- Dilated eye exams needed to diagnose properly
+	- Laser photocoagulation or anti-VEGF therapy is successful
+	- No role of aspirin is clear 
+	- Antiplatelet and anticoagulant maybe continued with intravitreal injections also 
+	- Severe proliferative DR with vitreous hemorrhage and/or traction may need surgical vitrectomy 
+# Renal 
+- Leading cause of CKD and ESRD
+- Increased risk of CVS mortality
+- Diabetic nephropathy usually have retinopathy
+- Chronic Hyperglycemia implicated
+	- Soluble factors (growth factors, angiotensin 2, AGEs)
+	- Hemodynamic changes in renal circulation (renal hyperperfusion or hyperfiltration and increased glomerular capillary)
