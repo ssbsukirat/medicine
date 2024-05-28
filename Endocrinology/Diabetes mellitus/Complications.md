@@ -33,4 +33,9 @@
 	- Cotton wool spots 
 	- ![[Diabeticretinopathy.png]]
 - Proliferative
-	- Neovascularisation in response to chronic hypoxemia
+	- Neovascularisation in response to chronic hypoxemia 
+	- Appears near optic nerve or macula and rupture easily 
+	- Vitreous hemorrhage, fibrosis and retinal detachment
+	- More severe the non-proliferative, higher chance of progress to proliferative 
+- Early detection plays role 
+- Macular edema may be detected by fluorescein angiography and OCT (optical coherence tomography) which has 25% chance of causing moderate visual loss in 3 years 
