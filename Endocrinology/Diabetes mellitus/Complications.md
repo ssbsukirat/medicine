@@ -63,4 +63,11 @@
 - Diabetic nephropathy usually have retinopathy
 - Chronic Hyperglycemia implicated
 	- Soluble factors (growth factors, angiotensin 2, AGEs)
-	- Hemodynamic changes in renal circulation (renal hyperperfusion or hyperfiltration and increased glomerular capillary)
+	- Hemodynamic changes in renal circulation (renal hyperperfusion or hyperfiltration and increased glomerular capillary pressure)
+	- Structural glomerular change (increased extracellular matrix, basement membrane thickening, mesangial expansion)
+- Smoking worsens 
+- Genetics and family history important
+- Natural history
+	- 1st 5 years -- mesangial expansion, glomerular thickening as GFR returns to normal 
+	- 5-10 years -- microalbuminuria (albuminuria is urinary albumin-to-creatinine ratio more than 30mg/g) 
+	- albuminuria may better with glycemic control or bp control with ACE/ARB blocker or SGLT2 inhibitors
