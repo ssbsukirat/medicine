@@ -71,3 +71,5 @@
 	- 1st 5 years -- mesangial expansion, glomerular thickening as GFR returns to normal 
 	- 5-10 years -- microalbuminuria (albuminuria is urinary albumin-to-creatinine ratio more than 30mg/g) 
 	- albuminuria may better with glycemic control or bp control with ACE/ARB blocker or SGLT2 inhibitors
+	- Diabetic Kidney Disease is albuminuria with GFR<60 
+	- Once marked albuminuria and reduced creatinine, pathology is mostly irreversible
