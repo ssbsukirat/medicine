@@ -3,4 +3,17 @@
 # Glycemic control & complications 
 - microvascular complications of both type 1 and type 2 DM result from chronic hyperglycemia 
 - The Diabetes Control and Complications Trial (DCCT)--  definitive proof that reduction in chronic hyperglycemia can prevent many complications of type 1 DM
+- continuous relationship between hba1c and development of complications
+- Strict HTN control benefits both micro and macro vascular complications 
+- BP control more beneficial than hba1c control on UKPDS study 
+- American Heart association recommended
+	- 130/80 target in high CVS risk 
+	- 140/90 in low risk 
+- Metabolic memory
+	- Early intense control is beneficial long-term even if later control is poor 
+# Mechanism
+- Unknown
+- Chronic Hyperglycemia 
+	- may lead to epigenetic changes even though it's multifactorial
+	- Advanced Glycolated end products (AGEs) like pen
 - 
