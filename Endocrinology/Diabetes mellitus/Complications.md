@@ -39,3 +39,15 @@
 	- More severe the non-proliferative, higher chance of progress to proliferative 
 - Early detection plays role 
 - Macular edema may be detected by fluorescein angiography and OCT (optical coherence tomography) which has 25% chance of causing moderate visual loss in 3 years 
+- Best predictors are duration of DM and degree of glycemic control 
+- Other risk factors
+	- Hypertension
+	- Nephropathy
+	- Dyslipidemia
+- Treatment
+	- Most effective is prevention
+	- May worsen in 6-12 months initially of glycemic control but it's paradoxical and reverses with time 
+	- Preventive photocoagulation
+		- Known retinopathy before starting intensive control 
+		- Prior to pancreatic or islet cell transplantation 
+	- 
