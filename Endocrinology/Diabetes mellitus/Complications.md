@@ -15,5 +15,10 @@
 - Unknown
 - Chronic Hyperglycemia 
 	- may lead to epigenetic changes even though it's multifactorial
-	- Advanced Glycolated end products (AGEs) like pen
-- 
+	- Advanced Glycolated end products (AGEs) like pentosidine, glucosepane, carboxymethyl lysine 
+	- Non-enzymatic glycosylation of intra and extracellular protein
+- growth factors
+	- Vascular endothelial growth factor A (VEGF-A) locally in diabetic retinopathy which reduces after photocoagulation and is targeted by intravitreal injections 
+- Reactive oxygen species by Hyperglycemia
+- Macrovascular complications
+	- Both Hyperglycemia and risk factors like
