@@ -21,4 +21,16 @@
 	- Vascular endothelial growth factor A (VEGF-A) locally in diabetic retinopathy which reduces after photocoagulation and is targeted by intravitreal injections 
 - Reactive oxygen species by Hyperglycemia
 - Macrovascular complications
-	- Both Hyperglycemia and risk factors like
+	- Both Hyperglycemia and risk factors like dyslipidemia, hypertension and insulin resistance
+# Ophthalmological complications
+- Leading cause of blindness in USA 
+- Severe vision loss due to progressive diabetic retinopathy which causes macular edema and angiogenesis 
+- Non proliferative and proliferative 
+- Non proliferative
+	- Late 1st decade or early second decade of Diagnosis
+	- Retinal microaneurysms 
+	- Blot hemorrhage
+	- Cotton wool spots 
+	- ![[Diabeticretinopathy.png]]
+- Proliferative
+	- Neovascularisation in response to chronic hypoxemia
