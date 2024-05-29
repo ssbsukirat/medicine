@@ -92,3 +92,23 @@
 	- ACE or ARB 
 		- reduce albuminuria and decline in GFR 
 		- equivalent 
+		- ARBs if ACE inhibitors cause cough or angioedema 
+		- monitor urinary albumin and increase dose 
+		- no benefit of combination or use prior to albuminuria 
+		- if need additional agent 
+			- diuretic 
+			- CCBs (nondihydropyridine class)
+			- beta blocker (avoid if risk of hypoglycemia ) 
+			- Mineralocorticoid receptor antagonists but monitor serum K 
+		- SGLT2  reduce decline in GFR and albuminuria 
+			- risk of euglycemic DKA 
+			- avoid in T1 or insuline deficient T2 
+	- protein 0.8g/kg/day 
+- nephrology consultation at 
+	- GFR <30ml 
+	- Atypical feature 
+		- hematuria 
+		- rapidly declining renal function 
+		- albuminuria >3g/day 
+- refer for transplant at 20ml GFR 
+- preemptive kidney transplant (living donor) or simultaneously pancreatic-kidney transplant from deceased mo
