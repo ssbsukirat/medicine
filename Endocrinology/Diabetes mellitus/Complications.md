@@ -159,4 +159,19 @@
 - sympathetic dysfunction causes Hyperhidrosis of the upper extremities and anhidrosis of the lower extremities (promotes cracking and ulcers)
 ## Mononeuropathy and/or Radiculopathy/Polyradiculopathy 
 - pain and motor weakness in distribution in single nerve 
-- carpal tunnel 
+- carpal tunnel (entrapment) or noncompressive 
+- 3rd CN most common starts with diplopia -- ptosis and ophthalmoplegia with normal pupils to light 
+- 4,6,7 nerves maybe involved sometimes 
+- Peripheral mononeuropathies or simultaneous involvement of more than one nerve (mononeuropathy multiplex) may also occur. 
+- radiculopathy or polyradiculopathy characterized by severe disabling pain in the distribution of one or more nerve roots +/- motor weakness 
+	- self-limited and resolved in 6-12 months 
+##  Treatment 
+- glycemic control 
+- Lifestyle modifications (exercise, diet) in DSPN in type 2 DM and 
+- hypertension, and hypertriglyceridemia treated 
+- avoid neurotoxins (including alcohol) and smoking,
+- supplementation with vitamins for possible deficiencies (B12, folate 
+- check their feet daily and take precautions (footwear) aimed at preventing calluses or ulcerations 
+- duloxetine and pregabalin, or gabapentin is usually initially used for pain approved by FDA 
+- may respond to tricyclic antidepressants, venlafaxine, carbamazepine, tramadol, or topical capsaicin products. 
+- 8% capsaicin patch requires application by a health care pro- vider. Tapentadol, a centrally acting opioid, is also approved
