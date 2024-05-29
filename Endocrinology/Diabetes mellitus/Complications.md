@@ -147,4 +147,6 @@
 	- foot drop 
 - Annual screening (5years after T1 diagnosis and at T2 diagnosis ) which is aimed at detecting LOPS (loss of protective sensation )
 ## Autonomic 
+- parasympathetic (cholinergic) and sympathetic (adrenergic) systems 
+- cardiovascular, gastrointestinal (GI), genitourinary, sudomotor, and metabolic systems 
 - 
