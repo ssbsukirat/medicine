@@ -85,4 +85,5 @@
 		- by control of sugar 
 		- Strict HTN control
 		- ACE or ARB 
+		- SGLT2 inhibitor in t2-dm 
 	- 
