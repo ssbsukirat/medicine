@@ -87,3 +87,5 @@
 		- ACE or ARB 
 		- SGLT2 inhibitor in t2-dm 
 	- 10-years of normoglycemia resulting from pancreas transplantation may lead to regression of mesangial glomerular lesions
+	- Late phase may have reduced insulin requirement 
+	- sulfonylurea and metformin contraindicated in advanced renal insufficiency while glinides and DPP-4 inhibitors need dose reduce 
