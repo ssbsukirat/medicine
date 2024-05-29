@@ -149,4 +149,14 @@
 ## Autonomic 
 - parasympathetic (cholinergic) and sympathetic (adrenergic) systems 
 - cardiovascular, gastrointestinal (GI), genitourinary, sudomotor, and metabolic systems 
-- 
+- CVS 
+	- decreased heart rate variability, 
+	- resting tachycardia, and
+	- orthostatic hypotension, -- late and unusual , but also in DPN and parasympathetic dysfunction 
+	- is associated with an increase in CVD
+	- sudden death due to disposition to hypoglycemia which may prolong QTc interval 
+- Gastroparesis and bladder-emptying abnormalities 
+- sympathetic dysfunction causes Hyperhidrosis of the upper extremities and anhidrosis of the lower extremities (promotes cracking and ulcers)
+## Mononeuropathy and/or Radiculopathy/Polyradiculopathy 
+- pain and motor weakness in distribution in single nerve 
+- carpal tunnel 
