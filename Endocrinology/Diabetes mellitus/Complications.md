@@ -111,4 +111,6 @@
 		- rapidly declining renal function 
 		- albuminuria >3g/day 
 - refer for transplant at 20ml GFR 
-- preemptive kidney transplant (living donor) or simultaneously pancreatic-kidney transplant from deceased mo
+- preemptive kidney transplant (living donor) or simultaneously pancreatic-kidney transplant from deceased more useful than waiting for renal alone 
+- dialysis has more complications in DM like hypotension , difficult IV access and accelerated progression of retinopathy 
+# Neuropathy 
