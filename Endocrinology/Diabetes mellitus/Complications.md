@@ -86,4 +86,4 @@
 		- Strict HTN control
 		- ACE or ARB 
 		- SGLT2 inhibitor in t2-dm 
-	- 
+	- 10-years of normoglycemia resulting from pancreas transplantation may lead to regression of mesangial glomerular lesions
