@@ -114,3 +114,7 @@
 - preemptive kidney transplant (living donor) or simultaneously pancreatic-kidney transplant from deceased more useful than waiting for renal alone 
 - dialysis has more complications in DM like hypotension , difficult IV access and accelerated progression of retinopathy 
 # Neuropathy 
+- 50% 
+- diffuse neuropathy (DSPN, autonomic)
+- mononeuropathy 
+- radiculopathy/polyradiculopathy 
