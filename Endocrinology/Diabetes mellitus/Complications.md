@@ -118,3 +118,33 @@
 - diffuse neuropathy (DSPN, autonomic)
 - mononeuropathy 
 - radiculopathy/polyradiculopathy 
+- correlation with duration and control of DM 
+- other 
+	- BMI 
+	- Smoking 
+	- CVD 
+	- TGs 
+	- Hypertension 
+- both myelinated and unmyelinated 
+- diagnosis of exclusion 
+## Distal Symmetric Polyneuropathy 
+- most common 
+- distal sensory loss and pain 
+- asymptomatic in 50% 
+- symptoms 
+	- numbness 
+	- tingling 
+	- sharpness 
+	- burning 
+	- begins in feet and spreads proximal 
+- Acute (<12m or chronic )
+- Acute usually due to improved glycemic control and settles over time but some motor or sensory deficits may remain 
+- examination 
+	- sensory loss to 10g monofilament or vibration 
+	- loss of ankle DTRs 
+	- abnormal position sense 
+	- muscle atrophy 
+	- foot drop 
+- Annual screening (5years after T1 diagnosis and at T2 diagnosis ) which is aimed at detecting LOPS (loss of protective sensation )
+## Autonomic 
+- 
