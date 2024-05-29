@@ -174,4 +174,7 @@
 - check their feet daily and take precautions (footwear) aimed at preventing calluses or ulcerations 
 - duloxetine and pregabalin, or gabapentin is usually initially used for pain approved by FDA 
 - may respond to tricyclic antidepressants, venlafaxine, carbamazepine, tramadol, or topical capsaicin products. 
-- 8% capsaicin patch requires application by a health care pro- vider. Tapentadol, a centrally acting opioid, is also approved
+- 8% capsaicin patch 
+- Tapentadol, a centrally acting opioid, is also approved but maybe addictive so opioids not 1st line 
+- midodrine and droxidopa are approved by the FDA for orthostatic hypotension of any etiology 
+- 
