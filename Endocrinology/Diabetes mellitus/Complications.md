@@ -177,4 +177,16 @@
 - 8% capsaicin patch 
 - Tapentadol, a centrally acting opioid, is also approved but maybe addictive so opioids not 1st line 
 - midodrine and droxidopa are approved by the FDA for orthostatic hypotension of any etiology 
-- 
+
+# Gastrointestinal or genitourinary dysfunction
+- GI 
+	- Delayed gastric emptying (gastroparesis)
+		- Anorexia 
+		- Nausea vomiting
+		- Early satiety
+		- Abdominal bloating
+	- Altered small and large bowel motility (constipation or diarrhea)
+		- Nocturnal diarrhea alternating 
+	- Usually retinopathy and neuropathy already present
+	- Nuclear medicine scintigraphy maybe useful
+	- Breath test after radiolabeled meal emerging techniques for Diagnosis
