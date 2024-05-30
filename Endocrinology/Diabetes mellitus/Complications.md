@@ -207,4 +207,10 @@
 	- Cystopathy managed with scheduled voiding or self catheterisation 
 	- PDE 5 Blockers for erectile dysfunction
 # CVS morbidity and mortality
-- 
+- worse prognosis and mortality
+- Higher risk of multi vessel disease
+- 3x risk of stroke 
+- Risk more with duration of diabetes
+- Hba1c predictive of CHD stroke and allcause mortality
+- Do stress test if symptomatic (atypical also) of cardiac ischemia or peripheral or CAD
+- Silent ischemia common in diabetic 
