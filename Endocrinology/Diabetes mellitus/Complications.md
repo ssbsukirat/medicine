@@ -223,3 +223,4 @@
 	- After MI can use beta blockers
 	- Thiazolidinediones don't use if CHF
 	- Metformin can be used in stable CHF if renal function normal 
+	- SGLT1 inhibitors -- liraglutide (LEADER trial), semaglutide (SUSTAIN-6 trial), dulaglutide (REWIND trial) and SGLT2 Inhibitor -- empagliflozin (EMPA-REG trial) and canagliflozin (CANVAS trial) shown cardiovascular benefit
