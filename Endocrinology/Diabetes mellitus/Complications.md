@@ -186,7 +186,16 @@
 		- Early satiety
 		- Abdominal bloating
 	- Altered small and large bowel motility (constipation or diarrhea)
-		- Nocturnal diarrhea alternating 
+		- Nocturnal diarrhea alternating with constipation
 	- Usually retinopathy and neuropathy already present
 	- Nuclear medicine scintigraphy maybe useful
 	- Breath test after radiolabeled meal emerging techniques for Diagnosis
+- GU 
+	- Cystopathy and 
+		- Inability to sense full bladder
+		- Failure to void completely
+		- As it worsens, bladder capacity and post voidal volume increases leading to hesitancy, decreased voiding frequency, incontinence and recurrent UTIs 
+	- female sexual dysfunction
+	- Erectile dysfunction and retrograde ejaculation earliest signs 
+- Treatment
+	- Improved glycemic control 
