@@ -218,3 +218,8 @@
 - Treatment
 	- PCI and CABG has less effectiveness than non Diabetic
 	- CABG with optimised medical management has better outcomes than PCI 
+	- Individualistic targets and therapy for aggressive control of risk factors
+	- If CHD, ACE inhibitor or ARB, statin and ASA(aspirin)
+	- After MI can use beta blockers
+	- Thiazolidinediones don't use if CHF
+	- Metformin can be used in stable CHF if renal function normal 
