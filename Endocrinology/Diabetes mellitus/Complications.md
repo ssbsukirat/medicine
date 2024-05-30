@@ -214,3 +214,7 @@
 - Hba1c predictive of CHD stroke and allcause mortality
 - Do stress test if symptomatic (atypical also) of cardiac ischemia or peripheral or CAD
 - Silent ischemia common in diabetic 
+- ACCORD AND VADT trials suggested limited benefit of glycemic control if already established CVD 
+- Treatment
+	- PCI and CABG has less effectiveness than non Diabetic
+	- CABG with optimised medical management has better outcomes than PCI 
