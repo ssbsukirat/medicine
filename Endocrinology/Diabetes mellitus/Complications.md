@@ -199,3 +199,12 @@
 	- Erectile dysfunction and retrograde ejaculation earliest signs 
 - Treatment
 	- Improved glycemic control 
+	- Smaller frequent meals easier to digest (liquid) and low in fat and fiber 
+	- Avoid medication that delay emptying (opioids, GLP 1 agonists) 
+	- Metoclopramide for short-term treatment 
+	- Acid blocking with H2 blocker or PPI 
+	- Diabetic diarrhea without bacterial overgrowth is symptomatic management
+	- Cystopathy managed with scheduled voiding or self catheterisation 
+	- PDE 5 Blockers for erectile dysfunction
+# CVS morbidity and mortality
+- 
