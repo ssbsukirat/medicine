@@ -10,4 +10,6 @@
 - Generalized seizures arise within and rapidly engage networks distributed across both cerebral hemispheres 
 	- may have cellular , biochemical or structural 
 # Focal onset seizure 
+- arise from a neuronal network either discretely localized within one brain region or more broadly distributed but still within a cerebral hemisphere 
+- no more simple or complex 
 - 
