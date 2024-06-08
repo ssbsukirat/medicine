@@ -1,0 +1,5 @@
+- Seizure 
+	- ***transient occurrence of signs or symptoms due to abnormal excessive or synchronous neuronal activity in the brain***
+	- 5-10% have an episode once mostly in early childhood or late adult 
+- Epilepsy is ***condition in which a person has a risk of recurrent seizures due to a chronic, underlying process***
+- 
