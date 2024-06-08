@@ -2,4 +2,12 @@
 	- ***transient occurrence of signs or symptoms due to abnormal excessive or synchronous neuronal activity in the brain***
 	- 5-10% have an episode once mostly in early childhood or late adult 
 - Epilepsy is ***condition in which a person has a risk of recurrent seizures due to a chronic, underlying process***
+- The International League Against Epilepsy (ILAE) Commission on Classification and Terminology 
+	- ![[seizureclass.png]]
+- Focal seizures originate within networks limited to one brain region 
+	- note that the term partial seizures is no longer used 
+	- associated with structure abnormalities 
+- Generalized seizures arise within and rapidly engage networks distributed across both cerebral hemispheres 
+	- may have cellular , biochemical or structural 
+# Focal onset seizure 
 - 
