@@ -12,4 +12,7 @@
 # Focal onset seizure 
 - arise from a neuronal network either discretely localized within one brain region or more broadly distributed but still within a cerebral hemisphere 
 - no more simple or complex 
-- 
+- effect on ***awareness (intact or impaired)*** and nature of the ***onset (motor or nonmotor)***
+- can also evolve into generalized seizures 
+	- earlier focal seizure with secondary generalisation 
+	- but now description of type of generalised seizure evolving from focal seizure 
