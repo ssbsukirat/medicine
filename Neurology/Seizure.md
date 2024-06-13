@@ -222,8 +222,13 @@ Generalized seizures arise at some point in the brain but immediately and rapidl
 	- Electrographic “spike” due to intense near-simultaneous firing of local excitatory neurons, resulting in hypersynchronization of excitatory bursts.
 	- bursting activity in individual neurons (the “***paroxysmal depolarization shift***”) is due to long-lasting depolarization of the neuronal membrane due to influx of extracellular calcium (Ca2+), which leads to the opening of voltage-dependent sodium (Na+) channels, influx of Na+, and generation of repetitive action potentials
 	- followed by a hyperpolarizing afterpotential mediated by γ-aminobutyric acid (GABA) receptors or potassium (K+) channels
-	- summation from multiple neurons producing spike discha
-- **Propagation**: Recruitment of surrounding neurons via synaptic and nonsynaptic mechanisms, such as increases in extracellular K+, accumulation of Ca2+, and activation of NMDA receptors.
+	- summation from multiple neurons producing spike discharge on EEG 
+- **Propagation**: Recruitment of surrounding neurons via synaptic and nonsynaptic mechanisms, such as 
+	- ***increases in extracellular K+*** (blunts hyperpolarisation + depolarises surrounding neurons) , 
+	- ***accumulation of Ca2+*** (enhances Neurotransmitter release) , 
+	- and ***activation of NMDA receptors*** (Ca2+ influx and activation)
+	- ephaptic interactions related to changes in tissue osmolarity and cell swelling
+- 
 
 ### Mechanisms of Epileptogenesis
 - **Definition**: Transformation of a normal neuronal network into one that is chronically hyperexcitable.
