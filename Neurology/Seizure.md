@@ -238,6 +238,7 @@ Generalized seizures arise at some point in the brain but immediately and rapidl
 ### Mechanisms of Epileptogenesis
 - **Definition**: Transformation of a normal neuronal network into one that is chronically hyperexcitable.
 - **Process**: Initial CNS injury leads to structural changes, local hyperexcitability, and further structural changes over time until spontaneous seizures occur.
+- some forms of epileptogenesis are related to ***structural changes in neuronal networks.*** For example, many patients with MTLE have a highly selective loss of neurons that normally contribute to inhibition of the main excitatory neurons within the dentate gyrus
 
 ### Genetic Causes of Epilepsy
 - **Progress**: Identification of genetic mutations associated with various epilepsy syndromes.
