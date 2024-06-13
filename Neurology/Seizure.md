@@ -192,8 +192,14 @@ Generalized seizures arise at some point in the brain but immediately and rapidl
 		- common during rising temperature phase of a febrile illness (day 1)
 		- Patient has family history of febrile seizures or epilepsy
 		- 3m-5y age with max at 18-24months 
+		- generalized, tonic-clonic seizure usually
 		- ***simple febrile seizure*** is a single, isolated event, brief, and symmetric in appearance
 		- ***Complex febrile seizures*** are characterized by repeated seizure activity, a duration >15 minutes, or by focal features
+		- Recurrences are much more likely when the febrile seizure occurs in the first year of life 
+		- risk factors for epilepsy later 
+			- complex febrile 
+			- pre-existing NeurologicaL deficit
+			- family history of non-febrile seizures 
 	- infections, 
 	- developmental disorders.
 - **Adolescence/Early Adulthood**: Head trauma, CNS infections, brain tumors, drug use, alcohol withdrawal.
