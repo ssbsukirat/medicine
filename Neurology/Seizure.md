@@ -218,7 +218,11 @@ Generalized seizures arise at some point in the brain but immediately and rapidl
 - **Metabolic Disturbances**: Electrolyte imbalance, hypo-/hyperglycemia, renal/hepatic failure.
 
 ### Mechanisms of Seizure Initiation and Propagation
-- **Initiation**: Electrographic “spike” due to intense near-simultaneous firing of local excitatory neurons, resulting in hypersynchronization of excitatory bursts.
+- **Initiation**:
+	- Electrographic “spike” due to intense near-simultaneous firing of local excitatory neurons, resulting in hypersynchronization of excitatory bursts.
+	- bursting activity in individual neurons (the “***paroxysmal depolarization shift***”) is due to long-lasting depolarization of the neuronal membrane due to influx of extracellular calcium (Ca2+), which leads to the opening of voltage-dependent sodium (Na+) channels, influx of Na+, and generation of repetitive action potentials
+	- followed by a hyperpolarizing afterpotential mediated by γ-aminobutyric acid (GABA) receptors or potassium (K+) channels
+	- summation from multiple neurons producing spike discha
 - **Propagation**: Recruitment of surrounding neurons via synaptic and nonsynaptic mechanisms, such as increases in extracellular K+, accumulation of Ca2+, and activation of NMDA receptors.
 
 ### Mechanisms of Epileptogenesis
