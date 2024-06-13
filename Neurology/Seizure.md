@@ -202,7 +202,13 @@ Generalized seizures arise at some point in the brain but immediately and rapidl
 			- family history of non-febrile seizures 
 	- infections, 
 	- developmental disorders.
-- **Adolescence/Early Adulthood**: Head trauma, CNS infections, brain tumors, drug use, alcohol withdrawal.
+	- Syndromes 
+		- mostly in childhood 
+		- Temporal lobe epilepsy maybe related to MTLE or cortical dysgenesis 
+- **Adolescence/Early Adulthood**: 
+	- Head trauma, CNS infections, brain tumors, drug use, alcohol withdrawal.
+	- idiopathic or genetic causes less common 
+	- Autoantibodies directed against CNS antigens such as potassium channels or glutamate receptors 
 - **Older Adults**: Cerebrovascular disease, trauma, CNS tumors, degenerative diseases (e.g., Alzheimer's).
 - **Metabolic Disturbances**: Electrolyte imbalance, hypo-/hyperglycemia, renal/hepatic failure.
 
