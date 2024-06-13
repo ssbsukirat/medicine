@@ -232,6 +232,8 @@ Generalized seizures arise at some point in the brain but immediately and rapidl
 	- changes in the conductance of ion channels, response characteristics of membrane receptors, cytoplasmic buffering, second-messenger systems, and protein expression as determined by genetics 
 - Extrinsic
 	- changes in the amount or type of neurotransmitters present at the synapse, modulation of receptors by extracellular ions and other molecules, and temporal and spatial properties of synaptic and nonsynaptic input. Nonneural cells, such as astrocytes and oligodendrocytes
+- accidental ingestion of domoic acid, an analogue of glutamate causes seizure by direct activation 
+- Penicillin, which can lower the seizure threshold in humans and is a potent convulsant in experimental models, reduces inhibition by antagonizing the effects of GABA at its receptor
 
 ### Mechanisms of Epileptogenesis
 - **Definition**: Transformation of a normal neuronal network into one that is chronically hyperexcitable.
