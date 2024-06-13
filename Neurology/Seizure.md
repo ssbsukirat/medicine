@@ -206,7 +206,12 @@ Generalized seizures arise at some point in the brain but immediately and rapidl
 		- mostly in childhood 
 		- Temporal lobe epilepsy maybe related to MTLE or cortical dysgenesis 
 - **Adolescence/Early Adulthood**: 
-	- Head trauma, CNS infections, brain tumors, drug use, alcohol withdrawal.
+	- Head trauma, 
+		- common 
+		- likelihood of epilepsy related to severity of injury 
+		- high risk in penetrating head wound, depressed skull fracture, intracranial hemorrhage, or prolonged post- traumatic coma or amnesia has a 30–50% risk
+		- 
+	- CNS infections, brain tumors, drug use, alcohol withdrawal.
 	- idiopathic or genetic causes less common 
 	- Autoantibodies directed against CNS antigens such as potassium channels or glutamate receptors 
 - **Older Adults**: Cerebrovascular disease, trauma, CNS tumors, degenerative diseases (e.g., Alzheimer's).
