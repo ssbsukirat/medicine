@@ -248,7 +248,7 @@ Generalized seizures arise at some point in the brain but immediately and rapidl
 ### Mechanisms of Action of Antiseizure Drugs
 - **Mechanisms**: Modify ion channel activity or neurotransmitters to block seizure initiation or spread.
 - **Examples**: 
-  - **Na+ Channel Inhibitors**: Phenytoin, carbamazepine, lamotrigine.
+  - **Na+ Channel Inhibitors**: Phenytoin, carbamazepine, lamotrigine, topiramate, lacosamide, rufinamide, cenobamate 
   - **Ca2+ Channel Blockers**: Gabapentin, pregabalin.
   - **GABA Modulators**: Benzodiazepines, barbiturates, valproic acid.
   - **Other Mechanisms**: Topiramate (glutamate attenuation), levetiracetam (modulation of synaptic vesicles).
