@@ -249,8 +249,11 @@ Generalized seizures arise at some point in the brain but immediately and rapidl
 - **Mechanisms**: Modify ion channel activity or neurotransmitters to block seizure initiation or spread.
 - **Examples**: 
   - **Na+ Channel Inhibitors**: Phenytoin, carbamazepine, lamotrigine, topiramate, lacosamide, rufinamide, cenobamate 
-  - **Ca2+ Channel Blockers**: Gabapentin, pregabalin.
+  - **Ca2+ Channel Blockers**: Phenytoin, Gabapentin, pregabalin.
+  - K+ opener -- ezogabine 
+  - Glutamate reduction -- lamotrigine, topiramate, felbamate, perampanel
   - **GABA Modulators**: Benzodiazepines, barbiturates, valproic acid.
+  - GABA available increase-- Valproic Acid, gabapentin, tiagabine 
   - **Other Mechanisms**: Topiramate (glutamate attenuation), levetiracetam (modulation of synaptic vesicles).
 ### APPROACH TO THE PATIENT WITH SEIZURE
 
