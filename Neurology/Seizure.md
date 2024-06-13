@@ -210,11 +210,11 @@ Generalized seizures arise at some point in the brain but immediately and rapidl
 		- common 
 		- likelihood of epilepsy related to severity of injury 
 		- high risk in penetrating head wound, depressed skull fracture, intracranial hemorrhage, or prolonged post- traumatic coma or amnesia has a 30–50% risk
-		- 
+		- mild head injury, defined as a concussion with amnesia or loss of consciousness of <30 min only slightly increased risk 
 	- CNS infections, brain tumors, drug use, alcohol withdrawal.
 	- idiopathic or genetic causes less common 
 	- Autoantibodies directed against CNS antigens such as potassium channels or glutamate receptors 
-- **Older Adults**: Cerebrovascular disease, trauma, CNS tumors, degenerative diseases (e.g., Alzheimer's).
+- **Older Adults**: Cerebrovascular disease (acute occur more with embolic not thrombotic or hemorrhagic) , trauma, CNS tumors, degenerative diseases (e.g., Alzheimer's).
 - **Metabolic Disturbances**: Electrolyte imbalance, hypo-/hyperglycemia, renal/hepatic failure.
 
 ### Mechanisms of Seizure Initiation and Propagation
