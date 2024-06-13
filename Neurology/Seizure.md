@@ -228,7 +228,10 @@ Generalized seizures arise at some point in the brain but immediately and rapidl
 	- ***accumulation of Ca2+*** (enhances Neurotransmitter release) , 
 	- and ***activation of NMDA receptors*** (Ca2+ influx and activation)
 	- ephaptic interactions related to changes in tissue osmolarity and cell swelling
-- 
+- Intrinsic mechanism (to neuron)
+	- changes in the conductance of ion channels, response characteristics of membrane receptors, cytoplasmic buffering, second-messenger systems, and protein expression as determined by genetics 
+- Extrinsic
+	- changes in the amount or type of neurotransmitters present at the synapse, modulation of receptors by extracellular ions and other molecules, and temporal and spatial properties of synaptic and nonsynaptic input. Nonneural cells, such as astrocytes and oligodendrocytes
 
 ### Mechanisms of Epileptogenesis
 - **Definition**: Transformation of a normal neuronal network into one that is chronically hyperexcitable.
