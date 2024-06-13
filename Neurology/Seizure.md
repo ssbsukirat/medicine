@@ -180,8 +180,22 @@ Generalized seizures arise at some point in the brain but immediately and rapidl
   3. **Episodic Nature**: Seizures occur intermittently; precipitating factors include stress, sleep deprivation, hormonal changes, toxic substances, medications, and photic stimulation.
 
 #### Causes According to Age
-- **Neonatal/Early Infancy**: Hypoxic-ischemic encephalopathy, trauma, CNS infection, congenital CNS abnormalities, metabolic disorders.
-- **Late Infancy/Early Childhood**: Febrile seizures (common during rising temperature phase of a febrile illness), infections, developmental disorders.
+- **Neonatal/Early Infancy**: 
+	- Hypoxic-ischemic encephalopathy, trauma, CNS infection, congenital CNS abnormalities, metabolic disorders.
+	- babies of mothers using neurotoxic drugs such as cocaine, heroin, or ethanol drug-withdrawal seizures in the first few days after delivery
+	- Hypoglycemia and hypocalcemias secondary complication of perinatal injury
+	- Inborn errors of metabolism usually 2-3 days later as feeding starts 
+	- Pyridoxine B6 deficiency is important treatable cause
+- **Late Infancy/Early Childhood**:
+	- Febrile seizures 
+		- fever without CNS infections 
+		- common during rising temperature phase of a febrile illness (day 1)
+		- Patient has family history of febrile seizures or epilepsy
+		- 3m-5y age with max at 18-24months 
+		- ***simple febrile seizure*** is a single, isolated event, brief, and symmetric in appearance
+		- ***Complex febrile seizures*** are characterized by repeated seizure activity, a duration >15 minutes, or by focal features
+	- infections, 
+	- developmental disorders.
 - **Adolescence/Early Adulthood**: Head trauma, CNS infections, brain tumors, drug use, alcohol withdrawal.
 - **Older Adults**: Cerebrovascular disease, trauma, CNS tumors, degenerative diseases (e.g., Alzheimer's).
 - **Metabolic Disturbances**: Electrolyte imbalance, hypo-/hyperglycemia, renal/hepatic failure.
