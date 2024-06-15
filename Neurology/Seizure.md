@@ -282,7 +282,7 @@ Generalized seizures arise at some point in the brain but immediately and rapidl
 - **Routine Blood Studies**: Identify metabolic causes (electrolytes, glucose, calcium, magnesium, hepatic/renal function).
 - **Toxin Screen**: Blood and urine screening for toxins in appropriate risk groups.
 - **Lumbar Puncture**: If meningitis or encephalitis is suspected, and mandatory for HIV-infected patients. 
-- Testing for autoantibodies in the serum and cerebrospinal fluid (CSF) should be considered in patients presenting with fulminant onset of epilepsy associated with other abnormalities such as psychiat- ric symptoms or cognitive disturbances 
+- Testing for autoantibodies in the serum and cerebrospinal fluid (CSF) should be considered in patients presenting with fulminant onset of epilepsy associated with other abnormalities such as psychiatric symptoms or cognitive disturbances 
 
 ### ELECTROPHYSIOLOGIC STUDIES
 - **EEG**: Record electrical brain activity via scalp electrodes. Helps diagnose and classify seizure disorders, guide treatment, and assess prognosis.
