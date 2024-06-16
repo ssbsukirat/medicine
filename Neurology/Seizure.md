@@ -486,7 +486,7 @@ overall goal is to completely prevent seizures without causing any untoward side
 
 ##### Pregnancy
 - **Risks**: Seizure frequency changes, potential fetal abnormalities. Close monitoring and appropriate drug therapy are essential.
-- **Drug Therapy**: Maintain effective drug therapy to prevent uncontrolled seizures. Monotherapy at the lowest effective dose is preferred, especially during the first trimester.
+- **Drug Therapy**: Maintain effective drug therapy to prevent uncontrolled seizures. Monotherapy at the lowest effective dose is preferred, especially during the first trimester. most common malformations were defects in the cardiovascular and musculoskeletal system (1.4–1.8%)
 - **Folate Supplementation**: 1-4 mg/day recommended to reduce the risk of neural tube defects.
 - **Vitamin K**: Mothers on enzyme-inducing drugs should take vitamin K in the last 2 weeks of pregnancy; infants receive vitamin K at birth.
 
