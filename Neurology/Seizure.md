@@ -390,6 +390,12 @@ overall goal is to completely prevent seizures without causing any untoward side
 #### Initiation and Monitoring of Therapy
 - **Education**: Patients should be informed about the trial-and-error process to find the optimal medication and dose.
 - **Monitoring**: Serum drug levels can guide dosing but clinical response is key.
+- If seizures continue despite gradual increases to the maximum tolerated dose and documented compliance, then it becomes necessary to switch to another antiseizure drug
+- dose of the second drug should be adjusted to decrease seizure frequency without causing toxicity
+- first drug can be gradually withdrawn (usually over weeks unless there is significant toxicity)
+![[seizuredrugs1.png]]
+![[seizuredrugs2.png]]
+![[seizuredrugs3.png]]
 
 #### Discontinuing Therapy
 - **Criteria**: Complete seizure control for 1–5 years, single seizure type, normal neurologic exam, no family history of epilepsy, normal EEG.
