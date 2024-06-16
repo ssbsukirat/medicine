@@ -305,9 +305,12 @@ Generalized seizures arise at some point in the brain but immediately and rapidl
 
 ### DIFFERENTIAL DIAGNOSIS OF SEIZURES
 - **Distinguishing Features**: Careful history and laboratory studies; additional tests like video-EEG monitoring, sleep studies, tilt-table analysis, or cardiac electrophysiology.
+- ![[seizuredifferential.png]]
 - **Common Mimics**:
   - **Syncope**: Distinguished by precipitating factors (pain, stress), brief loss of consciousness, stereotyped transition, and postictal state.
+  - ![[seizurevsyncope.png]]
   - **Psychogenic Seizures**: Conversion reactions resembling seizures, differentiated by behaviors, duration, and EEG findings.
+	  - side-to-side turning of the head, ictal eye closure, asymmetric and large-amplitude shaking movements of the limbs, twitching of all four extremities without loss of consciousness, and pelvic thrusting are more commonly associated with psychogenic
 
 
 ### TREATMENT
