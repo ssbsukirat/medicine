@@ -376,7 +376,12 @@ overall goal is to completely prevent seizures without causing any untoward side
 - Topiramate
 	- both focal and generalized seizures 
 	- significant psychomotor slowing and other cognitive problems 
-	- risk for the devel- opment of glaucoma or renal stones 
+	- risk for the development of glaucoma or renal stones 
+- Valproate
+	- effective alternative for some patients with focal seizures, especially when the seizures generalize 
+	- Laboratory testing is required to monitor toxicity because valproic acid can rarely cause reversible bone marrow suppression and hepatotoxicity
+	- avoided in patients with preexisting bone marrow or liver disease 
+	- hyperandrogenism, that may affect fertility and teratogenesis (e.g., neural tube defects 
 
 #### Drug Selection for Generalized Seizures
 - **Initial Choices**: Lamotrigine, valproic acid, levetiracetam.
