@@ -337,12 +337,19 @@ overall goal is to completely prevent seizures without causing any untoward side
 
 #### When to Initiate Therapy
 - **Recurrent Seizures**: Start therapy for recurrent seizures of unknown etiology or known irreversible cause.
-- **Single Seizure**: Treatment is controversial; consider factors like brain insult history, EEG abnormalities, significant brain imaging findings, and nocturnal seizures.
+- **Single Seizure**: Treatment is controversial; consider risk factors for recurrent seizures  like brain insult history, EEG abnormalities, significant brain imaging findings, and nocturnal seizures 
 
 #### Selection of Antiseizure Drugs
 - **Efficacy and Side Effects**: Consider convenience of dosing, potential side effects, and cost.
 - **Common Drugs**: Phenytoin, valproic acid, carbamazepine, phenobarbital, and ethosuximide are often used as first-line therapy.
 - **Newer Drugs**: Typically used as add-on or alternative therapy but can be first-line monotherapy.
+- ![[seizuredrugselection.png]]
+- Genetics 
+	- ***SLC2A1*** gene, which encodes the glucose type 1 transporter (GLUT-1) and is a cause of GLUT-1 deficiency start ***ketogenic diet***
+	- ***ALDH7A1*** gene mutation, which encodes antiquitin, can cause alterations in pyridoxine metabolism treatment with pyridoxine
+	- SCN1A (sodium channel) should generally avoid taking phenytoin or lamotrigine
+	- SCN2A or SCN8A give high dose phenytoin 
+	- HLA-B-1502 skin reaction from carbamazepine phen 
 
 #### Drug Selection for Focal Seizures
 - **Common Choices**: Carbamazepine, oxcarbazepine, eslicarbazepine, lamotrigine, phenytoin, levetiracetam.
