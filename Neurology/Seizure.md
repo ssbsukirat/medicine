@@ -419,9 +419,21 @@ overall goal is to completely prevent seizures without causing any untoward side
 	- hemispherectomy, 
 	- corpus callosotomy.
 - **Presurgical Evaluation**: Inpatient video-EEG monitoring, high-resolution MRI, functional imaging (SPECT, PET, MEG).
+- intracarotid amobarbital test (Wada test) 
 
 ### NEUROSTIMULATION DEVICES
-- **Options**: Vagus nerve stimulation (VNS), responsive neurostimulation (RNS), thalamic deep brain stimulation (DBS).
+- **Options**: 
+	- Vagus nerve stimulation (VNS),
+		- scheduled intermittent (“open loop”) stimulation of the left vagus nerve 
+		- efficacy limited 
+		- side effects related to recurrent laryngeal nerve activation (e.g., hoarseness, throat pain, dysp- nea) can be significant and dose-limiting
+	- responsive neurostimulation (RNS),
+		- implanted device connected to two lead wires that are placed intracranially at the site(s) from where seizures arise. 
+		- detects the onset of a seizure (often before the seizure becomes clinically apparent) and delivers electrical stimulation—typically imperceptible—directly to the brain to reduce seizures over time, a form of “closed loop”
+		- provides chronic EEG 
+	- thalamic deep brain stimulation (DBS).
+		- open loop stimulation of deep, bilateral cerebral structures, the anterior thalamic nuclei
+		- precise seizure localization is necessary for RNS, it is not required for VNS or DBS
 - **Efficacy**: Significant seizure reduction over time, but seizure freedom is rare.
 - **Choice of Device**: Based on patient-specific factors and technology strengths.
 
