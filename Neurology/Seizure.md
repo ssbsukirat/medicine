@@ -442,9 +442,6 @@ overall goal is to completely prevent seizures without causing any untoward side
 ### STATUS EPILEPTICUS
 
 - Status epilepticus refers to continuous seizures or repetitive, discrete seizures with impaired consciousness between episodes. Subtypes include generalized convulsive status epilepticus (GCSE) and nonconvulsive status epilepticus.
-- The duration of seizure activity sufficient to meet the definition of status epilepticus has traditionally been specified as 15–30 min. 
-- practical definition is to consider status epilepticus as a situation in which the duration of seizures prompts the acute use of anticonvulsant therapy. For GCSE, this is typically when seizures last beyond 5 min 
-
 #### Definition
 - **Traditional**: Seizure activity lasting 15-30 minutes.
 - **Practical**: Acute use of anticonvulsant therapy is needed when seizures last beyond 5 minutes.
