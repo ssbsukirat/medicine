@@ -20,3 +20,9 @@
 	- alcohol or other chemicals eg.  nitrates
 ## Pathogenesis
 - dysfunction of monoaminergic sensory control systems located in the brainstem and hypothalamus
+- Activation at trigeminal nucleus results in the release of vasoactive neuropeptides, particularly calcitonin gene–related peptide (CGRP)
+- second-order trigeminal neurons cross the midline and project to ventrobasal and posterior nuclei of the thalamus 
+- projections to the periaqueductal gray and hypo- thalamus, from which reciprocal descending systems have established antinociceptive effects 
+- 5-hydroxytryptamine (5-HT; also known as serotonin) also involved 
+- triptans are potent agonists of 5-HT1B and 5-HT1D receptors and some at ***5-HT1F (ditans)***
+- 
