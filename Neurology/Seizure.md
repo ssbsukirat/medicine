@@ -471,6 +471,7 @@ overall goal is to completely prevent seizures without causing any untoward side
 
 #### MORTALITY OF EPILEPSY
 - **Increased Risk**: Due to underlying etiology, accidents, status epilepticus, and sudden unexpected death in epilepsy (SUDEP).
+- 2x-3x risk than normal population 
 - **SUDEP**: Often affects young people with convulsive seizures, potentially due to brainstem-mediated effects on pulmonary, cardiac, and arousal functions.
 
 #### PSYCHOSOCIAL ISSUES
