@@ -482,7 +482,7 @@ overall goal is to completely prevent seizures without causing any untoward side
 #### SPECIAL ISSUES RELATED TO WOMEN AND EPILEPSY
 
 ##### Catamenial Epilepsy
-- **Increased Seizures**: Around menses due to hormonal effects on neuronal excitability. Some women may benefit from adjusted antiseizure drug dosages during this time.
+- **Increased Seizures**: Around menses due to hormonal effects on neuronal excitability or changes in drug concentration due to changes in protein binding or metabolism. Some women may benefit from adjusted antiseizure drug dosages during this time.Natural progestins or intramuscular medroxyprogesterone may be of benefit to a subset of women.
 
 ##### Pregnancy
 - **Risks**: Seizure frequency changes, potential fetal abnormalities. Close monitoring and appropriate drug therapy are essential.
