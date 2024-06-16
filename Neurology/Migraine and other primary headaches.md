@@ -1,2 +1,22 @@
 # Migraine 
-- 
+- ***a recurring syndrome of headache associated with other symptoms of neurologic dysfunction in varying admixtures***
+- the second most common cause of headache 
+- most common headache-related, and indeed neurologic, cause of disability in the world 
+- episodic headache associated with sensitivity to light, sound, or movement; nausea and vomiting often accompany 
+- three phases: (may overlap)
+	- premonitory (prodrome), 
+	- headache phase 
+	- postdrome
+	- Aura (in 25%) 
+- activators or triggers classical 
+	- amplified in women during the menstrual cycle 
+	- glare, bright lights, sounds, or other types of afferent stimulation; 
+	- hunger; 
+	- let-down from stress; 
+	- physical exertion; 
+	- stormy weather or barometric pressure changes; 
+	- hormonal fluctuations during menses; 
+	- lack of or excess sleep; 
+	- alcohol or other chemicals eg.  nitrates
+## Pathogenesis
+- dysfunction of monoaminergic sensory control systems located in the brainstem and hypothalamus
