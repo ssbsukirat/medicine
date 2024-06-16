@@ -349,7 +349,8 @@ overall goal is to completely prevent seizures without causing any untoward side
 	- ***ALDH7A1*** gene mutation, which encodes antiquitin, can cause alterations in pyridoxine metabolism treatment with pyridoxine
 	- SCN1A (sodium channel) should generally avoid taking phenytoin or lamotrigine
 	- SCN2A or SCN8A give high dose phenytoin 
-	- HLA-B-1502 skin reaction from carbamazepine phen 
+	- HLA-B-1502 skin reaction from carbamazepine phenytoin, oxcarbazepine, lamotrigine 
+	- carbamazepine-induced hyper- sensitivity reactions in HLA-A-3101
 
 #### Drug Selection for Focal Seizures
 - **Common Choices**: Carbamazepine, oxcarbazepine, eslicarbazepine, lamotrigine, phenytoin, levetiracetam.
