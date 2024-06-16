@@ -333,6 +333,7 @@ Therapy for seizure disorders is often multimodal, involving treatment of underl
 - **Reflex Epilepsy**: Avoid specific stimuli that trigger seizures (e.g., video games, music).
 
 ### ANTISEIZURE DRUG THERAPY
+overall goal is to completely prevent seizures without causing any untoward side effects, preferably with a single medication and a dosing schedule that is easy for the patient to follow.
 
 #### When to Initiate Therapy
 - **Recurrent Seizures**: Start therapy for recurrent seizures of unknown etiology or known irreversible cause.
