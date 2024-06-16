@@ -411,7 +411,13 @@ overall goal is to completely prevent seizures without causing any untoward side
 
 ### SURGICAL TREATMENT OF REFRACTORY EPILEPSY
 - **Candidates**: Patients with focal epilepsy not controlled by medication.
-- **Common Procedures**: Temporal lobectomy, amygdalohippocampectomy, lesionectomy, multiple subpial transection, hemispherectomy, corpus callosotomy.
+- **Common Procedures**: 
+	- Temporal lobectomy (resection of the anteromedial temporal lobe) ,
+	- amygdalohippocampectomy (limited removal of the underlying hippocampus and amygdala)
+	- lesionectomy (Focal seizures arising from extratemporal regions may be abolished by a focal neocortical resection)
+	- multiple subpial transection, 
+	- hemispherectomy, 
+	- corpus callosotomy.
 - **Presurgical Evaluation**: Inpatient video-EEG monitoring, high-resolution MRI, functional imaging (SPECT, PET, MEG).
 
 ### NEUROSTIMULATION DEVICES
