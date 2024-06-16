@@ -404,6 +404,9 @@ overall goal is to completely prevent seizures without causing any untoward side
 
 ### TREATMENT OF REFRACTORY EPILEPSY
 - **Polypharmacy**: Combination of drugs with different mechanisms of action may be required.
+- the initial combination therapy combines first-line drugs (i.e., carbamazepine, oxcarbazepine, lamotrigine, valproic acid, levetiracetam, and phenytoin).
+- If these drugs are unsuccessful, then the addition of other drugs such as zonisamide, brivaracetam, topiramate, lacosamide, or tiagabine is indicated
+- myoclonic seizures resistant to valproic acid may ben- efit from the addition of levetiracetam, zonisamide, clonazepam, or clobazam
 - **Third-Line Drugs**: Zonisamide, brivaracetam, topiramate, lacosamide, tiagabine.
 
 ### SURGICAL TREATMENT OF REFRACTORY EPILEPSY
