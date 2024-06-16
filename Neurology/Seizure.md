@@ -460,6 +460,7 @@ overall goal is to completely prevent seizures without causing any untoward side
 
 #### Nonconvulsive Status Epilepticus
 - Less urgent than GCSE, but should still be treated promptly to prevent cellular injury.
+![[seizurestatus.png]]
 
 ### BEYOND SEIZURES: OTHER MANAGEMENT ISSUES
 
