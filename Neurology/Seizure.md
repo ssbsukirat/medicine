@@ -398,8 +398,9 @@ overall goal is to completely prevent seizures without causing any untoward side
 ![[seizuredrugs3.png]]
 
 #### Discontinuing Therapy
-- **Criteria**: Complete seizure control for 1–5 years, single seizure type, normal neurologic exam, no family history of epilepsy, normal EEG.
+- **Criteria**: Complete seizure control for 1–5 years (usually 2 years) , single seizure type, normal neurologic exam, no family history of epilepsy, normal EEG.
 - **Process**: Gradual dose reduction over 2–3 months.
+- Most recurrences occur in the first 3 months after discontinuing therapy 
 
 ### TREATMENT OF REFRACTORY EPILEPSY
 - **Polypharmacy**: Combination of drugs with different mechanisms of action may be required.
