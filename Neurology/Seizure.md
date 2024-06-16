@@ -449,7 +449,7 @@ overall goal is to completely prevent seizures without causing any untoward side
 #### GCSE Management
 - **Emergency**: Immediate treatment is crucial to prevent cardiorespiratory dysfunction, hyperthermia, metabolic derangements, and irreversible neuronal injury.
 - **Causes**: Anticonvulsant withdrawal, noncompliance, metabolic disturbances, drug toxicity, CNS infection, tumors, refractory epilepsy, head trauma.
-- **Diagnosis**: Obvious during overt seizures; subtle signs (e.g., mild clonic movements, rapid eye movements) appear after 30-45 minutes. EEG may be necessary to confirm ongoing status epilepticus.
+- **Diagnosis**: Obvious during overt seizures; subtle signs (e.g., mild clonic movements, rapid eye movements) appear after 30-45 minutes.There may be paroxysmal episodes of tachycardia, hypertension, and pupillary dilation. EEG may be necessary to confirm ongoing status epilepticus.
 
 #### Initial Management Steps
 1. Attend to acute cardiorespiratory problems and hyperthermia.
