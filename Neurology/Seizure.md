@@ -355,6 +355,10 @@ overall goal is to completely prevent seizures without causing any untoward side
 #### Drug Selection for Focal Seizures
 - **Common Choices**: Carbamazepine, oxcarbazepine, eslicarbazepine, lamotrigine, phenytoin, levetiracetam.
 - **Considerations**: Pharmacokinetics, side effects, drug interactions.
+- Carbamazepine - 
+	- first-order pharmacokinetics, which allows for a linear relationship between drug dose, serum levels, and toxicity 
+	- leukopenia, aplastic anemia, or hepatotoxicity are side effects 
+- Oxcarbazepine avoids side effectsby intermediate and less drug interaction 
 
 #### Drug Selection for Generalized Seizures
 - **Initial Choices**: Lamotrigine, valproic acid, levetiracetam.
