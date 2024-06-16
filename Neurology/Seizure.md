@@ -359,6 +359,24 @@ overall goal is to completely prevent seizures without causing any untoward side
 	- first-order pharmacokinetics, which allows for a linear relationship between drug dose, serum levels, and toxicity 
 	- leukopenia, aplastic anemia, or hepatotoxicity are side effects 
 - Oxcarbazepine avoids side effectsby intermediate and less drug interaction 
+- Lamotrigine 
+	- mood-stabilizing properties that can be beneficial 
+	- possibility of a skin rash ***during the initiation of therapy.***
+	- severe and lead to Stevens-Johnson syndrome if unrecognized 
+	- use of low initial doses and slow titration 
+	- even lower initial doses when used as add-on therapy with valproic acid, because valproic acid inhibits lamotrigine metabolism and results in a substantially prolonged half-life
+- Phenytoin
+	- long half-life and offers the advantage of once- or twice-daily dosing 
+	- nonlinear kinetics, such that small increases in doses above a standard maintenance dose can precipitate marked side effects
+	- ***acute phenytoin toxicity (dizziness, diplopia, ataxia)*** 
+	- hirsutism, coarsening of facial features, gingival hypertrophy with long-term use 
+- Levetiracetam 
+	- no known clinically relevant drug-drug interactions 
+	- irritability, anxiety, and other psychiatric symptoms 
+- Topiramate
+	- both focal and generalized seizures 
+	- significant psychomotor slowing and other cognitive problems 
+	- risk for the devel- opment of glaucoma or renal stones 
 
 #### Drug Selection for Generalized Seizures
 - **Initial Choices**: Lamotrigine, valproic acid, levetiracetam.
