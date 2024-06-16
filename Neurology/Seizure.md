@@ -311,6 +311,7 @@ Generalized seizures arise at some point in the brain but immediately and rapidl
   - ![[seizurevsyncope.png]]
   - **Psychogenic Seizures**: Conversion reactions resembling seizures, differentiated by behaviors, duration, and EEG findings.
 	  - side-to-side turning of the head, ictal eye closure, asymmetric and large-amplitude shaking movements of the limbs, twitching of all four extremities without loss of consciousness, and pelvic thrusting are more commonly associated with psychogenic
+	  - diagnosis of psychogenic seizures also does not exclude a concurrent diagnosis of epilepsy, because the two may coexist.
 
 
 ### TREATMENT
@@ -323,6 +324,7 @@ Therapy for seizure disorders is often multimodal, involving treatment of underl
 - **Metabolic Disturbances**: Treat abnormalities in serum electrolytes or glucose. Antiseizure drugs are typically unnecessary unless the disorder can't be corrected promptly.
 - **Drug-Induced Seizures**: Avoid the causative drug. Antiseizure medications are unnecessary unless seizures recur without these triggers.
 - **Structural CNS Lesions**: Seizures may not recur post-treatment, but antiseizure medication is usually maintained for at least 1 year. Surgical removal of seizure-producing tissue is an option for refractory cases.
+- risk that the seizure focus will remain in the surrounding tissue or develop de novo as a result of gliosis 
 
 ### AVOIDANCE OF PRECIPITATING FACTORS
 - **Sleep Deprivation**: Optimize sleep quality.
