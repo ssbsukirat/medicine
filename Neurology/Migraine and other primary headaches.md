@@ -25,4 +25,92 @@
 - projections to the periaqueductal gray and hypo- thalamus, from which reciprocal descending systems have established antinociceptive effects 
 - 5-hydroxytryptamine (5-HT; also known as serotonin) also involved 
 - triptans are potent agonists of 5-HT1B and 5-HT1D receptors and some at ***5-HT1F (ditans)***
+- **Triptans** arrest nerve signaling in the nociceptive pathways of the trigeminovascular system, nucleus caudalis and trigeminal sensory thalamus, in addition to promoting cranial vasoconstriction, 
+-  **ditans, act only at neural and not vascular targets**
+- migraine symptoms can be induced by dopaminergic stimulation.
+- dopamine receptor hypersensitivity in migraineurs,
+- familial h plegic migraine (FHM)
+- Ca v 2.1 (P/Q)–type voltage-gated calcium channel CACNA1A gene are now known to cause FHM 1
+- Na+-K+ATPase ATP1A2 gene, designated FHM 2,
+- neuronal voltage-gated sodium channel SCN1A cause FHM 3.
+- ![[Migrainediagnosis.png]]
+- aura, consisting of visual disturbances with flashing lights or zigzag lines moving across the visual field or of other neurologic symptoms, is reported in only 20–25% of patients (distinguished from the pan-field television static-like disturbance now recognized as the **visual snow syndrome.)**
+- **prodromal**) phase consisting of some or all of the following: yawning, tiredness, cognitive dysfunction, mood change, neck discomfort, polyuria, and food cravings; this can **last from a few hours to days**
+- As the headache lessens, many patients enter a postdrome, most commonly feeling tired/weary, having problems concentrating, and experiencing mild neck discomfort that can last for hours and sometimes up to a day
+- episodes of migraine on 8 or more days per month and with at least 15 total days of headache per month are considered to have **chronic migraine**
+- ***Migraine at its most basic level is headache with associated features, and TTH is headache that is featureless. Most patients with disabling headache probably have migraine.***
+- that one-third of patients referred for vertigo or dizziness have a primary diagnosis of migraine. 
+- Migraine aura can have prominent brainstem symptoms, and the terms basilar artery and basilar-type migraine have now been replaced by **migraine with brainstem aura**
+## Treatment
+- assess the extent of a patient’s disease and disability with The Migraine Disability Assessment Score (MIDAS)
+- ![[Migrainemidas.png]]
+### NONPHARMACOLOGIC MANAGEMENT
+- patients can identify reliable triggers, their avoidance can be useful. 
+- A regulated lifestyle is helpful, including a healthy diet, regular exercise, regular sleep patterns, avoidance of excess caffeine and alcohol, and avoidance of acute changes in stress levels 
 - 
+- overresponsiveness to changes in stress appears to be the issue
+### ACUTE ATTACK THERAPIES FOR MIGRAINE
+- ![[Migrainacute.png]]
+- ![[Migrainacutetiers.png]]
+- Mild migraine attacks can u ally be managed by oral agents;
+- Severe migraine attacks may require parenteral therapy
+- five major pharmacologic classes: **nonsteroidal anti-inflammatory drugs; 5-HT 1B/1D receptor agonists—triptans; CGRP receptor antagonists—gepants; 5-HT 1F receptor agonists—ditans; and dopamine receptor antagonists** 
+- adequate dose of whichever agent is chosen should be used as soon as possible after the onset of an attack. If additional medication is required within 60 min because symptoms return or have not abated, the initial dose should be increased for subsequent attacks or a different class of drug tried as first-line treatment
+- Repeat dosing of the same medicine at 2 hours while safe, has been established to be **ineffective for triptans**. An exception to this rule may be **gepants, for which there are data to show that retreatment with the same dose is helpful**
+- NSAIDs
+	- NSAIDs are most effective when taken early in the migraine attack.
+	- less than optimal in moderate or severe migraine attacks.
+	- combination of acetaminophen (paracetamol), aspirin, and caffeine has been approved for the treatment of mild to moderate migraine
+	- combination of aspirin and metoclopramide has been shown to be comparable to a single dose of oral sumatriptan
+- TRIPTANS
+	- Ergotamine and dihydroergotamine are nonselective r tor agonists, whereas the triptans are selective 5-HT 1B/1D receptor agonists.
+	- triptans—sumatriptan, almotriptan, e riptan, frovatriptan, naratriptan, rizatriptan, and zolmitriptan—are available for the treatment of migraine.
+	- Rizatriptan and eletriptan are the most efficacious
+	- Sumatriptan and zolmitriptan have similar rates of e cacy as well as time to onset, with an advantage of having multiple formulations 
+	- almotriptan has a similar rate of efficacy to sumatriptan and is better tolerated
+	- frovatriptan and naratriptan are somewhat slower in onset and are also well tolerated.
+	- efficacy appears to be related more to the t max(time to peak plasma level)
+	- not effective in migraine with aura unless given after the aura is completed and the headache initiated 
+	- contraindicated in individuals with a history, symptoms, or signs of ischemic cardiac, cerebrovascular, or peripheral vascular syndromes.
+	- coadministration of a longer-acting NSAID, naproxen 500 mg, with sumatriptan will augment the initial effect of sumatriptan and, importantly, reduce rates of headache recurrence
+	- Oral (excluding sublingual) formulations of ergotamine also contain 100 mg caffeine (theoretically to enhance ergotamine absorption and possibly to add additional analgesic activity) average 2mg ergotamine 
+	- Nasal formulations of dihydroergotamine, zolmitriptan, or sumatriptan can be useful in patients requiring a nonoral route of administration. rapid onset but efficacy only 50-60%
+	- injection, such as d ergotamine and sumatriptan, is approved by the FDA for the rapid relief of a migraine attack 
+	- peak plasma levels of dihydroergotamine are achieved 3 min after IV dosing, 30 min after intramuscular (IM) dosing, and 45 min after subcutaneous (SC) dosing.
+	- Sumatriptan, 4–6 mg SC, is effective in ~50–80% of patients and can now be administered by a needle-free device.
+- CALCITONIN GENE-RELATED PEPTIDE (CGRP) RECEPTOR ANTAGONISTS—GEPANTS
+	- approved by the FDA: rimegepant and ubrogepant
+	- extremely well tolerated with only a few percent of patients reporting troublesome side effects, such as mild nausea.
+- 5-HT 1F RECEPTOR AGONISTS—DITANS
+	- Lasmiditan, a highly selective, orally available, 5-HT receptor agonist, has been approved by the FDA for the acute1F treatment of migraine
+	- o vascular effects because the 5-HT 1F receptor is located in the central and peripheral nervous system but not vasculature
+	- fills a gap in therapy for patients with cardiovascular and cerebrovascular disease
+	- Dizziness and somnolence major side effects
+- DOPAMINE RECEPTOR ANTAGONISTS
+	- Oral dopamine receptor antagonists can be considered as adjunctive therapy
+	- absorption is impaired d ing migraine because of reduced gastrointestinal motility
+	- Delayed absorption occurs even in the absence of nausea and is related to the severity of the attack and not its duration
+	- when oral NSAIDs and/or triptan agents fail, the addition of a dopamine receptor antagonist, such as metoclopramide 10 mg or domperidone 10 mg (not available in the United States), should be considered to enhance gastric absorption 
+	- Dopamine receptor antagonists (e.g., chlorpromazine, prochlorperazine, metoclopramide) by injection can also provide significant acute relief of migraine; they can be used in combination with parenteral 5-HT 1B/1Dreceptor agonists.
+- Others 
+	- acetaminophen, dichloralphenazone, and isometheptene combination FDA as “possibly” effective in the treatment of migraine
+	- Opioids are modestly effective in the acute treatment of migraine. For example, IV meperidine (50–100 mg) is given frequently in the emergency department (ED). 
+	- opioids are clearly suboptimal for patients with recurrent headache. Opioids do not treat the underlying headache mechanism; rather, they act to alter the pain sensation 
+	- opioid use in migraine be limited to patients with severe, but infrequent, headaches that are unresponsive
+	- Single-pulse transcranial magnetic stimulation (sTMS) is FDA approved for the acute treatment of migraine. Two pulses can be applied at the onset of an attack, and this can be repeated.
+	- sTMS is safe where there is no cranial metal implant, and offers an option to patients seeking nonpharmaceutical approaches to treatment.
+	- Noninvasive vagal nerve stimulation (nVNS) FDA approved for the treatment of migraine attacks in adults. One to two 120-s doses may be applied for attack treatment.
+	- Remote electrical neuromodulation using a smartphone app that stimulates the upper arm for 30–45 min is also effective for treatment of acute migraine, as is transcutaneous supraorbital nerve stimulation for 60 min
+- MEDICATION-OVERUSE HEADACHE
+	- Acute attack medications, particularly opioid or barbituratecontaining compound analgesics aggravate headache frequency and induce a state of refractory daily or near daily headache called medication-overuse headache
+	- Migraine patients who have two or more headache days a week should be cautioned about frequent analgesic use
+- PREVENTIVE TREATMENTS FOR MIGRAINE 
+	- if increasing frequency of migraine attacks or with attacks that are either unresponsive or poorly responsive to abortive treatments 
+	- considered in patients with four or more attacks a month
+	- ![[Migraineprevention.png]]
+	- must be taken daily, and there is usually a lag of 2–12 weeks before an effect is seen
+	- propranolol, timolol, rimegepant, sodium v proate, topiramate, eptinezumab, erenumab, fremanezumab, and galcanezumab are approved 
+	- amitriptyline, c desartan, nortriptyline, flunarizine, phenelzine, and cyproheptadine. shown to be useful
+	- approved sTMS for the preventive treatment of migraine
+	- onabotulinum toxin type A in episodic migraine were negative, whereas, overall, placebo-controlled trials in chronic migraine were positive.
+	- Once effective s lization is achieved, the drug is continued for ~6 months and then slowly tapered, assuming the patient agrees, to assess the continued need.
