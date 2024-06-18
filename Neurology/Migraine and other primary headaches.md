@@ -156,4 +156,8 @@
 - likely to be a disorder involving central pacemaker neurons and neurons in the posterior hypothalamic region
 - Treatment 
 	- ACUTE 
-		- 
+		- respond very well to oxygen inhalation 
+		- 100% oxygen at 10–12 L/min for 15–20 min. It appears that high flow and high oxygen content are important 
+		- Sumatriptan 6 mg SC is rapid in onset and will usually shorten an attack to 10–15 min 
+		- Sumatriptan (20 mg) and zolmitriptan (5 mg) nasal sprays are both effective 
+		- Noninvasive vagus nerve stimulation (nVNS) is FDA approved for the acute treatment of attacks in episodic cluster headache using three 2-min stimulation cycles applied con- secutively at the onset of headache on the side of pain; this may be repeated after 9 min.
