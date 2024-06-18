@@ -128,4 +128,8 @@
 - Treatment 
 	- managed with simple analgesics such as acetaminophen, aspirin, or NSAIDs
 	- Behavioral approaches including relaxation 
-	- 
+	- triptans in pure TTH are not helpful, although triptans are effective in TTH when the patient also has migraine 
+	- chronic TTH, amitriptyline is the only proven treatment
+	- tricyclics, selective serotonin reuptake inhibitors, and the benzodi- azepines have not been shown to be effective
+# Trigeminal Autonomic Cephalgias (TACs) including Cluster HEADACHE 
+- 
