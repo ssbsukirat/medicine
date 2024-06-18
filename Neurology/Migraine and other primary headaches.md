@@ -206,4 +206,14 @@
 	- posterior fossa or pituitary lesions 
 - Treatment 
 	- abortive 
-		- 
+		- not a useful concept in SUNCT/SUNA because the attacks are of such short duration 
+		- IV lidocaine arrests attacks and maybe used in hospitalised patients 
+	- Preventive 
+		- lamotrigine, 200–400 mg/d most effective  
+		- Topiramate and gabapentin may also be effective. 
+		- Carbamazepine, 400–500 mg/d,
+		- microvascular decompression or destructive trigeminal procedures are seldom useful and often produce long-term complications
+		- Greater occipital nerve injection has limited benefit 
+		- Occipital nerve stimulation is probably helpful
+## Hemicrania Continua 
+- 
