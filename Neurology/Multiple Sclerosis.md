@@ -27,4 +27,11 @@
 	- UMN typr with pyramidal signs like spasticity, hyperreflexia and babinski positive 
 	- Loss of tendon reflex rarely due to disruption of afferent fibers in spinal cord 
 - Facial weakness 
+	- due to a lesion in the pons 
+	- may resemble idiopathic Bell’s palsy  
+	- Unlike Bell’s palsy, facial weakness in MS is usually ***not associated with ipsilateral loss of taste sensation or retro- auricular pain***
+- Spasticity 
+	- commonly associated with spontaneous and movement-induced muscle spasm 
+	- in 30% moderate to severe spasticity, especially in the legs 
+	- accompanied by painful spasms interfering with ambulation, work, or self-care. 
 	- 
