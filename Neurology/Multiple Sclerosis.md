@@ -12,4 +12,18 @@
 	- Pain common and in >50% 
 - Optic Neuritis 
 	- diminished visual acuity, dimness, or decreased color perception (desaturation) in the central field of vision
-	- 
+	- Rarely, there is complete loss of light perception 
+	- monocular usually but maybe bilateral 
+	- Periorbital pain (aggravated by eye movement) often precedes or accompanies the visual loss 
+	- Afferent pupillary defect usually present 
+	- Fundoscopy maybe normal or have ***papillitis*** 
+	- Pallor of the optic disc ***(optic atrophy)*** commonly follows ON. 
+	- Uveitis uncommon and suggests lymphoma or sarcoid 
+- Weakness of the limbs 
+	- may manifest as loss of strength, speed, or dexterity; 
+	- as fatigue; or 
+	- as a disturbance of gait.
+	- Exercise induced weakness is characteristic 
+	- UMN typr with pyramidal signs like spasticity, hyperreflexia and babinski positive 
+	- Loss of tendon reflex rarely due to disruption of afferent fibers in spinal cord 
+- Facial weak
