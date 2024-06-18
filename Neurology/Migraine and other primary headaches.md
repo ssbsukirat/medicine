@@ -160,4 +160,10 @@
 		- 100% oxygen at 10–12 L/min for 15–20 min. It appears that high flow and high oxygen content are important 
 		- Sumatriptan 6 mg SC is rapid in onset and will usually shorten an attack to 10–15 min 
 		- Sumatriptan (20 mg) and zolmitriptan (5 mg) nasal sprays are both effective 
-		- Noninvasive vagus nerve stimulation (nVNS) is FDA approved for the acute treatment of attacks in episodic cluster headache using three 2-min stimulation cycles applied con- secutively at the onset of headache on the side of pain; this may be repeated after 9 min.
+		- Noninvasive vagus nerve stimulation (nVNS) is FDA approved for the acute treatment of attacks in episodic cluster headache using three 2-min stimulation cycles applied consecutively at the onset of headache on the side of pain; this may be repeated after 9 min.
+	- Preventative 
+		- ![[clusterprevent.png]] 
+		- relatively short bouts, limited courses of oral glucocorticoids can be very useful. 
+		- 10-day course of prednisone, beginning at 60 mg daily for 7 days and followed by a rapid taper 
+		- Greater occipital nerve injection with lidocaine and corticosteroids last upto 6-8 weeks 
+		- galcanezumab has been approved by the FDA for treatment of episodic cluster headache
