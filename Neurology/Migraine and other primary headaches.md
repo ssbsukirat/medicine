@@ -137,5 +137,8 @@
 	- paroxysmal hemicrania (PH), 
 	- SUNCT (short-lasting unilateral neuralgiform headache attacks with conjunctival injection and tearing)/SUNA (short-lasting unilateral neuralgiform headache attacks with cranial autonomic symptoms)
 	- hemicrania continua
+- 
 - relatively short-lasting attacks of head pain associated with lateralized cranial autonomic symptoms, such as lacrimation, conjunctival injection, aural fullness, or nasal congestion
 - misdiagnosed with “sinus headache” and treated with decongestants, which are ineffective
+- notably trigeminal neuralgia (TN), primary stabbing headache, and hypnic headache are differentials without cranial autonomic syndromes 
+- pituitary imaging and pituitary function tests because there is an excess of TAC presentations in patients with pituitary tumor–related headache, particularly prolactin and growth hormone secreting tumors
