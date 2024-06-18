@@ -137,8 +137,15 @@
 	- paroxysmal hemicrania (PH), 
 	- SUNCT (short-lasting unilateral neuralgiform headache attacks with conjunctival injection and tearing)/SUNA (short-lasting unilateral neuralgiform headache attacks with cranial autonomic symptoms)
 	- hemicrania continua
-- 
+- ![[headachetacfeatures.png]]
 - relatively short-lasting attacks of head pain associated with lateralized cranial autonomic symptoms, such as lacrimation, conjunctival injection, aural fullness, or nasal congestion
 - misdiagnosed with “sinus headache” and treated with decongestants, which are ineffective
 - notably trigeminal neuralgia (TN), primary stabbing headache, and hypnic headache are differentials without cranial autonomic syndromes 
 - pituitary imaging and pituitary function tests because there is an excess of TAC presentations in patients with pituitary tumor–related headache, particularly prolactin and growth hormone secreting tumors
+## Cluster Headache 
+- relatively rare form of primary headache 
+- pain is deep, usually retroorbital, often excruciating in intensity, nonfluctuating, and explosive in quality
+- periodicity is core feature 
+- At least one of the daily attacks of pain recurs at about the same hour each day for the duration of a cluster bout 
+- daily bouts of one to two attacks of relatively short-duration unilateral pain for 8–10 weeks a year; this is usually followed by a pain-free inter- val that averages a little less than 1 year 
+- chronic when there is <3 months of sustained remission without treatment.
