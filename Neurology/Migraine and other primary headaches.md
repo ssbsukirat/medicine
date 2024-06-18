@@ -152,3 +152,8 @@
 - men are affected three times more often than women.
 - move about during attacks, pacing, rocking, or rubbing their head for relief; some may even become aggressive during attacks
 - ipsilateral parasympathetic symptoms like conjunctival injection or lacrimation, aural fullness, rhinorrhea or nasal congestion, or cranial sympathetic dysfunction such as ptosis
+- photophobia and phonophobia are far more likely to be unilateral and on the same side of the pain, rather than bilateral, as is seen in migraine
+- likely to be a disorder involving central pacemaker neurons and neurons in the posterior hypothalamic region
+- Treatment 
+	- ACUTE 
+		- 
