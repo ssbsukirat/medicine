@@ -167,3 +167,6 @@
 		- 10-day course of prednisone, beginning at 60 mg daily for 7 days and followed by a rapid taper 
 		- Greater occipital nerve injection with lidocaine and corticosteroids last upto 6-8 weeks 
 		- galcanezumab has been approved by the FDA for treatment of episodic cluster headache
+		- verapamil as the first-line preventive treatment for patients with chronic cluster headache or with prolonged bouts
+		- verapamil doses far in excess of those administered for cardiac disorders. The initial dose range is 40–80 mg twice daily; effective doses may be as high as 960 mg/d 
+		- Verapamil can cause heart block by slowing conduction in the atrioventricular node. A baseline ECG is recommended for all patients. The ECG is repeated 10 days after a dose change in patients whose dose is being increased above 240 mg daily. Dose increases are usually made in 80-mg increments.
