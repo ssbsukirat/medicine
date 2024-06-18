@@ -132,4 +132,10 @@
 	- chronic TTH, amitriptyline is the only proven treatment
 	- tricyclics, selective serotonin reuptake inhibitors, and the benzodi- azepines have not been shown to be effective
 # Trigeminal Autonomic Cephalgias (TACs) including Cluster HEADACHE 
-- 
+- including 
+	- cluster headache, 
+	- paroxysmal hemicrania (PH), 
+	- SUNCT (short-lasting unilateral neuralgiform headache attacks with conjunctival injection and tearing)/SUNA (short-lasting unilateral neuralgiform headache attacks with cranial autonomic symptoms)
+	- hemicrania continua
+- relatively short-lasting attacks of head pain associated with lateralized cranial autonomic symptoms, such as lacrimation, conjunctival injection, aural fullness, or nasal congestion
+- misdiagnosed with “sinus headache” and treated with decongestants, which are ineffective
