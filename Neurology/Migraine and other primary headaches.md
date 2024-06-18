@@ -116,4 +116,7 @@
 	- Once effective s lization is achieved, the drug is continued for ~6 months and then slowly tapered, assuming the patient agrees, to assess the continued need.
 # Tension type headache 
 - Clinical Features 
+	- chronic head-pain syndrome characterized by bilateral tight, bandlike discomfort 
+	- builds slowly, fluctuates in severity, and may persist more or less continuously for many days 
+	- chronic if >15 days a month 
 	- 
