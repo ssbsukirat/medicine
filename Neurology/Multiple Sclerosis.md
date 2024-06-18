@@ -6,4 +6,10 @@
 - may be severe or seem so trivial that a patient may not seek medical attention for months or years 
 - Examination often reveals evidence of neurologic dysfunction, often in asymptomatic locations 
 - Sensory 
-	- include both paresthesias (e.g., tingling, prickling sensations, formications, “pins and needles,” or painful burning) and hypesthesia (e.g., reduced sensation, numbness, or a “dead” feeling)
+	- include both ***paresthesias*** (e.g., tingling, prickling sensations, formications, “pins and needles,” or painful burning) and ***hypesthesia*** (e.g., reduced sensation, numbness, or a “dead” feeling)
+	- Unpleasant sensations (e.g., feelings that body parts are swollen, wet, raw, or tightly wrapped) are also common 
+	- ***sensory level*** Sensory impairment of the trunk and legs below a horizontal line on the torso indicates that the spinal cord is the origin of the disturbance and accompanied by ***bandlike sensation*** or tightness around torso 
+	- Pain common and in >50% 
+- Optic Neuritis 
+	- diminished visual acuity, dimness, or decreased color perception (desaturation) in the central field of vision
+	- 
