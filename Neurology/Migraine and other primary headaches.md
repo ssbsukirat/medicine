@@ -190,3 +190,20 @@
 - Secondary PH
 	- has been reported with lesions in the region of the sella turcica, including arteriovenous malformation, cavernous sinus meningioma, pituitary pathology, and epidermoid tumors.
 	- more likely if the patient requires high doses (>200 mg/d) of indomethacin 
+	- with apparent bilateral PH, raised cere- brospinal fluid (CSF) pressure should be suspected
+## SUNCT/ SUNA 
+- severe, unilateral orbital or temporal pain that is stabbing or throbbing in quality. 
+- rare primary headache 
+- at least 20 attacks, lasting for 5–240 s; ipsilateral conjunctival injection and lacrimation should be present 
+- Diagnosis 
+	- 3 patterns 
+		- single stabs, which are usually short-lived; 
+		- groups of stabs; or a 
+		- longer attack comprising many stabs between which the pain does not completely resolve, thus giving a “saw-tooth” phenomenon with attacks lasting many minutes.
+	- cutaneous (or other) triggers of attacks, a lack of refractory period to triggering between attacks, and the lack of a response to indomethacin 
+	- Apart from trigeminal sensory disturbance, the neurologic examination is normal in primary SUNCT/SUNA 
+- Secondary SUNCT 
+	- posterior fossa or pituitary lesions 
+- Treatment 
+	- abortive 
+		- 
