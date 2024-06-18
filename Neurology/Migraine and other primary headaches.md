@@ -170,3 +170,8 @@
 		- verapamil as the first-line preventive treatment for patients with chronic cluster headache or with prolonged bouts
 		- verapamil doses far in excess of those administered for cardiac disorders. The initial dose range is 40–80 mg twice daily; effective doses may be as high as 960 mg/d 
 		- Verapamil can cause heart block by slowing conduction in the atrioventricular node. A baseline ECG is recommended for all patients. The ECG is repeated 10 days after a dose change in patients whose dose is being increased above 240 mg daily. Dose increases are usually made in 80-mg increments.
+		- NEUROMODULATION Therapy 
+			- When medical therapies fail 
+			- Sphenopalatine ganglion (SPG) stimulation with an implanted battery-free stimulator 
+			- nVNS compares favorably with standard-of-care in open-label experience 
+			- occipital nerve stimulation 
