@@ -34,4 +34,7 @@
 	- commonly associated with spontaneous and movement-induced muscle spasm 
 	- in 30% moderate to severe spasticity, especially in the legs 
 	- accompanied by painful spasms interfering with ambulation, work, or self-care. 
-	- 
+	- Occasionally, spasticity provides support for the body weight during ambulation, and in these cases, treatment of spasticity may actually do more harm than good. 
+- Visual Blurring 
+	- from ON or Diplopia 
+	- if resolves 
