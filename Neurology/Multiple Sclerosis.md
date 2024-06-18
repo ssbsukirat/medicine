@@ -26,4 +26,5 @@
 	- Exercise induced weakness is characteristic 
 	- UMN typr with pyramidal signs like spasticity, hyperreflexia and babinski positive 
 	- Loss of tendon reflex rarely due to disruption of afferent fibers in spinal cord 
-- Facial weak
+- Facial weakness 
+	- 
