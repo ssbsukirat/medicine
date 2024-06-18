@@ -216,4 +216,16 @@
 		- Greater occipital nerve injection has limited benefit 
 		- Occipital nerve stimulation is probably helpful
 ## Hemicrania Continua 
-- 
+- f > M
+- 10-70y age 
+- moderate and continuous unilateral pain associated with fluctuations of severe pain; 
+- complete resolution of pain with indomethacin; and 
+- exacerbations that may be associated with autonomic features, including conjunctival injection, lacrimation, and photophobia on the affected side
+- Treatment 
+	- indomethacin
+	- other NSAIDs not useful 
+	- IM injection of 100 mg of indomethacin has been proposed as a diagnostic tool 
+	- trial of oral indomethacin, starting with 25 mg tid, then 50 mg tid, and then 75 mg tid, can be given. Up to 2 weeks at the maximal dose may be necessary to assess whether a dose has a useful effect 
+	- topiramate maybe useful 
+	- nVNS very useful 
+	- occipital nerve stimulation +/- 
