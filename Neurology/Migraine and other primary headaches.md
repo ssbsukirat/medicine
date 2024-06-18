@@ -149,3 +149,6 @@
 - At least one of the daily attacks of pain recurs at about the same hour each day for the duration of a cluster bout 
 - daily bouts of one to two attacks of relatively short-duration unilateral pain for 8–10 weeks a year; this is usually followed by a pain-free inter- val that averages a little less than 1 year 
 - chronic when there is <3 months of sustained remission without treatment.
+- men are affected three times more often than women.
+- move about during attacks, pacing, rocking, or rubbing their head for relief; some may even become aggressive during attacks
+- ipsilateral parasympathetic symptoms like conjunctival injection or lacrimation, aural fullness, rhinorrhea or nasal congestion, or cranial sympathetic dysfunction such as ptosis
