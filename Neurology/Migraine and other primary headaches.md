@@ -175,3 +175,15 @@
 			- Sphenopalatine ganglion (SPG) stimulation with an implanted battery-free stimulator 
 			- nVNS compares favorably with standard-of-care in open-label experience 
 			- occipital nerve stimulation 
+			- Deep-brain stimulation of the region of the posterior hypothalamic gray matter but its invasive 
+## Paroxysmal Hemicrania 
+- frequent unilateral, severe, short-lasting episodes of headache 
+- retroorbital but may be experienced all over the head and is associated with autonomic phenomena such as lacrimation and nasal congestion 
+- with remissions are said to have episodic PH, whereas those with the nonremitting form are said to have chronic PH. 
+- unilateral very severe pain; short-lasting attacks (2–45 min); very frequent attacks (usually >5 a day); marked autonomic features ipsilateral to the pain; rapid course 3367 (<72 h); and excellent response to indomethacin.
+- M = F
+- Indomethacin 25-75mg TID 
+- Topiramate is helpful in some cases. 
+- Verapamil not useful 
+- nVNS can be very effective
+- PH can coexist with TN (PH-tic syndrome); similar to cluster-tic syndrome, each component may require separate treatment. 
