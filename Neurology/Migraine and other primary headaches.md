@@ -187,3 +187,6 @@
 - Verapamil not useful 
 - nVNS can be very effective
 - PH can coexist with TN (PH-tic syndrome); similar to cluster-tic syndrome, each component may require separate treatment. 
+- Secondary PH
+	- has been reported with lesions in the region of the sella turcica, including arteriovenous malformation, cavernous sinus meningioma, pituitary pathology, and epidermoid tumors.
+	- more likely if the patient requires high doses (>200 mg/d) of indomethacin 
