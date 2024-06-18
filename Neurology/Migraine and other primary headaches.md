@@ -119,4 +119,13 @@
 	- chronic head-pain syndrome characterized by bilateral tight, bandlike discomfort 
 	- builds slowly, fluctuates in severity, and may persist more or less continuously for many days 
 	- chronic if >15 days a month 
+	- headaches are completely without accompanying features such as nausea, vomiting, photophobia, phonophobia, osmophobia, throbbing, and aggravation with movement 
+	- differential is migraine which has additional features 
+	- International Headache Society’s main definition of TTH allows an admixture of nausea, photophobia, or phonophobia in various combinations, although the appendix definition does not; this illustrates the difficulty in distinguishing these two clinical entities
+- Pathophysiology 
+	- a primary disorder of central nervous system pain modulation alone (vs migraine  with generalised disturbance of sensory modulation) 
+	- pain is a product of nervous tension, but there is no clear evidence for tension as an etiology 
+- Treatment 
+	- managed with simple analgesics such as acetaminophen, aspirin, or NSAIDs
+	- Behavioral approaches including relaxation 
 	- 
