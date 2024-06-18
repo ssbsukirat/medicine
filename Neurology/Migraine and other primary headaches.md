@@ -114,3 +114,6 @@
 	- approved sTMS for the preventive treatment of migraine
 	- onabotulinum toxin type A in episodic migraine were negative, whereas, overall, placebo-controlled trials in chronic migraine were positive.
 	- Once effective s lization is achieved, the drug is continued for ~6 months and then slowly tapered, assuming the patient agrees, to assess the continued need.
+# Tension type headache 
+- Clinical Features 
+	- 
