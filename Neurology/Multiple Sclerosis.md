@@ -287,4 +287,12 @@
 	- <3.5 can usually walk 
 	- >4 have progressive MS 
 - Acute Attack 
-	- If new attack/ deterioration consider whether this change reflects new disease activity or a “pseudoexacerbation” resulting from an increase in ambient temper- ature, fever, or an infection
+	- If new attack/ deterioration consider whether this change reflects new disease activity or a ***“pseudoexacerbation” resulting from an increase in ambient temperature, fever, or an infection***
+	- Glucocorticoid inappropriate if pseudoexacerbation 
+	- Glucocorticoid 
+		- 1st attacks or exacerbation 
+		- reducing the severity and shortening the duration of attacks 
+		- long term effect unclear , so ***mild attacks usually not treated*** 
+		- IV methylpred 500-1000mg/d x 3-5days 
+		- maybe followed by no taper or oral prednisone 60-80mg/d tapered over 2 weeks 
+		- side effects  include fluid retention, potassium loss, weight gain, gastric disturbances, acne, and emotional lability
