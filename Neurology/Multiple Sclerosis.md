@@ -215,5 +215,8 @@
 - EP abnormalities are ***not specific to MS,*** 
 - marked ***delay in the latency*** of a specific EP component (as opposed to a reduced amplitude or distorted wave-shape) is suggestive of demyelination 
 ## CSF 
-- ***mononuclear cell pleocytosis*** and an increased level of intrathecally synthesized IgG
-- 
+- ***mononuclear cell pleocytosis*** and an increased level of ***intrathecally synthesized IgG***
+- total CSF protein is usually normal or mildly elevated 
+- Measures of intrathecal IgG 
+	- ***CSF IgG index*** expresses the ratio of IgG to albumin in the CSF divided by the same ratio in the serum. 
+	- The ***IgG synthesis rate*** uses serum and CSF IgG and albumin measurements to calculate the rate of CNS IgG synthesis.
