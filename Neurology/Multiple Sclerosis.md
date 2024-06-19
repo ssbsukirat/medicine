@@ -194,3 +194,13 @@
 - If clinically only 1/2 signs on neurological examination the second may be documented by abnormal tests such as MRI or evoked potentials (EPs)
 - the second clinical event (in time) may be supported solely by MRI findings, consisting of either the development of new focal white matter lesions on MRI or the simultaneous presence of both an enhancing lesion and a non-enhancing lesion in an asymptomatic location
 - progressive from onset for ≥6 months without superimposed relapses, documentation of intrathecal IgG synthesis may be used to support a diagnosis of PPMS
+# Diagnostic Tests 
+## MRI 
+- increase in vascular permeability from a breakdown of the BBB is detected by leakage of intravenous gadolinium (Gd) into parenchyma 
+- leakage early in development of lesion and useful marker of inflammation 
+- Gd enhancement typically persists for <1 month, and the residual MS plaque remains visible indefinitely as a focal area of hyperintensity (a lesion) on T2-weighted images 
+- ***Dawson’s fingers***
+	- Lesions are frequently oriented perpendicular to the ventricular surface, corresponding to the pathologic pattern of perivenous demyelination
+- Lesions multifocal within the brain, brainstem, and spinal cord. 
+- Lesions >6 mm located in the ***corpus callosum, periventricular white matter, brainstem, cerebellum, or spinal cord*** are particularly helpful diagnostically 
+- 
