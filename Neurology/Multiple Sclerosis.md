@@ -192,4 +192,5 @@
 - definite MS require documentation of two or more episodes of symptoms and two or more signs that reflect pathology in anatomically noncontiguous white matter tracts of the CNS
 - Symptoms must last for >24 h and occur as distinct episodes that are separated by a month or more 
 - If clinically only 1/2 signs on neurological examination the second may be documented by abnormal tests such as MRI or evoked potentials (EPs)
-- 
+- the second clinical event (in time) may be supported solely by MRI findings, consisting of either the development of new focal white matter lesions on MRI or the simultaneous presence of both an enhancing lesion and a non-enhancing lesion in an asymptomatic location
+- progressive from onset for ≥6 months without superimposed relapses, documentation of intrathecal IgG synthesis may be used to support a diagnosis of PPMS
