@@ -278,3 +278,13 @@
 		- her ability to care for the child 
 		- the availability of social support
 	- Disease-modifying therapy is generally discontinued during pregnancy 
+# Treatment 
+- Categories 
+	- acute attacks 
+	- disease modifying agents 
+	- symptomatic 
+- EDSS (expanded disability status scale)
+	- <3.5 can usually walk 
+	- >4 have progressive MS 
+- Acute Attack 
+	- If new attack/ deterioration consider whether this change reflects new disease activity or a “pseudoexacerbation” resulting from an increase in ambient temper- ature, fever, or an infection
