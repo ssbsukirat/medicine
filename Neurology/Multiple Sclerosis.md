@@ -302,4 +302,4 @@
 		- PPI like pantoprazole 40 BD to prevent gastritis 
 	- if unresponsive to steroids, and fulminant  plasma exchange  40-60ml/exchange and 5-7 exchanges 
 ## Disease Modifying Therapy 
-- 
+- consider patients with recent relapses to be a “relapsing form of MS” regardless of whether these patients previously had progressive disability independent from relapses
