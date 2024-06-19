@@ -189,6 +189,7 @@
 - fragments of self-peptides derived from HLA-DR2 proteins themselves were found to bind intact DR2 molecules on B cells and serve as antigens for presentation to T cells. Memory CD4+ T cells derived from CSF responded to these self-peptides bound to DR2 molecules and, in some cases, these self-peptides were cross-reactive with myelin a gens, RAS guanyl-releasing protein 2 (RASGRP2) previously found to be a possible T-cell autoantigen in MS, EBV, and Akkermansia muciniphila, a commensal gut bacterium associated with dysbiosis
 # Diagnosis 
 - no single diagnostic test 
+- ![[mscriteria.png]]
 - definite MS require documentation of two or more episodes of symptoms and two or more signs that reflect pathology in anatomically noncontiguous white matter tracts of the CNS
 - Symptoms must last for >24 h and occur as distinct episodes that are separated by a month or more 
 - If clinically only 1/2 signs on neurological examination the second may be documented by abnormal tests such as MRI or evoked potentials (EPs)
@@ -228,6 +229,7 @@
 	- the presence of polymorphonuclear leukocytes, or 
 	- a protein concentration >1 g/L (>100 mg/dL) in CSF
 # Differential Diagnosis 
+- ![[MSdifferentials.png]]
 - possibility should be considered when 
 	- symptoms are localized exclusively to the posterior fossa, craniocervical junction, or spinal cord; 
 	- the patient is <15 or >60 years of age; 
@@ -242,4 +244,7 @@
 	- severe muscular atrophy, 
 	- peripheral neuropathy, 
 	- episodic loss of consciousness, 
-	- fever, headache, seizures, or coma
+	- fever, 
+	- headache, 
+	- seizures 
+	- coma
