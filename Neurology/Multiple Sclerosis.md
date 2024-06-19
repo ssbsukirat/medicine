@@ -263,3 +263,18 @@
 	- action tremor, 
 	- pyramidal symptoms, or a 
 	- progressive disease course
+- benign MS 15 years after onset who have entirely normal neurologic examinations are likely to maintain their benign course. 
+- 1st clinical attack 
+	- With three or more typical T2-weighted lesions, the risk of developing MS after 20 years is ~80%. 
+	- normal brain MRI, the likelihood of developing MS is <20%. 
+	- two or more Gd-enhancing lesions at baseline is highly predictive of future MS 
+	- the appearance of either new T2-weighted lesions or new Gd enhancement ≥3 months after the initial episode predictive of future MS 
+- Effect on pregnancy 
+	- less attacks than expected in pregnancy (especially last trimester)
+	- more attacks than expected 3 months post partum 
+	- overall through the year 9m+3m post partum, course unchanged 
+	- pregnancy should be planned according to 
+		- he mother’s physical state 
+		- her ability to care for the child 
+		- the availability of social support
+	- Disease-modifying therapy is generally discontinued during pregnancy 
