@@ -37,4 +37,153 @@
 	- Occasionally, spasticity provides support for the body weight during ambulation, and in these cases, treatment of spasticity may actually do more harm than good. 
 - Visual Blurring 
 	- from ON or Diplopia 
-	- if resolves 
+	- if resolves when either eye is covered, the cause is diplopia
+	- Diplopia may be caused by internuclear ophthalmoplegia (INO) or palsy of the sixth cranial nerve (rarely the third or fourth
+	- INO consists of impaired adduction of one eye due to a lesion in the ipsilateral medial longitudinal fasciculus
+	- Prominent nystagmus is often observed in the abducting eye, along with a small skew deviation. 
+	- bilateral INO is particularly suggestive of MS. 
+	- Other common gaze disturbances in MS include
+		- (1) a horizontal gaze palsy,
+		- (2) a “one and a half” syndrome (horizontal gaze palsy plus an INO), and
+		- (3) acquired pendular nystagmus.
+- Ataxia usually manifests as cerebellar tremors may also involve the head and trunk or the voice, producing a characteristic cerebellar dysarthria (scanning speech).
+- Vertigo may appear suddenly from a brainstem lesion, superficially resembling acute labyrinthitis
+# ancillary symptoms 
+- Paroxysmal symptoms are distinguished by their
+	- brief duration (10 s to 2 min),
+	- high frequency (5–40 episodes per day),
+	- lack of any alteration of consciousness or change in background electroencephalogram during episodes, and a 
+	- self-limited course (generally lasting weeks to months). 
+	- They may be precipitated by hyperventilation or movement
+	- include 
+		- Lhermitte’s symptom; 
+		- tonic contractions of a limb, face, or trunk (tonic seizures); 
+		- paroxysmal dysarthria and ataxia; 
+		- paroxysmal sensory disturbances; and
+		- several other less well-characterized syndromes.
+- Lhermitte’s symptom 
+	- is an electric shock–like sensation (typically induced by flexion or other movements of the neck)
+	- that radiates down the back into the legs.
+	- Rarely, it radiates into the arms.
+	- It is generally self-limited but may persist for years.
+	- also with disorders of the cervical spinal cord (e.g., cervical spondylosis)
+- Trigeminal neuralgia, hemifacial spasm, and glossopharyngeal neuralgia occur when lesion involves the root entry (or exit) zone of the fifth, seventh, and ninth cranial nerve, respectively
+- Trigeminal neuralgia (tic douloureux) 
+	- is a very brief lancinnating facial pain 
+	- often triggered by an afferent input from the face or teeth. 
+	- Most cases not MS related; 
+	- atypical features suggest MS 
+		- such as onset before age 50 years, 
+		- bilateral symptoms, 
+		- objective sensory loss,
+		- or nonparoxysmal pain
+- Facial myokymia 
+	- persistent rapid flickering contractions of the facial musculature (especially the lower portion of the orbicularis oculus) or a 
+	- contraction that slowly spreads across the face. 
+	- It results from lesions of the corticobulbar tracts or brainstem course of the facial nerve
+- Heat sensitivity 
+	- neurologic symptoms produced by an elevation of the body’s core temperature. 
+	- For example, unilateral visual blurring may occur during a hot shower or with physical exercise (Uhthoff’s symptom)
+- Bladder dysfunction is present in >90% of MS patients
+	- weekly or more frequent episodes of incontinence in 1/3
+	- Detrusor hyperreflexia, due to impairment of suprasegmental inhibition, causes urinary frequency, urgency, nocturia, and uncontrolled bladder emptying. 
+	- Detrusor sphincter dyssynergia, due to loss of synchronization between detrusor and sphincter muscles, causes difficulty in initiating and/or stopping the urinary stream, producing hesitancy, urinary retention, overflow incontinence, and recurrent infection
+- Constipation occurs in >30% of patients
+- Sexual dysfunction may manifest as decreased libido, impaired genital sensation, impotence in men, and diminished vaginal lubrication or adductor spasms in women
+- Cognitive dysfunction can include memory loss; impaired attention; difficulties in executive functioning, memory, and problem solving; slowed information processing; and problems shifting between cognitive tasks. 
+- Euphoria (elevated mood) was once thought to be characteristic of MS but is actually uncommon
+- Fatigue(90% patients have) can be exacerbated by elevated temperatures, depression, expending exceptional effort to accomplish basic activities of daily living, or sleep disturbances (e.g., from frequent nocturnal awakenings to urinate
+# Disease Course
+- 3 types 
+- Relapsing or bout onset MS 
+	- 90% 
+	- discrete attacks of neurologic dysfunction that generally evolve over days to weeks (rarely over hours)
+	- there is often substantial or complete recovery over the ensuing weeks to months.
+	- However, as attacks continue, recovery may be less evident
+	- patients with RMS experience subtle “silent” progression even when relapse-free.
+- Secondary progressive 
+	- begins as RMS
+	- patient experiences progressive deterioration in function unassociated with acute attacks.
+	- greater amount of fixed neurologic disability than RMS
+	- much lower rate of evolution to SPMS, estimated at slightly >1% each year, likely due to widespread use of effective therapies for MS
+- Primary progressive MS (PPMS) 
+	- accounts for ~10% of cases
+	- do not experience attacks but rather steadily decline in function from disease onset
+	- sex distribution is more even, 
+	- the disease begins later in life (mean age ~40 years), and 
+	- disability develops faster (relative to the onset of the first clinical symptom).
+	- Progressive MS patients experiencing relapses or who are found to have acute new lesions on MRI are considered to have “active” progressive MS.
+# Epidemiology
+- threefold more common in women than men
+- typically between 20 and 40 years (slightly later in men than in women), but the disease can present across the lifespan.
+- risk factors for MS include 
+	- a genetic predisposition, 
+	- vitamin D deficiency, 
+	- Epstein-Barr virus (EBV) exposure after early childhood, and 
+	- cigarette smoking
+- Vitamin D 
+	- deficiency is associated with an increase in MS risk, 
+	- ongoing deficiency increases disease activity after MS begins. 
+	- Immunoregulatory effects of vitamin D explains these relationships
+
+# Genetics
+- Susceptibility to MS is polygenic
+- HLA)DRB1 gene in the class II region of the major histocompatibility complex (MHC) and specifically to HLA-DR15 strongest 
+- interleukin (IL) 7 receptor (CD127), IL-2 receptor (CD25), and T-cell costimulatory molecule LFA-3 (CD58) are others 
+- .![[Msgenetics.png]]
+
+# Pathology
+## Demyelination
+- New MS lesions begin with perivenular cuffing by inflammatory mononuclear cells, predominantly T cells and macrophages, which also infiltrate the surrounding white matter.
+- BBB disrupted at inflammation but vessel wall preserved (unlike vasculitis)
+- CD8 cells at leading edge 
+- Humoral involvement suggested by B lymphos 
+- Sharply demarcated areas of demyelination are the pathologic hallmark of MS lesions
+- relative sparing of axons is typical, partial or total axonal destruction can also occur, especially within highly inflammatory lesions.
+- surviving oligodendrocytes or those that differentiate from precursor cells partially remyelinate the surviving axons, producing so-called shadow plaques
+- promoting remyelination to protect axons remains an important therapeutic goal.
+- there is prominent astrocytic proliferation (gliosis) and the term sclerosis refers to these gliotic plaques that have a rubbery or hardened texture at autopsy.
+## Neurodegeneration
+- Cumulative axonal and neuronal loss is the most important contributor to neuro deficit
+- 70% of axons are ultimately lost from the lateral corticospinal (e.g., motor) tracts at paraplegia 
+- Axons can adapt initially to these injuries, but over time distal and retrograde degeneration (“dying-back” axonopathy) occurs.
+- Chronic active plaques are
+	- preexisting white matter lesions that show evidence of persistent inflammation, progressive axonal loss, and gradual concentric expansion, 
+	- with large numbers of microglial cells at the leading edge of enlarging lesions 
+	- but without BBB disruption
+- Cortical plaques
+	- are frequent in MS but are 
+	- generally not well visualized by MRI;
+	- extend upward from adjacent white matter lesions, or may be located within the cortex or underneath the pia
+- Ectopic lymphoid follicles are 
+	- aggregates of B, T, and plasma cells located in the superficial meninges, especially overlying deep cortical sulci; 
+	- similar clusters are also present in perivascular spaces. 
+	- topographically associated with underlying demyelination and neuronal loss in the cerebral cortex, 
+	-  diffusible factors from these mediate subpial cortical demyelination and neurodegeneration
+- relapsing MS, inflammation is associated with focal perivenular parenchymal infiltration of lymphocytes and monocytes associated with BBB disruption and active demyelination.
+- inflammation in progressive MS is more diffuse and is characterized by widespread microglial activation across large areas of white matter, associated with reduced myelin staining and axonal injury (“dirty white matter”).
+- ongoing inflammation occurs behind an intact BBB in many patients with progressive MS, and this feature could explain the failure of immunotherapies not capable of crossing the BBB 
+
+# physiology
+- myelinated neurons have saltatory nerve conduction
+- Produces faster nerve conduction (70m/s)
+- Conduction block when impulse cannot cross demyelinated segment due to hyper polarisation of membranes by exposure of voltage dependent potassium channels
+- temporary conduction block often follows a demyelinating event before sodium channels (originally concentrated at the nodes) redistribute along the naked axon
+- Variable conduction block can occur with raised body temperature or metabolic alterations and may explain clinical fluctuations that vary from hour to hour or appear with fever or exercise
+# Immunology
+- proinflammatory autoimmune response directed against a c ponent of CNS myelin, and perhaps other neural elements as well, remains the cornerstone of current concepts of MS pathogenesis
+# Autoreactive T lymphocytes
+- Myelin basic protein (MBP), an intracellular protein involved in myelin compaction, is an important T-cell antigen
+- Activated MBP-reactive T cells have been identified in the blood, in cerebrospinal fluid (CSF), and within MS lesions.
+- HLA-DR15 protein binds with high affinity to a f ment of MBP (spanning amino acids 89–96), potentially stimulating T-cell responses to this self-protein
+- TH1 cells and TH1 cytokines, including IL-2, tumor necrosis factor (TNF)-α, and IFN-γ 
+- TNF-α and IFN-γ may directly injure oligodendrocytes or the myelin membrane.
+- CD8 cytotoxic T cells are present at the active edges of expanding MS lesions, and activated CD8 cells also appear to be enriched for reactivity against myelin antigens in MS patients
+# HUMORAL AUTOIMMUNITY
+- B-cell activation and antibody responses are centrally involved
+- Clonally restricted populations of activated, antigen-experienced, memory B cells and plasma cells are present in MS lesions, in meningeal lymphoid follicle-like structures overlying the cerebral cortex, and in the CSF.
+- Myelin-specific autoantibodies, some directed against an e cellular myelin protein, myelin oligodendrocyte glycoprotein (MOG)
+- CSF, elevated levels of locally synthesized immunoglobulins and oligoclonal antibodies, derived from clonally restricted CNS B cells and plasma cells, are also characteristic 
+- pattern of oligoclonal banding is unique to each individual,
+- antigen presenting cell (APC) function of B cells may explain their role in MS pathogenesis
+- fragments of self-peptides derived from HLA-DR2 proteins themselves were found to bind intact DR2 molecules on B cells and serve as antigens for presentation to T cells. Memory CD4+ T cells derived from CSF responded to these self-peptides bound to DR2 molecules and, in some cases, these self-peptides were cross-reactive with myelin a gens, RAS guanyl-releasing protein 2 (RASGRP2) previously found to be a possible T-cell autoantigen in MS, EBV, and Akkermansia muciniphila, a commensal gut bacterium associated with dysbiosis
