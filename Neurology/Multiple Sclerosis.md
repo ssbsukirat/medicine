@@ -113,6 +113,7 @@
 	- the disease begins later in life (mean age ~40 years), and 
 	- disability develops faster (relative to the onset of the first clinical symptom).
 	- Progressive MS patients experiencing relapses or who are found to have acute new lesions on MRI are considered to have “active” progressive MS.
+- ![[MScourse.png]] 
 # Epidemiology
 - threefold more common in women than men
 - typically between 20 and 40 years (slightly later in men than in women), but the disease can present across the lifespan.
@@ -248,3 +249,17 @@
 	- headache, 
 	- seizures 
 	- coma
+# Prognosis 
+- long-term prognosis for MS has improved substantially in recent years, and transition from RMS to SPMS now occurs at approximately a 1% annual rate com- pared with 2–3% in the pretreatment era 
+- favorable prognosis 
+	- ON or sensory symptoms at onset; 
+	- fewer than two relapses in the first year of illness; 
+	- minimal impairment after 5 years
+- aggressive markers 
+	- older age at symptom onset and greater disability 
+	- appearance of motor signs during the first year of the illness
+- disability markers 
+	- truncal ataxia, 
+	- action tremor, 
+	- pyramidal symptoms, or a 
+	- progressive disease course
