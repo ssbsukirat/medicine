@@ -206,3 +206,14 @@
 - bursts of focal inflammatory disease activity occur far more frequently than would have been predicted by the frequency of relapses. Thus, early in MS, most disease activity is clinically silent 
 - ***“burden of disease”*** --> total volume of T2-weighted signal abnormality shows a significant (albeit weak) ***correlation with clinical disability.***
 - ***Quantitative measures of brain and spinal cord atrophy*** are evidence of diffuse tissue injury and correlate more strongly with measures of disability or progressive MS
+- Approximately one-third of T2-weighted lesions appear as ***hypointense lesions (black holes) on T1-weighted imaging.*** 
+- Black holes may be a marker of irreversible demyelination and axonal loss 
+## Evoked Potentials 
+- assesses function in afferent (visual, auditory, and somatosensory) or efferent (motor) CNS pathways 
+- use computer averaging to measure CNS electric potentials evoked by repetitive stimulation of selected peripheral nerves or of the brain
+- provide the most information when the pathways studied are ***clinically uninvolved*** 
+- EP abnormalities are ***not specific to MS,*** 
+- marked ***delay in the latency*** of a specific EP component (as opposed to a reduced amplitude or distorted wave-shape) is suggestive of demyelination 
+## CSF 
+- ***mononuclear cell pleocytosis*** and an increased level of intrathecally synthesized IgG
+- 
