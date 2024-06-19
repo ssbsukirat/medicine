@@ -218,5 +218,28 @@
 - ***mononuclear cell pleocytosis*** and an increased level of ***intrathecally synthesized IgG***
 - total CSF protein is usually normal or mildly elevated 
 - Measures of intrathecal IgG 
-	- ***CSF IgG index*** expresses the ratio of IgG to albumin in the CSF divided by the same ratio in the serum. 
-	- The ***IgG synthesis rate*** uses serum and CSF IgG and albumin measurements to calculate the rate of CNS IgG synthesis.
+	- ***CSF IgG index*** expresses the ***ratio of IgG to albumin in the CSF divided by the same ratio in the serum.*** 
+	- The ***IgG synthesis rate*** uses ***serum and CSF IgG and albumin measurements to calculate the rate of CNS IgG synthesis.*** 
+	- measurement of ***oligoclonal bands (OCBs)*** by agarose gel electrophoresis in the CSF
+- OCBs may be absent at the onset of MS, and in individual patients, the number of bands may increase with time
+- mild CSF pleocytosis (>5 cells/μL) is present in ~25% of cases, usually in young patients with RMS 
+- Features suggesting not MS 
+	- pleocytosis of >75 cells/μL, 
+	- the presence of polymorphonuclear leukocytes, or 
+	- a protein concentration >1 g/L (>100 mg/dL) in CSF
+# Differential Diagnosis 
+- possibility should be considered when 
+	- symptoms are localized exclusively to the posterior fossa, craniocervical junction, or spinal cord; 
+	- the patient is <15 or >60 years of age; 
+	- clinical course is progressive from onset 
+	- patient has never experienced visual, sensory, or bladder symptoms 
+	- laboratory findings (e.g., MRI, CSF, or EPs) are atypical
+- Uncommon or rare symptoms should prompt alternate 
+	- aphasia, 
+	- parkinsonism, 
+	- chorea, 
+	- isolated dementia, 
+	- severe muscular atrophy, 
+	- peripheral neuropathy, 
+	- episodic loss of consciousness, 
+	- fever, headache, seizures, or coma
