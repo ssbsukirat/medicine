@@ -203,4 +203,4 @@
 	- Lesions are frequently oriented perpendicular to the ventricular surface, corresponding to the pathologic pattern of perivenous demyelination
 - Lesions multifocal within the brain, brainstem, and spinal cord. 
 - Lesions >6 mm located in the ***corpus callosum, periventricular white matter, brainstem, cerebellum, or spinal cord*** are particularly helpful diagnostically 
-- 
+- bursts of focal inflammatory disease activity occur far more frequently than would have been predicted by the frequency of relapses. Thus, early in MS, most disease activity is clinically silent 
