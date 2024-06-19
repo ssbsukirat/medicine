@@ -296,3 +296,10 @@
 		- IV methylpred 500-1000mg/d x 3-5days 
 		- maybe followed by no taper or oral prednisone 60-80mg/d tapered over 2 weeks 
 		- side effects  include fluid retention, potassium loss, weight gain, gastric disturbances, acne, and emotional lability
+		- Concurrent use of a low-salt, potassium-rich diet and avoidance of potassium-wasting diuretics
+		- Lithium carbonate (300 mg orally bid) for emotional lability and insomnia 
+		- if history of PUD, cimetidine 400BD, ranitidine 150BD 
+		- PPI like pantoprazole 40 BD to prevent gastritis 
+	- if unresponsive to steroids, and fulminant  plasma exchange  40-60ml/exchange and 5-7 exchanges 
+## Disease Modifying Therapy 
+- 
