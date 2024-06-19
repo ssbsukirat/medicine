@@ -204,3 +204,5 @@
 - Lesions multifocal within the brain, brainstem, and spinal cord. 
 - Lesions >6 mm located in the ***corpus callosum, periventricular white matter, brainstem, cerebellum, or spinal cord*** are particularly helpful diagnostically 
 - bursts of focal inflammatory disease activity occur far more frequently than would have been predicted by the frequency of relapses. Thus, early in MS, most disease activity is clinically silent 
+- ***“burden of disease”*** --> total volume of T2-weighted signal abnormality shows a significant (albeit weak) ***correlation with clinical disability.***
+- ***Quantitative measures of brain and spinal cord atrophy*** are evidence of diffuse tissue injury and correlate more strongly with measures of disability or progressive MS
