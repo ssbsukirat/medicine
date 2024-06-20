@@ -65,4 +65,9 @@
 - ***Slowly progressive decline in memory and orientation, normal results on laboratory tests, and an MRI or CT scan showing only distributed or posteriorly predominant cortical and hippocampal atrophy are highly suggestive of AD.*** 
 - misdiagnoses due to limbic-predominant age- related TDP-43 encephalopathy (LATE) neuropathologic changes with or without hippocampal sclerosis, primary age-related tauopa- thy, DLB, vascular pathology, or frontotemporal lobar degeneration (FTD) 
 # Epidemiology 
+- positive family history of dementia suggests a genetic contribution to AD, which is usually attributable to the ApoE ε4 risk allele 
+- Female sex is a risk factor independent 
+- history of mild-to-severe traumatic brain injury increases the risk 
+- environmental factors, including aluminum, mercury, and viruses, have been proposed as causes of AD 
+- studies suggest that the use of nonsteroidal anti-inflammatory agents is associated with a decreased risk of AD 
 - 
