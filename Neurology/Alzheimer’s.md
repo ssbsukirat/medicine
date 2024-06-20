@@ -50,3 +50,17 @@
 	- radiotracers (11C)PIB, (18F)florbetapir, (18F)florbetaben, or (18F)flutemetamol 
 	- confirms the presence of neuritic and diffuse Aβ plaques throughout the neocortex
 	- approximately 25% of cognitively unimpaired older individuals also have positive scans
+	- ligands also bind to vascular Aβ deposits in ***cerebral amyloid angiopathy***
+- Tau radiotracers 
+	- (18F)flortuacipir, (18F)MK-6240
+	- bind to the paired helical filaments that form NFTs 
+	- binding is largely consistent with Braak neuropathologic staging of NFTs 
+	- early retention in medial temporal regions, followed by spread into temporoparietal and cingu- late cortices, dorsolateral prefrontal regions, and, ultimately, primary sensory and motor areas 
+- CSF 
+	- generally normal 
+	- reductions in Aβ42 levels and the Aβ42/Aβ40 ratio correlate with amyloid deposition 
+	- increases in phosphorylated tau (at residue 181 or 217) correlate with tangle inclusions,
+	- increases in total tau levels represent a nonspecific finding seen in AD but also in other causes of neurodegeneration
+- EEG normal or nonspecific slowing 
+- ***Slowly progressive decline in memory and orientation, normal results on laboratory tests, and an MRI or CT scan showing only distributed or posteriorly predominant cortical and hippocampal atrophy are highly suggestive of AD.*** 
+- misdiagnoses due to limbic-predominant age- related TDP-43 encephalopathy (LATE) neuropathologic changes with or without hippocampal sclerosis, primary age-related tauopa- thy, DLB, vascular pathology, or frontotemporal lobar degeneration (FTD) 
