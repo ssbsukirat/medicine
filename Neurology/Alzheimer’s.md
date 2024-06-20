@@ -77,3 +77,6 @@
 	- inferolateral temporal cortex, and 
 	- nucleus basalis of Meynert
 - microscopic findings are neuritic plaques and NFTs 
+- graded based on the topography of Aβ plaques, the density of neuritic plaques, and the spatial extent of NFTs present 
+- soluble amyloid species called ***oligomers*** may cause cellular dysfunction and represent the early toxic molecule in AD
+- neuritic plaques-->  central core of amyloid, proteoglycans, ApoE, α- antichymotrypsin, and other proteins 
