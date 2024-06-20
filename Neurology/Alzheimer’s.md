@@ -80,3 +80,5 @@
 - graded based on the topography of Aβ plaques, the density of neuritic plaques, and the spatial extent of NFTs present 
 - soluble amyloid species called ***oligomers*** may cause cellular dysfunction and represent the early toxic molecule in AD
 - neuritic plaques-->  central core of amyloid, proteoglycans, ApoE, α- antichymotrypsin, and other proteins 
+- Aβ is a protein of 39–42 amino acids that is derived proteolytically from a larger transmembrane protein, ***amyloid precursor protein (APP),***
+- 
