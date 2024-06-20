@@ -40,3 +40,5 @@
     - death results from malnutrition, secondary infections, pulmonary emboli, heart disease, or, ***most commonly, aspiration*** 
 - typical duration of symptomatic AD is 8–10 years, but the course ranges from 1–25 years
 # Diagnosis 
+- Early in the disease course, other etiologies of dementia should be excluded 
+- [[Dementia#causes of dementia]]
