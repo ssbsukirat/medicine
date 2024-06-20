@@ -64,3 +64,5 @@
 - EEG normal or nonspecific slowing 
 - ***Slowly progressive decline in memory and orientation, normal results on laboratory tests, and an MRI or CT scan showing only distributed or posteriorly predominant cortical and hippocampal atrophy are highly suggestive of AD.*** 
 - misdiagnoses due to limbic-predominant age- related TDP-43 encephalopathy (LATE) neuropathologic changes with or without hippocampal sclerosis, primary age-related tauopa- thy, DLB, vascular pathology, or frontotemporal lobar degeneration (FTD) 
+# Epidemiology 
+- 
