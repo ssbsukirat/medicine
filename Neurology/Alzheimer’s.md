@@ -1,0 +1,42 @@
+- Alzheimer’s disease (AD) is the most common cause of dementia, contributing to an estimated 60–70% of all cases
+- can manifest as early as the third decade of life, but it is the most common cause of dementia in the elderly
+- present with an insidious loss of episodic memory followed by a slowly progressive dementia 
+- brain atrophy begins in the medial temporal lobes before spreading to the inferior temporal, lateral, medial parietal, and dorsolateral frontal cortices
+- widespread neuritic plaques containing amyloid beta (Aβ), neurofibrillary tangles (NFTs) composed of hyperphosphorylated tau filaments, and Aβ accumulation in blood vessel walls in cortex and leptomeninges (amyloid angiopathy)
+- major genetic risk factor for AD is the ε4 allele of the apolipoprotein E (ApoE) gene
+- one ε4 allele increases the risk for AD by twoto threefold in women whereas carrying two alleles increases the risk ten- to fifteenfold in both sexes
+# clinical
+- beginning with memory impairment and progressing to deficits in executive, language, and visuospatial functions
+- ~20% of patients with AD present with nonmemory complaints such as word-finding, organizational, or navigational difficulty
+- visual processing dysfunction (referred to as posterior cortical atrophy syndrome) or a progressive “logopenic” aphasia characterized by difficulties with naming and repetition are the primary manifestations
+- asymmetric akinetic-rigid-dystonic (“corticobasal”) syndrome or a dysexecutive/ behavioral, i.e., “frontal” variant of AD.
+- ***subjective cognitive decline*** refers to self-perceived worsening in memory or other cognitive abilities that may not be noticeable to others or apparent on formal neuropsychologic testing
+- ***Mild cognitive impairment*** memory loss becomes noticeable to the patient and family and friends and is confirmed on standardized memory tests
+- 50% of MCI progress to AD in 4 years
+- replaced by the notion of “early symptomatic AD” to signify that AD is considered the underlying disease (based on clinical or biomarker evidence) in a patient who remains functionally compensated.
+- preclinical AD” refers to a person with CSF or positron emission tomography (PET) biomarker evidence of amyloid pathology (with or without tau pathology) in the absence of symptoms.
+- Preclinical may precede symptoms by 20 years 
+- partial and sometimes generalized seizures herald AD and can occur even prior to dementia onset, especially in younger patients
+- cognitive problems begin to interfere with daily activities, such as keeping track of finances, following instructions on the job, driving, shopping, and housekeeping. 
+- Some patients are unaware of these difficulties (***anosognosia***), but most remain acutely attuned to their deficits in early disease stages
+- Changes in environment (travel, relocation, hospitalization) tend to destabilize
+- Middle stages 
+    - unable to work, is easily lost and confused, and requires daily supervision
+    - Language becomes impaired—***first naming, then comprehension, and finally fluency***
+    - Apraxia emerges, manifesting as trouble performing learned sequential motor tasks such as using utensils or appliances.
+    - Visuospatial deficits begin to interfere with dressing, eating, or even walking
+- Late
+    - some persons remain ambulatory, wandering aimlessly
+    - Loss of judgment and reasoning
+    - Delusions are prevalent and usually simple, with common themes of theft, infidelity, or misidentification
+    - Disinhibition and uncharacteristic belligerence alternate with passivity and withdrawal
+    - Sleep-wake patterns are disrupted, and nighttime wandering
+    - shuffling gait with generalized muscle rigidity associated with slowness and awkwardness of movement
+    - often look parkinsonian but rarely have a high-amplitude, low-frequency tremor at rest
+- End 
+    - rigid, mute, incontinent, and bedridden
+    - need help with eating, dressing, and toileting
+    - Hyperactive tendon reflexes and myoclonic jerks (sudden brief contractions of various muscles or the whole body) may occur spontaneously or in response to physical or auditory stimulation.
+    - death results from malnutrition, secondary infections, pulmonary emboli, heart disease, or, ***most commonly, aspiration*** 
+- typical duration of symptomatic AD is 8–10 years, but the course ranges from 1–25 years
+# Diagnosis 

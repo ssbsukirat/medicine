@@ -303,3 +303,264 @@
 	- if unresponsive to steroids, and fulminant  plasma exchange  40-60ml/exchange and 5-7 exchanges 
 ## Disease Modifying Therapy 
 - consider patients with recent relapses to be a “relapsing form of MS” regardless of whether these patients previously had progressive disability independent from relapses
+# Frequent agents 
+
+## Anti CD20 — highly effective 
+- Ocrelizumab
+	- humanized monoclonal antibody against CD20 on surface of ***mature B cells*** 
+	- not expressed on early B-cell precursors or on antibody-producing plasma cells, so selectively depletes mature B cells 
+	-  preserving preexisting humoral immunity and the capacity for B-cell reconstitution by lymphoid stem cells
+	- rapidly depletes circulating B cells through antibody-dependent cellular toxicity and complement-dependent cytotoxicity
+	- Ocrelizumab 600 mg is administered by intravenous infusion every 24 weeks (administered as two 300-mg infusions spaced 2 weeks apart for the first dose, and as a single 600-mg infusion thereafter)
+	- Iv methylpred 100mg before 
+	- optional prophylaxis with analgesics/antipyretics and antihistamines is recommended 
+	- Vaccination responses may be blunted in patients receiving ocrelizumab or other anti-CD20 based therapies
+	- immunizations should be a istered prior to initiating treatment, and live vaccines should not be given in actively treated patients.
+- Ofatumumab 
+    - fully human anti-CD20 monoclonal antibody 
+    - self-administered at home by monthly 20 mg subcutaneous injection, after initial 20-mg loading doses on days 1, 7, and 14 
+    - high degree of safety
+- Rituximab 
+    - 1g IV Q6 mo
+    - very small risk (estimated at <1:25,000/year) of progressive multifocal leukoencephalopathy (PML)
+    - life-threatening condition resulting from infection by the John Cunningham (JC) virus
+## NATALIZUMAB (HIGHLY EFFECTIVE)
+- humanized monoclonal antibody directed against the α4 subunit of α4β1 integrin (adhesion molecule expressed on the surface of lymphocytes)
+- prevents lymphocytes from binding to endothelial cells, thereby preventing lymphocytes from penetrating the BBB and entering the CNS
+- reducing the attack rate and significantly improves all measures of disease severity in MS (both clinical and MRI)
+- well tolerated 
+- 300 mg, is administered by IV infusion each month 
+- risk for PML, occurring in ~0.4%
+- measurement of antibodies against the JC virus in the serum can be used to stratify this risk 
+- patients who do not have these antibodies, the risk of PML is minimal
+- have these antibodies (especially those who have them in high titer), the risk may be as high as ≥1.1%
+- recommended that JC antibody status be assessed at 6-month intervals in all patients receiving natalizumab 
+- generally recommended only for JC antibody-negative patients, unless they have failed alternative therapies or if they have a particularly aggressive disease course.
+## S1P RECEPTOR MODULATORS (MODERATELY EFFECTIVE)
+- Fingolimod 
+    - sphingosine-1-phosphate (S1P) modulator 
+    - prevents the egress of lymphocytes from secondary lymphoid organs such as the lymph nodes and spleen 
+    - binds to S1P1, S1P3, S1P4, and S1P5 receptors
+    - sequestration of lymphocytes in the periphery, thereby inhibiting their trafficking to the CNS
+    - 0.5 mg, is administered orally each day
+    - elevated liver function tests or lymphopenia) are more common than in controls 
+    - First- and second-degree heart block and bradycardia 
+    - 6-h period of observation (including electrocardiogram monitoring) is recommended for all patients receiving their first dose
+    - macular edema and, rarely, disseminated varicella-zoster virus (VZV) and cryptococcal infections
+    - ophthalmic examination and VZV vaccination for seronegative individuals before treatment initiation 
+    - QT prolongation in some
+- Ozanimod
+    - S1P1- and S1P5-selective S1P inhibitor
+    - binds only weakly to S1P3 receptors, cardiac conduction-related side effects, such as QT prolongation and secondarydegree heart block not seen 
+    - cardiovascular monitoring is not required during first-dose administration
+    - Relative contraindication 
+        - severe untreated sleep apnea, 
+        - class III/IV heart failure, 
+        - significant cardiac conduction disorders, or in those who 
+        - experienced thromboembolic events in the last 6 months
+    - CBC, LFTs, ECG, and eye examination before starting therapy 
+    - . Infections and hypertension should be monitored
+    - Live vaccines should be avoided during treatment and for 3 months after discontinuation 
+- Ponesimod 
+    - is a S1P1-selective
+    - 4-h first-dose observation period with cardiovascular monitoring is necessary if resting heart rate is <55 beats/min
+    - contraindicated in patients who have in the prior 6 months experienced stroke, heart attack, unstable angina, class III or IV decompensated heart failure or have a Mobitz type II or greater degree of heart block without a pacemaker
+## DIMETHYL FUMARATE (MODERATELY EFFECTIVE)
+- small-molecule and a Krebs cycle metabolite with anti-inflammatory effects
+- active compound monomethyl fumarate 
+- modulate the expression of proinflammatory and anti-inflammatory cytokines 
+- inhibits the ubiquitylation and degradation of nuclear factor E2-related factor 2 (Nrf2)—a transcription factor that binds antioxidant response elements (AREs) located on DNA and induces transcription of several antioxidant protein 
+- 240 mg, is administered orally twice each day
+- Gastrointestinal side effects (abdominal discomfort, nausea, vomiting, flushing, and diarrhea) are common at the start of therapy
+- monitoring for lymphopenia every 6 months is recommended
+- persistently lymphopenic (lymphocyte count <500 cells/mL) are recommended to consider alternate treatments due to the PML risk.
+- Liver function tests should be assessed before treatment and when clinically indicated 
+- Diroximel fumarate is, like DMF, metabolized to monomethyl fumarate.
+## GLATIRAMER ACETATE (MODESTLY EFFECTIVE)
+- synthetic, random polypeptide composed of four amino acids (l-glutamic acid, l-lysine, l-alanine, and l-tyrosine)
+- mechanism of action 
+    - induction of antigen-specific suppressor T cells
+    - binding to MHC molecules, thereby displacing bound MBP
+    - altering the balance between proinflammatory and regulatory cytokines
+- equally effective alternative to IFN-β in RRMS patients
+- usefulness in progressive disease is unknown
+- subcutaneous injection of either 20 mg every day or 40 mg thrice weekly
+- episodes of flushing, chest tightness, dyspnea, palpitations, and anxiety after injection
+- reaction is unpredictable, brief (duration <1 h), and tends not to recur
+- Some experience lipoatrophy 
+- FDA approved as a biosimilar medication (Glatopa) and is dosed at 20 mg every day
+##  INTERFERON β (MODESTLY EFFECTIVE)
+- class I interferon originally identified by its antiviral properties
+- immunomodulatory properties including: 
+    - downregulating expression of MHC molecules on APCs
+    - reducing proinflammatory and increasing regulatory cytokine levels
+    - inhibiting T-cell proliferation
+    - limiting the trafficking of inflammatory cells in the CNS 
+- considered in patients with either relapsing forms of MS (either RRMS or SPMS with superimposed relapses)
+- IFN-β-1a (Avonex), 30 μg intramuscular injection once every week. 
+- IFN-β-1a (Rebif), 44 μg, subcutaneous injection three times per week. 
+- IFN-β-1b (Betaseron or Extavia), 250 μg, subcutaneous injection every other day. 
+- Pegylated IFN-β-1a (Plegridy), 
+    - 125 μg, subcutaneous injection once every 14 days
+    - interferon to which a single, linear 20,000 dalton methoxy poly(ethyleneglycol)-O-2-methylproprionaldehyde molecule is covalently attached; 
+    - contributes to reduced in vivo clearance allowing less frequent administration
+- flulike symptoms (e.g., fevers, chills, and myalgias) and mild abnormalities on routine laboratory evaluation (e.g., elevated liver function tests or lymphopenia)
+- managed with concomitant nonsteroidal anti-inflammatory medications 
+- recipients develop neutralizing antibodies to IFN-β, which may disappear over time
+- well on therapy, the presence of antibodies should not affect treatment 
+# less frequent agents
+## TERIFLUNOMIDE (MODESTLY EFFECTIVE)
+- inhibits the mitochondrial enzyme dihydro-orotate dehydrogenase, which is a key part of the pathway for de novo pyrimidine biosynthesis
+- active metabolite of the drug leflunomide
+- limiting the proliferation of rapidly dividing T and B cells.
+- considered to be cytostatic rather than cytotoxic 
+- Teriflunomide, either 7 or 14 mg, is administered orally each day.
+- mild hair thinning and gastrointestinal symptoms (nausea and diarrhea)
+- rarely causes toxic epidermal necrolysis or Stevens-Johnson syndrome
+- possible teratogenicity (pregnancy category X);
+- can remain in the bloodstream for 2 years due to hepatobiliary reabsorption. 
+- exposed men and women who wish to conceive receive cholestyramine or activated charcoal to eliminate residual drug.
+## CLADRIBINE (MODERATELY EFFECTIVE)
+- prodrug that when phosphorylated by deoxycytidine kinase to its metabolite 2-chlorodeoxyadenosine becomes active and is 
+- incorporated into nuclear and mitochondrial DNA causing apoptosis
+- administered as a relatively specific lymphotoxic therapy
+- intravenous or subcutaneously administered forms, cladribine is indicated for treatment of hairy cell leukemia
+- oral formulation is indicated for treatment of relapsing forms of MS including active SPMS
+- 3.5 mg/kg divided into 2 yearly treatment courses
+- 1 or 2 doses of cladribine daily for 4 or 5 c secutive days, receive a second similar cycle of treatment 23 to 27 days after the first cycle, and then are retreated after 1 year
+- associated with malignancy, including in the MS clinical trials, and for this reason is not recommended in treatment-naïve patients
+- contraindicated in p nant women because it is a known teratogen in animals and can cause embryolethality 
+- recommended to not plan conception for 6 months after the last dose
+- complete blood count including lymphocyte count and liver function tests; be screened for HIV, tuberculosis, and hepatitis B and C; be vaccinated for varicella zoster virus; and undergo a brain MRI within 3 months of treatment
+## ALEMTUZUMAB (HIGHLY EFFECTIVE
+- humanized monoclonal antibody directed against the CD52 antigen that is expressed on both monocytes and lymphocytes
+- causes lymphocyte depletion (of both B and T cells)
+- toxicities of concern 
+    - autoimmune diseases including thyroiditis, Graves’ disease, thrombocytopenia, hemolytic anemia, pancytopenia, antiglomerular basement membrane disease, and membranous glomerulonephritis
+    - malignancies including thyroid cancer, melanoma, breast cancer, human papillomavirus (HPV)-related cancers, and lymphoproliferative disorders including lymphoma
+    - serious infections
+    - infusion reactions.
+- only in patients who have tried and failed at least two other DMTs.
+## MITOXANTRONE HYDROCHLORIDE (HIGHLY EFFECTIVE)
+- anthracenedione
+- antineoplastic action by 
+    - intercalating into DNA and producing both strand breaks and interstrand cross-links
+    - interfering with RNA synthesis
+    - inhibiting topoisomerase II (involved in DNA repair)
+- in patients with rapidly worsening MS (defined as patients whose neurologic status remains significantly abnormal between MS attacks) 
+- cardiotoxic (e.g., cardiomyopathy, reduced left ventricular ejection fraction, and irreversible congestive heart failure) 
+- cumulative dose >140 mg/m 2is not recommended
+- approved doses (12 mg/m 2every 3 months), the maximum duration of therapy can be only 2–3 years
+- >40% of women will experience amenorrhea, which may be permanent
+- risk of acute leukemia from mitoxantrone 
+# DECISION-MAKING FOR TREATMENT OF RMS
+- First-line therapy should be initiated in patients with a clinically isolated syndrome at high risk for MS or in patients diagnosed with RMS (according to 2017 McDonald criteria)
+- favor use of the most highly effective DMTs as first-line options
+- “treat to target” approach in which a treatment of modest or moderate effectiveness is first used, and therapy advanced to a more effective agent when breakthrough disease (evident clinically or by MRI)
+- begin with an anti-CD20 agent, either ocrelizumab or ofatumumab, or with natalizumab in JCV-negative patients
+- patients who prefer oral treatment, either an S1P modulator or fumarate is also reasonable for first-line therapy
+- Switching DMTs
+    - suboptimal response, 
+    - experiencing more than one relapse with active MRI scans while on treatment, and 
+    - safety issues including development of persistent high-titer neutralizing antibodies in patients receiving IFN-β
+    - women who become pregnant while on treatment
+    - serious adverse events that may be drug-related
+- glatiramer acetate that can be continued during pregnancy
+- mild initial course—e.g., normal examination or minimal impairment (EDSS ≤2.5) and low disease activity by MRI—either an oral (fumarates, S1P modulators, teriflunomide) or injectable (IFN-β or glatiramer acetate) agent can be considered.
+- safety and value of combination therapy is also largely unknown and is generally not recommended
+- Delay treatment in 
+    - normal neurologic examinations
+    - a single attack or a low attack frequency
+    - low burden of disease as assessed by brain MRI
+- vitamin D deficiency should be corrected in all patients with MS
+# DMTs for progressive MS
+## SPMS
+- Siponimod is a selective S1P1 S1P5 receptor modulator and reduced the risk of relapse and MRI measures of the burden of diseas
+- relapse in the 2 years prior to treatment and those with contrast-enhancing lesions on brain MRI received the most therapeutic benefit
+- dosed based on CYP2C9 genotype
+- CYP2C9 1/* 3 or 2/* 3, siponimod is administered as 1 mg daily
+- dosage is reduced in patients with the CYP2C9 * 3/* 3 genotype
+- complete blood count, o mic evaluation, electrocardiogram, liver function tests, and vaccination for varicella zoster virus. 
+- first-dose monitoring is required only in patients with sinus bradycardia, first- or second-degree heart block, or a history of myocardial infarction or heart failure
+- Ocrelizumab, cladribine, and ponesimod are also indicated in active SPMS
+- IFN-β is probably ineffective in patients with SPMS who do not have active disease
+## PPMS
+- Ocrelizumab
+- improve other clinical and MRI markers of inflammatory and degenerative disease activity 
+## OFF-LABEL TREATMENT OPTIONS FOR RMS AND SPMS
+- Azathioprine (2–3 mg/kg per day) has been used primarily in relapsing MS.
+- Methotrexate (7.5–20 mg/week) was shown in one study to slow the progression of upper-extremity dysfunction in SPMS but blind liver biopsy recommended after 2 years of therapy
+- Cyclophosphamide (700 mg/m2, every other month) may be helpful for treatment-refractory patients who are (1) otherwise in good health, (2) ambulatory, and (3) <40 years of age
+- Intravenous immunoglobulin (IVIg), administered in monthly pulses (up to 1 g/kg) for up to 2 years, appears to reduce annual exacerbation rates.
+- Methylprednisolone in one study, administered as monthly highdose intravenous pulses, reduced disability progression
+- Autologous hematopoietic stem cell transplantation appears to be highly effective in reducing the occurrence of relapses and may improve disability in relapsing MS. It appears to be ineffective for patients with progressive MS
+# Symptomatic Therapy
+- Ataxia/tremor is often intractable. Clonazepam, 1.5–20 mg/d; primidone, 50–250 mg/d; propranolol, 40–200 mg/d; or ondansetron, 8–16 mg/d, may help
+- Spasticity and spasms may improve with physical therapy, regular exercise, and stretching medications include baclofen (20–120 mg/d), diazepam (2–40 mg/d), tizanidine (8–32 mg/d), dantrolene (25–400 mg/d), and cyclobenzaprine hydrochloride (10–60 mg/d)
+- Weakness potassium channel blockers such as 4-aminopyridine (20 mg/d) and 3,4-di-aminopyridine (40–80 mg/d)
+- Pain is treated with anticonvulsants (carbamazepine, 100–1000 mg/d; phenytoin, 300–600 mg/d; gabapentin, 300–3600 mg/d; or pregabalin, 50–300 mg/d), antidepressants (amitriptyline, 25–150 mg/d; nortriptyline, 25–150 mg/d; desipramine, 100–300 mg/d; or venlafaxine, 75–225 mg/d), or antiarrhythmics (mexiletine, 300–900 mg/d)
+- Evening fluid restriction or frequent voluntary voiding may help detrusor hyperreflexia. If these methods fail, propantheline bromide (10–15 mg/d), oxybutynin (5–15 mg/d), hyoscyamine sulfate (0.5–0.75 mg/d), tolterodine tartrate (2–4 mg/d), or solifenacin (5–10 mg/d) may help. Coadministration of pseudoephedrine (30–60 mg) is sometimes beneficial.
+- Detrusor/sphincter dyssynergia may respond to phenoxybenzamine (10–20 mg/d) or terazosin hydrochloride (1–20 mg/d). Loss of reflex bladder wall contraction may respond to bethanechol (30–150 mg/d).
+- Depression selective serotonin reuptake inhibitors (fluoxetine, 20–80 mg/d, or sertraline, 50–200 mg/d), the tricyclic antidepressants (amitriptyline, 25–150 mg/d; nortriptyline, 25–150 mg/d; or desipramine, 100–300 mg/d), and the nontricyclic antidepressants (venlafaxine, 75–225 mg/d)
+- Excessive daytime somnolence caused by MS may respond to amantadine (200 mg/d), methylphenidate (5–25 mg/d), modafinil (100–400 mg/d), or armodafinil (150–250 mg/d)
+- Cognitive problems may respond marginally to lisdexamfetamine (40 mg/d).
+- Paroxysmal symptoms respond dramatically to low-dose anticonvulsants (acetazolamide, 200–600 mg/d; carbamazepine, 50–400 mg/d; phenytoin, 50–300 mg/d; or gabapentin, 600–1800 mg/d).
+# Variants
+- Acute MS (Marburg’s variant) 
+    - fulminant demyelinating process that in some cases progresses inexorably to death within 1–2 years.
+    - Typically, there are no remissions.
+    - does not seem to follow infection or vaccination 
+- Tumefactive MS 
+    - acute demyelinating syndrome presents as a solitary expansile lesion, a brain tumor is often suspected
+    - Brain biopsy to establish the diagnosis
+- Balo’s concentric sclerosis 
+    - fulminant demyelinating syndrome characterized by concentric brain or spinal cord lesions with alternating spheres of demyelination and remyelination
+# ACUTE DISSEMINATED ENCEPHALOMYELITIS (ADEM)
+- monophasic course 
+- frequently associated with an antecedent infection (postinfectious encephalomyelitis)
+- 5% follow immunisation
+- common in children than adults,
+- presence of widely scattered foci of perivenular i mation and demyelination that can involve both white matter and grey matter structures, in contrast to larger confluent white matter lesions typical of MS
+- most explosive form of ADEM, acute hemorrhagic leukoencephalitis, the lesions are vasculitic and hemorrhagic, and the clinical course is devastating
+- frequently associated with the viral exanthems of childhood
+- rarely follows vaccination with live measles vaccine
+- most frequently associated with varicella (chickenpox) infections
+- result from a cross-reactive immune response to the infectious agent or vaccine that then triggers an inflammatory demyelinating response.
+- Autoantibodies to MBP and to other myelin antigens have been detected in the CSF
+- Clinical 
+    - abrupt and progression rapid (hours to days).
+    - neurologic syndrome generally begins late in the course of the viral illness as the exanthem is fading
+    - Fever reappears, and headache, meningismus, and lethargy progressing to coma may develop.
+    - Seizures common
+    - Signs of disseminated neurologic disease are consistently present (e.g., hemiparesis or quadriparesis, extensor plantar responses, lost or hyperactive tendon reflexes, sensory loss, and brainstem involvement) 
+    - chickenpox, cerebellar involvement is often conspicuous
+    - CSF protein is modestly elevated (0.5–1.5 g/L 50–150 mg/dL). Lymphocytic pleocytosis, generally ≥200 cells/μL
+    - Transient CSF oligoclonal banding has been reported.
+    - MRI usually reveals extensive changes in the brain and spinal cord, consisting of white matter hyperintensities on T2 and fluid-attenuated inversion recovery (FLAIR) sequences with Gd enhancement on T1-weighted sequence
+- Diagnosis
+    - reliably established when there is a history of recent vaccination or viral exanthematous illness
+    - infection with herpes simplex or other viruses including HIV may be difficult to exclude
+    - hypercoagulable states including the antiphospholipid antibody syndrome, autoimmune (paraneoplastic) limbic encephalitis, vasculitis, neurosarcoid, primary CNS lymphoma, or metastatic cancer considered
+    -  is common in ADEM and rare in MS
+
+| ADEM                                                                                                                                                          | MS                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| simultaneous onset of disseminated symptoms and signs                                                                                                         | Rare                            |
+| meningismus, drowsiness, coma, and seizures                                                                                                                   | Not seen                        |
+| optic nerve involvement is generally bilateral and transverse myelopathy complete.                                                                            | ON unilateral                   |
+| extensive and relatively symmetric white matter abnormalities, basal ganglia or cortical gray matter lesions, and Gd enhancement of all abnormal areas On mri |                                 |
+| Few cases                                                                                                                                                     | OCBs in the CSF are more common |
+
+## Treatment
+- high-dose glucocorticoids; depending on the response, treatment may need to be continued for 8 week
+- fail to respond within a few days may benefit from a course of plasma exchange or intravenous immunoglobulin
+# GLIAL FIBRILLARY ACIDIC PROTEIN (GFAP) AUTOIMMUNITY
+- Autoimmunity against the astrocyte protein GFAP 
+- presents with a range of symptoms referable to meningismus, encephalitis, myelitis, and optic neuritis
+- characteristic patterns of gadolinium enhancement localized to GFAP-enriched CNS regions including venous structures in a periventricular radial orientation, the leptomeninges, the peri-ependymal spinal cord, and a striking serpiginous pattern involving brain parenchyma
+- Differential is neurosarcoid 
+- lymphocytic pleocytosis is commonly present in the CSF. 
+- Antibodies against GFAP can be measured in the CSF or serum
+- paraneoplastic syndrome in 25% of case, mostly ovarian teratoma,
+- coexist with anti-N-methyl-d-aspartate receptor (NMDAR) encephalitis or neuromyelitis optica spectrum disorder (NMOSD
+- generally glucocorticoid responsive

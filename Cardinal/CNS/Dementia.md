@@ -1,0 +1,48 @@
+- Dementia is defined as an acquired d ration in cognitive abilities that impairs the successful performance of activities of daily living
+- Episodic memory, the ability to recall events specific in time and place, is the cognitive function most commonly lost;
+# functional anatomy
+- Behavior, mood, and attention are modulated by ascending noradrenergic, serotonergic, and dopaminergic pathways,
+- cholinergic signaling is critical for attention and memory functions
+- AD typically begins in the entorhinal region of the medial temporal lobe, —> hippocampus and other limbic structures, —> basal temporal areas —> lateral and posterior temporal and parietal neocortex, —> widespread degeneration.
+- AD typically presents with episodic memory loss accompanied later by aphasia, executive dysfunction, or navigational problems 
+- dementias that begin in frontal or subcortical regions, such as FTD or HD, are less likely to begin with memory problems and more likely to present with difficulties with judgment, mood, executive control, movement, and behavior
+- caudate or dorsolateral prefrontal cortex, or their connecting white matter pathways, may result in executive dysfunction, manifesting as poor organization and planning, decreased cognitive flexibility, and impaired working memory.
+- lateral orbital frontal cortex connects with the v dial caudate, and lesions of this system cause impulsiveness, distractibility, and disinhibition
+- anterior cingulate cortex and adjacent medial prefrontal cortex project to the nucleus accumbens, and interruption of this system produces apathy, poverty of speech, emotional blunting, or even akinetic mutism
+# causes of dementia
+- strongest risk factor for dementia is increasing age
+- ![[Dementiadifferentials.png]]
+- Vascular disease is the second most frequent cause for dementia and is particularly common in elderly patients
+- Limbic-predominant aging-related TDP-43 encephalopathy (LATE) is common after age 70 and has been linked to declining episodic memory function.
+- Chronic traumatic encephalopathy (CTE), individuals with a history of repetitive head impacts (e.g., professional athletes in collision or fighting sports, military veterans exposed to multiple blasts), presents with changes in cognition, mood, behavior, or motor function
+- three most common potentially reversible diagnoses were ***depression, normal pressure hydrocephalus (NPH), and alcohol dependence***
+- ***rapidly progressive dementia (RPD)*** is applied to illnesses that progress from initial symptom onset to dementia within a year or less; confusional states related to toxic/metabolic conditions are excluded.
+- Subtle cumulative decline in episodic memory referred to as ***benign forgetfulness of the elderly***
+- subjective cognitive decline describes individuals who experience a subjective decline from their cognitive baseline but perform within normal limits for their age and educational attainment on formal neuropsychological testing
+- Mild cognitive impairment (MCI) is defined as a decline in cognition that is confirmed on objective cognitive testing but ***does not disrupt normal daily activities*** 
+- Predictors of MPI to AD 
+    - prominent memory deficit, 
+    - family history of dementia,
+    - presence of an apolipoprotein ε4 (Apo ε4) allele, 
+    - small hippocampal volumes,
+    - an AD-like signature of cortical atrophy, 
+    - low cerebrospinal fluid Aβ and elevated tau, or 
+    - evidence of brain amyloid and tau deposition on positron emission tomography (PET) imaging
+- degenerative dementias include 
+    - AD, Aβ42 and tau 
+    - DLB, α-synuclein
+    - FTD and related disorders,  accumulate tau, TAR DNA-binding protein of 43 kDa (TDP-43), or the FET family of proteins (fused in sarcoma (FUS), Ewing sarcoma (EWS) and TBP-associated factor 15 (TAF15)
+    - HD huntingtin
+    - prion diseases, including CJD misfolded prion protein (PrPsc) in CJD
+- Modifiable risk factors 
+    - low education, 
+    - hearing loss, 
+    - traumatic brain injury, 
+    - hypertension, 
+    - diabetes mellitus, 
+    - obesity, 
+    - heavy alcohol use, 
+    - smoking, 
+    - depression, 
+    - physical inactivity,
+    - air pollution
