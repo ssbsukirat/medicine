@@ -70,4 +70,10 @@
 - history of mild-to-severe traumatic brain injury increases the risk 
 - environmental factors, including aluminum, mercury, and viruses, have been proposed as causes of AD 
 - studies suggest that the use of nonsteroidal anti-inflammatory agents is associated with a decreased risk of AD 
-- 
+- do from book 
+# Pathology 
+- earliest and most severe degeneration is usually found in the 
+	- medial temporal lobe (entorhinal/perirhinal cortex and hippocampus),
+	- inferolateral temporal cortex, and 
+	- nucleus basalis of Meynert
+- microscopic findings are neuritic plaques and NFTs 
