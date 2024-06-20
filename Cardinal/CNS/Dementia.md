@@ -52,3 +52,8 @@
 	- What component of the dementia syndrome is treatable or reversible?
 	- Can the physician help to alleviate the burden on caregivers?
 - ![[dementiapproach.png]]
+## History 
+- concentrate on the onset, duration, and tempo of progression 
+- acute or subacute onset of confusion may be due to delirium and should trigger a search for intoxication, infection, or metabolic derangement
+- elderly person with slowly progressive memory loss over several years is likely AD
+- 
