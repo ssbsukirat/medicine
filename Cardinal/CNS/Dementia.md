@@ -61,3 +61,11 @@
 - stroke with irregular stepwise progression suggests vascular dementia
 - Vascular dementia is also commonly seen in the setting of hypertension, atrial fibrillation, peripheral vascular disease, smoking, and diabetes
 - Rapid progression with motor rigidity and myoclonus suggests CJD 
+- ![[dementiadifferences.png]]
+- Autoimmune [[Dementia]] includes 
+	- leucine-rich glioma-inactivated 1 (LGI1; faciobrachial dystonic seizures); 
+	- contactin-associated protein-like 2 (Caspr2; insomnia, ataxia, myotonia);
+	- N-methyl-d-aspartate (NMDA)-receptor (psychosis, insomnia, dyskinesias)
+	- α-amino-3-hydroxy-5- methylisoxazole-4-propionic acid (AMPA)-receptor (limbic enceph- alitis with relapses)
+## Physical and Neurological examination 
+- 
