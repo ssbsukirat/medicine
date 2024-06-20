@@ -87,3 +87,6 @@
 - NFTs are 
 	- composed of silver-staining neuronal cytoplasmic fibrils composed of abnormally phosphorylated tau protein; 
 	- appear as paired helical filaments by electron microscopy 
+- associated with a decrease in the cortical levels of several proteins and neurotransmitters, especially acetylcholine 
+- Reduction of acetylcholine reflects degeneration of cholinergic neurons in the nucleus basalis of Meynert, located just below the thalamus and adjacent to the third ventricle, that project throughout the cortex. 
+- noradrenergic and serotonergic depletion due to degeneration of upper brainstem nuclei such as the locus coeruleus (norepinephrine) and dorsal raphe (serotonin)
