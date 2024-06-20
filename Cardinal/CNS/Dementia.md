@@ -68,4 +68,7 @@
 	- N-methyl-d-aspartate (NMDA)-receptor (psychosis, insomnia, dyskinesias)
 	- α-amino-3-hydroxy-5- methylisoxazole-4-propionic acid (AMPA)-receptor (limbic enceph- alitis with relapses)
 ## Physical and Neurological examination 
+- AD spares motor systems until late in the course. 
+- FTD often develop axial rigidity, supranuclear gaze palsy, or a motor neuron disease reminiscent of amyotrophic lateral sclerosis (ALS).
+- In DLB, the initial symptoms may include a parkinsonian syndrome (resting tremor, cogwheel rigidity, bradykinesia, festinating gait), but DLB often starts with visual hallucinations or cognitive impairment, and symptoms referable to the lower brainstem (RBD, gastrointestinal, or autonomic problems) may arise years or even decades before parkinsonism or dementia
 - 
