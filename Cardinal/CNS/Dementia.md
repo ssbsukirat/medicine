@@ -56,4 +56,8 @@
 - concentrate on the onset, duration, and tempo of progression 
 - acute or subacute onset of confusion may be due to delirium and should trigger a search for intoxication, infection, or metabolic derangement
 - elderly person with slowly progressive memory loss over several years is likely AD
-- 
+- Personality change, disinhibition, and weight gain or compulsive eating suggest FTD, not AD 
+- DLB is suggested by early visual hallucinations; parkinsonism; proneness to delirium or sensitivity to psychoactive medications; rapid eye movement (REM) behavior disorder (RBD; dramatic, sometimes violent, limb movements during dreaming); or Capgras syndrome, the delusion that a familiar person has been replaced by an impostor.
+- stroke with irregular stepwise progression suggests vascular dementia
+- Vascular dementia is also commonly seen in the setting of hypertension, atrial fibrillation, peripheral vascular disease, smoking, and diabetes
+- Rapid progression with motor rigidity and myoclonus suggests CJD 
