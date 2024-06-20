@@ -46,3 +46,9 @@
     - depression, 
     - physical inactivity,
     - air pollution
+# Approach  to [[Dementia]] 
+- 3 things 
+	- What is the clinical diagnosis? 
+	- What component of the dementia syndrome is treatable or reversible?
+	- Can the physician help to alleviate the burden on caregivers?
+- ![[dementiapproach.png]]
