@@ -42,3 +42,11 @@
 # Diagnosis 
 - Early in the disease course, other etiologies of dementia should be excluded 
 - [[Dementia#causes of dementia]]
+- Neuroimaging studies (CT and MRI) do not show a single specific pattern with AD and may be normal early in the disease.
+- with progress usually ***posterior-predominant cortical atrophy*** becomes apparent, along with ***atrophy of the medial temporal memory structures***
+- CT/MRI mainly to exclude secondary causes 
+- Functional imaging studies, such as fluorodeoxyglucose (FDG) PET, reveal hypometabolism in the posterior temporal-parietal cortex in AD
+- Amyloid PET imaging 
+	- radiotracers (11C)PIB, (18F)florbetapir, (18F)florbetaben, or (18F)flutemetamol 
+	- confirms the presence of neuritic and diffuse Aβ plaques throughout the neocortex
+	- approximately 25% of cognitively unimpaired older individuals also have positive scans
