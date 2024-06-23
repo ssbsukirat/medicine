@@ -186,3 +186,15 @@
 - autosomal dominant degenerative brain disorder.
 - chorea, behavioral disturbance, and executive impairment 
 - begin in the fourth or fifth decade of life, but there is a wide range, from childhood to >70 years 
+- Memory not impaired until late in the disease, but attention, judgment, self-awareness, and executive functions deficient at an early stage
+- Depression, apathy, social withdrawal, irritability, and intermittent disinhibition are common 
+- Delusions and obsessive-compulsive behavior
+- course 15 years 
+## Normal pressure hydrocephalus 
+- uncommon but treatable syndrome
+- triad includes an 
+	- abnormal gait (ataxic or apractic), 
+	- dementia (usually mild to moderate, with an emphasis on executive impairment)
+	- urinary urgency or incontinence
+- enlarged lateral ventricles (hydrocephalus) with little or no cortical atrophy, although the Sylvian fissures may appear propped open (so-called boxcarring), which can be mistaken for perisylvian atrophy 
+- 
