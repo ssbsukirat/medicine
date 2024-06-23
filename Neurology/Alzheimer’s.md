@@ -259,5 +259,14 @@
 - Limbic encephalitis 
 	- autoimmune, sometimes paraneoplastic, syndrome of dementia associated with occult carcinoma (often small-cell lung cancer) 
 	- confusion, agitation, seizures, poor memory, emotional changes, and frank dementia 
+- Paraneoplastic encephalitis associated with N-methyl-d-aspartate (NMDA) receptor antibodies presents as a progressive psychiatric disorder with memory loss and seizures; affected patients are often young women with ovarian teratoma.
+- Autoimmune 
+	- leucine-rich glioma-inactivated 1 (LGI1; faciobrachial dystonic seizures)
+	- contactin-associated protein-like 2 (Caspr2; insomnia, ataxia, myotonia)
+	- α-amino-3-hydroxy-5-methylisoxazole-4- propionic acid (AMPA)-receptor (limbic encephalitis with relapses)
+## Nonconvulsive Seizure 
+- confusion, clouding of consciousness, and garbled speech 
+- EEG demonstrates the epileptic nature of the illness 
+- 
 
 
