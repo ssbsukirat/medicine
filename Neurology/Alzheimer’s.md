@@ -298,5 +298,6 @@
 - rare, dialysis dementia syndrome
 - water used during renal dialysis was contaminated with aluminum.
 - progressive encephalopathy associated with confusion, nonfluent aphasia, memory loss, agitation, and, later, lethargy and stupor
+- generalized EEG changes 
 
 
