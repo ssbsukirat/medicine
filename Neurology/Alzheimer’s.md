@@ -202,6 +202,10 @@
 - CSF 
 	- opening pressure falls in the high-normal range
 	- protein, glucose, and cell counts are normal
+- Special investigation 
+	- radionuclide cisternography (showing a delay in CSF absorption over the convexity 
+	- constant-pressure infusion test. 
+- transient improvement in gait or cognition may follow lumbar puncture (or serial punctures) with removal of 30–50 mL of CSF but inconsistent 
 - 
 
 
