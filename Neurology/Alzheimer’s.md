@@ -221,6 +221,17 @@
 - ***Marchiafava-Bignami disease***
 	- A rare idiopathic syndrome of dementia and seizures with degeneration of the corpus callosum has been reported primarily in male Italian red wine drinkers 
 ## Thiamine Deficiency 
-- 
+- Wernicke’s encephalopathy
+- usually a malnourished patient (frequently but not necessarily alcoholic) 
+- with ***confusion, ataxia, and diplopia*** 
+- resulting from inflammation and necrosis of periventricular midline structures, including dorsomedial thalamus, mammillary bodies, midline cerebellum, periaqueductal gray matter, and trochlear and abducens nuclei
+- dorsomedial thalamus lesions correlates most closely with the memory loss
+- parenteral thiamine (100 mg intravenously for 3 days followed by daily oral dosage) may reverse the disease 
+- Korsakoff's syndrome 
+	- irreversible and profound amnestic syndrome 
+	- unable to recall ***new information*** despite normal immediate memory, attention span, and level of consciousness 
+	- knowledge acquired prior to the illness remains relatively intact 
+	- Confabulation is common 
+	- Mammillary body atrophy may be visible on MRI
 
 
