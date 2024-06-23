@@ -278,6 +278,20 @@
 - angiography can show multifocal stenoses involving medium- caliber vessels, but some patients have only small-vessel disease that is not revealed on angiography 
 - Some patients respond to glucocorticoids or chemotherapy. 
 - poor prognosis 
-- 
+## Chronic metal exposure 
+- rare 
+- elicit a history of exposure at work or home 
+- Chronic lead poisoning
+	- from inadequately fire-glazed pottery 
+	- Fatigue, depression, and confusion 
+	- episodic abdominal pain and peripheral neuropathy 
+	- Gray lead lines in the gums,
+	- anemia with basophilic stippling of red blood cells 
+	- acute intermittent porphyria is differential 
+	- elevated levels of urine porphyrins as a result of the inhibition of δ-aminolevulinic acid dehydrase 
+	- treat with chelation with EDTA 
+- Chronic mercury poisoning 
+	- dementia, peripheral neuropathy, ataxia, and tremulousness that may progress to a cerebellar intention tremor or choreoathetosis 
+	- 
 
 
