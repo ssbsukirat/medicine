@@ -9,9 +9,15 @@
 	- manifests as apathy, disinhibition, compulsivity, loss of empathy, and overeating, 
 	- accompanied by deficits in executive control 
 	- associated with motor neuron disease 
+	- Degeneration with atrophy occurs in the medial and orbital frontal and anterior insula 
 - Semantic Primary Progressive Aphasia (PPA)
 	- slowly lose the ability to decode word, object, person-specific, and emotion meaning 
+	- anterior temporal region degeneration with atrophy 
 - Nonfluent / Agrammatic PPA 
 	- profound inability to produce words, often with prominent motor speech impairment 
+	- lateral frontal and precentral gyrus of the dominant hemisphere degeneration 
 - if associated with MND, FTD-MND 
-- the corticobasal syndrome (CBS) and progressive supranuclear palsy–Richardson syndrome (PSP-RS) can be considered part of the FTLD clinical spectrum 
+- the corticobasal syndrome (CBS) and progressive supranuclear palsy–Richardson syndrome (PSP-RS) can be considered part of the FTLD clinical spectrum
+- parietal functions such as visuospatial processing and arithmetic calculations are unaffected even late
+# Genetics 
+- 
