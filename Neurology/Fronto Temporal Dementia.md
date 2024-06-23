@@ -41,3 +41,16 @@
 	- once used to describe a progressive degenerative disorder characterized by selective involvement of the anterior frontal and temporal neocortex and pathologically by intraneuronal cytoplasmic inclusions (Pick bodies)
 	- now used only in reference to a specific FTLD-tau histopathologic subtype 
 	- Pick bodies are argyrophilic, staining positively with the Bielschowsky silver method (but not with the Gallyas method) and also with immunostaining for hyperphosphorylated tau 
+# Treatment 
+- Symptomatic 
+- no therapies known to slow progression or improve symptoms 
+- behaviors that may accompany FTD, such as depression, hyperorality, compulsions, and irritability, can be ameliorated with antidepressants, especially SSRIs 
+- often accompanied by parkinsonism, antipsychotics, which can exacerbate this problem, must be used with caution. 
+# Progressive Supranuclear Palsy Syndrome 
+- degenerative disorder that involves the brainstem, basal ganglia, diencephalon, and selected areas of cortex 
+- begins with falls and executive or subtle personality changes (such as mental rigidity, impulsivity, or apathy) 
+- progressive oculomotor syndrome ensues
+	- begins with square wave jerks, 
+	- followed by slowed saccades (vertical worse than horizontal) 
+	- resulting in progressive supranuclear ophthalmoparesis
+- Dysarthria, dysphagia, and symmetric axial rigidity 
