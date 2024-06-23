@@ -233,5 +233,10 @@
 	- knowledge acquired prior to the illness remains relatively intact 
 	- Confabulation is common 
 	- Mammillary body atrophy may be visible on MRI
+## B12 deficiency 
+- pernicious anemia, causes a megaloblastic anemia and may also damage the nervous system 
+- spinal cord syndrome (myelopathy) affecting the posterior columns (loss of vibration and position sense) and corticospinal tracts (hyperactive tendon reflexes with Babinski signs) 
+- damages peripheral nerves (neuropathy), resulting in sensory loss with depressed tendon reflexes. 
+- 
 
 
