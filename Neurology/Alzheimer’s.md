@@ -319,6 +319,10 @@
 - rare degenerative disease that has occurred in the Chamorro natives on the island of Guam
 - combination of parkinsonian features, dementia, and MND 
 - the presence of NFTs in degenerating neurons of the cortex and substantia nigra and loss of motor neurons in the spinal cord 
-- seed of the false palm tree, 
+- seed of the false palm tree-in-bud 
+
+othes do from book 
+
+
 
 

@@ -1,0 +1,2 @@
+- group of clinical syndromes united by their links to underlying frontotemporal lobar degeneration (FTLD) pathology 
+- 
