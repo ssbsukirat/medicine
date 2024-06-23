@@ -36,4 +36,4 @@
 - toxicity and spreading capacity of misfolded tau are critical for the pathogenesis 
 - TDP-43 and FUS are RNA/DNA binding proteins with unclear function 
 - loss of TDP-43 function results in mis-splicing events leading to mRNA degradation 
-- 
+- misfolded proteins have “prion-like” properties and creates exponential amplification of protein misfolding within a cell 
