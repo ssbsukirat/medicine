@@ -20,4 +20,8 @@
 - the corticobasal syndrome (CBS) and progressive supranuclear palsy–Richardson syndrome (PSP-RS) can be considered part of the FTLD clinical spectrum
 - parietal functions such as visuospatial processing and arithmetic calculations are unaffected even late
 # Genetics 
-- 
+- Autosomal Dominant 
+	- ***C9orf72*** (chromosome 9) exanucleotide (***GGGGCC***) expansion in a noncoding exon
+	- ***GRN*** (chromosome 17)
+	- ***MAPT*** (chromosome 17) genes
+	- 
