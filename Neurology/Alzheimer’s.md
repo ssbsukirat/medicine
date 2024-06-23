@@ -267,6 +267,17 @@
 ## Nonconvulsive Seizure 
 - confusion, clouding of consciousness, and garbled speech 
 - EEG demonstrates the epileptic nature of the illness 
+- recurrent or persistent, the condition may be termed complex partial status epilepticus 
+- responds to anticonvulsant therapy 
+- caused by previous small strokes or head trauma; some cases are idiopathic 
+## Isolated vasculitis of the CNS (CNS granulomatous angiitis) 
+- chronic encephalopathy associated with confusion, disorientation, and clouding of consciousness. 
+- Headache is common 
+- strokes and cranial neuropathies may occur
+- CSF analysis reveals a mild pleocytosis or protein elevation 
+- angiography can show multifocal stenoses involving medium- caliber vessels, but some patients have only small-vessel disease that is not revealed on angiography 
+- Some patients respond to glucocorticoids or chemotherapy. 
+- poor prognosis 
 - 
 
 
