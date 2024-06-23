@@ -300,6 +300,10 @@
 - progressive encephalopathy associated with confusion, nonfluent aphasia, memory loss, agitation, and, later, lethargy and stupor
 - generalized EEG changes 
 ## “punch-drunk” syndrome or dementia pugilistica 
-- now known as chronic traumatic encephal- opathy (CTE) 
+- now known as chronic traumatic encephalopathy (CTE) 
+- progressive, beginning late in an athlete’s career or, more often, after retirement 
+- personality change occurs, associated with social instability, explosive rage, and sometimes paranoia and delusions. 
+- Later, memory loss progresses to full-blown dementia, often associated with parkinsonian signs and ataxia or intention tremor.
+- 
 
 
