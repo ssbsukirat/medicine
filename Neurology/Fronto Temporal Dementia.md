@@ -37,3 +37,7 @@
 - TDP-43 and FUS are RNA/DNA binding proteins with unclear function 
 - loss of TDP-43 function results in mis-splicing events leading to mRNA degradation 
 - misfolded proteins have “prion-like” properties and creates exponential amplification of protein misfolding within a cell 
+- Picks Disease 
+	- once used to describe a progressive degenerative disorder characterized by selective involvement of the anterior frontal and temporal neocortex and pathologically by intraneuronal cytoplasmic inclusions (Pick bodies)
+	- now used only in reference to a specific FTLD-tau histopathologic subtype 
+	- Pick bodies are argyrophilic, staining positively with the Bielschowsky silver method (but not with the Gallyas method) and also with immunostaining for hyperphosphorylated tau 
