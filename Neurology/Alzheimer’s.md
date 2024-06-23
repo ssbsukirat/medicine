@@ -305,5 +305,12 @@
 - personality change occurs, associated with social instability, explosive rage, and sometimes paranoia and delusions. 
 - Later, memory loss progresses to full-blown dementia, often associated with parkinsonian signs and ataxia or intention tremor.
 - cortex shows tau-immunoreactive NFTs that are more prominent than amyloid plaques (which are usually diffuse or absent rather than neuritic) 
+- TDP-43 inclusions 
+## Transient global amnesia (TGA) 
+- sudden onset of a severe episodic memory deficit, 
+- persons aged >50 years
+- setting of an emotional stimulus or physical exertion  
+- During the attack, the individual is alert and communicative, general cognition seems intact, and there are no other neurologic signs or symptoms. 
+- may seem confused and repeatedly ask about his or her location in place and time 
 
 
