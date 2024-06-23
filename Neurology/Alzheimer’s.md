@@ -237,6 +237,12 @@
 - pernicious anemia, causes a megaloblastic anemia and may also damage the nervous system 
 - spinal cord syndrome (myelopathy) affecting the posterior columns (loss of vibration and position sense) and corticospinal tracts (hyperactive tendon reflexes with Babinski signs) 
 - damages peripheral nerves (neuropathy), resulting in sensory loss with depressed tendon reflexes. 
+- Damage to myelinated axons may also cause dementia 
+- mechanism 
+	- deficiency of S-adenosyl methionine (required for methylation of myelin phospholipids) due to reduced methionine synthase activity or accumulation of methylmalonate, homocysteine, and propionate, providing abnormal substrates for fatty acid synthesis in myelin. 
+- Neurological manifestations may occur in absence of anemia so dont use CBC only
+- Treatment with parenteral vitamin B12 (1000 μg intramuscularly daily for a week, weekly for a month, and monthly for life for pernicious anemia) stops progression of the disease 
+## Pellagra 
 - 
 
 
