@@ -14,3 +14,4 @@
 - Nonfluent / Agrammatic PPA 
 	- profound inability to produce words, often with prominent motor speech impairment 
 - if associated with MND, FTD-MND 
+- the corticobasal syndrome (CBS) and progressive supranuclear palsy–Richardson syndrome (PSP-RS) can be considered part of the FTLD clinical spectrum 
