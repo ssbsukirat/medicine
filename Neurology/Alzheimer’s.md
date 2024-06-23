@@ -312,5 +312,13 @@
 - setting of an emotional stimulus or physical exertion  
 - During the attack, the individual is alert and communicative, general cognition seems intact, and there are no other neurologic signs or symptoms. 
 - may seem confused and repeatedly ask about his or her location in place and time 
+- ability to form new memories returns after a period of hours 
+- cerebrovascular disease, epilepsy (7% in one study), migraine, or cardiac arrhythmias have all been implicated 
+- Rare instances of permanent memory loss have been reported 
+## ALS/parkinsonian/dementia complex of Guam
+- rare degenerative disease that has occurred in the Chamorro natives on the island of Guam
+- combination of parkinsonian features, dementia, and MND 
+- the presence of NFTs in degenerating neurons of the cortex and substantia nigra and loss of motor neurons in the spinal cord 
+- seed of the false palm tree, 
 
 
