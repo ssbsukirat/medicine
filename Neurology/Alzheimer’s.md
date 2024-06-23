@@ -248,6 +248,16 @@
 - Severe dietary deficiency of nicotinic acid along with other B vitamins such as pyridoxine may result in spastic paraparesis, peripheral neuropathy, fatigue, irritability, and dementia
 - Low serum folate levels appear to be a rough index of malnutrition, but isolated folate deficiency has not been proved as a specific cause of dementia. 
 ## CNS infections 
-- 
+- delirium and other acute neurologic syndromes 
+- chronic CNS infections like meningitis may cause dementia 
+- suspected in patients presenting with a dementia or behavioral syndrome, who also have headache, meningismus, cranial neuropathy, and/or radiculopathy 
+- psychomotor retardation, apathy, and impaired memory 
+## Neoplasm 
+- Primary and metastatic neoplasms of the CNS 
+- FND, seizure more common than dementia 
+- if tumour in frontal or temporal lobes, the initial manifestations may be memory loss or behavioral changes 
+- Limbic encephalitis 
+	- autoimmune, sometimes paraneoplastic, syndrome of dementia associated with occult carcinoma (often small-cell lung cancer) 
+	- confusion, agitation, seizures, poor memory, emotional changes, and frank dementia 
 
 
