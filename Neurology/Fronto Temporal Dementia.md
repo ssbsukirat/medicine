@@ -2,4 +2,15 @@
 - disease of abnormal protein aggregation, with either tau or transactive response DNA-binding protein of 43 kDa (TDP-43) 
 - m>f 
 # Clinical 
-- 
+- 3 variants -- behavioral , semantic PPA , nonfluent PPA 
+- Behavioural FTD (bvFTD)
+	- most common 
+	- social and emotional dysfunction 
+	- manifests as apathy, disinhibition, compulsivity, loss of empathy, and overeating, 
+	- accompanied by deficits in executive control 
+	- associated with motor neuron disease 
+- Semantic Primary Progressive Aphasia (PPA)
+	- slowly lose the ability to decode word, object, person-specific, and emotion meaning 
+- Nonfluent / Agrammatic PPA 
+	- profound inability to produce words, often with prominent motor speech impairment 
+- if associated with MND, FTD-MND 
