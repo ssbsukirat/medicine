@@ -243,6 +243,11 @@
 - Neurological manifestations may occur in absence of anemia so dont use CBC only
 - Treatment with parenteral vitamin B12 (1000 μg intramuscularly daily for a week, weekly for a month, and monthly for life for pernicious anemia) stops progression of the disease 
 ## Pellagra 
+- Deficiency of nicotinic acid 
+- skin rash over sun-exposed areas, glossitis, and angular stomatitis 
+- Severe dietary deficiency of nicotinic acid along with other B vitamins such as pyridoxine may result in spastic paraparesis, peripheral neuropathy, fatigue, irritability, and dementia
+- Low serum folate levels appear to be a rough index of malnutrition, but isolated folate deficiency has not been proved as a specific cause of dementia. 
+## CNS infections 
 - 
 
 
