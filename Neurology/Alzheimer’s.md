@@ -292,6 +292,11 @@
 	- treat with chelation with EDTA 
 - Chronic mercury poisoning 
 	- dementia, peripheral neuropathy, ataxia, and tremulousness that may progress to a cerebellar intention tremor or choreoathetosis 
-	- 
+	- transverse white lines of the fingernails (Mees’ lines) 
+	- chelation therapy with dimercaprol (British anti-Lewisite, BAL) 
+- Aluminum poisoning
+- rare, dialysis dementia syndrome
+- water used during renal dialysis was contaminated with aluminum.
+- progressive encephalopathy associated with confusion, nonfluent aphasia, memory loss, agitation, and, later, lethargy and stupor
 
 
