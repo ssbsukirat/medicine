@@ -206,6 +206,21 @@
 	- radionuclide cisternography (showing a delay in CSF absorption over the convexity 
 	- constant-pressure infusion test. 
 - transient improvement in gait or cognition may follow lumbar puncture (or serial punctures) with removal of 30–50 mL of CSF but inconsistent 
+- Hippocampal atrophy on MRI favors AD, whereas a characteristic “magnetic” gait with external hip rotation, low foot clearance, and short strides, along with prominent truncal sway or instability, favors NPH 
+- treatment is shunting in some patients 
+## Intracranial hypotension or sagging brain syndrome
+- low CSF pressure, 
+- leading to downward pressure on the subcortical structures and disruption of cerebral function
+- headache, often exacerbated by coughing or a Valsalva maneuver or by moving from lying to standing 
+- dizziness, vomiting, disruption of sleep-wake cycles, and sometimes a progressive behavioral variant FTD-like syndrome 
+- also maybe caused by CSF leaks secondary to lumbar puncture, head trauma, or spinal cord arachnoid cysts. 
+- Treatment consists of finding and patching the CSF leak
+## Chronic alcoholism 
+- associated malnutrition, especially of B vitamins, particularly thiamine 
+- also produce cerebral damage 
+- ***Marchiafava-Bignami disease***
+	- A rare idiopathic syndrome of dementia and seizures with degeneration of the corpus callosum has been reported primarily in male Italian red wine drinkers 
+## Thiamine Deficiency 
 - 
 
 
