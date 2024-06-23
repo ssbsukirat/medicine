@@ -197,4 +197,11 @@
 	- dementia (usually mild to moderate, with an emphasis on executive impairment)
 	- urinary urgency or incontinence
 - enlarged lateral ventricles (hydrocephalus) with little or no cortical atrophy, although the Sylvian fissures may appear propped open (so-called boxcarring), which can be mistaken for perisylvian atrophy 
+- Crowding of dorsal frontal-parietal gyri in NPH vs dorsal atrophy and sulcal widening in PSP and CBD 
+- communicating hydrocephalus with a patent aqueduct of Sylvius
+- CSF 
+	- opening pressure falls in the high-normal range
+	- protein, glucose, and cell counts are normal
 - 
+
+
