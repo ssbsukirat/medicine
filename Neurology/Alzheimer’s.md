@@ -304,6 +304,6 @@
 - progressive, beginning late in an athlete’s career or, more often, after retirement 
 - personality change occurs, associated with social instability, explosive rage, and sometimes paranoia and delusions. 
 - Later, memory loss progresses to full-blown dementia, often associated with parkinsonian signs and ataxia or intention tremor.
-- 
+- cortex shows tau-immunoreactive NFTs that are more prominent than amyloid plaques (which are usually diffuse or absent rather than neuritic) 
 
 
