@@ -90,3 +90,99 @@
 - associated with a decrease in the cortical levels of several proteins and neurotransmitters, especially acetylcholine 
 - Reduction of acetylcholine reflects degeneration of cholinergic neurons in the nucleus basalis of Meynert, located just below the thalamus and adjacent to the third ventricle, that project throughout the cortex. 
 - noradrenergic and serotonergic depletion due to degeneration of upper brainstem nuclei such as the locus coeruleus (norepinephrine) and dorsal raphe (serotonin)
+# genetic
+- APP gene on chromosome 21.
+    - Adults with trisomy 21 (Down’s syndrome) develop neuropathologic hallmarks of AD if they survive beyond age 40 years, 
+    - and many develop a progressive dementia superimposed on their baseline deficits
+    - early-age-of-onset familial AD (FAD) have point mutations in APP (first examples of single-gene autosomal dominant transmission of AD)
+- Presenilin-1 (PSEN-1)
+    - chromosome 14 
+    - encodes presenilin-1 protein (also known as S182).
+    - Mutations cause early-age-of-onset AD, 
+    - onset before age 60 and often before age 50, 
+    - transmitted in an autosomal dominant, highly penetrant fashion
+- Presenilin-2 (PSEN-2)
+    - chromosome 1
+    - encodes the presenilin-2 protein (also known as STM2)
+    - PSEN-1 are much more common than those in PSEN-2
+- presenilins are highly homologous and encode similar proteins that at first appeared to have seven transmembrane domains (hence the designation STM), but subsequent studies have suggested eight such domains, with a ninth submembrane region
+- homologous to a cell-trafficking protein, sel 12, found in the nematode Caenorhabditis elegans
+- mutations in the presenilin genes have elevated CSF levels of Aβ42 even before symptoms 
+- PSEN-1 are the most c mon cause of early-age-of-onset FAD (40–70% of all cases)
+- PSEN-1 tend to produce AD with an earlier age of onset (mean onset 45 years) and a shorter, more rapidly progressive course (mean duration 6–7 years) than mutations in PSEN-2 (mean onset 53 years; duration 11 years)
+- APOE gene
+    - chromosome 19
+    - The protein product, ApoE, participates in cholesterol transport 
+    - gene has three alleles: ε2, ε3, and ε4
+    - ApoE ε4 allele confers increased risk of AD in the general population, including sporadic and late-age-of-onset familial forms
+    - increased risk single ε4 allele is especially prominent in women
+    - ApoE ε4 allele represents the most important genetic risk factor for sporadic AD
+    - acts as a dose-dependent disease modifier, with each ApoE ε4 allele associated with an approximately 10-year earlier age of onset 
+    - increased risk for cerebral amyloid angiopathy (CAA), DLB, and vascular dementia, while its association with FTD is uncertain
+- Other genes
+    - clusterin (CLU),
+    - phosphatidylinositol-binding clathrin assembly protein (PICALM) 
+    - complement component (3b/4b) receptor 1 (CR1) genes
+# Treatment 
+## PATIENT AND CAREGIVER EDUCATION
+- memory aids such as notebooks and posted daily reminders in early stages
+- emphasize activities that are pleasant while curtailing those that increase stress on the patient
+- Use of adult day-care centers can be helpful 
+- Loss of independence and change of environment may worsen confusion, agitation, and anger.
+## NEUROTRANSMITTER-BASED THERAPIES
+- Approved
+	- inhibition of the cholinesterases, primarily acetylcholinesterase,
+		- Donepezil (target dose, 10 mg daily), 
+		- rivastigmine (target dose, 6 mg twice daily or 9.5-mg patch daily), 
+		- galantamine (target dose 24 mg daily, extended-release),
+	- memantine (target dose, 10 mg twice daily) — blocking overexcited N-methyl-d-aspartate(NMDA) glutamate receptors
+- Dose escalations over 4–6 weeks to minimize side effects
+- anticholinesterase inhibitor maintains his or her mini-mental state examination (MMSE) score for close to a year
+- mementine not approved for mild AD
+- None effective in MCI
+- Cholinesterase inhibitors are relatively easy to administer, and their major side effects are gastrointestinal symptoms (nausea, diarrhea, cramps), altered sleep with unpleasant or vivid dreams, bradycardia (usually benign), and muscle cramps.
+- effects associated with memantine include constipation, dizziness, headache, and somnolence
+- initiate a cholinesterase inhibitor for a patient diagnosed with mild AD dementia, and to add memantine when patients enter the moderate stage of disease
+## THERAPIES TARGETING AMYLOID-a
+- ***aducanumab***, a monoclonal antibody targeting the N-terminus of the Aβ peptide, reduction in Aβ plaques
+- aducanumab should only be considered for treatment of patients with MCI or early dementia due to AD
+- biomarker confirmation of Aβ based on CSF or PET be required prior to initiating treatment, since clinical diagnosis in isolation is not sufficient to ensure the presence of Aβ plaques.
+- neurological or psychiatric conditions, unstable medical illnesses, evidence of prior brain hemorrhages (including multiple microhemorrhages), or active anticoagulant treatment should be excluded
+- administered as an intravenous infusion every 4 weeks 
+- gradual dose titration from 1 mg/kg to 10 mg/kg over seven infusions 
+- Amyloid-related imaging abnormalities (ARIA) are the most common adverse effect
+- ARIA can manifest as vasogenic edema (ARIA-E) or cortical microhemorrhages and superficial siderosis (ARIA-H)
+- symptoms associated with ARIA were headache, altered mental status, dizziness, visual disturbances, and nausea.
+- Baseline and safety surveillance MRI scans (at minimum following the 7th and 12th infusions) are required
+- patients with contraindications to MRI cannot safely receive this therapy 
+- ARIA-E is more common in ApoE ε4 carriers
+## ADDITIONAL THERAPIES
+- Mild-to-moderate depression is common in the early stages of AD and may respond to antidepressants or cholinesterase inhibitors.
+- SSRIs are commonly used due to their low anticholinergic side effects (for example, escitalopram, target dose 5–10 mg daily)
+- Seizures can be treated with levetiracetam
+- newer generation of atypical antipsychotics, such as risperidone, quetiapine, and olanzapine, are being used in low doses to treat neuropsychiatric symptoms like Agitation, insomnia, hallucinations, and belligerence
+- antipsychotics carry a black box FDA warning for use in elderly patients with dementia and thus should be prescribed only with caution
+- Medications with strong anticholinergic effects should be vigilantly avoided, including prescription and over-the-counter sleep aids (e.g., diphenhydramine) or incontinence therapies (e.g., oxybutynin)
+## EXPERIMENTAL THERAPIES
+- additional anti-Aβ monoclonal antibodies (e.g., lecanemab, gantenerumab, and donanemab) have shown evidence of robust amyloid plaque lowering on PET 
+- Active vaccination against Aβ is another approach that aims to promote immune-mediated clearance of amyloid pathology.
+- Monoclonal antibodies directed against phosphorylated tau are in earlier stages of development
+- therapeutic approaches targeting tau include: active immunization; inhibition of tau phosphorylation, acetylation, and aggregation; microtubule stabilization; and lowering of tau expression via antisense oligonucleotides or small interfering RNA.
+
+# Other causes
+## Prion disease 
+- CJD is a rapidly progressive disorder associated with dementia, focal cortical signs, rigidity, and myoclonus, causing death <1 year after first symptoms appear 
+- AD can on occasion present as a rapidly progressive dementia
+- corticobasal degeneration (CBD) and DLB are more likely to be mistaken for CJD 
+- differential diagnosis 
+    - viral or bacterial encephalitides, 
+    - Hashimoto’s encephalopathy, 
+    - central nervous system (CNS) vasculitis, 
+    - lymphoma, or 
+    - paraneoplastic/autoimmune syndromes
+- markedly abnormal periodic complexes on EEG
+- cortical ribboning and basal ganglia hyperintensities on diffusion-weighted imaging or fluid-attenuated inversion recovery MRI are diagnostic
+## Huntington disease 
+- autosomal dominant degenerative brain disorder.
+- chorea, behavioral disturbance, and executive impairment 
+- begin in the fourth or fifth decade of life, but there is a wide range, from childhood to >70 years 
