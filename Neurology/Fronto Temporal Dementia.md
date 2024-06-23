@@ -24,4 +24,13 @@
 	- ***C9orf72*** (chromosome 9) exanucleotide (***GGGGCC***) expansion in a noncoding exon
 	- ***GRN*** (chromosome 17)
 	- ***MAPT*** (chromosome 17) genes
-	- 
+- MAPT and GRN mutations are associated with parkinsonian features, whereas ALS is rare 
+# Neuropathology 
+- focal atrophy of frontal, insular, and/or temporal cortex on imaging 
+- atrophy often begins focally in one hemisphere before spreading to anatomically interconnected cortical and subcortical regions
+- Loss of cortical serotonergic innervation 
+- cholinergic system is relatively spared in FTD (achE inhibitors less useful )
+- Microscopic gliosis, microvacuolation, and neuronal loss 
+- contain either tau or TDP-43 in ~90% of patients, with the remaining ~10% showing inclusions containing the FET family of proteins (FUS, Ewing sarcoma protein, TAF-15) 
+# Pathogenesis 
+- 
