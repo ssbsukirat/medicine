@@ -33,4 +33,7 @@
 - Microscopic gliosis, microvacuolation, and neuronal loss 
 - contain either tau or TDP-43 in ~90% of patients, with the remaining ~10% showing inclusions containing the FET family of proteins (FUS, Ewing sarcoma protein, TAF-15) 
 # Pathogenesis 
+- toxicity and spreading capacity of misfolded tau are critical for the pathogenesis 
+- TDP-43 and FUS are RNA/DNA binding proteins with unclear function 
+- loss of TDP-43 function results in mis-splicing events leading to mRNA degradation 
 - 
