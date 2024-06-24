@@ -37,6 +37,7 @@
 - genetic form of PD should be considered in patients with a strong positive family history, early age of onset (<40 years), a particular ethnic background
 - variants of the glucocerebrosidase gene (GBA) are the most common genetic association with PD
 # Atypical, Secondary, and Other Forms of Parkinsonism
+- ![[PDatypical.png]]
 - usually associated with more widespread pathology than found in PD (e.g., degeneration of striatum, globus pallidus, cerebellum, and brainstem, as well as the SNc)
 - include multiple system atrophy (MSA) progressive supranuclear palsy (PSP), and corticobasal syndrome
 - tend to present with parkinsonism (rigidity and bradykinesia) but manifest clinical differences from PD reflecting their more widespread pathology
@@ -93,4 +94,5 @@
 - genetic factors being more important in younger-onset patients
 - later-onset genetic variants (e.g., LRRK2 and GBA)argues against the emphasis on environmental factors, even in individuals >50 years of age
 - 10% of PD cases are familial in origin
+- ![[PDgenes.png]]
 - 
