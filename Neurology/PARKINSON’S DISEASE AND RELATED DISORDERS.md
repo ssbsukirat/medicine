@@ -1,0 +1,59 @@
+- second most common age-related neurodegenerative disease
+- mean age of onset of PD is about 60 years
+- frequency of PD increases with age, but cases can be seen in individuals in their twenties and even younger
+- characterized by rest tremor, rigidity (stiffness), bradykinesia (slowing), and gait dysfunction with postural instability
+- ![[PDclinical.png]]
+- Additional clinical features can include freezing of gait, speech difficulty, swallowing impairment, and a series of nonmotor features that include autonomic disturbances, sensory alterations, mood disorders, sleep dysfunction, cognitive impairment, and dementia
+- Pathologically, degeneration of dopaminergic neurons in the substantia nigra pars compacta (SNc), reduced striatal dopamine, and intraneuronal proteinaceous inclusions in cell bodies and axons that stain for α-synuclein (aka Lewy body )
+- can also affect 
+    - cholinergic neurons of the nucleus basalis of Meynert (NBM), 
+    - norepinephrine neurons of the locus coeruleus (LC), 
+    - serotonin neurons in the raphe nuclei of the brainstem, and 
+    - neurons of the olfactory system, cerebral hemispheres, spinal cord, and peripheral autonomic nervous system
+- “nondopaminergic” pathology is likely responsible for the nonmotor clinical features
+- begin in the peripheral autonomic nervous system, olfactory system, and dorsal motor nucleus of the vagus nerve in the lower brainstem, and then spread in a predictable and sequential manner to affect the SNc and cerebral hemispheres (Braak staging)
+- symptoms reflecting early involvement of nondopaminergic neurons such as constipation, anosmia, rapid eye movement (REM) behavior sleep disorder, and cardiac denervation can precede the onset of the classic motor features of PD by several years if not decades
+# DIAGNOSIS AND DIFFERENTIAL DIAGNOSIS
+- Parkinsonism is a generic term that is used to define a syndrome manifest by bradykinesia with rigidity and/or tremor.
+- ![[PDdifferentials.png]]
+- basal ganglia are comprised of a group of subcortical nuclei that include the 
+    - striatum (putamen and caudate nucleus),
+    - subthalamic nucleus (STN) 
+    - globus pallidus pars externa (GPe)
+    - pallidus pars interna (GPi)
+    - SNc
+- Historically, PD was diagnosed based on the presence of two of three parkinsonian features (tremor, rigidity, bradykinesia)
+- parkinsonism (bradykinesia and rigidity) associated with rest tremor, asymmetry of motor impairment, and a good response to levodopa is much more likely to predict the correct pathologic diagnosis —> ***U.K. Brain Bank Criteria*** 
+- Imaging of the dopamine system increases diagnostic accuracy
+- MDS Clinical Diagnostic Criteria for Parkinson’s disease
+    - motor parkinsonism has been retained as the core feature of the disease
+    - three additional categories of diagnostic features: supportive criteria (features that increase confidence in the diagnosis of PD), absolute exclusion criteria, and red flags (which must be counterbalanced by supportive criteria to permit a diagnosis of PD)
+    - two levels of certainty have been delineated; clinically established PD and clinically probable PD
+- Imaging of the brain dopamine system
+    - using positron emission tomography (PET) or singlephoton emission computed tomography (SPECT)
+    - show reduced and asymmetric uptake of striatal dopaminergic biomarkers, particularly in the posterior putamen with relative sparing of the caudate nucleus
+    - reflect the degeneration of nigrostriatal dopaminergic neurons and the loss of their striatal terminals
+- diagnosis of PD, and even pre-PD, may be made based on the presence of increased iron in the SNc using transcranial sonography or special MRI protocols 
+- genetic form of PD should be considered in patients with a strong positive family history, early age of onset (<40 years), a particular ethnic background
+- variants of the glucocerebrosidase gene (GBA) are the most common genetic association with PD
+# Atypical, Secondary, and Other Forms of Parkinsonism
+- usually associated with more widespread pathology than found in PD (e.g., degeneration of striatum, globus pallidus, cerebellum, and brainstem, as well as the SNc)
+- include multiple system atrophy (MSA) progressive supranuclear palsy (PSP), and corticobasal syndrome
+- tend to present with parkinsonism (rigidity and bradykinesia) but manifest clinical differences from PD reflecting their more widespread pathology
+- early involvement of speech and gait, absence of rest tremor, lack of motor asymmetry, poor or no response to levodopa, and a more aggressive clinical course
+- Neuroimaging of the dopamine system is usually not helpful
+- metabolic imaging of the basal ganglia/thalamus network (using 2-F-deoxyglucose) may be helpful, showing a pattern of decreased activity in the GPi with increased activity in the thalamus
+- MSA 
+    - combination of the atypical parkinsonian features, as well as cerebellar and autonomic features
+    - predominantly parkinsonian (MSA-p) or cerebellar (MSA-c) form
+    - features of atypical parkinsonism in conjunction with cerebellar signs and/or prominent autonomic dysfunction, usually orthostatic hypotension
+    - degeneration of the SNc, striatum, cerebellum, and inferior olivary nuclei
+    - characteristic glial cytoplasmic inclusions (GCIs) that stain positively for α-synuclein (Lewy bodies) particularly in oligodendrocytes rather than in SNc neurons as in PD
+    - MRI can show pathologic iron accumulation in the striatum on T2-weighted scans,
+    - high signal change in the region of the external surface of the putamen (putaminal rim) in MSA-p, or 
+    - cerebellar and brainstem atrophy (the pontine “hot cross bun” sign) in MSA-c.
+- PSP
+    - atypical parkinsonism that is characterized by parkinsonism as noted above coupled with slow ocular saccades, eyelid apraxia, and restricted vertical eye movements with particular impairment of downward gaze
+    - hyperextension of the neck with early gait disturbance and falls
+    - later stages, speech and swallowing difficulty and cognitive impairment may become evident.
+    - 
