@@ -54,3 +54,28 @@
 	- followed by slowed saccades (vertical worse than horizontal) 
 	- resulting in progressive supranuclear ophthalmoparesis
 - Dysarthria, dysphagia, and symmetric axial rigidity 
+- stiff, unstable posture with hyperextension of the neck and a slow, jerky, toppling gait
+- Frequent unexplained and sometimes spectacular falls are common secondary to a combination of axial rigidity, inability to look down, and impaired judgment
+- retain oculocephalic reflexes (demonstrated using a vertical doll’s head maneuver)
+- oculomotor disorder is supranuclear
+- overlaps with bvFTD, featuring apathy, frontal-executive dysfunction, poor judgment, slowed thought processes, impaired verbal fluency, and difficulty with sequential actions and with shifting from one task to another
+- Response to l-dopa is limited or absent; no other treatments exist
+- Death in 5-10 years
+- PSP is used to refer to a specific histopathologic entity within the FTLD-tau class
+- accumulation of hyperphosphorylated 4-repeat tau is seen within neurons and glia
+- inclusions often appear tangle-like and may be large, spherical (“globose”) and coarse in subcortical and brainstem structures
+- involvement is in the subthalamic nucleus, globus pallidus, substantia nigra, periaqueductal gray, tectum, oculomotor nuclei, pontine nuclei, and dentate nucleus of cerebellum.
+- prominent tau-positive glial inclusions, such as tufted astrocytes coiled oligodendroglial inclusions (“coiled bodies”), or, least often, thorny astrocytes
+- often confused with idiopathic Parkinson’s disease (PD)
+    - PD may have restricted upgaze, they do not develop downgaze paresis or other abnormalities of voluntary eye movements typical of PSP 
+    - Dementia in PD becomes more likely with increasing age, increasing severity of extrapyramidal signs, long disease duration, and the presence of depression.
+# CORTICOBASAL SYNDROME
+- slowly progressive dementia-movement disorder associated with severe degeneration in the perirolandic cortex and basal ganglia (substantia nigra and striatopallidum)
+- present with asymmetric rigidity, dystonia, myoclonus, and apraxia
+- progressively incapacitated limb, 
+- ***alien limb phenomena*** in which the limb exhibits unintended motor actions such as grasping, groping, drifting, or undoing.
+- Eventually bilateral 
+- dysarthria, slow gait, action tremor, and a frontal-predominant dementia
+- CBD refers to a specific histopathological FTLD-tau entity
+- microscopic features include ballooned, achromatic, tau-positive neurons; astrocytic plaques
+- CBD features a severe tauopathy burden in the subcortical white matter
