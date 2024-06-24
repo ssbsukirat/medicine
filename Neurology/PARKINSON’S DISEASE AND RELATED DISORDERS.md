@@ -56,4 +56,41 @@
     - atypical parkinsonism that is characterized by parkinsonism as noted above coupled with slow ocular saccades, eyelid apraxia, and restricted vertical eye movements with particular impairment of downward gaze
     - hyperextension of the neck with early gait disturbance and falls
     - later stages, speech and swallowing difficulty and cognitive impairment may become evident.
-    - 
+    - Two clinical forms of PSP have been identified; a “Parkinson” form that can closely resemble PD in the early stages and can include a positive response to levodopa, and the more classic “Richardson” form that is characterized by the features described above with little or no response to levodopa
+    - characteristic atrophy of the midbrain with relative preservation of the pons on midsagittal images — hummingbird sign
+    - degeneration of the SNc, striatum, STN, midline thalamic nuclei, and pallidum, coupled with neurofibrillary tangles and inclusions that stain for the tau protein
+- CBS 
+    - uncommon condition 
+    - presents with asymmetric dystonic contractions and clumsiness of one hand coupled with cortical sensory disturbances manifest as apraxia, agnosia, focal limb myoclonus, or 
+    - alien limb phenomenon (where the limb assumes a position in space without the patient being aware of its location or recognizing that the limb belongs to them)
+    - Dementia may occur at any stage of the disease. 
+    - Both cortical and basal ganglia features are required to make this diagnosis
+    - Pathologic findings include achromatic neuronal degeneration with tau deposits.
+- Secondary parkinsonisms 
+    - occur as a consequence of other etiologic factors such as drugs, stroke, tumor, infection, or exposure to toxins (e.g., carbon monoxide, manganese)
+    - strokes or tumors that affect the SNc may have a clinical picture that is largely identical to the motor features of PD,
+    - carbon monoxide or manganese that damage the globus pallidus more closely resemble atypical parkinsonism
+    - ***Dopamine-blocking agents such as neuroleptics are the most common cause of secondary parkinsonism.***
+    - Other drugs that can cause secondary parkinsonism include tetrabenazine, calcium channel blockers (flunarizine, cinnarizine), amiodarone, and lithium
+- dopa-responsive dystonia (DRD)
+    - Parkinsonism maybe a feature 
+    - mutation in the GTPCyclohydrolase 1 gene,
+    - defect in a cofactor for tyrosine hydroxylase with impairment in the manufacture of dopa and dopamine
+    - Usually has dystonia 
+    - present as a biochemically based form of parkinsonism
+    - not associated with abnormalities on fluoro-dopa positron emission tomography (FD-PET) nor neurodegeneration.
+    - considered in individuals aged <20 years who present with parkinsonism particularly if there are dystonic features
+- Others 
+    - Wilson’s disease, 
+    - Huntington’s disease (especially the juvenile form known as the Westphal variant), 
+    - certain spinocerebellar ataxias, and 
+    - neurodegenerative disorders with brain iron accumulation such as pantothenate kinase (PANK)associated neurodegeneration (formerly known as Hallervorden-Spatz disease)
+- rule out Wilson’s disease, as progression can be prevented with the use of copper chelators
+# ETIOLOGY AND PATHOGENESIS
+- most sporadically (~85–90%) and are of unknown cause
+- mutations are the only known causes of PD
+- environmental factors might play an important role in patients with an age of onset ≥50 years, with 
+- genetic factors being more important in younger-onset patients
+- later-onset genetic variants (e.g., LRRK2 and GBA)argues against the emphasis on environmental factors, even in individuals >50 years of age
+- 10% of PD cases are familial in origin
+- 
