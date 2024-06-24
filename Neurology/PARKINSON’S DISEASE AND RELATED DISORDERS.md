@@ -95,4 +95,7 @@
 - later-onset genetic variants (e.g., LRRK2 and GBA)argues against the emphasis on environmental factors, even in individuals >50 years of age
 - 10% of PD cases are familial in origin
 - ![[PDgenes.png]]
+- may be due to a “double hit” involving an interaction between
+	- one or more genetic risk factors that induce susceptibility coupled with 
+	- exposure to a toxic environmental factor that may induce epigenetic or somatic DNA alterations or has the potential to directly damage the dopaminergic system 
 - 
