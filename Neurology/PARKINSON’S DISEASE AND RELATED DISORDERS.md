@@ -102,3 +102,4 @@
 - pathways implicated by mutations in α-synuclein (SNCA), GBA, LRRK2, and PINK1/Parkin
 - SNCA mutations include earlier age of disease onset than in nongenetic PD, a faster progression of motor signs that are mostly levodopa-responsive, early occurrence of motor fluctuations, and presence of prominent nonmotor features, particularly cognitive impairment.
 - SNCA protein may be a prion, and PD a prion or prion-like disorder
+- 
