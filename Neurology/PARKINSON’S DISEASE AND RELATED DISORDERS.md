@@ -98,4 +98,7 @@
 - may be due to a “double hit” involving an interaction between
 	- one or more genetic risk factors that induce susceptibility coupled with 
 	- exposure to a toxic environmental factor that may induce epigenetic or somatic DNA alterations or has the potential to directly damage the dopaminergic system 
-- 
+- genetic association of PD with the class II HLA gene DRB1 (variants of which are associated with either protection or risk for PD)
+- pathways implicated by mutations in α-synuclein (SNCA), GBA, LRRK2, and PINK1/Parkin
+- SNCA mutations include earlier age of disease onset than in nongenetic PD, a faster progression of motor signs that are mostly levodopa-responsive, early occurrence of motor fluctuations, and presence of prominent nonmotor features, particularly cognitive impairment.
+- SNCA protein may be a prion, and PD a prion or prion-like disorder
