@@ -103,3 +103,4 @@
 - SNCA mutations include earlier age of disease onset than in nongenetic PD, a faster progression of motor signs that are mostly levodopa-responsive, early occurrence of motor fluctuations, and presence of prominent nonmotor features, particularly cognitive impairment.
 - SNCA protein may be a prion, and PD a prion or prion-like disorder
 - LRRK2 mutations have also now been clearly linked to PD, with p.G2019S being the most common -- tremor appears to be more common; leg tremor may be a useful diagnostic clue 
+- Mutations in Parkin >> PINK1 have also been identified as a cause of PD.
