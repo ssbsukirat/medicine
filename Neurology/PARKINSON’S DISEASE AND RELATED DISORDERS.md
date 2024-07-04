@@ -105,4 +105,13 @@
 - LRRK2 mutations have also now been clearly linked to PD, with p.G2019S being the most common -- tremor appears to be more common; leg tremor may be a useful diagnostic clue 
 - Mutations in Parkin >> PINK1 have also been identified as a cause of PD.
 # Pathophysiology 
-- do f
+- do from book 
+# Treatment 
+## Levodopa 
+- Dopamine does not cross the blood-brain barrier (BBB), so clinical trials were initiated with levodopa 
+- administered in combination with a peripheral decarboxylase inhibitor to 
+	- prevent its peripheral metabolism to dopamine 
+	- stop development of nausea, vomiting, and orthostatic hypotension due to activation of dopamine receptors in the area postrema (the nausea and vomiting center) that are not protected by the BBB
+- with carbidopa or benserazide 
+- most effective symptomatic treatment for PD and the ***gold standard*** 
+- 
