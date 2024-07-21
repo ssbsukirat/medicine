@@ -27,7 +27,13 @@
 	- rise in the early morning hours prior to awakening, with peak levels in the morning and low levels in the evening 
 	- ![[circadianadrenal.png]]
 - Diagnosis based on negative feedback 
-	- Glucocorticoid excess is diagnosed by employing a ***dexamethasone suppression test.*** Dexamethasone, a potent synthetic glucocorticoid, suppresses CRH/ACTH by binding hypothalamic-pituitary glucocorticoid receptors (GRs) and, therefore, results in downregulation of endogenous cortisol synthesis 
-	- 
+	- ***dexamethasone suppression test
+		- Glucocorticoid excess is diagnosed by employing a ***dexamethasone suppression test.*** Dexamethasone, a potent synthetic glucocorticoid, suppresses CRH/ACTH by binding hypothalamic-pituitary glucocorticoid receptors (GRs) and, therefore, results in downregulation of endogenous cortisol synthesis 
+		- in autonomic cortisol (adrenal nodule) then little effect as ACTH already suppressed 
+		- if ACTH driven excess, low dose dexa little effects but high dose suppress 
+		- ectopic ACTH tumours resistant to dexamethasone suppression 
+		- establish the diagnosis of Cushing’s syndrome and assist with the differential diagnosis of cortisol excess.
+	- ***ACTH stimulation Test*** 
+		- 
 ## Mineralocorticoid by RAAS 
 - 
