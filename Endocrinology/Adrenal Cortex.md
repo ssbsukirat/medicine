@@ -56,4 +56,10 @@
 - ACTH needed to initiate steroidogenesis 
 - MC2R (melanocortin 2 receptor ACTH receptor) interaction with MRAP (MC2R accessory protein) and complex moved to adrenocortical cell membrane and binding to ACTH 
 - ACTH generate cAMP --> upregulate  Protein Kinase A (PKA) pathway 
-- inactive PKA (tetramer of 2 regulator + 2 catalytic )
+- inactive PKA (tetramer of 2 regulator + 2 catalytic units) --> cAMP --> dimer (2 regulator + cAMP) + 2 active catalysts
+- PKA activation 
+	- increases the import of cholesterol esters 
+	- increases the activity of hormone-sensitive lipase 
+		- cleaves cholesterol esters to cholesterol for import into the mitochondrion
+	- increases the availability and phosphorylation of CREB (cAMP response element binding), 
+		- a transcription factor that enhances transcription of CYP11A1 and other enzymes required for glucocorticoid synthesis 
