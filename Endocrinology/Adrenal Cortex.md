@@ -44,6 +44,8 @@
 		- collection of blood samples at 0, 30, 60, and 120 min for glucose, cortisol, and growth hormone (GH), if also assessing the GH axis
 		- Oral or IV glucose is administered after the patient has achieved symptomatic hypoglycemia (usually plasma glucose <40 mg/dL) 
 		- normal response is defined as a cortisol >20 μg/dL and GH >5.1 μg/L 
-		- 
+		- contraindicated in patients with coronary disease, cerebrovascular disease, or seizure disorders
 ## Mineralocorticoid by RAAS 
-- 
+- initiated by the release of renin from the juxtaglomerular cells in the kidney, resulting in cleavage of angiotensinogen to angiotensin I in the liver
+- ACE) cleaves angiotensin I to angiotensin II, which binds and acti- vates the angiotensin II receptor type 1 (AT1R) 
+- increased adrenal aldosterone production and vasoconstriction. 
