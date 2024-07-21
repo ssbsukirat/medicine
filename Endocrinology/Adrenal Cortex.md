@@ -67,3 +67,8 @@
 	- ***mineralocorticoid*** synthesis occurring in the ***outer zona glomerulosa,*** 
 	- ***glucocorticoid*** synthesis in the ***zona fasciculata, and adrenal*** 
 	- ***androgen*** biosynthesis in the ***inner*** zona ***reticularis*** serving as precursors for both classic and 11-oxygenated androgens
+- pathways require cholesterol import into the mitochondrion, by ***steroidogenic acute regulatory (StAR) protein***, which shuttles cholesterol from the outer to the inner mitochondrial membrane
+- majority of steroidogenic enzymes are cytochrome P450 (CYP) enzymes, which are either located in the 
+	- mitochondrion (side chain cleavage enzyme, CYP11A1; 11β- hydroxylase, CYP11B1; aldosterone synthase, CYP11B2)
+	- endoplasmic reticulum membrane (17α-hydroxylase, CYP17A1; 21-hydroxylase, CYP21A2; aromatase, CYP19A1)
+- 
