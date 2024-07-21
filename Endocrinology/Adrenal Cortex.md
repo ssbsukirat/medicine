@@ -72,4 +72,4 @@
 	- mitochondrion (side chain cleavage enzyme, CYP11A1; 11β- hydroxylase, CYP11B1; aldosterone synthase, CYP11B2)
 	- endoplasmic reticulum membrane (17α-hydroxylase, CYP17A1; 21-hydroxylase, CYP21A2; aromatase, CYP19A1)
 - ![[adrenalpathways.png]]
-- 
+-  
