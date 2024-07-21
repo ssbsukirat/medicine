@@ -63,3 +63,7 @@
 		- cleaves cholesterol esters to cholesterol for import into the mitochondrion
 	- increases the availability and phosphorylation of CREB (cAMP response element binding), 
 		- a transcription factor that enhances transcription of CYP11A1 and other enzymes required for glucocorticoid synthesis 
+- steroidogenesis occurs in a zone-specific fashion, 
+	- ***mineralocorticoid*** synthesis occurring in the ***outer zona glomerulosa,*** 
+	- ***glucocorticoid*** synthesis in the ***zona fasciculata, and adrenal*** 
+	- ***androgen*** biosynthesis in the ***inner*** zona ***reticularis*** serving as precursors for both classic and 11-oxygenated androgens
