@@ -13,11 +13,16 @@
 - time of sexual differentiation ***(seventh to ninth week of gestation, starts to produce cortisol and the adrenal sex steroid precursor DHEA***
 - orphan nuclear receptors ***SF1*** (ste- roidogenic factor 1; encoded by the gene NR5A1) and ***DAX1*** (dosage-sensitive sex reversal gene 1; encoded by the gene NR0B1) critical during development 
 # Regulator control of steroidogenesis 
-- Glucocorticoid 
-	- by HPA axis
-	- under inhibitory feedback control by HP 
-	- Hypothalamic release of corticotropin-releasing hormone (CRH) stimulates 
-	- 241–amino acid polypeptide ***proopiomelanocortin (POMC)*** by pituitary-specific prohormone convertase 1 (***PC1***), yielding the ***39–amino acid peptide ACTH***
-	- 
-- Mineralocorticoid by RAAS 
+## Glucocorticoid 
+- by HPA axis
+- under inhibitory feedback control by HP 
+- Hypothalamic release of corticotropin-releasing hormone (CRH) stimulates 
+- 241–amino acid polypeptide ***proopiomelanocortin (POMC)*** by pituitary-specific prohormone convertase 1 (***PC1***), yielding the ***39–amino acid peptide ACTH***
+- ACTH 
+	- released by the corticotrope cells of the anterior pituitary 
+	- regulator of adrenal cortisol synthesis 
+	- additional short-term effects on mineralocorticoid and adrenal androgen synthesis 
+	- CRH and ACTH release in a pulsatile fashion that follows a circadian rhythm under the control of the hypothalamus, specifically its ***suprachiasmatic nucleus (SCN)*** 
+	- rise in the early morning hours prior to awakening, with peak levels in the morning and low levels in the evening 
+## Mineralocorticoid by RAAS 
 - 
