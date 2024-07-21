@@ -34,6 +34,16 @@
 		- ectopic ACTH tumours resistant to dexamethasone suppression 
 		- establish the diagnosis of Cushing’s syndrome and assist with the differential diagnosis of cortisol excess.
 	- ***ACTH stimulation Test*** 
+		- assess glucocorticoid deficiency 
+		- first 24  ACTH peptides are sufficient to elicit a physiologic response
+		- administration of cosyntropin (ACTH 1-24), 0.25 mg IM or IV, and collection of blood samples at 0, 30, and 60 min for cortisol 
+		- normal response is defined as a cortisol level >15–20 μg/dL (>400–550 nmol/L) 30–60 min after cosyntropin stimulation 
+	- ***Insulin Tolerance Test (ITT)***
+		- injection of insulin to induce hypoglycemia, which represents a strong stress signal 
+		- administration of regular insulin 0.1 U/kg IV (dose should be lower if hypopituitarism is likely) and 
+		- collection of blood samples at 0, 30, 60, and 120 min for glucose, cortisol, and growth hormone (GH), if also assessing the GH axis
+		- Oral or IV glucose is administered after the patient has achieved symptomatic hypoglycemia (usually plasma glucose <40 mg/dL) 
+		- normal response is defined as a cortisol >20 μg/dL and GH >5.1 μg/L 
 		- 
 ## Mineralocorticoid by RAAS 
 - 
