@@ -53,4 +53,5 @@
 - Aldosterone enhances sodium retention and potassium excretion and increases the arterial perfusion pressure, which in turn regulates renin release 
 - hypothalamic-pituitary damage does not significantly impact the capacity of the adrenal to synthesize aldosterone 
 # STEROID HORMONE SYNTHESIS, METABOLISM, AND ACTION 
-- 
+- ACTH needed to initiate steroidogenesis 
+- MC2R (melanocortin 2 receptor ACTH receptor) interaction with MRAP (MC2R accessory protein)  
