@@ -15,6 +15,9 @@
 # Regulator control of steroidogenesis 
 - Glucocorticoid 
 	- by HPA axis
+	- under inhibitory feedback control by HP 
+	- Hypothalamic release of corticotropin-releasing hormone (CRH) stimulates 
+	- 241–amino acid polypeptide ***proopiomelanocortin (POMC)*** by pituitary-specific prohormone convertase 1 (***PC1***), yielding the ***39–amino acid peptide ACTH***
 	- 
 - Mineralocorticoid by RAAS 
 - 
