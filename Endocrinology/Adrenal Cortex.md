@@ -16,6 +16,7 @@
 ## Glucocorticoid 
 - by HPA axis
 - under inhibitory feedback control by HP 
+- ![[adrenalHPA.png]]
 - Hypothalamic release of corticotropin-releasing hormone (CRH) stimulates 
 - 241–amino acid polypeptide ***proopiomelanocortin (POMC)*** by pituitary-specific prohormone convertase 1 (***PC1***), yielding the ***39–amino acid peptide ACTH***
 - ACTH 
@@ -24,5 +25,9 @@
 	- additional short-term effects on mineralocorticoid and adrenal androgen synthesis 
 	- CRH and ACTH release in a pulsatile fashion that follows a circadian rhythm under the control of the hypothalamus, specifically its ***suprachiasmatic nucleus (SCN)*** 
 	- rise in the early morning hours prior to awakening, with peak levels in the morning and low levels in the evening 
+	- ![[circadianadrenal.png]]
+- Diagnosis based on negative feedback 
+	- Glucocorticoid excess is diagnosed by employing a ***dexamethasone suppression test.*** Dexamethasone, a potent synthetic glucocorticoid, suppresses CRH/ACTH by binding hypothalamic-pituitary glucocorticoid receptors (GRs) and, therefore, results in downregulation of endogenous cortisol synthesis 
+	- 
 ## Mineralocorticoid by RAAS 
 - 
