@@ -54,4 +54,6 @@
 - hypothalamic-pituitary damage does not significantly impact the capacity of the adrenal to synthesize aldosterone 
 # STEROID HORMONE SYNTHESIS, METABOLISM, AND ACTION 
 - ACTH needed to initiate steroidogenesis 
-- MC2R (melanocortin 2 receptor ACTH receptor) interaction with MRAP (MC2R accessory protein)  
+- MC2R (melanocortin 2 receptor ACTH receptor) interaction with MRAP (MC2R accessory protein) and complex moved to adrenocortical cell membrane and binding to ACTH 
+- ACTH generate cAMP --> upregulate  Protein Kinase A (PKA) pathway 
+- inactive PKA (tetramer of 2 regulator + 2 catalytic )
