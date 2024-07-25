@@ -77,3 +77,17 @@
 - binds and activate Glucocorticoid Receptor in cytosol, leads to dissociation of HSPs(heat shock proteins) and dimerization
 - GR dimers translocate in the nucleus and activate Glucocorticoid Response elements (GREs) causing GR transactivation 
 - May form heterodimer with AP-1 or NF-KB leading to repression of inflammatory genes leading to anti-inflammatory effects
+- Cortisol to cortisone (inactive) by 11B-HSD2 in kidney, colon, salivary gland and others 
+- Cortisol and aldosterone have equal affinity for mineralocorticoid receptor but cortisol has 1000 times concentration in blood so inactivation by 11B-HSD2 is a modulator
+
+# Cushing's
+- Constellation of clinical features resulting from chronic exposure to excessive Glucocorticoids of any etiology
+- ACTH-dependent 
+    - pituitary corticotrope adenoma (Cushing's Disease)
+    - ectopic secretion of ACTH
+- ACTH-independent 
+    - adrenocortical adenoma
+    - Adrenocortical carcinoma
+    - Nodular adrenal hyperplasia
+    - Iatrogenic
+## Epidemiology
