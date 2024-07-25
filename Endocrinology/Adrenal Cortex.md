@@ -100,4 +100,18 @@
 - ectopic ACTH more in men
 - Iatrogenic Cushing's most common
 ## Etiology
-- 
+- Cushings disease
+	- 90% by corticotrope pituitary microadenoma 
+	- Macroadenoma in 5-10% 
+	- mostly sporadic but rarely with MEN1
+	- mutations in the deubiquitinase USP8, which leads to constitutive activation of epidermal growth factor (EGF) and increase POMC (ACTH precursor)-- more in adults and women 
+- Ectopic ACTH 
+	- occult carcinoid tumors, most frequently in the lung, but also in thymus or pancreas 
+	- advanced small cell CA kung 
+	- rarely MTC or pheochromocytoma 
+- ACTH-independent 
+	- adrenal adenoma 
+	- PKA catalytic subunit PRKACA in 40% 
+- PBMAH 
+	- PRIMARY Bilateral Macronodular Adrenal Hyperplasia 
+	- low circulati
