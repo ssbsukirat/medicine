@@ -115,4 +115,11 @@
 - PBMAH 
 	- PRIMARY Bilateral Macronodular Adrenal Hyperplasia 
 	- low circulating ACTH 
-	- Intraadrenal ACTH production 
+	- ***Intraadrenal*** ACTH production 
+	- ectopic expression of G-PCRs not usually found in the adrenal, including receptors for ***LH, vasopressin, serotonin, IL-1, catecholamines, or GIP the cause of food-dependent Cushing’s.***
+	- mutations in the tumor-suppressor gene ***ARMC5*** have been identified
+	- present with biochemical evidence of Cushing’s but lack specific clinical signs, which develop slowly over decades and accelerate cardiovascular risk 
+- PPNAD 
+	- primary pigmented nodular adrenal disease 
+	- Germline mutations in one of the regulatory subunits of PKA, PRKAR1A 
+	- 
