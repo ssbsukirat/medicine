@@ -128,4 +128,5 @@
 	- polyostotic fibrous dysplasia, unilateral café-au-lait spots, and precocious puberty
 	- activating mutations in the stimulatory G pro- tein alpha subunit 1, GNAS-1 (guanine nucleotide-binding protein alpha stimulating activity polypeptide 1) 
 ## Clinical 
+- upregulation of gluconeogenesis, lipolysis,and protein catabolism causing the most prominent features
 - 
