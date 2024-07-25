@@ -138,6 +138,7 @@
 - Hypercoagulable state so more DVT, and PTE 
 - Psychiatric like anxiety or depression, acute paranoia or depressive psychosis may occur 
 ## Diagnosis 
+- ![[cushingsdiagnosis.png]]
 - protocol requires establishing the diagnosis of Cushing’s beyond doubt prior to employing any tests used for the differential diagnosis of the condition 
 - after excluding exogenous glucocorticoid use as the cause of clinical signs and symptoms, 
 - suspected cases should be tested if there are multiple and progressive features of Cushing’s, particularly ***features with a potentially higher discriminatory value***.
