@@ -139,4 +139,14 @@
 - Psychiatric like anxiety or depression, acute paranoia or depressive psychosis may occur 
 ## Diagnosis 
 - protocol requires establishing the diagnosis of Cushing’s beyond doubt prior to employing any tests used for the differential diagnosis of the condition 
-- 
+- after excluding exogenous glucocorticoid use as the cause of clinical signs and symptoms, 
+- suspected cases should be tested if there are multiple and progressive features of Cushing’s, particularly ***features with a potentially higher discriminatory value***.
+- Exclusion of Cushing’s is also indicated in patients with incidentally discovered adrenal masses
+- Several tests done 
+	- increased 24-h urinary free cortisol excretion in three separate collections,
+	- failure to appropriately suppress morning cortisol after overnight exposure to dexamethasone, and 
+	- evidence of loss of diurnal cortisol secretion with high levels at midnight, the time of the physiologically lowest secretion
+	- exclude interfering factors such as incomplete 24-h urine collection or rapid inactiva- tion of dexamethasone due to concurrent intake of CYP3A4-inducing drugs (e.g., antiepileptics, rifampicin)
+	- OCPs raise CBG and thus total cortisol can cause failure to suppress after dexamethasone 
+	- testing should be repeated after 4–6 weeks off estrogens 
+	- pseudo-Cushing states, i.e., alcohol-related, and those with cyclic Cushing’s may require further testing 
