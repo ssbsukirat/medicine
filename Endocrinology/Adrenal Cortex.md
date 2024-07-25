@@ -137,3 +137,6 @@
 - ectopic ACTH syndrome, and some with ACC as the cause of Cushing’s, may have a more brisk onset and rapid progression of clinical signs and symptoms, namely of edema, hypokalemia, and hypertension 
 - Hypercoagulable state so more DVT, and PTE 
 - Psychiatric like anxiety or depression, acute paranoia or depressive psychosis may occur 
+## Diagnosis 
+- protocol requires establishing the diagnosis of Cushing’s beyond doubt prior to employing any tests used for the differential diagnosis of the condition 
+- 
