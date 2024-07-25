@@ -114,4 +114,5 @@
 	- PKA catalytic subunit PRKACA in 40% 
 - PBMAH 
 	- PRIMARY Bilateral Macronodular Adrenal Hyperplasia 
-	- low circulati
+	- low circulating ACTH 
+	- Intraadrenal ACTH production 
