@@ -74,4 +74,6 @@
 - ![[adrenalpathways.png]]
 -  In circulation mainly bound to CBG (cortisol binding globulin), some to albumin and small fraction free 
 - Free cortisol enters cell directly and in peripheral tissue like adipose, liver, muscle, brain cortisone converted to cortisol by 11B-HSD1 
-- 
+- binds and activate Glucocorticoid Receptor in cytosol, leads to dissociation of HSPs(heat shock proteins) and dimerization
+- GR dimers translocate in the nucleus and activate Glucocorticoid Response elements (GREs) causing GR transactivation 
+- May form heterodimer with AP-1 or NF-KB leading to repression of inflammatory genes leading to anti-inflammatory effects
