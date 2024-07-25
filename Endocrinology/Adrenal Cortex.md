@@ -91,3 +91,13 @@
     - Nodular adrenal hyperplasia
     - Iatrogenic
 ## Epidemiology
+- rare 
+- 1-2/100000
+- Mild cortisol excess in diabetics, obese and osteoporotic fracture
+- Majority have ACTH producing adenoma in pituitary (Cushing's Disease) (if endogenous production)
+    - women more 
+    - Prepubertal more in boys 
+- ectopic ACTH more in men
+- Iatrogenic Cushing's most common
+## Etiology
+- 
