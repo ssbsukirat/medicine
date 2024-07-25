@@ -122,4 +122,10 @@
 - PPNAD 
 	- primary pigmented nodular adrenal disease 
 	- Germline mutations in one of the regulatory subunits of PKA, PRKAR1A 
-	- 
+	- part of ***Carney***’s complex, an autosomal dominant multiple neoplasia condition associated with ***cardiac myxomas, hyperlentiginosis, Sertoli cell tumors, and PPNAD*** 
+- McCune-Albright Syndrome 
+	- rare cause of ACTH-independent 
+	- polyostotic fibrous dysplasia, unilateral café-au-lait spots, and precocious puberty
+	- activating mutations in the stimulatory G pro- tein alpha subunit 1, GNAS-1 (guanine nucleotide-binding protein alpha stimulating activity polypeptide 1) 
+## Clinical 
+- 
