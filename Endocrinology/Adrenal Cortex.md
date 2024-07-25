@@ -128,5 +128,12 @@
 	- polyostotic fibrous dysplasia, unilateral café-au-lait spots, and precocious puberty
 	- activating mutations in the stimulatory G pro- tein alpha subunit 1, GNAS-1 (guanine nucleotide-binding protein alpha stimulating activity polypeptide 1) 
 ## Clinical 
+- ![[cushingsfeatures.png]]
 - upregulation of gluconeogenesis, lipolysis,and protein catabolism causing the most prominent features
-- 
+- overcomes the ability of 11β-HSD2 to rapidly inactivate cortisol to cortisone in the kidney, thereby exerting mineralocorticoid actions, manifest as diastolic hypertension, hypokalemia, and edema
+- interfere with central regulatory systems, leading to suppression of gonadotropins with subsequent hypogonadism and amenorrhea and suppression of the hypothalamic-pituitary-thyroid axis, resulting in decreased TSH secretion
+- Clinical manifestations of Cushing’s do not differ substantially among the different causes of Cushing’s.
+- In ***ectopic ACTH syndrome, hyperpigmentation*** of the knuckles, scars, or skin areas exposed to increased friction can be observed 
+- ectopic ACTH syndrome, and some with ACC as the cause of Cushing’s, may have a more brisk onset and rapid progression of clinical signs and symptoms, namely of edema, hypokalemia, and hypertension 
+- Hypercoagulable state so more DVT, and PTE 
+- Psychiatric like anxiety or depression, acute paranoia or depressive psychosis may occur 
