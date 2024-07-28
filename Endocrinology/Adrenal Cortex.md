@@ -181,4 +181,11 @@
 	- long-term follow-up is important because late relapse occurs in a significant number of patients 
 	- recurs, there are several options, including second surgery, radiotherapy, stereotactic radiosurgery, and bilateral adrenalectomy 
 - very severe, overt Cushing’s (e.g., difficult to control hypokalemic hypertension or acute psychosis), it may be necessary to introduce ***medical*** therapy to rapidly control the cortisol excess during the period leading up to surgery, which also can help to alleviate hypercoagulability and, thus, operative risk 
-- 
+- Oral metyrapone and ketoconazole 
+- Metyrapone 
+	- inhibits cortisol synthesis at the level of 11β-hydroxylase 
+	- 500mg TID 
+- Ketoconazole 
+	- inhibits early stages 
+	- 200mg TID starting dose
+- potent 11β-hydroxylase inhibitor ***osilodrostat*** has been introduced for the treatment of Cushing’s, which also exerts strong inhibition of aldosterone synthase (CYP11B2)
