@@ -170,4 +170,15 @@
 -  differential diagnostic testing indicates ectopic ACTH syndrome, 
 	- then further imaging should include high-resolution, fine-cut CT scanning of the chest and abdomen for scrutiny of the lung, thymus, and pancreas 
 	- If no lesions are identified, an MRI of the chest can be considered because carcinoid tumors usually show high signal intensity on T2-weighted images
+	- octreotide scintigraphy can be helpful in some cases because ectopic ACTH-producing tumors often express somatostatin receptor 
+## Treatment 
+- ACTH-independent 
+	- surgical removal of adrenal tumour 
+	- Smaller have minimally invasive 
+	- large open approach 
+- Cushings Disease 
+	- selective removal of the pituitary corticotrope tumor, usually via an endoscopic trans- sphenoidal approach 
+	- long-term follow-up is important because late relapse occurs in a significant number of patients 
+	- recurs, there are several options, including second surgery, radiotherapy, stereotactic radiosurgery, and bilateral adrenalectomy 
+- very severe, overt Cushing’s (e.g., difficult to control hypokalemic hypertension or acute psychosis), it may be necessary to introduce ***medical*** therapy to rapidly control the cortisol excess during the period leading up to surgery, which also can help to alleviate hypercoagulability and, thus, operative risk 
 - 
