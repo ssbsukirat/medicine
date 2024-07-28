@@ -163,5 +163,11 @@
 	- corticotrope adenomas fail to enhance following gadolinium administration on T1-weighted MRI images 
 	- pituitary Cushing’s disease and ectopic ACTH syndrome by extra tests
 	- most pituitary corticotrope adenomas still display regulatory features, including residual ACTH suppression by high-dose glucocorticoids and CRH responsiveness 
-	- 
--  
+	- ectopic sources of ACTH are typically resistant to dexametha- sone suppression and unresponsive to CRH 
+	- two tests show discordant results or if there is any other reason for doubt, the differential diagnosis can be further clarified by performing bilateral inferior petrosal sinus sampling (IPSS) with concurrent blood sampling for ACTH in the right and left inferior petrosal sinus and a peripheral vein
+	- ncreased central/peripheral plasma ACTH ratio >2 at baseline and >3 at 2–5 min after CRH injection is indicative of Cushing’s disease 
+	- the results of the IPSS cannot be reliably used for lateralization 
+-  differential diagnostic testing indicates ectopic ACTH syndrome, 
+	- then further imaging should include high-resolution, fine-cut CT scanning of the chest and abdomen for scrutiny of the lung, thymus, and pancreas 
+	- If no lesions are identified, an MRI of the chest can be considered because carcinoid tumors usually show high signal intensity on T2-weighted images
+- 
