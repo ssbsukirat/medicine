@@ -152,4 +152,9 @@
 	- testing should be repeated after 4–6 weeks off estrogens 
 	- pseudo-Cushing states, i.e., alcohol-related, and those with cyclic Cushing’s may require further testing 
 ## Differential 
-- 
+- begins with the differential diagnosis of ACTH-dependent and ACTH-independent cortisol excess 
+- patients with ACTH-dependent Cushing’s have normal or increased plasma ACTH, 
+- very high levels being found in some patients with ectopic ACTH syndrome 
+- imaging should only be used after it is established whether the cortisol excess is ACTH-dependent or ACTH-independent because nodules in the pituitary or the adrenal are a common finding in the general population
+- confirmed ACTH-independent excess, adrenal imaging is indicated --> preferred NCCT scan 
+	- allows assessment of adrenal morphology and determination of precontrast tumor density in Hounsfield units (HUs)
