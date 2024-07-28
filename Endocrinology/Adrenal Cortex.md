@@ -151,3 +151,5 @@
 	- OCPs raise CBG and thus total cortisol can cause failure to suppress after dexamethasone 
 	- testing should be repeated after 4–6 weeks off estrogens 
 	- pseudo-Cushing states, i.e., alcohol-related, and those with cyclic Cushing’s may require further testing 
+## Differential 
+- 
