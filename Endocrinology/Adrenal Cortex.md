@@ -158,3 +158,10 @@
 - imaging should only be used after it is established whether the cortisol excess is ACTH-dependent or ACTH-independent because nodules in the pituitary or the adrenal are a common finding in the general population
 - confirmed ACTH-independent excess, adrenal imaging is indicated --> preferred NCCT scan 
 	- allows assessment of adrenal morphology and determination of precontrast tumor density in Hounsfield units (HUs)
+- ACTH-dependent cortisol excess 
+	- MRI of the pituitary is the investigation of choice (maybe normal in 40%)
+	- corticotrope adenomas fail to enhance following gadolinium administration on T1-weighted MRI images 
+	- pituitary Cushing’s disease and ectopic ACTH syndrome by extra tests
+	- most pituitary corticotrope adenomas still display regulatory features, including residual ACTH suppression by high-dose glucocorticoids and CRH responsiveness 
+	- 
+-  
