@@ -23,4 +23,14 @@
 - Inhibition of 11B-HSD2 by licorice also causes 
 - excess cortisol in cushings may cause 
 - Progesterone may cause hypokalemic hypertension rarely in MR mutation which activates by progesterone 
-- 
+- DOC (deoxycorticosterone) 
+	- DOC also binds and activates the MR and can cause hypertension if its circulating concentrations are increased. 
+	- autonomous DOC secretion by an ACC, 
+	- also when DOC accumulates as a consequence of an adrenal enzymatic block, as seen in congenital adrenal hyperplasia (CAH) due to CYP11B1 (11β-hydroxylase) or CYP17A1 (17α-hydroxylase) deficiency
+## Liddle 
+- excess mineralocorticoid activity can be caused by mutations in the β or γ subunits of the ENaC, disrupting its interaction with Nedd4
+- decreasing receptor internalization and degradation 
+- drives hypokalemic hypertension 
+- Autosomal Dominant 
+# Clinical 
+- potassium depletion + sodium retention 
