@@ -42,3 +42,15 @@
 - Hypomagnesemia 
 - Hypokalemia exacerbated by thiazide (increased sodium delivery to DCT ) causing further K excretion 
 - Hypokalemia may cause weakness , proximal myopathy, paralysis 
+- PRIMARY aldosteronism 
+	- increased rates of osteoporosis, type 2 diabetes, and cognitive dysfunction.
+	- A significant proportion of patients suffer from concurrent ***mild autonomous cortisol excess (MACE), termed Connshing syndrome*** 
+# Diagnosis
+- Screen 
+	- hypertension associated with drug resistance, 
+	- hypokalemia, 
+	- an adrenal mass, or 
+	- onset of disease before the age of 40 years
+- Screening 
+	- measurement of plasma renin and aldosterone with subsequent calculation of the aldosterone-renin ratio (ARR) 
+	- normalise serum potassium prior to testing 
