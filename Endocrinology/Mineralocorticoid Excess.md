@@ -54,3 +54,9 @@
 - Screening 
 	- measurement of plasma renin and aldosterone with subsequent calculation of the aldosterone-renin ratio (ARR) 
 	- normalise serum potassium prior to testing 
+- Drugs affecting ARR 
+	- antihypertensive cumbersome to stop 
+	- continue all except MR antagonists 
+	- cease MR antagonists 4 weeks prior 
+	- Beta blockers cause false positive 
+	- ACE/AT1R blockers cause false negative 
