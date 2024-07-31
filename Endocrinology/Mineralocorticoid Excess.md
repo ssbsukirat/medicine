@@ -33,4 +33,12 @@
 - drives hypokalemic hypertension 
 - Autosomal Dominant 
 # Clinical 
-- potassium depletion + sodium retention 
+- potassium depletion + sodium retention --> expanded plasma and extracellular volume 
+- increased ENaC activity --> H depletion and metabolic alkalosis (muscle cramps and tetany)
+- Increased Cardiac remodeling and reduced Compliance 
+- Direct damage to myocardium and glomureli and indirect via hypertension 
+- hypokalemic hypertension hallmark (hypokalemia in 50% only) 
+- sodium usually normal due to fluid retention (may cause peripheral edema) 
+- Hypomagnesemia 
+- Hypokalemia exacerbated by thiazide (increased sodium delivery to DCT ) causing further K excretion 
+- Hypokalemia may cause weakness , proximal myopathy, paralysis 
