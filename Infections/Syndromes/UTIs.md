@@ -49,3 +49,16 @@
 # Etiology
 - usually enteric gram negative rods 
 - Acute uncomplicated cystitis usually has E coli in 75-90% 
+- Staphylococcus saprophyticus is 5-15% (more in younger women)
+- Klebsiella, Enterococcus and citrobacter 5-10% 
+- Uncomplicated pyelonephritis -- similar spectrum with E coli most common
+- Complicated UTI (eg CAUTI)
+    - e coli most common
+    - Aerobic gram negative like pseudomonas, klebsiella, proteus, citrobacter, acinetobacger and morganella 
+    - Gram positive like Enterococci and staphylococcus aureus 
+    - Yeasts
+# Pathogenesis
+- tract is anatomical unit linked by continuous column of urine from urethra to kidneys 
+- Most infections ascend from urethra to kidneys
+- But always bacteria doesn't cause infection so it needs host, pathogens and environmental factors
+- 
