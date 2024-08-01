@@ -24,4 +24,21 @@
     - Maternal history of UTI
     - Diabetes
     - Incontinence
-- 
+- 20% have relapse after 1st episode
+    - early is relapse (2weeks) and should be evaluated for sequestered focus of infection
+    - Clustering may happen (multiple recurrence after single episode)
+        - new risk factor
+        - Sloughing of protective bladder wall 
+        - Effect of antibiotic on microbiome 
+    - Risk factors
+        - sexual intercourse
+        - Spermicide use 
+- Asymptomatic bacturia (asymptomatic colonisation)
+    - usually no need to treat
+    - In pregnancy risk factor of pyelonephritis
+    - Treatment with antibiotics reduced risk of pyelonephritis, pre-term baby and LBW baby 
+- Men 
+    - most have functional or anatomical anomaly
+    - Most common is obstruction of tract secondary to prostate hypertrophy
+    - <45 years age may not have abnormalities
+    - Lack of circumcision is 
