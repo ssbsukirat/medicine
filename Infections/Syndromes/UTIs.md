@@ -75,4 +75,8 @@
     - Nonoxynol-9 in spermicide kills lactobacillus in vagina and increase risk 
     - Postmenopausal lactobacillus replaced by gram negative organism so increased risk 
 - Anatomical and functional abnormalities
-    - 
+    - Urinary stasis or obstruction
+    - Stones or Catheter
+    - VUR, BPH, neurogenic bladder create favourable conditions for UTI
+    - E coli without virulence factors can cause UTI
+    - Reduced urinary peristalsis and decreased ureter tone --> reflux --
