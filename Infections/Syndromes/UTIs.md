@@ -61,4 +61,6 @@
 - tract is anatomical unit linked by continuous column of urine from urethra to kidneys 
 - Most infections ascend from urethra to kidneys
 - But always bacteria doesn't cause infection so it needs host, pathogens and environmental factors
-- 
+- ![[UTIpathogenesis.PNG]]
+- Foreign body in tract like a stone or catheter provides site for colonisation
+- Abnormal micturition
