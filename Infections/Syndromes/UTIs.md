@@ -63,4 +63,16 @@
 - But always bacteria doesn't cause infection so it needs host, pathogens and environmental factors
 - ![[UTIpathogenesis.PNG]]
 - Foreign body in tract like a stone or catheter provides site for colonisation
-- Abnormal micturition
+- Abnormal micturition or significant post voidal urine volume 
+- Hematogenous spread <2% and usually by bacteremia like salmonella and staphylococcus aureus
+- Hematogenous spread may cause focal abcess or areas of pyelonephritis with positive urine culture
+- Salmonella or staphylococcal isolation on culture without catheterisation or instrumentation should prompt search for blood source 
+- Candida without instrumentation in immunocompetent means genital contamination or widespread visceral spread
+## environmental factors
+- Vaginal ecology
+    - colonisation of introitus and periurethral area by intestinal flora like E coli is initial step 
+    - Sexual intercourse increases risk of colonisation
+    - Nonoxynol-9 in spermicide kills lactobacillus in vagina and increase risk 
+    - Postmenopausal lactobacillus replaced by gram negative organism so increased risk 
+- Anatomical and functional abnormalities
+    - 
