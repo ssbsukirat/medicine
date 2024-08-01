@@ -41,4 +41,11 @@
     - most have functional or anatomical anomaly
     - Most common is obstruction of tract secondary to prostate hypertrophy
     - <45 years age may not have abnormalities
-    - Lack of circumcision is 
+    - Lack of circumcision is risk as E coli infection more in glans and prepuce 
+- Women with diabetes = 2-3x higher risk of ASB and UTI as compared to without diabetes
+    - duration of diabetes and use of insulin increase risk
+    - other risk factors like poor bladder function, obstruction in flow and incomplete voiding
+
+# Etiology
+- usually enteric gram negative rods 
+- Acute uncomplicated cystitis usually has E coli in 75-90% 
