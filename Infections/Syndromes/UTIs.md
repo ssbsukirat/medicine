@@ -79,4 +79,12 @@
     - Stones or Catheter
     - VUR, BPH, neurogenic bladder create favourable conditions for UTI
     - E coli without virulence factors can cause UTI
-    - Reduced urinary peristalsis and decreased ureter tone --> reflux --
+    - Reduced urinary peristalsis and decreased ureter tone --> reflux --> pyelonephritis in pregnancy
+## Host factors
+- genetic background especially in women 
+- Familial disposition to UTI and pyelonephritis
+- Recurrent UTI women have 1st episode<15 years and have maternal history
+- Women with recurrent UTI have 3x binding and colonisation by E coli in asymptomatic periods as compared to those with no recurrent UTIs
+- Mutations in host innate immunity like TLR and IL-8 receptor
+## Microbe factors
+- 
