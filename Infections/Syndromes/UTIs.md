@@ -11,4 +11,17 @@
 - neonates male > female due to congenital tract anomalies
 - >50 years age men=women due to prostate enlargement
 - Cystitis
+    - most common
+    - Recent diaphragm use (with spermicide)
+    - Frequent sexual intercourse -- dose dependent relationship
+    - History of UTI
+    - Diabetes mellitus
+    - Incontinence 
+- Pyelonephritis
+    - frequent sexual intercourse
+    - New partner
+    - UTI in last 12 months 
+    - Maternal history of UTI
+    - Diabetes
+    - Incontinence
 - 
