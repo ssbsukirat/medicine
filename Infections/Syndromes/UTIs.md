@@ -1,0 +1,14 @@
+- most common is acute cystitis
+- Cystitis is symptomatic infection of bladder 
+- Pyelonephritis is symptomatic infection of kidney parenchyma
+- Uncomplicated UTI is infection confined to bladder or acute cystitis
+- Complicated UTI is extension beyond bladder like fever or signs of systemic illness
+- Recurrent UTIs may not always be complicated 
+- CAUTI is catheter associated UTI
+- Men with UTI are not automatically considered complicated
+# Epidemiology and risk factors
+- females more than males 
+- neonates male > female due to congenital tract anomalies
+- >50 years age men=women due to prostate enlargement
+- Cystitis
+- 
