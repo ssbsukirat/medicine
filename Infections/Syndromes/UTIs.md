@@ -91,4 +91,8 @@
 - Adhesins like P fimbriae which react with receptor on renal epithelial cell (P means bind to blood group antigen P containing D-galactose-D-galactose residue)
 - Type 1 pilus (fimbria) present in all E coli strain but expressed by few-- bind to mannose on bladder cells
 # Approach
-- 
+- 1st step is define 
+## Asymptomatic Bacteruria 
+- considered only when the patient does not have local or systemic symptoms referable to the urinary tract 
+- detected incidentally when a patient undergoes a screening urine culture for a reason unrelated to the genitourinary tract 
+- fever, altered mental status, and leukocytosis in the setting of a positive urine culture are nonspecific and do not merit a diag- nosis of symptomatic UTI unless other potential etiologies have been considered 
