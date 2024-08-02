@@ -87,4 +87,8 @@
 - Women with recurrent UTI have 3x binding and colonisation by E coli in asymptomatic periods as compared to those with no recurrent UTIs
 - Mutations in host innate immunity like TLR and IL-8 receptor
 ## Microbe factors
+- E coli which cause infection in normal hosts have strong virulence factors
+- Adhesins like P fimbriae which react with receptor on renal epithelial cell (P means bind to blood group antigen P containing D-galactose-D-galactose residue)
+- Type 1 pilus (fimbria) present in all E coli strain but expressed by few-- bind to mannose on bladder cells
+# Approach
 - 
