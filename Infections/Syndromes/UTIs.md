@@ -116,4 +116,14 @@
 - B/L papillary necrosis may have rapid rise in serum creatinine 
 - ***Emphysematous pyelonephritis*** is a particularly severe form of the disease that is associated with the production of gas in renal and perinephric tissues and occurs almost exclusively in diabetic patients 
 - ***Xanthogranulomatous pyelonephritis*** occurs when chronic urinary obstruction (often by staghorn calculi), together with chronic infection, leads to suppurative destruction of renal tissue
+- residual renal tissue frequently has a yellow color- ation, with infiltration by lipid-laden macrophages 
+- complicated by intraparenchymal abscess formation; this development should be suspected when a patient has continued fever and/or bacteremia despite antibacterial therapy 
+## Prostatitis 
+- both infectious and noninfectious abnormalities of the prostate gland. 
+- Infections can be acute or chronic, are almost always bacterial in nature, 
+- Infection less common than the non-infectious entity chronic pelvic pain syndrome (formerly known as chronic prostatitis)
+- Acute bacterial prostatitis presents as dysuria, frequency, and pain in the prostatic pelvic or perineal area 
+- fever, chills ++, symptoms of bladder outlet obstruction maybe present 
+- chronic bacterial prostatitis insidiously as recurrent episodes of cystitis, sometimes with associated pelvic and perineal pain 
+## Complicated UTI 
 - 
