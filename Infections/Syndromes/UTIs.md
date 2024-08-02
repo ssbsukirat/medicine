@@ -95,4 +95,15 @@
 ## Asymptomatic Bacteruria 
 - considered only when the patient does not have local or systemic symptoms referable to the urinary tract 
 - detected incidentally when a patient undergoes a screening urine culture for a reason unrelated to the genitourinary tract 
-- fever, altered mental status, and leukocytosis in the setting of a positive urine culture are nonspecific and do not merit a diag- nosis of symptomatic UTI unless other potential etiologies have been considered 
+- fever, altered mental status, and leukocytosis in the setting of a positive urine culture are nonspecific and do not merit a diagnosis of symptomatic UTI unless other potential etiologies have been considered 
+## Cystitis 
+- dysuria, urinary frequency, and urgency. 
+- Nocturia, hesitancy, suprapubic discomfort, and gross hematuria are often noted
+- Unilateral back or flank pain suggest that the upper urinary tract is involved (inconsistent with uncomplicated cystitis.)
+- Fever likewise suggests invasive infection beyond the bladder, involving kidney, prostate, or bloodstream
+## Pyelonephritis 
+- Mild present as low-grade fever with or without lower-back or costovertebral-angle pain, 
+- severe manifest as high fever, rigors, nausea, vomiting, and flank and/or loin pain
+- generally acute onset 
+- cystitis features maybe absent 
+- fever to 
