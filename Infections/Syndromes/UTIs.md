@@ -91,17 +91,17 @@
 - Adhesins like P fimbriae which react with receptor on renal epithelial cell (P means bind to blood group antigen P containing D-galactose-D-galactose residue)
 - Type 1 pilus (fimbria) present in all E coli strain but expressed by few-- bind to mannose on bladder cells
 # Approach
-- 1st step is define 
-## Asymptomatic Bacteruria 
+## 1st step is define 
+### Asymptomatic Bacteruria 
 - considered only when the patient does not have local or systemic symptoms referable to the urinary tract 
 - detected incidentally when a patient undergoes a screening urine culture for a reason unrelated to the genitourinary tract 
 - fever, altered mental status, and leukocytosis in the setting of a positive urine culture are nonspecific and do not merit a diagnosis of symptomatic UTI unless other potential etiologies have been considered 
-## Cystitis 
+### Cystitis 
 - dysuria, urinary frequency, and urgency. 
 - Nocturia, hesitancy, suprapubic discomfort, and gross hematuria are often noted
 - Unilateral back or flank pain suggest that the upper urinary tract is involved (inconsistent with uncomplicated cystitis.)
 - Fever likewise suggests invasive infection beyond the bladder, involving kidney, prostate, or bloodstream
-## Pyelonephritis 
+### Pyelonephritis 
 - Mild present as low-grade fever with or without lower-back or costovertebral-angle pain, 
 - severe manifest as high fever, rigors, nausea, vomiting, and flank and/or loin pain
 - generally acute onset 
@@ -118,12 +118,16 @@
 - ***Xanthogranulomatous pyelonephritis*** occurs when chronic urinary obstruction (often by staghorn calculi), together with chronic infection, leads to suppurative destruction of renal tissue
 - residual renal tissue frequently has a yellow color- ation, with infiltration by lipid-laden macrophages 
 - complicated by intraparenchymal abscess formation; this development should be suspected when a patient has continued fever and/or bacteremia despite antibacterial therapy 
-## Prostatitis 
+### Prostatitis 
 - both infectious and noninfectious abnormalities of the prostate gland. 
 - Infections can be acute or chronic, are almost always bacterial in nature, 
 - Infection less common than the non-infectious entity chronic pelvic pain syndrome (formerly known as chronic prostatitis)
 - Acute bacterial prostatitis presents as dysuria, frequency, and pain in the prostatic pelvic or perineal area 
 - fever, chills ++, symptoms of bladder outlet obstruction maybe present 
 - chronic bacterial prostatitis insidiously as recurrent episodes of cystitis, sometimes with associated pelvic and perineal pain 
-## Complicated UTI 
+### Complicated UTI 
 - systematic illness with an infectious focus in the urinary tract and frequently occurs in patients with an anatomic predisposition to infection, such as a foreign body in the urinary tract, or with factors predisposing to a delayed response to therapy 
+## Diagnostic 
+### History 
+- high predictive value 
+- 
