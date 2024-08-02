@@ -126,4 +126,4 @@
 - fever, chills ++, symptoms of bladder outlet obstruction maybe present 
 - chronic bacterial prostatitis insidiously as recurrent episodes of cystitis, sometimes with associated pelvic and perineal pain 
 ## Complicated UTI 
-- 
+- systematic illness with an infectious focus in the urinary tract and frequently occurs in patients with an anatomic predisposition to infection, such as a foreign body in the urinary tract, or with factors predisposing to a delayed response to therapy 
