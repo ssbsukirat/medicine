@@ -106,4 +106,14 @@
 - severe manifest as high fever, rigors, nausea, vomiting, and flank and/or loin pain
 - generally acute onset 
 - cystitis features maybe absent 
-- fever to 
+- fever to distinguish vs cystitis 
+- "picket fence" high spiking fever resolving over 72h 
+- in T2DM may have obstructive uropathy due to papillary necrosis 
+- Papillary necrosis also seen in 
+	- obstrucion 
+	- sickle cell 
+	- analgesic nephropathy 
+- B/L papillary necrosis may have rapid rise in serum creatinine 
+- ***Emphysematous pyelonephritis*** is a particularly severe form of the disease that is associated with the production of gas in renal and perinephric tissues and occurs almost exclusively in diabetic patients 
+- ***Xanthogranulomatous pyelonephritis*** occurs when chronic urinary obstruction (often by staghorn calculi), together with chronic infection, leads to suppurative destruction of renal tissue
+- 
