@@ -130,4 +130,16 @@
 ## Diagnostic 
 ### History 
 - high predictive value 
-- 
+- women presenting with at least one symptom of UTI (dysuria, frequency, hematuria, or back pain) and without complicating factors, the probability of acute cystitis or pyelonephritis is 50% 
+- If vaginal discharge and complicating factors are absent and risk factors for UTI are present, then the probability of UTI is close to 90%, and no laboratory evaluation is needed 
+- combination of dysuria and urinary frequency in the absence of vaginal discharge increases the probability of UTI to 96% 
+- dipstick or urine culture is not necessary in such patients before the initiation of definitive therapy 
+- the meta-analysis cited above did not enroll children, adolescents, pregnant women, men, or patients with complicated UTI.
+- One significant concern is that sexually transmitted disease—that caused by Chlamydia trachomatis in particular—may be inappropriately treated as UTI 
+- Differentials of dysuria in young women
+	- Cervicitis (C. trachomatis , Neisseria gonorhoeae)
+	- Vaginitis ( Candida, Trichomonas vaginalis) 
+	- herpetic urethritis 
+	- interstitial cystitis 
+	- non-infectious vaginal or vulvar irritation 
+###
