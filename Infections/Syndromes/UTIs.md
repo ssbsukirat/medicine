@@ -184,4 +184,12 @@
 - 10^5/ml bacteria CFU 
 
 # Treatment
-- 
+- E COLI ST131 is predominant MDR species worldwide
+## Uncomplicated cystitis
+- earlier TMP-SMX was DOC but now rampant resistance and collateral damage means no single best agent today 
+- Collateral damage
+    - adverse ecological effect of antimicrobial therapy 
+    - Includes killing of flora and selecting of drug resistant organisms
+    - So most efficacious drug may not be best for treatment
+    - Pivmecillinam, fosfomycin, nitrofurantoin are good as minimal effect on flora 
+    - Trimethoprim, TMP-SMX quinolones, ampicillin have effect on fecal flora and increase resistance
