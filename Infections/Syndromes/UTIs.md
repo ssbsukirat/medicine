@@ -213,4 +213,23 @@
     - 5 day course 
     - No use in pyelonephritis
 - Fosfomycin
-    - single 3g 
+    - single 3g sachet 
+    - Cell wall formation blocker and bactericidal
+    - Pseudomonas resistance
+    - Klebsiella activity unreliable
+- Flouroquinolones
+     - moxifloxacin doesn't have adequate urine levels 
+     - Ciprofloxacin and levofloxacin can be used 
+     - Resistance is major concern and not just urine but others 
+     - Increase risk of Achilles tendon ruptures >60 age 
+     - Irreversible neuropathy
+     - Aortic dissection
+     - Avoid in acute Cystitis
+- beta lactams
+    - relatively not well performance
+    - Rates of eradication lower and relapse higher 
+    - Fail to eradicate pathogen from vaginal reservoir
+    - Cefpodoxime and cefixime can be used 
+- Urinary analgesic
+    - azopyridine is used but may cause nausea
+    - Urinary antiseptic (methenamine, methylene blue), acidifying agent (na-phosphate) and antispasmodic (hyoscyamine) in combination maybe used 
