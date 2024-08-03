@@ -174,4 +174,10 @@
     - Recurrent UTI
 ## Cystitis in men 
 - collect culture if symptoms of UTI
+- Bacteruria to differentiate acute and chronic bacterial prostatitis from chronic pelvic pain syndrome (not associated with bacteruria)
+- Febrile UTI may have high PSA, enlarged prostate and seminal vesicles -- suggesting prostatic involvement
+- Urinary retention, early recurrent UTIs and hematuria suggest surgically correctible disorders
+- 1st febrile UTI should have USG or CT done 
+- Refer to urologist if unclear diagnosis or recurrent UTI
+## Asymptomatic bacteruria
 - 
