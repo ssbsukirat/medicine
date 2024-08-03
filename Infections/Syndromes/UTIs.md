@@ -161,3 +161,17 @@
     - 10^2 bacteria/ml is UTI in women 
     - 10^3/ml in men is UTI 
     - Maybe contaminated by distal urethra, skin, vagina especially if left at room temperature so must be cooled 
+    - If mixed bacteria usually means contaminated except in catheter, chronic retention, fistula in urinary and gi or genital tract 
+# Diagnostic approach
+## Uncomplicated cystitis in women
+- base of history alone 
+- Urine dipstick if no reliable history or nonspecific symptoms
+- Nitrite or leukocyte esterase positive with symptoms can give empirical therapy
+- If negative dipstick then culture, close follow up and pelvic exam recommended
+- Culture in 
+    - pregnant
+    - Bacterial resistance suspicion
+    - Recurrent UTI
+## Cystitis in men 
+- collect culture if symptoms of UTI
+- 
