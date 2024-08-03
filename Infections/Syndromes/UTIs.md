@@ -185,7 +185,7 @@
 
 # Treatment
 - E COLI ST131 is predominant MDR species worldwide
-## Uncomplicated cystitis
+## Uncomplicated cystitis in women
 - earlier TMP-SMX was DOC but now rampant resistance and collateral damage means no single best agent today 
 - Collateral damage
     - adverse ecological effect of antimicrobial therapy 
@@ -193,3 +193,24 @@
     - So most efficacious drug may not be best for treatment
     - Pivmecillinam, fosfomycin, nitrofurantoin are good as minimal effect on flora 
     - Trimethoprim, TMP-SMX quinolones, ampicillin have effect on fecal flora and increase resistance
+- Use agents with best urinary focus and minimal duration of course 
+- 1st like TMP-SMX and nitrofurantoin
+- 2nd line beta lactams 
+- Avoid flouroquinolones unless no alternative available
+- Fosfomycin maybe used 
+- TMP-SMX
+    - use if resistance<20% 
+    - Prior cultures used to guide therapy
+    - Significance of resistance
+        - longer time to recovery 
+        - Rates of clinical and microbiological failure higher 
+    - Use in uncomplicated UTI in female with close relationship with practitioner so close followup can be done 
+    - 3 day course
+- Nitrofurantoin
+    - low resistance
+    - Against E coli and most others 
+    - Proteus, pseudomonas, serratia, enterobacter and yeasts intrinsically resistant 
+    - 5 day course 
+    - No use in pyelonephritis
+- Fosfomycin
+    - single 3g 
