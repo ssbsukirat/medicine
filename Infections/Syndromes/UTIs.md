@@ -146,3 +146,18 @@
 - point of care tests 
 - Enterobacteriacae only can convert nitrate to nitrite but with frequent voiding like in UTI, maybe negative as well 
 - leukocyte esterase tests for PMNLs both intact and lysed 
+- Either nitrate or leukocyte esterase positive can be taken as UTI 
+- Even blood in urine maybe UTI
+- Negative dipstick not sufficient to rule out bacteruria in pregnancy
+- Microscopy
+    - pyuria in almost all cystitis
+    - Hematuria in 30% 
+    - Nowadays auto analysers used which classify by size shape contrast light scattering and volume
+    - Automatic system may give wrong bacterial counts but correct WBC RBC count
+    - Signs and symptoms more important than analysis
+- Culture
+    - confirmation but need 24 hours 
+    - Maybe cystitis or ASB 
+    - 10^2 bacteria/ml is UTI in women 
+    - 10^3/ml in men is UTI 
+    - Maybe contaminated by distal urethra, skin, vagina especially if left at room temperature so must be cooled 
