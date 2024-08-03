@@ -180,4 +180,8 @@
 - 1st febrile UTI should have USG or CT done 
 - Refer to urologist if unclear diagnosis or recurrent UTI
 ## Asymptomatic bacteruria
+- absent signs and symptoms of UTI
+- 10^5/ml bacteria CFU 
+
+# Treatment
 - 
