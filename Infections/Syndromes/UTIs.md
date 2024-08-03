@@ -143,4 +143,6 @@
 	- interstitial cystitis 
 	- non-infectious vaginal or vulvar irritation 
 ### Dipstick , Urinalysis, Culture 
--
+- point of care tests 
+- Enterobacteriacae only can convert nitrate to nitrite but with frequent voiding like in UTI, maybe negative as well 
+- leukocyte esterase tests for PMNLs both intact and lysed 
