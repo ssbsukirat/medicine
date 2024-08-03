@@ -232,4 +232,10 @@
     - Cefpodoxime and cefixime can be used 
 - Urinary analgesic
     - azopyridine is used but may cause nausea
-    - Urinary antiseptic (methenamine, methylene blue), acidifying agent (na-phosphate) and antispasmodic (hyoscyamine) in combination maybe used 
+    - Urinary antiseptic (methenamine, methylene blue), acidifying agent (na-phosphate) and antispasmodic (hyoscyamine) in combination maybe used
+- Other approaches
+    - no antibiotics approach is inferior
+    - Delayed therapy approach if symptoms don't resolve in 2 days 
+    - Best is to treat to advised duration only 
+## Pyelonephritis
+- 
