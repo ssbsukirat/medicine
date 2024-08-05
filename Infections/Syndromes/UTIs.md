@@ -242,3 +242,11 @@
 - Oral vs IV depends on patient's ability to take orally
 - 7 day oral Ciprofloxacin (500 BD) with/without IV loading with 400 mg dose is effective in outpatient basis
 - Oral TMP-SMX (double strength BD) for 14 days if susceptible organism 
+- If unknown susceptibility and TMP-SMX to be used then give one dose of 1g Ceftriaxone 
+- Oral beta-lactams less effective than flouroquinolones and require close follow up
+- IV (uncomplicated) --> flouroquinolones, extended spectrum cephalosporin +/- aminoglycoside or carbapenem
+- Complicated --> beta lactams with beta lactamase inhibitor (ampicillin-sulbactam, piperacillin-tazobactam) it carbapenem
+## UTI In pregnancy
+- nitrofurantoin, ampicillin, cephalosporin safe 
+- Sulfonamide to be avoided in 1st trimester (teratogenic) and near term (kernicterus)
+- Flouroquinolones avoid due to effect on fetal cartilage development
