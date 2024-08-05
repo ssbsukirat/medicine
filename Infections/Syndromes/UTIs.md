@@ -250,3 +250,20 @@
 - nitrofurantoin, ampicillin, cephalosporin safe 
 - Sulfonamide to be avoided in 1st trimester (teratogenic) and near term (kernicterus)
 - Flouroquinolones avoid due to effect on fetal cartilage development
+- Ampicillin and cephalosporin are DOC for both symptomatic and ASB in pregnancy
+- 4-7 days of therapy needed 
+- Pyelonephritis to be treated with IV beta lactams +/- aminoglycoside
+## UTI IN MEN 
+- Goal to eradicate pathogen from prostate as well since it is mostly involved 
+- Oral TMP-SMX or flouroquinolone for 7-14 days (7 days preferable to avoid resistance)
+- Acute bacterial prostatitis treat after taking blood and urine culture and treat according to culture for 2-4 weeks 
+- chronic bacterial prostatitis 4-6 week course of antibiotics 
+- Recurrence of chronic prostatitis needs 12 week course 
+## Complicated UTI
+- heterogeneous group of patients and pathogens
+- Individual therapy guided by cultures 
+- Xanthogranulomatous pyelonephritis treat with nephrectomy
+- Percutaneous drainage followed by elective nephrectomy in emphysematous pyelonephritis
+- Papillary necrosis needs intervention to relieve obstruction
+## Asymptomatic bacteruria
+- 
