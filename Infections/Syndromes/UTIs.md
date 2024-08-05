@@ -238,4 +238,7 @@
     - Delayed therapy approach if symptoms don't resolve in 2 days 
     - Best is to treat to advised duration only 
 ## Pyelonephritis
-- 
+- Flouroquinolones 1st line therapy in acute uncomplicated pyelonephritis 
+- Oral vs IV depends on patient's ability to take orally
+- 7 day oral Ciprofloxacin (500 BD) with/without IV loading with 400 mg dose is effective in outpatient basis
+- Oral TMP-SMX (double strength BD) for 14 days if susceptible organism 
