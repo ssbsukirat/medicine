@@ -266,4 +266,4 @@
 - Percutaneous drainage followed by elective nephrectomy in emphysematous pyelonephritis
 - Papillary necrosis needs intervention to relieve obstruction
 ## Asymptomatic bacteruria
-- 
+- treatm
