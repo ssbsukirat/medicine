@@ -273,4 +273,4 @@
     - Renal transplant recipients
 - Otherwise treatment is discouraged
 ## Catheter associated UTI
-- CAUTI is bacteruria in a catheterised patient 
+- CAUTI is bacteruria and symptoms in a catheterised patient 
