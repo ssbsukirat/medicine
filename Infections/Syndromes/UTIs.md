@@ -292,4 +292,18 @@
 	- those with underlying diabetes mellitus 
 - >50% of urinary Candida isolates have been found to be non-albicans 
 - presentation varies from a laboratory finding without symptoms to pyelonephritis and even sepsis
-- 
+- removal of catheter resolves CANDIDURIA in 1/3 patients 
+- no need to treat asymptomatic 
+- treat cystitis , pyelonephritis or patients at high risk for disseminated disease 
+- high risk 
+	- neutropenia, 
+	- those who are undergoing urologic manipulation, 
+	- those who are clinically unstable, and 
+	- low-birth-weight infants
+- Fluconazole 200-400mg/day for 7-14 days orally 
+- if resistant , oral flucytosine +/- IV amphotericin B 
+- bladder irrigation with amphoB not recommended 
+# Prevention of recurrent UTI in women 
+- preventive strategy is indicated if recurrent UTIs are interfering with a patient’s lifestyle 
+- threshold of two or more symptomatic episodes per year is not absolute 
+- 3 strat
