@@ -272,5 +272,12 @@
     - Neutropenic patients
     - Renal transplant recipients
 - Otherwise treatment is discouraged
+- Bacteruria > 10^5 CFU/ml 
 ## Catheter associated UTI
 - CAUTI is bacteruria and symptoms in a catheterised patient 
+- signs and symptoms either are localized to the urinary tract or can include otherwise unexplained systemic manifestations, such as fever 
+- bacteruria >10^3 CFU/ml 
+- pain, urgency, dysuria, fever, peripheral leukocytosis, and pyuria, have less predictive value for the diagnosis of infection in catheterized patients 
+- urine culture results are essential to guide treatment 
+- practice of catheter change during treatment for CAUTI as goal is to remove biofilm associated organisms 
+- 
