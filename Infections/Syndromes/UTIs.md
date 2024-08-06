@@ -291,4 +291,5 @@
 	- taking broad-spectrum antimicrobial drugs
 	- those with underlying diabetes mellitus 
 - >50% of urinary Candida isolates have been found to be non-albicans 
+- presentation varies from a laboratory finding without symptoms to pyelonephritis and even sepsis
 - 
