@@ -42,4 +42,19 @@
 	- EEE virus 
 	- echovirus 9 
 	- enterovirus 
-- persistent CSF neu
+- persistent CSF neutrophilia 
+	- bacterial infections 
+	- leptospira 
+	- amebic 
+	- noninfectious like acute hemorrhagic leukoencephalitis 
+- 20% have RBCs without traumatic tap 
+- decreased CSF glucose concentration is distinctly unusual in viral encephalitis and should suggest the possibility of
+	- bacterial, 
+	- fungal, 
+	- tuberculous,
+	- parasitic, 
+	- leptospiral, 
+	- syphilitic, 
+	- sarcoid, or 
+	- neoplastic meningitis 
+- low CSF with mumps, LCMV, advance HSV encephalitis but all very rare 
