@@ -10,3 +10,7 @@
 - hypothalamic-pituitary axis may result in temperature dysregulation, diabetes insipidus, or the development of the syndrome of inappropriate secretion of antidiuretic hormone (SIADH) 
 # Etiology 
 - ![[encephalitisetiology.png]]
+- HSV, VZV, EBV 
+- Epidemics caused by arboviruses like
+	- Alphaviruses (eastern equine encephalitis virus, chikungunya)
+	- Flavivirus ( West )
