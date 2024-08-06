@@ -306,4 +306,16 @@
 # Prevention of recurrent UTI in women 
 - preventive strategy is indicated if recurrent UTIs are interfering with a patient’s lifestyle 
 - threshold of two or more symptomatic episodes per year is not absolute 
-- 3 strat
+- 3 strategies 
+	- Continuous 
+	- Post coital 
+	- patient initiated therapy 
+- Continuous prophylaxis and postcoital prophylaxis usually entail low doses of TMP-SMX or nitrofurantoin. 
+- These regimens are all highly effective during the period of active antibiotic intake 
+- usually for 6 months then stopped but then rate of recurrent UTIs returns 
+- Patient Initiated Therapy 
+	- supplying the patient with materials for urine culture and with a course of antibiotics for self-medication at the first symptoms of infection
+	- urine culture is refrigerated and delivered to the physician’s office for confirmation of the diagnosis 
+	- urine culture can be omitted as long as the symptomatic episodes respond completely to short-course therapy and are not followed by relapse 
+# Prognosis 
+- 
