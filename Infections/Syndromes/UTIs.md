@@ -266,4 +266,11 @@
 - Percutaneous drainage followed by elective nephrectomy in emphysematous pyelonephritis
 - Papillary necrosis needs intervention to relieve obstruction
 ## Asymptomatic bacteruria
-- treatm
+- treatment reduces frequency of symptomatic infection only in 
+    - pregnancy
+    - Undergoing urological surgery
+    - Neutropenic patients
+    - Renal transplant recipients
+- Otherwise treatment is discouraged
+## Catheter associated UTI
+- CAUTI is bacteruria in a catheterised patient 
