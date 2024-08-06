@@ -13,4 +13,19 @@
 - HSV, VZV, EBV 
 - Epidemics caused by arboviruses like
 	- Alphaviruses (eastern equine encephalitis virus, chikungunya)
-	- Flavivirus ( West )
+	- Flavivirus ( West Nile virus, St. Louis encephalitis virus, Japanese encephalitis virus, Powassan virus, Zika)
+	- Bunyaviruses (California encephalitis virus, La Crosse virus, Jamestown Canyon virus)
+- New causes 
+	- Nipah virus in Southeast Asia 
+	- Toscana virus in europe 
+	- ZIka 
+	- chikungunya 
+	- Dengue 
+	- Parechoviruses including human parechovirus 3 (HPeV3) 
+# Laboratory Diagnosis 
+## CSF 
+- in all patients except contraindicated by raised ICP 
+- 20ml ideally , store 5-10ml for future frozen 
+- similar profile to meningitis (viral)
+- ***lymphocytic pleocytosis, elevated protein (mild), normal glucose***
+- 
