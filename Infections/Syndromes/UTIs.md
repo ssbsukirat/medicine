@@ -318,4 +318,7 @@
 	- urine culture is refrigerated and delivered to the physician’s office for confirmation of the diagnosis 
 	- urine culture can be omitted as long as the symptomatic episodes respond completely to short-course therapy and are not followed by relapse 
 # Prognosis 
-- 
+- ASB is common among elderly and catheterized patients but does not in itself increase the risk of death 
+- In the absence of anatomic abnormalities such as reflux, recurrent infection in children and adults does not lead to chronic pyelonephritis or to renal failure 
+- infection does not play a primary role in chronic interstitial nephritis; the primary etiologic factors in this condition are analgesic abuse, obstruction, reflux, and toxin exposure 
+- In the presence of underlying renal abnormalities (particularly obstructing stones), infection as a secondary factor can accelerate renal parenchymal damage 
