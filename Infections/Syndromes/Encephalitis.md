@@ -36,4 +36,10 @@
 	- lymphoreticular malignancies 
 - cells >500/ul in <10% 
 - ***>1000 cells in EEE virus, california encephalitis virus, mumps and Lymphocytic choriomeningitis virus (LCMV)***
-- 
+- ***Atypical lymphocytes in the CSF may be seen in EBV infection*** and less commonly with other viruses, including cytomegalovirus (CMV), HSV, and enteroviruses 
+- Increased numbers of plasmacytoid or Mollaret-like large mononuclear cells have been reported in WNV encephalitis 
+- CSF PMNLs in 
+	- EEE virus 
+	- echovirus 9 
+	- enterovirus 
+- persistent CSF neu
