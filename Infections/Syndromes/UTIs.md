@@ -280,4 +280,15 @@
 - pain, urgency, dysuria, fever, peripheral leukocytosis, and pyuria, have less predictive value for the diagnosis of infection in catheterized patients 
 - urine culture results are essential to guide treatment 
 - practice of catheter change during treatment for CAUTI as goal is to remove biofilm associated organisms 
+- relapse was more common after 3 days of therapy than after 14 days. In general, a 7- to 14-day course of antibiotics is recommended 
+- best strategy for prevention of CAUTI is to avoid insertion of unnecessary catheters and to remove catheters once they are no longer necessary 
+- Antimicrobial catheters impregnated with silver or nitrofurazone have not been shown to provide significant clinical benefit 
+- intermittent catheterization may be preferable to long- term indwelling urethral catheterization in certain populations (e.g., spinal cord–injured persons) to prevent both infectious and anatomic complications 
+## CANDIDURIA 
+- appearance of Candida in the urine is an increasingly common complication of indwelling catheterization, 
+- particularly for patients 
+	- in the intensive care unit
+	- taking broad-spectrum antimicrobial drugs
+	- those with underlying diabetes mellitus 
+- >50% of urinary Candida isolates have been found to be non-albicans 
 - 
