@@ -1,0 +1,2 @@
+- Encephalitis is defined as an inflammation of the brain caused either by infection, usually with a virus, or from a primary autoimmune process
+- 
