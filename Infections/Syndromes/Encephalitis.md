@@ -5,4 +5,8 @@
 - commonly has an altered level of consciousness (confusion, behavioral abnormalities), or a depressed level of consciousness ranging from mild lethargy to coma, and evidence of either focal or diffuse neurologic signs and symptoms.
 - may have hallucinations, agitation, personality change, behavioral disorders, and, at times, a frankly psychotic state. 
 - Focal or generalized seizures occur in many patients
+- the signs and symptoms reflect the sites of infection and inflammation 
+- focal findings are aphasia, ataxia, upper or lower motor neuron patterns of weakness, involuntary movements (e.g., myoclonic jerks, tremor), and cranial nerve deficits (e.g., ocular palsies, facial weakness) 
+- hypothalamic-pituitary axis may result in temperature dysregulation, diabetes insipidus, or the development of the syndrome of inappropriate secretion of antidiuretic hormone (SIADH) 
+# Etiology 
 - 
