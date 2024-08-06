@@ -28,4 +28,12 @@
 - 20ml ideally , store 5-10ml for future frozen 
 - similar profile to meningitis (viral)
 - ***lymphocytic pleocytosis, elevated protein (mild), normal glucose***
+- Pleocytosis (>5 cells/uL) in >95% patient but maybe missing in first sample but seen in subsequent LPs 
+- Failure to mount response in 
+	- severe immunocompromised by HIV 
+	- glucocorticoid use or immunosuppresant drugs 
+	- chemotherapy 
+	- lymphoreticular malignancies 
+- cells >500/ul in <10% 
+- ***>1000 cells in EEE virus, california encephalitis virus, mumps and Lymphocytic choriomeningitis virus (LCMV)***
 - 
