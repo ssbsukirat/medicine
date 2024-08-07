@@ -104,4 +104,21 @@
 - VZV encephalitis
     - multifocal areas of hemorrhagic and ischemic infarct
     - Reflects tendency to produce CNS vasculopathy and not true encephalitis
-- Cmv
+- CMV encephalitis in immunocompromised have enlarged ventricles with areas of increased T2 on MRI outlining the ventricles and subependymal enhancement on T1 post contrast 
+- Cerebellar T2/FLAIR abnormalities in Powassan virus, and EBV, VZV in children..
+## Brain Biopsy
+- only if 
+    - CSF PCR negative
+    - Focal abnormalities on MRI
+    - No serological evidence of autoimmune disease 
+    - Progressive clinical deterioration despite acyclovir and supportive therapy
+# Differential diagnosis
+- mimics like 
+    - TB (Mycobacterium)
+    - Fungal 
+    - Rickettsiae
+    - Listeria 
+    - Mycoplasma
+    - Bartonella
+    - Neurosyphilis
+- Anti
