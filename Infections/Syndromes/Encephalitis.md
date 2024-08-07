@@ -81,4 +81,9 @@
 - Takes too long
 - Not sensitive enough
 ## Serology and Antigen detection
-- 
+- antibody detection less useful which have high seroprevalence in population like HSV, VZV, CMV EBV
+- Low seroprevalence viruses can be demonstrated by seroconversion between acute and convalescent serum (2-4 weeks later) or virus specific IgM
+- VZV and HSV maybe demonstrated by virus specific antibodies in CSF like high IgG index or IgM antibodies 
+- Antibodies less useful in acute management as there is lag period
+- HSV antigen and (glycoprotein antigens) antibodies are seen after 1 weeks which will delay diagnosis
+- Antibo
