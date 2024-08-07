@@ -138,4 +138,8 @@
     - Motile trophozoites on wet mount of fresh warm CSF
 - ***Acanthamoeba, Balamuthia*** -- subacute or chronic granulomatous amebic meningoencephalitis
 - Baylisascaris procyonis (raccoon pinworm)
-    - history of raccoon expos
+    - history of raccoon exposure
+    - Eating dirt or playing with dirt contaminated with raccoon feces 
+    - Children
+    - Eosinophils ++ 
+- after excluding non viral, di
