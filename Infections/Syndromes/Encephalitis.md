@@ -142,4 +142,18 @@
     - Eating dirt or playing with dirt contaminated with raccoon feces 
     - Children
     - Eosinophils ++ 
-- after excluding non viral, di
+- after excluding non viral, differentiate ***HSV vs other viruses***
+    - HSV therapy is available whereas others give supportive therapy
+    - Suspect HSV if inferomedial frontotemporal regions of brain involved
+    - Prominent gustatory or olfactory hallucinations, anosmia 
+    - Unusual or bizarre behaviour or personality alterations 
+    - Memory disturbance all suggest hsv 
+- Rapidly progressive and prominent brainstem signs or neuroimaging abnormal
+    - flavivirus (WNV, St Louis, JE) -- so deep gray matter structure involvement like basal ganglia or thalamus
+    - HSV 
+    - Enteroviruses A71 
+    - Rabies 
+    - Listeria monocytogenes
+- Poliomyelitis like AFM -- 
+    - WNV, EV-A71, EV-D68 
+    - 
