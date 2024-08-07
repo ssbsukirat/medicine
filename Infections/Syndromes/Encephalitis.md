@@ -89,4 +89,10 @@
 - Antibody testing has value if >1 week illness and negative PCR
 - WNV IgM in CSF is Diagnostic (max seropositive on day 7)
 ## MRI CT EEG 
+- focal findings in encephalitis patient should raise concern for HSV encephalitis
+    - areas of ***increased intensity*** in frontotemporal, cingulate or insular regions on T2, FLAIR, Diffusion weighted 
+    - Focal areas of ***low absorption, mass effect and contrast enhancement*** on CT 
+    - Periodic focal temporal lobe spikes on background of slow or low amplitude (flattened activity) on EEG 
+    - 10% may have normal MRI
+    - EEG typical is periodic, stereotypical sharp-and-slow complexes at 2-3s intervals (between days 2)
 - 
