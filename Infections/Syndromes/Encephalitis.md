@@ -131,4 +131,11 @@
     - Onconeural antibodies (anti-hu, Yo, Ma2, amphiphysin, CRMP5, CV2)
     - Thyroglobulin, thyroperoxidase (Hashimotos encephalopathy), prion disease may produce subacute or chronic encephalitis
 - Naegleria fowleri (primary amebic meningoencephalitis), 
-- Acanthamoeba, Balamuthia more typically 
+    - warm iron rich water sources 
+    - drains, canals, natural or man-made pools
+    - Immunocompetent children swimming in infected waters 
+    - CSF similar to bacterial meningitis with neutrophilic pleocytosis and hypoglycorrhachia 
+    - Motile trophozoites on wet mount of fresh warm CSF
+- ***Acanthamoeba, Balamuthia*** -- subacute or chronic granulomatous amebic meningoencephalitis
+- Baylisascaris procyonis (raccoon pinworm)
+    - history of raccoon expos
