@@ -285,7 +285,7 @@
 	* If absence, CT guided percutaneous drainage
 	* Higher risk of abscess in systemic steroid therapy 
 	* 40% have obstruction
-	* Others like massive haemorrhage, male absorption and severe perineal disease
+	* Others like massive haemorrhage, malabsorption and severe perineal disease
 * Serological tests
 	* Anti sachharomyces cerevisiae (ASCA) IN CD 
 	* pANCA in UC 
