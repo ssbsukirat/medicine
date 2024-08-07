@@ -70,4 +70,12 @@
 - Negative >14 days of onset 
 - <7 days of antiviral therapy does not affect PCR report
 - Other than HSV 
-    - 
+    - Enteroviruses PCR is >95 sensitivity and specificity
+    - Parechoviruses may not be identified by Enterovirus PCR
+    - EBV PCR positive is not clear as it maybe due to latent EBV infection in lymphocytes
+    - VZV may have negative PCR but positive PCR so these have complimentary value only
+    - In West Nile virus, CSF IgM better than PCR
+    - In COVID, only true encephalitis have CSF PCR positive but infection related encephalopathy may have nasopharyngeal swab positive
+## CSF culture
+- limited utility of viral 
+- Takes too long
