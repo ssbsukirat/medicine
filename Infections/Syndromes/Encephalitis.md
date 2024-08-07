@@ -86,4 +86,7 @@
 - VZV and HSV maybe demonstrated by virus specific antibodies in CSF like high IgG index or IgM antibodies 
 - Antibodies less useful in acute management as there is lag period
 - HSV antigen and (glycoprotein antigens) antibodies are seen after 1 weeks which will delay diagnosis
-- Antibo
+- Antibody testing has value if >1 week illness and negative PCR
+- WNV IgM in CSF is Diagnostic (max seropositive on day 7)
+## MRI CT EEG 
+- 
