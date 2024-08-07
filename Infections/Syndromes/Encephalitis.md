@@ -94,5 +94,14 @@
     - Focal areas of ***low absorption, mass effect and contrast enhancement*** on CT 
     - Periodic focal temporal lobe spikes on background of slow or low amplitude (flattened activity) on EEG 
     - 10% may have normal MRI
-    - EEG typical is periodic, stereotypical sharp-and-slow complexes at 2-3s intervals (between days 2)
-- 
+    - EEG typical is periodic, stereotypical sharp-and-slow complexes at 2-3s intervals (between days 2-15 of illness)
+- WNV encephalitis has MRI abnormalities in 2/3 
+    - deeper brain structures and not cortex usually
+    - Like thalamus, basal ganglia, brainstem 
+    - Apparent on FLAIR imaging only 
+    - Similar pattern in arbovirus like JE virus, St Louis virus, alphavirus
+    - EEG shows generalised slowing which is anterior predominant 
+- VZV encephalitis
+    - multifocal areas of hemorrhagic and ischemic infarct
+    - Reflects tendency to produce CNS vasculopathy and not true encephalitis
+- Cmv
