@@ -79,3 +79,6 @@
 ## CSF culture
 - limited utility of viral 
 - Takes too long
+- Not sensitive enough
+## Serology and Antigen detection
+- 
