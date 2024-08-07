@@ -165,4 +165,24 @@
     - ***Dumb rabies*** -- paralytic rabies with acute ascending paralysis
     - Bat bite rabies has focal deficit, myoclonus, seizures, hallucinations without phobic spasms
     - CSF lymphocytic pleocytosis
+    - Increased T2 signal abnormal in brainstem, hippocampus, hypothalamus
+    - rabies virus antigen detection in brain tissue or hair follicles at nape of neck 
+    - PCR amplification of CSF, saliva or tears 
+    - Serology negative in 1st week 
+    - No specific therapy
+    - Almost always fatal 
+    - Survivors have devastating neurological sequelae
+
+# treatment
+- specific therapy when appropriate
+- Monitor vitals and support as required 
+- Initially most will need icu care 
+- ICP monitor
+- Fluid restriction
+- Avoid hypotonic solutions
+- Suppress fever 
+- Treat seizures as they occur (prophylaxis maybe considered)
+- Acyclovir
+    - start empirically of viral encephalitis suspected especially if focal seizures
+    - Discontinue of HSV absent except VZV or EBV  
     - 
