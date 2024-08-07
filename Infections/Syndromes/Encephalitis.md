@@ -121,9 +121,14 @@
     - Mycoplasma
     - Bartonella
     - Neurosyphilis
-- Antibodies
-    - NMDA receptor
+- Antibodies (present in serum or CSF)
+    - NMDA receptor (in 25% patients with HSV also so should treat for viral also)
     - VGKC/LGI-1 (voltage gated potassium channel/leucine rich glioma inactivated protein 1 )
     - AMPA 
     - GABA 
     - GAD65 (glutamic acid decarboxylase)
+    - Maybe paraneoplastic 
+    - Onconeural antibodies (anti-hu, Yo, Ma2, amphiphysin, CRMP5, CV2)
+    - Thyroglobulin, thyroperoxidase (Hashimotos encephalopathy), prion disease may produce subacute or chronic encephalitis
+- Naegleria fowleri (primary amebic meningoencephalitis), 
+- Acanthamoeba, Balamuthia more typically 
