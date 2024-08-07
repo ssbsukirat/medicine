@@ -156,4 +156,13 @@
     - Listeria monocytogenes
 - Poliomyelitis like AFM -- 
     - WNV, EV-A71, EV-D68 
+    - Acute onset LMN type weakness with flaccid tone and reduced or absent reflexes 
+    - Preserved sensation relatively
+    - Multisegmental increase FLAIR and T2 in anterior horn cells with CSF lymphocytic pleocytosis
+- RABIES encephalitis
+    - fever, fluctuating consciousness and autonomic hyperactivity
+    - Phobic spasms of larynx, pharynx, neck muscles and diaphragm -- hydrophobia, aerophobia 
+    - ***Dumb rabies*** -- paralytic rabies with acute ascending paralysis
+    - Bat bite rabies has focal deficit, myoclonus, seizures, hallucinations without phobic spasms
+    - CSF lymphocytic pleocytosis
     - 
