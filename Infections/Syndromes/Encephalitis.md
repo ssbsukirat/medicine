@@ -58,3 +58,16 @@
 	- sarcoid, or 
 	- neoplastic meningitis 
 - low CSF with mumps, LCMV, advance HSV encephalitis but all very rare 
+## CSF for PCR 
+- primary Diagnostic tool for HSV, CMV, EBV, HHV6 Enteroviruses
+- VZV 
+    - CSF PCR 
+    - Detection of viral specific IgM 
+    - Intrathecal antibody synthesis 
+- Equivalent sensitivity and specificity for HSV as brain biopsy 
+- Negative test reduces likelihood but does not exclude infection (needs to be done at qualified laboratory, appropriate time during illness, high likelihood of HSV encephalitis )
+- Maybe negative <72h of onset and become positive later 
+- Negative >14 days of onset 
+- <7 days of antiviral therapy does not affect PCR report
+- Other than HSV 
+    - 
