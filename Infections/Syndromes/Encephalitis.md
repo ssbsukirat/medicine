@@ -121,4 +121,9 @@
     - Mycoplasma
     - Bartonella
     - Neurosyphilis
-- Anti
+- Antibodies
+    - NMDA receptor
+    - VGKC/LGI-1 (voltage gated potassium channel/leucine rich glioma inactivated protein 1 )
+    - AMPA 
+    - GABA 
+    - GAD65 (glutamic acid decarboxylase)
