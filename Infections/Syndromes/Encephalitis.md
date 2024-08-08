@@ -185,4 +185,5 @@
 - Acyclovir
     - start empirically of viral encephalitis suspected especially if focal seizures
     - Discontinue of HSV absent except VZV or EBV  
-    - 
+    - Deoxypyrimidine (thymidine) kinase enzyme in HSV, EBV, CMV phosphorylates acyclovir to acyclovir-5-monophosphate which is further converted to triphosphate derivative
+    - Triphosphate derivative acts as antiviral drug by blocking viral DNA polymerase and causes premature termination of viral DNA chains 
