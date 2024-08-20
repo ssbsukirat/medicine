@@ -253,4 +253,6 @@
 - Remdesivir (false nucleotide analogue) & Glucocorticoids useful in COVID 19 encephalitis 
 # Sequelae
 - EEE virus has neurodeficit in 80% 
-- EBV, California encephalitis
+- EBV, California encephalitis, Venezuelan equine encephalitis virus don't cause sequelae usually 
+- 5-15% children with La Crosse virus have residual seizure disorder and 1% have hemiparesis
+- 
