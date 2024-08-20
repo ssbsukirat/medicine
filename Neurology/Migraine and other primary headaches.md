@@ -29,7 +29,7 @@
 -  **ditans, act only at neural and not vascular targets**
 - migraine symptoms can be induced by dopaminergic stimulation.
 - dopamine receptor hypersensitivity in migraineurs,
-- familial h plegic migraine (FHM)
+- familial hemiplegic migraine (FHM)
 - Ca v 2.1 (P/Q)–type voltage-gated calcium channel CACNA1A gene are now known to cause FHM 1
 - Na+-K+ATPase ATP1A2 gene, designated FHM 2,
 - neuronal voltage-gated sodium channel SCN1A cause FHM 3.
