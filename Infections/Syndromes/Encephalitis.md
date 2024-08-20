@@ -243,4 +243,14 @@
     - Hemolysis and Anemia major side effect 
 - WNV encephalitis
     - no specific therapy known 
-    - Interferon alpha, riba
+    - Interferon alpha, ribavarin, Israeli IVIg
+    - IVIg
+        - Israeli
+        - Omr-IgG-am 
+        - High titre anti-wnv antibody against envelope glycoprotein 
+        - Did not improve outcomes but study was flawed 
+    - Vaccines - chimeric, DNA plasmid vaccine, inactivated virus all have been done in phase 1 trials and safe and immunogenic only disease prevention is left to see 
+- Remdesivir (false nucleotide analogue) & Glucocorticoids useful in COVID 19 encephalitis 
+# Sequelae
+- EEE virus has neurodeficit in 80% 
+- EBV, California encephalitis
