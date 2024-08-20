@@ -202,3 +202,15 @@
         - Nausea vomiting diarrhoea
         - Neurotoxicity (lethargy, obtundation, disorientation, confusion, agitation, hallucinations, tremor, seizures)
     - Resistance by DNA polymerase or viral deoxypyrimidine kinase changes 
+- Orals 
+    - HSV, VZV, EBV activity in acyclovir, famciclovir, valacyclovir but no clear evidence
+    - Additional therapy after IV for 21 days has no use 
+- IV Glucocorticoids have unclear value with no RCT available
+- Ganciclovir, foscarnet maybe used in CMV related CNS infection but unproven efficacy
+- Cidofovir in CMV not responding to ganciclovir or foscarnet 
+- Ganciclovir
+    - analogue of 2-deoxyguanosine 
+    - Triphosphate acts as competitive inhibitor of CMV DNA polymerase and causes premature chain termination
+    - 25-70% of serum concentration in CSF
+    - 5mg/kg IV BD over 1 hour infusion as induction followed by 5mg/kg daily indefinitely (maintenance)
+    - Induction done untile CSF cells or CSF CMV DNA levels or quantitative
