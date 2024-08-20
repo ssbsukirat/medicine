@@ -194,4 +194,11 @@
     - Administration concentration should be diluted to <7mg/ml (700mg in 100ml NS) 
     - infusion over 1 hour (no bolus) to minimise renal dysfunction
     - Alkaline pH so may cause local inflammation and phlebitis 
-    - Dose adjustment in ren
+    - Dose adjustment in renal dysfunction
+    - CSF penetration very good (50% of serum levels)
+    - Complications
+        - BUN and creatinine rise in 5% 
+        - Thrombocytopenia
+        - Nausea vomiting diarrhoea
+        - Neurotoxicity (lethargy, obtundation, disorientation, confusion, agitation, hallucinations, tremor, seizures)
+    - Resistance by DNA polymerase or viral deoxypyrimidine kinase changes 
