@@ -228,4 +228,19 @@
     - Fatigue and nausea
     - Reduced calcium, magnesium, potassium in 15% 
 - Cidofovir
-    - 
+    - nucleotide analogue 
+    - CMV retinitis treatment
+    - Limited human data for CNS infection
+    - 5mg/kg once weekly IV for 2 weeks 
+    - followed by Biweekly for 2 or more doses depending on response 
+    - NS prehydration 1L over 1-2h 
+    - Probenecid 1g 3h before and 1g 2h and 8h post dose 
+    - Nephrotoxicity common and dose adjustment needed 
+- IV ribavarin 
+    - 15-25mg/kg/day IV in 3 doses divided
+    - California encephalitis cases 
+    - Maybe useful in adenovirus, rotavirus encephalitis (if severe, especially in children) or LCMV, Arenavirus encephalitis
+    - Hemolysis and Anemia major side effect 
+- WNV encephalitis
+    - no specific therapy known 
+    - Interferon alpha, riba
