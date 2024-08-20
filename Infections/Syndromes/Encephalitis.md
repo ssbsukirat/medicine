@@ -213,4 +213,19 @@
     - Triphosphate acts as competitive inhibitor of CMV DNA polymerase and causes premature chain termination
     - 25-70% of serum concentration in CSF
     - 5mg/kg IV BD over 1 hour infusion as induction followed by 5mg/kg daily indefinitely (maintenance)
-    - Induction done untile CSF cells or CSF CMV DNA levels or quantitative
+    - Induction done untile CSF cells or CSF CMV DNA levels or quantitative PCR declines
+    - Dose adjustment in renal dysfunction
+    - Granulocytopenia and thrombocytopenia are limiting factor (20-25%)
+    - nausea vomiting diarrhoea abdominal pain in 20% 
+    - CMV retinitis treatment has caused retinal detachment in some but unclear relationship
+    - Valganciclovir is oral bioavailable prodrug but limited evidence in CNS infection
+- Foscarnet
+    - pyrophosphate analogue
+    - 15-100% of plasma concentrations in CSF
+    - 60mg/kg IV TID over 1 hour infusion as induction for 14-21 days (guided by CSF pleocytosis, DNA copy number, quantitative PCR)
+    - followed by maintenance 60-120mg/kg/ day 
+    - Reversible renal insufficiency in 1/3 and preventable with hydration
+    - Fatigue and nausea
+    - Reduced calcium, magnesium, potassium in 15% 
+- Cidofovir
+    - 
