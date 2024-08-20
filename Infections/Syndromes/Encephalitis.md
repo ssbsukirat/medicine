@@ -187,3 +187,11 @@
     - Discontinue of HSV absent except VZV or EBV  
     - Deoxypyrimidine (thymidine) kinase enzyme in HSV, EBV, CMV phosphorylates acyclovir to acyclovir-5-monophosphate which is further converted to triphosphate derivative
     - Triphosphate derivative acts as antiviral drug by blocking viral DNA polymerase and causes premature termination of viral DNA chains 
+    - Uninfected cells do not phosphorylate acyclovir to acyclovir-5-monophosphate
+    - Acyclovir triphosphate is more potent inhibitor of viral DNA polymerase than of analogous host cell enzymes
+    - 10mg/kg IV TID in adults for 21 days 
+    - Neonates less responsive so should get 20mg/kg IV TID for 21 days 
+    - Administration concentration should be diluted to <7mg/ml (700mg in 100ml NS) 
+    - infusion over 1 hour (no bolus) to minimise renal dysfunction
+    - Alkaline pH so may cause local inflammation and phlebitis 
+    - Dose adjustment in ren
