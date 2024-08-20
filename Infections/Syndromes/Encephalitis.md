@@ -255,4 +255,13 @@
 - EEE virus has neurodeficit in 80% 
 - EBV, California encephalitis, Venezuelan equine encephalitis virus don't cause sequelae usually 
 - 5-15% children with La Crosse virus have residual seizure disorder and 1% have hemiparesis
-- 
+- acyclovir treated HSV
+    - 46% no or minor sequelae
+    - 12% moerately impaired
+    - 42% severely impaired
+    - Incidence and severity of sequelae directly proportional to age of patient and level of consciousness at time of initial therapy
+    - GCS 6 at initial therapy either died or had severe deficit 
+- WNV 
+    - cognitive impairments
+    - Hyper or hypo kinetic movement
+    - Tremor myoclonus or Parkinson
