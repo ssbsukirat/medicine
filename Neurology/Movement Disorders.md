@@ -29,4 +29,9 @@
     - Appreciated only with accelerometer or under stress 
 - Enhanced physiological tremor
     - in 10% 
-    - Associated with anxiety, fatigue, metabolic disturbance (hyperthyroidism, electrolyte abnormalities)
+    - Associated with anxiety, fatigue, metabolic disturbance (hyperthyroidism, electrolyte abnormalities) or drugs (valproate, lithium) or toxins (caffeine, smoking, alcohol)
+    - Treat by control of underlying disorder
+    - Improve with beta blockers
+## Essential Tremors
+- most common movement Disorder 
+- May occur in childhood by
