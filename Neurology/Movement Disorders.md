@@ -19,6 +19,14 @@
     - Axis 2 -- etiology 
         - acquired vs genetic vs idiopathic
 - PD tremor 
-    - predominant resting tremor
-    - essential tremor (ET) 
-    - Occurs while trying to sustain a posture coupled with action Tremor 
+    - predominant **resting tremor**
+    - essential tremor (ET) Characterized by a tremor occuring while trying to sustain a posture coupled with action Tremor 
+    - Cerebellar dysfunction characterized by ***kinetic tremor*** (when trying to reach an object)
+- Physiological tremor 
+    - normal individuals
+    - Mild high frequency (10-12hz) postural or action Tremor 
+    - Typically in upper extremities
+    - Appreciated only with accelerometer or under stress 
+- Enhanced physiological tremor
+    - in 10% 
+    - Associated with anxiety, fatigue, metabolic disturbance (hyperthyroidism, electrolyte abnormalities)
