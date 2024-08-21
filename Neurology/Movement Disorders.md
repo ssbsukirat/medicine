@@ -34,4 +34,14 @@
     - Improve with beta blockers
 ## Essential Tremors
 - most common movement Disorder 
-- May occur in childhood by
+- May occur in childhood but max prevalence>70 years
+- High frequency tremor (6-10hz) of upper limbs 
+- Postural or action Tremor usually
+- If severe may interfere with eating drinking
+- Bilateral and symmetrical mostly but may begin on one side and remain assymetric 
+- Severe ET may have intention tremor with overshoot and slowness of movement suggesting cerebellar origin 
+- Characteristically improved by alcohol and worsened with stress 
+- Subtle coordination or tandem gait impairment maybe present 
+- Dystonic tremor or PD are differential 
+- PD vs ET 
+    - 
