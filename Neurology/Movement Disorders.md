@@ -15,4 +15,10 @@
         - history (age, family history, temporal evolution)
         - Tremor characteristics (body distribution, activation condition)
         - Associated sign (systeic, neurological)
-        - Laboratory findings (electrophysiology)
+        - Laboratory findings (electrophysiology, imaging)
+    - Axis 2 -- etiology 
+        - acquired vs genetic vs idiopathic
+- PD tremor 
+    - predominant resting tremor
+    - essential tremor (ET) 
+    - Occurs while trying to sustain a posture coupled with action Tremor 
