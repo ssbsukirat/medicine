@@ -2,7 +2,7 @@
 - Inherited or acquired (more common in adults)
 - Acquired due to local tumour, trauma, autoimmune, inflammatory, vascular
 # Developmental causes 
-- midline craniofacial defects 
+- midline craniofacial defects may cause hypoplastic, aplastic or ectopic pituitary
 - Acquired in newborn like birt trauma, cranial hemorrhage, asphyxia, breech delivery
 - Transcription factor, growth factor defects like 
     - HESX1 
@@ -19,4 +19,8 @@
     - FGFR1 
     - SHH 
     - PROKR2 
-    - 
+    - GPR161, IGSF1, PITX2, CHD7 
+- May cause abnormal development of eyes, corpus collosum, vertebrae and genital systems
+- May have combined DI also 
+- PIT1 -- GH, PRL, TSH deficiency leading to growth failure, hypothyroidism 
+- PROP-1 -- required early in pituitary development and for PIT1 Function -- GH PRL TSH & gonadotropin deficiency -- may
