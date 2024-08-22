@@ -2,4 +2,21 @@
 - Inherited or acquired (more common in adults)
 - Acquired due to local tumour, trauma, autoimmune, inflammatory, vascular
 # Developmental causes 
-- 
+- midline craniofacial defects 
+- Acquired in newborn like birt trauma, cranial hemorrhage, asphyxia, breech delivery
+- Transcription factor, growth factor defects like 
+    - HESX1 
+    - SOX2 
+    - SOX3 
+    - LHX3 
+    - LHX4 
+    - OTX 
+    - GLI2 
+    - PAX6 
+    - BMP4 
+    - ARNT2 
+    - FGF8 
+    - FGFR1 
+    - SHH 
+    - PROKR2 
+    - 
