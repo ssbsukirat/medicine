@@ -31,3 +31,21 @@
 - Anosmia or hyposmia due to olfactory bulb agenesis or hypoplasia 
 - Associated with colour blindness, optic atrophy, nerve deafness, cleft palate, renal dysfunction, cryptorchidism, neurological defects like mirror movements
 - Initially X linked gene KAL (impairs neuronal migration from olfactory placode to hypothalamus)
+- AR (GPR54, KISS1)
+- AD (FGFR1)
+- No progress to puberty due to GnRH deficiency
+- Males 
+    - delayed puberty
+    - Hypogonadism like micropenis 
+- Females -- primary amenorrhea and failure of secondary sexual development
+- Low LH, FSH, Estradiol, testosterone
+- Males treat with hCG or testosterone
+- Females treat with cyclical estrogens and progesterone
+- Fertility restoration by gonadotropin or pulsatile subcutaneous GnRH by portable pump 
+## Bardet-Biedl Syndrome
+- rare and genetically heterogeneous
+- Intellectual disability
+- Renal abnormalities
+- Obesity
+- Hexadactyly, bradydactyly or syndactyly 
+- +/- central DI 
