@@ -23,4 +23,11 @@
 - May cause abnormal development of eyes, corpus collosum, vertebrae and genital systems
 - May have combined DI also 
 - PIT1 -- GH, PRL, TSH deficiency leading to growth failure, hypothyroidism 
-- PROP-1 -- required early in pituitary development and for PIT1 Function -- GH PRL TSH & gonadotropin deficiency -- may
+- PROP-1 -- required early in pituitary development and for PIT1 Function -- GH PRL TSH & gonadotropin deficiency -- may not enter puberty spontaneously
+# Hypothalamic pituitary dysfunction
+- can affect temperature regulation, Appetite, sleep wake cycle, autonomic systems, behaviour, memory and endocrine systems 
+## Kallmann Syndrome
+- defective GnRH synthesis
+- Anosmia or hyposmia due to olfactory bulb agenesis or hypoplasia 
+- Associated with colour blindness, optic atrophy, nerve deafness, cleft palate, renal dysfunction, cryptorchidism, neurological defects like mirror movements
+- Initially X linked gene KAL (impairs neuronal migration from olfactory placode to hypothalamus)
