@@ -49,3 +49,11 @@
 - Obesity
 - Hexadactyly, bradydactyly or syndactyly 
 - +/- central DI 
+- Retinal degeneration in early childhood and most blind by 30 years age 
+- GnRH deficiency in 75% males and 50% females
+## Leptin and leptin receptor mutations
+- hyperphagia
+- Obesity
+- Central hypogonadism
+- Wide spectrum
+- Attenuated pituitary
