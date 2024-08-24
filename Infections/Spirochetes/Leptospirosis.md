@@ -8,3 +8,16 @@
 - order Spirochaetales 
 - Family Leptospiraceae 
 - Coiled thin highly motile organisms 
+- Hooked ends and 2 periplasmic flagella 
+- 6-20um long and 0.2um diameter
+- Stain poorly but seen with dark field examination
+- Earlier 2 species (L. interrogans and L. biflexa)
+- Now 64 species identifed (17 pathogenic, 21 intermediate)
+- Now classified on basis of serovars according to antigenic group (260 serovars in 26 subgroups)
+# Epidemiology
+- tropics and subtropics mainly 
+- Tropical climate and poor hygiene allow survival and distribution of pathogen 
+- 1 million cases a year and 10% case fatality rate 
+- Zoonosis
+    - almost all mammalian species and are veterinary burden 
+    - Rodents like rats most important r
