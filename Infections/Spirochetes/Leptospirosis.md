@@ -74,3 +74,12 @@
  - Consumptive coagulopathy may develop (thrombin-antithrombin complexes, D dimers with reduced anticoagulant like antithrombin, protein C)
  - DIC maybe seen 
  - Endothelial cell activation (soluble E selectin and von Wilebrand factor elevated)
+ - Double membrane wall structure
+     - high number of lipoproteins
+     - LPS in outer membrane has low endotoxic potency 
+     - Host immunity depends on antibodies to LPS 
+
+# Clinical
+- majority mild with sudden onset febrile illness 
+- IP 2-30 days (usually 1-2 weeks )
+- 
