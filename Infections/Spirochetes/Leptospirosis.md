@@ -56,3 +56,9 @@
     - leptospires disappear from blood 
     - Present in liver lung kidney heart and brain 
 - Multiple system involvement in severe disease
+- Renal 
+    - both **acute interstitial nephritis** and 
+    - **tubular damage** which progress to
+        - **interstitial edema** 
+        - **Acute tubular necrosis**
+    - **Severe nephritis** in patients who survive as a **secondary response to acute epithelial damage** 
