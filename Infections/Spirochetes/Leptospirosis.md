@@ -51,3 +51,8 @@
 - Entry -- highly motile organisms enter-- cross tissue barriers -- hematogenous spread to organs (maybe isolated from blood in this stage)
 - Able to evade immune response like complement mediated killing and phagocytosis
 - Exaggerated proinflammatory immune response maybe associated with mortality 
+- Immune phase --
+    - antibodies+ but 
+    - leptospires disappear from blood 
+    - Present in liver lung kidney heart and brain 
+- Multiple system involvement in severe disease
