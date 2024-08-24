@@ -22,4 +22,9 @@
     - almost all mammalian species and are veterinary burden 
     - ***Rodents like rats most important reservoir***
     - Also in domestic and farm animals 
-    - Symbiotic relationship with host and may persist in urogenital tract for year 
+    - Symbiotic relationship with host and may persist in urogenital tract for years 
+    - Icterohaemorrhagiae and Copenhageni with rats 
+    - Grippotyphosa with voles 
+    - Hardjo with cattle 
+    - Canicola with dogs 
+    - 
