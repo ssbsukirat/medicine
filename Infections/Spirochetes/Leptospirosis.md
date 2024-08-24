@@ -62,3 +62,9 @@
         - **interstitial edema** 
         - **Acute tubular necrosis**
     - **Severe nephritis** in patients who survive as a **secondary response to acute epithelial damage** 
+    - Transporter expression defects lead to **impaired sodium absorption, polyuria, tubular K wasting**
+- Liver -- 
+    - focal necrosis, foci of inflammation, plugging of bile canaliculi 
+    - Widespread hepatocellular necrosis usually not seen 
+    - Apoptosis maybe seen 
+    - May infiltrate Disse space (pericanalicular space) and disrup causing bile leak 
