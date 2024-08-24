@@ -68,3 +68,8 @@
     - Widespread hepatocellular necrosis usually not seen 
     - Apoptosis maybe seen 
     - May infiltrate Disse space (pericanalicular space) and disrup causing bile leak 
+- Petechiae and hemorrhage in heart lungs kidneys pancreas liver GI tract adrenals muscles prostate testes brain 
+- Hemorrhage associated with thrombocytopenia 
+     - consumption of platelet
+ - Consumptive coagulopathy may develop (thrombin-antithrombin complexes, D dimers with reduced anticoagulant like antithrombin, protein C)
+ - DIC maybe seen 
