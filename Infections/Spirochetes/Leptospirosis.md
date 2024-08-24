@@ -35,3 +35,12 @@
     - Human to human transmission may occur
     - Water is important as survives in humid environment -- floods oftenresponsible for outbreaks but may occur without flood also 
 - Most infections cause no or mild disease
+- 1% have severe complications
+- Occupational high risks 
+    - veterinarian
+    - Agricultural
+    - Sewage 
+    - Slaughterhouse
+    - fishing industry
+- Mainly recreational exposure and domestic animal contact are sources 
+- After sports events or swimming in lake
