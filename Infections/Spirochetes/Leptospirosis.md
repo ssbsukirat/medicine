@@ -73,3 +73,4 @@
      - consumption of platelet
  - Consumptive coagulopathy may develop (thrombin-antithrombin complexes, D dimers with reduced anticoagulant like antithrombin, protein C)
  - DIC maybe seen 
+ - Endothelial cell activation (soluble E selectin and von Wilebrand factor elevated)
