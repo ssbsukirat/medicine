@@ -43,4 +43,11 @@
     - Slaughterhouse
     - fishing industry
 - Mainly recreational exposure and domestic animal contact are sources 
-- After sports events or swimming in lake
+- After sports events or swimming in lakes 
+- Travelers disease
+    - travel to tropical countries and adventurous activities
+# Pathogenesis
+- cuts, abraded skin, mucosal membrane like conjunctival and oral mucosa 
+- Entry -- highly motile organisms enter-- cross tissue barriers -- hematogenous spread to organs (maybe isolated from blood in this stage)
+- Able to evade immune response like complement mediated killing and phagocytosis
+- Exaggerated proinflammatory immune response maybe associated with mortality 
