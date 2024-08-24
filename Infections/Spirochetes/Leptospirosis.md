@@ -20,4 +20,6 @@
 - 1 million cases a year and 10% case fatality rate 
 - Zoonosis
     - almost all mammalian species and are veterinary burden 
-    - Rodents like rats most important r
+    - ***Rodents like rats most important reservoir***
+    - Also in domestic and farm animals 
+    - Symbiotic relationship with host and may persist in urogenital tract for year 
