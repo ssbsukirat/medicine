@@ -27,4 +27,11 @@
     - Grippotyphosa with voles 
     - Hardjo with cattle 
     - Canicola with dogs 
-    - 
+    - Pomona with pigs 
+- Both endemic and epidemic 
+- Transmission by 
+    - Direct contact with urine, blood or tissue if infected animal 
+    - Exposure to environmental contamintion (more common)
+    - Human to human transmission may occur
+    - Water is important as survives in humid environment -- floods oftenresponsible for outbreaks but may occur without flood also 
+- Most infections cause no or mild disease
