@@ -12,4 +12,6 @@
         - 1st year high risk for valves 
         - Bioprosthetic higher risk than mechanical
 # Etiology
-- staphylococcus aureus most com
+- staphylococcus aureus most common
+- Oral, skin, upper respiratory tract source of viridans streptococci, staphylococcus, HACEK organisms (Haemophilus, Aggregatibacter, Cardiobacterium hominis, Eikenella corrodens, Kingella kingae)
+- Streptococcus gallolyticus from GI tract and associated with polyp and tumours
