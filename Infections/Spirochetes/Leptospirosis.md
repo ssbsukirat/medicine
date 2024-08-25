@@ -82,4 +82,14 @@
 # Clinical
 - majority mild with sudden onset febrile illness 
 - IP 2-30 days (usually 1-2 weeks )
-- 
+- classically biphasic 
+    - ***acute leptospiremic phase*** with fever of 3-10 days where leptospira can be isolated on blood culture and PCR
+    - ***Immune phase*** where resolution of symptoms, antibodies detectable and culture from urine 
+    - Distinction between phase not clear always
+    - Milder disease doens't have 2nd phase
+    - Severe disease maybe fulminant and monophasic
+- Mild Leptospirosis
+    - asymptomatic or mildly ill 
+    - ***Flu-like illness of sudden onset*** with fever, chills, headache, nausea, vomiting, abdominal pain, conjunctival insufflation (redness without exudate) myalgias 
+    - Myalgia is intense involving calves, back and abdomen 
+    - Headache intense and 
