@@ -1,1 +1,15 @@
-- 
+- Vegetation is prototype lesion made of ***platelets, fibrin, microorganisms, scant inflammatory cells***
+- Most commonly in heart valves but may involve lower pressure side of VSD, intracardiac devices, mural endocardium damaged by jets of blood or foreign body
+- If similar process in AV, AA shunts or coarctation of aorta aka **Infective Endarteritis** 
+- Acute IE is rapid damage to cardiac structure, involves extracardiac sites and death if untreated in weeks 
+- Subacute is indolent course 
+- Predisposing
+    - congenital heart defects
+    - Chronic rheumatic heart disease
+    - Injection drug abuse 
+    - Degenerative valve disease 
+    - Intracardiac devices 
+        - 1st year high risk for valves 
+        - Bioprosthetic higher risk than mechanical
+# Etiology
+- staphylococcus aureus most com
