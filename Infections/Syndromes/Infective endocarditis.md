@@ -14,4 +14,14 @@
 # Etiology
 - staphylococcus aureus most common
 - Oral, skin, upper respiratory tract source of viridans streptococci, staphylococcus, HACEK organisms (Haemophilus, Aggregatibacter, Cardiobacterium hominis, Eikenella corrodens, Kingella kingae)
-- Streptococcus gallolyticus from GI tract and associated with polyp and tumours
+- Streptococcus gallolyticus from GI tract and associated with polyp and tumours in colon 
+- Enterococci from GU tract
+- Healthcare onset mostly by S. aureus, CoNS, Enterococci
+- Prosthetic valve endocarditis
+    - in 2 months -- early, nosocomial, S aures, CoNS , G negative bacilli, diphtheria, fungus
+    - >12 months are like community acquired
+    - TAVR-PVE (transcatheter implanted aortic valve )have more Enterococci
+    - CIED-IE (Cardiovascular implantable electronic devices) involve device or endothelium at point of contact while some have concurrent aortic or mitral involvement max with S aureus or CoNS 
+- IV drug users 
+    - tricuspid valve by S aureus (methicillin resistance) 
+    - Left sided have
