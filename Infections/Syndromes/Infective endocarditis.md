@@ -24,4 +24,5 @@
     - CIED-IE (Cardiovascular implantable electronic devices) involve device or endothelium at point of contact while some have concurrent aortic or mitral involvement max with S aureus or CoNS 
 - IV drug users 
     - tricuspid valve by S aureus (methicillin resistance) 
-    - Left sided have
+    - Left sided have varied etiology
+    - Enterobacterales , Pseudomonas, Candida, unusual organisms like bacillus, lactobacillus, Corynebacterium
