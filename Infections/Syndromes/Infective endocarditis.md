@@ -40,4 +40,5 @@
 - Endothelial injury 
     - direct infection or
     - Platelet-fibrin thrombus aka ***NBTE (nonbacterial thrombotic endocarditis)***
-    - NBTE acts as site of bacterial attachment during bacteremia
+    - NBTE acts as site of bacterial attachment during transient bacteremia
+    - NBTE seen in MR, AS, AR, VSD, Complex CHD 
