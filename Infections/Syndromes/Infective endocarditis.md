@@ -36,3 +36,4 @@
     - Mycobacterium chimaera causes prosthetic valve endocarditis
     - Atrial myxoma, marantic endocarditis, APLA may mimic culture negative IE
 # Pathogenesis 
+- undamaged epithelium resistant to infection by most bacteri
