@@ -26,3 +26,13 @@
     - tricuspid valve by S aureus (methicillin resistance) 
     - Left sided have varied etiology
     - Enterobacterales , Pseudomonas, Candida, unusual organisms like bacillus, lactobacillus, Corynebacterium
+- Culture negative
+    - 5-15% negative culture
+    - 1/3-1/2 of negative culture due to prior antibiotic exposure
+    - Others by fastidious organism like some streptococci, nutritionally variant bacteria like Granulicatella & Abootrophia , HACEK, Coxiella burnetti, Bartonella
+    - Tropheryma whipplei causes indolent culture negative IE 
+    - Coxiella burnetti in prosthetic valve
+    - Corynebacterium and Propionibacterium involve intracardiac devices
+    - Mycobacterium chimaera causes prosthetic valve endocarditis
+    - Atrial myxoma, marantic endocarditis, APLA may mimic culture negative IE
+# Pathogenesis 
