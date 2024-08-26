@@ -36,4 +36,8 @@
     - Mycobacterium chimaera causes prosthetic valve endocarditis
     - Atrial myxoma, marantic endocarditis, APLA may mimic culture negative IE
 # Pathogenesis 
-- undamaged epithelium resistant to infection by most bacteri
+- undamaged epithelium resistant to infection by most bacteria
+- Endothelial injury 
+    - direct infection or
+    - Platelet-fibrin thrombus aka ***NBTE (nonbacterial thrombotic endocarditis)***
+    - NBTE acts as site of bacterial attachment during bacteremia
