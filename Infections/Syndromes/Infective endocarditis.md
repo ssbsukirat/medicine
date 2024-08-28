@@ -165,4 +165,21 @@
     - Other imaging in 
         - anatomical confirmation is unclear
         - TEE is not confirmatory
-        - 
+        - Negative TEE if IE is likely -- repeat after 7-10 days 
+    - TEE can be augmented with 3-D TEE for 
+        - PVE, 
+        - CIED-IE 
+        - Intracardiac fistulae
+        - Intracardiac abcess
+        - Valve perforations
+    - Other imaging in 
+        - anatomical confirmation is unclear
+        - TEE is not confirmatory
+        - Suspected PVE 
+    - ECG-gated cardiac CT angiography superior to tee for paravalvular infection
+    - 18FDG PET-CT increases sensitivity in
+        - suspected PVE or TAVR-PVE
+        - Ascending aorta graft infection
+        - Extracardiac complications
+        - CIED pocket infection
+- Indications for echo in monomicrobial positive culture  
