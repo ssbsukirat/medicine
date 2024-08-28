@@ -106,4 +106,7 @@
 - Healthcare associated IE has typical features unless 
     - intracardiac devices
     - Masked by concurrent illness
-- CIE
+- CIED-E associated with
+    - obvious (<6 months) or cryptic generator pocket infection 
+    - Bacteremic seeding without pocket infection
+- 
