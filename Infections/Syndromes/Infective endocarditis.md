@@ -146,4 +146,6 @@
     - If vegetation recovered by surgery or embolectomy, culture and HPE with special stains to identify 
     - Save vegetation sample for PCR techniques for organism specific or broad 16s/28s RNA primers (28s RNA for fungal suspect)
     - molecular testing useful if histopathology consistent with IE but no viable bacteria left for culture positive 
-    - Next generation shotgun metagenomic 
+    - **Next generation shotgun metagenomic sequence of pathogenic DNA is novel technique**
+- Cardiac imaging
+    - 
