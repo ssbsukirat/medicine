@@ -1,5 +1,5 @@
 - Vegetation is prototype lesion made of ***platelets, fibrin, microorganisms, scant inflammatory cells***
-- Most commonly in heart valves but may involve lower pressure side of VSD, intracardiac devices, mural endocardium damaged by jets of blood or foreign body
+ - Most commonly in heart valves but may involve lower pressure side of VSD, intracardiac devices, mural endocardium damaged by jets of blood or foreign body
 - If similar process in AV, AA shunts or coarctation of aorta aka **Infective Endarteritis** 
 - Acute IE is rapid damage to cardiac structure, involves extracardiac sites and death if untreated in weeks 
 - Subacute is indolent course 
@@ -46,3 +46,22 @@
         - Bland vegetation complicating SLE and APLA 
 - Colonisation
     - body surface or sites of infection are source of organisms
+# Clinical
+- variable course 
+- Depends on causative agent
+- Acute -- high grade fever >103-104 
+    - beta hemolytic streptococcus
+    - S aureus
+    - Pneumococcal
+    - Staphylococcus lugdunensis (CoNS)
+    - Enterococci
+- Subacute -- low grade fever <103 
+    - S aureus sometime
+    - Viridans streptococci
+    - Enterococci 
+    - CoNS 
+    - HACEK 
+- Indolent by Bartonella, T whipplei, Coxiella burnetti, M chimaera 
+## Cardiac Manifestation
+- murmurs usually reflect underlying predisposing cardiac pathology
+- Valvular damage and rupture of chordae m
