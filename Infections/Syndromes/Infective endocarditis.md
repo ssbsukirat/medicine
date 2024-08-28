@@ -142,4 +142,6 @@
     - Withhold empirical therapy till culture results in subacute IE with hemodynamically and clinically stable patients, especially if received antibiotics in 2 weeks prior (allows additional culture if needed)
     - Sepsis or hemodynamically unstable or needing surgery give antibiotics after drawing cultures 
 - Non blood culture tests
-    - for organism's difficult to culture like Brucella, Bartonella, t whipplei, Coxiella
+    - for organism's difficult to culture like Brucella, Bartonella, t whipplei, Coxiella, **serological tests can be used** 
+    - If vegetation recovered by surgery or embolectomy, culture and HPE with special stains to identify 
+    - Save vegetation sample for PCR techniques
