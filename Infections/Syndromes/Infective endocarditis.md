@@ -86,9 +86,9 @@
 - Arterial emboli in 50% (usually 50% of these seen before diagnosis also) causes 
     - regional pain 
     - Ischemic damage to kidney, spleen, bowel, extremity 
-    - Cerebrovascular e
+    - Cerebrovascular emboli as stroke or encephalopathy in 15-35% and asymptomatic in upto 30-60% (left sided ie)
 - Embolization risk 
     - staphylococcus aureus
     - Vegetation>10mm 
     - Infection of anterior leaflet of mitral valve
-    - 
+- 
