@@ -149,4 +149,7 @@
     - **Next generation shotgun metagenomic sequence of pathogenic DNA is novel technique**
 - Cardiac imaging
     - Transthoracic Echocardiogram (TTE) is specific in most but inadequate in 20% 
-    - TTE may miss vegetation in 20-35% conf
+    - TTE may miss vegetation in 20-35% confirmed IE, especially<2mm size 
+    - TTE not optimal in 
+        - prosthetic valve
+        - TAVR with large 
