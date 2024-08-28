@@ -155,4 +155,9 @@
         - TAVR with large stents 
         - Intracardiac complications
     - TEE may give false negative in 6-18% confirmed cases especially TAVR-PVE 
-    - Negative TEE if IE is likely
+    - Negative TEE if IE is likely -- repeat after 7-10 days 
+    - TEE can be augmented with 3-D TEE for 
+        - PVE, 
+        - CIED-IE 
+        - Intracardiac fistulae
+        - Intracardiac
