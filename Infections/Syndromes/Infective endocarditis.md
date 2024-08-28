@@ -183,3 +183,5 @@
         - Extracardiac complications
         - CIED pocket infection
 - Indications for echo in monomicrobial positive culture  
+    - ![[IEneedforecho.PNG]] 
+- 
