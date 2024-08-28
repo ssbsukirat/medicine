@@ -119,4 +119,6 @@
 # Diagnosis
 ## Duke criteria
 - definite diagnosis only by histological and microbiological exam of vegetation
+- Dukes criteria is sensitive and specific diagnostic scheme 
+- Definite IE 
 - 
