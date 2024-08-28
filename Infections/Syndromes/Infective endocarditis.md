@@ -109,4 +109,8 @@
 - CIED-E associated with
     - obvious (<6 months) or cryptic generator pocket infection 
     - Bacteremic seeding without pocket infection
-- 
+- TAVR-PVE and late onset PVE typical features
+- Early PVE symptoms masked by recent surgery
+- PVE (Both early and late) has paravalvular infection
+    - partial valve dehiscence
+    - 
