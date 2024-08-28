@@ -121,4 +121,9 @@
 - definite diagnosis only by histological and microbiological exam of vegetation
 - Dukes criteria is sensitive and specific diagnostic scheme 
 - Definite IE 
-- 
+    - 2 major or 
+    - 1 major + 3 minor 
+    - 5 minor 
+- Reject IE diagnosis if 
+    - alternate diagnosis established
+    - Symptoms resolve and do not review l
