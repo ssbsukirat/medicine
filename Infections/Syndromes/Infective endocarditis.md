@@ -137,4 +137,6 @@
 - Blood culture
     - proper technique (not received antibiotics for 2 weeks)
         - 3 2-bottle culture sets (10ml blood per bottle) from different sites over 1-2 hours 
-        - If negative for 48-72 hours repeat with 2-3 more fultire
+        - If negative for 48-72 hours repeat with 2-3 more culture sets 
+        - Consult laboratory for proper culture techniques 
+    - Withhold empirical therapy till culture results in subacute IE with hemodynamically stable patients
