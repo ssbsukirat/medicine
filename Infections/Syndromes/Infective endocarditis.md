@@ -154,3 +154,5 @@
         - prosthetic valve
         - TAVR with large stents 
         - Intracardiac complications
+    - TEE may give false negative in 6-18% confirmed cases especially TAVR-PVE 
+    - Negative TEE if IE is likely
