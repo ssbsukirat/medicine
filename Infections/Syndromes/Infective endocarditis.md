@@ -144,4 +144,5 @@
 - Non blood culture tests
     - for organism's difficult to culture like Brucella, Bartonella, t whipplei, Coxiella, **serological tests can be used** 
     - If vegetation recovered by surgery or embolectomy, culture and HPE with special stains to identify 
-    - Save vegetation sample for PCR techniques
+    - Save vegetation sample for PCR techniques for organism specific or broad 16s/28s RNA primers (28s RNA for fungal suspect)
+    - 
