@@ -99,4 +99,7 @@
 ## Specific manifestation
 - septic pulmonary emboli
     - tricuspid IE 
-    - Cough, pleuritic chest pain, nodular pulmonary
+    - Cough, pleuritic chest pain, nodular pulmonary infiltrate 
+    - Occasionally empyema or pneumothorax
+- Tricuspid IE rarely has peripheral manifestation
+- Aortic valve or mitral 
