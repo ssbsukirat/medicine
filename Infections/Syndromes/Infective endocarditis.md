@@ -139,4 +139,4 @@
         - 3 2-bottle culture sets (10ml blood per bottle) from different sites over 1-2 hours 
         - If negative for 48-72 hours repeat with 2-3 more culture sets 
         - Consult laboratory for proper culture techniques 
-    - Withhold empirical therapy till culture results in subacute IE with hemodynamically stable patients
+    - Withhold empirical therapy till culture results in subacute IE with hemodynamically and clinically stable patients, especially if received antibiotics in 2 weeks prior (allows additional culture if needed)
