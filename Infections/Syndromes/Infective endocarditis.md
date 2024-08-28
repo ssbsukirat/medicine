@@ -102,4 +102,8 @@
     - Cough, pleuritic chest pain, nodular pulmonary infiltrate 
     - Occasionally empyema or pneumothorax
 - Tricuspid IE rarely has peripheral manifestation
-- Aortic valve or mitral 
+- Aortic valve or mitral valve IE has typical features with peripheral manifestation
+- Healthcare associated IE has typical features unless 
+    - intracardiac devices
+    - Masked by concurrent illness
+- CIE
