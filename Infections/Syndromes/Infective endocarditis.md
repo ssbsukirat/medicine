@@ -135,4 +135,6 @@
 - blood culture needs to be multiple positive, and have bacterial species that can cause both IE and non IE related bacteremia unexplained by other sources of infection 
 - Diphtheroids and CoNS must be isolated multiple times as they contaminate cultures 
 - Blood culture
-    - proper technique 
+    - proper technique (not received antibiotics for 2 weeks)
+        - 3 2-bottle culture sets (10ml blood per bottle) from different sites over 1-2 hours 
+        - If negative for 48-72 hours repeat with 2-3 more fultire
