@@ -64,4 +64,12 @@
 - Indolent by Bartonella, T whipplei, Coxiella burnetti, M chimaera 
 ## Cardiac Manifestation
 - murmurs usually reflect underlying predisposing cardiac pathology
-- Valvular damage and rupture of chordae m
+- Valvular damage and rupture of chordae may cause new regurgitation murmurs
+- 85% have murmurs
+- CHF (due to valve dysfunction or intracardiac fistulae) in 30-40% 
+- Extension of leaflet infection into annular or myocardium may cause intracardiac fistulae
+- **Aortic paravalvular infection may extend to upper ventricular septum -- interrupt conducting system -- heart block** 
+- Mitral paravalvular abcess rarely causes 
+- Coronary artery emboli leading to MI in 2% 
+## Non cardiac manifestation
+- 
