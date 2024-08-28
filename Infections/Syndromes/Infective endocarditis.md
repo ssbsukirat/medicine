@@ -160,4 +160,7 @@
         - PVE, 
         - CIED-IE 
         - Intracardiac fistulae
-        - Intracardiac
+        - Intracardiac abcess
+        - Valve perforations
+    - Other imaging in 
+        - 
