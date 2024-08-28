@@ -135,4 +135,4 @@
 - blood culture needs to be multiple positive, and have bacterial species that can cause both IE and non IE related bacteremia unexplained by other sources of infection 
 - Diphtheroids and CoNS must be isolated multiple times as they contaminate cultures 
 - Blood culture
-    - 
+    - proper technique 
