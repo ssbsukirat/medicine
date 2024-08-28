@@ -72,4 +72,8 @@
 - Mitral paravalvular abcess rarely causes 
 - Coronary artery emboli leading to MI in 2% 
 ## Non cardiac manifestation
-- 
+- Non suppurative like Janeway lesions in subacute are related to prolonged infection have reduced due to antibiotic therapy
+- Septic embolization related more common in acute 
+    - subungual hemorrhage
+    - Oslers node 
+- Musculoskeletal pain usually resolves (differential is metastatic infection like Spondylodiscitis )
