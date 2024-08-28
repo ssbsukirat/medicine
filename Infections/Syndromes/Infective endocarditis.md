@@ -152,4 +152,5 @@
     - TTE may miss vegetation in 20-35% confirmed IE, especially<2mm size 
     - TTE not optimal in 
         - prosthetic valve
-        - TAVR with large 
+        - TAVR with large stents 
+        - Intracardiac complications
