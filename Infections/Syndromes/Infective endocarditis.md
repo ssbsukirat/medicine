@@ -130,4 +130,6 @@
     - Surgery or autopsy after <4 days of antibiotics does not establish histological evidence 
 - Possible IE
     - 1 major and 1 minor or
-    - 3 min
+    - 3 minor 
+- Treat both possible and definite as IE 
+- 
