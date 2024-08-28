@@ -76,4 +76,19 @@
 - Septic embolization related more common in acute 
     - subungual hemorrhage
     - Oslers node 
-- Musculoskeletal pain usually resolves (differential is metastatic infection like Spondylodiscitis )
+- Musculoskeletal pain usually resolves (differential is metastatic infection like Spondylodiscitis in 10-15%)
+- Hematogenous spread to
+    - skin 
+    - Spleen 
+    - Kidney 
+    - Skeletal system
+    - Meninges 
+- Arterial emboli in 50% (usually 50% of these seen before diagnosis also) causes 
+    - regional pain 
+    - Ischemic damage to kidney, spleen, bowel, extremity 
+    - Cerebrovascular e
+- Embolization risk 
+    - staphylococcus aureus
+    - Vegetation>10mm 
+    - Infection of anterior leaflet of mitral valve
+    - 
