@@ -93,4 +93,8 @@
     - Infection of anterior leaflet of mitral valve
 - Neurological sequelae
     - aseptic or purulent meningitis
-    - ICH due to hemorrhagic infarct or mycotic aneurysm rupture (focal dilatation of arteries at point of weakness due to infection of Vasa vasorum or )
+    - ICH due to hemorrhagic infarct or ***mycotic aneurysm rupture (focal dilatation of arteries at point of weakness due to infection of Vasa vasorum or emboli)***
+    - Microabcess
+- ***Hypocomplimentemic glomerulonephritis*** due to immune complex deposition on glomerular basement membrane
+## Specific manifestation
+- 
