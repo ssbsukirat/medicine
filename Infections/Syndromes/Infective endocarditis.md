@@ -140,3 +140,6 @@
         - If negative for 48-72 hours repeat with 2-3 more culture sets 
         - Consult laboratory for proper culture techniques 
     - Withhold empirical therapy till culture results in subacute IE with hemodynamically and clinically stable patients, especially if received antibiotics in 2 weeks prior (allows additional culture if needed)
+    - Sepsis or hemodynamically unstable or needing surgery give antibiotics after drawing cultures 
+- Non blood culture tests
+    - for organism's difficult to culture like Brucella, Bartonella, t whipplei, Coxiella
