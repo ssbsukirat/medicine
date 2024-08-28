@@ -97,4 +97,6 @@
     - Microabcess
 - ***Hypocomplimentemic glomerulonephritis*** due to immune complex deposition on glomerular basement membrane
 ## Specific manifestation
-- 
+- septic pulmonary emboli
+    - tricuspid IE 
+    - Cough, pleuritic chest pain, nodular pulmonary
