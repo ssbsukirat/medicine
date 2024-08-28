@@ -148,4 +148,5 @@
     - molecular testing useful if histopathology consistent with IE but no viable bacteria left for culture positive 
     - **Next generation shotgun metagenomic sequence of pathogenic DNA is novel technique**
 - Cardiac imaging
-    - 
+    - Transthoracic Echocardiogram (TTE) is specific in most but inadequate in 20% 
+    - TTE may miss vegetation in 20-35% conf
