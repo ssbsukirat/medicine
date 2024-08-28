@@ -113,4 +113,10 @@
 - Early PVE symptoms masked by recent surgery
 - PVE (Both early and late) has paravalvular infection
     - partial valve dehiscence
-    - 
+    - Regurgitant murmurs
+    - CHF
+    - Disruption of conduction system
+# Diagnosis
+## Duke criteria
+- definite diagnosis only by histological and microbiological exam of vegetation
+- 
