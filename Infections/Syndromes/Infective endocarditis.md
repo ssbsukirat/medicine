@@ -163,4 +163,6 @@
         - Intracardiac abcess
         - Valve perforations
     - Other imaging in 
+        - anatomical confirmation is unclear
+        - TEE is not confirmatory
         - 
