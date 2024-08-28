@@ -46,4 +46,3 @@
         - Bland vegetation complicating SLE and APLA 
 - Colonisation
     - body surface or sites of infection are source of organisms
-    - 
