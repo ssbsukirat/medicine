@@ -126,4 +126,8 @@
     - 5 minor 
 - Reject IE diagnosis if 
     - alternate diagnosis established
-    - Symptoms resolve and do not review l
+    - Symptoms resolve and do not recur with <4 days of antibiotics
+    - Surgery or autopsy after <4 days of antibiotics does not establish histological evidence 
+- Possible IE
+    - 1 major and 1 minor or
+    - 3 min
