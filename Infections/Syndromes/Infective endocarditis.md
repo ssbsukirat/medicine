@@ -132,4 +132,4 @@
     - 1 major and 1 minor or
     - 3 minor 
 - Treat both possible and definite as IE 
-- 
+- blood culture needs to be multiple positive, 
