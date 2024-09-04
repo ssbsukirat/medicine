@@ -42,4 +42,8 @@
 - Isolated aortic valve involvement rare 
 - Pulmonary or tricuspid valve damage usually secondary to increased pulmonary pressure due to left sided disease 
 - Acute is usually regurgitation
-- 
+- later over years stenosis due to 
+    - leaflet thickening
+    - Scarring
+    - Calcification
+- Mitral regurgitation sometime with aortic reg
