@@ -19,4 +19,5 @@
 - 3-6% population susceptible
 - Familial clustering of cases and concordance in monozygotic twins -- suggests **susceptibility is inherited characteristic** 
 - HLADR7 HLA-DR4 associated with susceptibility
-- HLA D
+- HLA DR5, HLA-DR6 HLA-DR51 , HLA-DR52 HLA-DQ protective 
+- Associated with TNF-Alpha, high levels of Mannose binding lectins, TLRs 
