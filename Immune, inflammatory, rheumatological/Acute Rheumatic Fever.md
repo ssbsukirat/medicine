@@ -104,5 +104,7 @@
 - Fever, joint pains , elevated acute phase reactants may occur 3 weeks after medicine discontinued but **do not mean recurrence**
 - Naproxen 10-20mg/kg day is safer 
 ## Congestive heart failure
-
+- Glucocorticoids
+    - controversial
+    - Many use in severe carditis as it may reduce inflammation and cause rapid resolution of failure
 
