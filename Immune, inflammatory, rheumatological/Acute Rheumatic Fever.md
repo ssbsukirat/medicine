@@ -107,4 +107,10 @@
 - Glucocorticoids
     - controversial
     - Many use in severe carditis as it may reduce inflammation and cause rapid resolution of failure
+    - Prednisone 1-2mg/kg/day max 80mg usually for few days max for 3 weeks 
+- Rest manage as failure
+## Bed rest
+- traditional
+- Not widely prescribed
+- 
 
