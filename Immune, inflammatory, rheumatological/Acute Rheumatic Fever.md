@@ -117,5 +117,9 @@
 - medications for movement do not alter duration or outcome of chorea 
 - Mild cases with calm environment
 - Severe 
-    - carbamazepine or so
+    - carbamazepine or sodium valproate better than haloperidol
+    - Response may take 1-2 weeks 
+    - Continue medication 2 weeks after symptoms resolve
+- Corticosteroid effective and reduce symptoms rapidly
+- Prednisone or predjis
 
