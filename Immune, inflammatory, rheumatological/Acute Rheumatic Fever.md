@@ -78,4 +78,8 @@
     - Stay for few days to 3 weeks 
     - Associated with Carditis
 ## Others 
-- fever except in pure chor
+- fever except in pure chorea
+- High grade 39C 
+- Elevated inflammatory markers
+## Evidence of GAS infection
+- except in Chorea and low grade carditis, essential for making diagns
