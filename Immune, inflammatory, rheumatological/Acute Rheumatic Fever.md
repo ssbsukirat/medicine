@@ -125,5 +125,5 @@
 ## IVIG 
 - in chorea 
 - No use in carditis without chorea
-- Not recommended except
+- Not recommended except severe chorea refractory to other treatments
 
