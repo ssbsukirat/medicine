@@ -26,4 +26,8 @@
 - Immune response targeted at streptococcal antigens -- M protein  and N-acetylglucosamine of gp A streptococcus carbohydrate , also targets human tissue
 - Cross-reactive antibodies bind to endothelial cells on heart valves -- Activate VCAM-1 -- activated lymphocytes recruited + complement --- and lysis of endothelial cells
 - Complement releases peptides like laminin, keratin and tropomyosin -- cross-reactive T cells activated -- invade heart -- amplify damage and cause epitope spreading
-- Alternative -- streptococcal invasion of epithelial surface -- M orotei
+- Alternative -- streptococcal invasion of epithelial surface -- M protein binding to type 4 collagen -- becomes immunogenic
+
+# Clinical
+- latency or 3 weeks (1-5 weeks) between GAS infection and feature of ARF 
+- Chorea and indolent carditis may present after 6 months as w
