@@ -92,5 +92,6 @@
 - Echocardiogram on all patients
 - No treatment alters likelihood of developing or severity ofRHD 
 ## Antibiotics
-- 
+- treat precipitating GAS infection
+- Penicillin is DOC -- oral Phenoxymethyl penicillin 500 BD or Amoxicillin 50mg/kg
 
