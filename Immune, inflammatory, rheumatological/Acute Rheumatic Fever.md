@@ -33,4 +33,8 @@
 - Chorea and indolent carditis may present after 6 months as well 
 - Mostly GAS is subclinical though some may have a sore throat -- confirm by streptococcal antibody testing 
 - Polyarthritis (60-75%) and carditis (50-75% ) most common 
-- Choore
+- Chorea 2-30% 
+- Erythema marginatum and subcutaneous nodules rare <5% cases 
+## Heart 
+- 75% of ARF progress to RHD 
+- Valvular damage is hallmark of th
