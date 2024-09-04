@@ -14,4 +14,7 @@
 - Recently many more serotypes associated
 - "Rheumatic Motifs" found in only a few serotypes
 - Clear role of skin infection also 
-- 
+- +/- role of gp C, G streptococcus
+## Host factors
+- 3-6% population susceptible
+- Familial clustering of cases and 
