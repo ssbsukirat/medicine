@@ -30,4 +30,7 @@
 
 # Clinical
 - latency or 3 weeks (1-5 weeks) between GAS infection and feature of ARF 
-- Chorea and indolent carditis may present after 6 months as w
+- Chorea and indolent carditis may present after 6 months as well 
+- Mostly GAS is subclinical though some may have a sore throat -- confirm by streptococcal antibody testing 
+- Polyarthritis (60-75%) and carditis (50-75% ) most common 
+- Choore
