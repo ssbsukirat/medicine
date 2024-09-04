@@ -60,4 +60,11 @@
 - If no response to NSAIDs in 1-2 days then unlikely ARF 
 ## Sydenham Chorea 
 - in absence of other features, prolonged latency to onset, more in females
-- affects 
+- affects head (darting movement of tongue) and upper limbs
+- Emotional lability and obsessive compulsive traits
+- >50% will have carditis so always do echocardiogram
+## Skin
+- Erythema marginatum
+    - pink macules
+    - Central clearing
+    - Serpentine
