@@ -100,4 +100,7 @@
 - No role in carditis or chorea 
 - Aspirin 50-60mg/kg/day to max 80-100mg/kg/day 
 - Monitor for salicylate toxicity (nausea vomiting tinnitus)
+- Reduce after symptoms resolve in 2 weeks and reduced dose for 2-4 more weeks 
+- Fever, joint pains , elevated acute phase reactants may occur 3 weeks after medicine discontinued but **do not mean recurrence**
+- 
 
