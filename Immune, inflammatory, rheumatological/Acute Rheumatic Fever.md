@@ -73,4 +73,9 @@
 - Subcutaneous nodules
     - painless small (0.5-2cm)
     - Mobile lumps 
-    - Overly
+    - Overly bony prominence like hands, feet, elbow, occiput and occasionally vertebrae
+    - Delayed onset 2-3 weeks after 
+    - Stay for few days to 3 weeks 
+    - Associated with Carditis
+## Others 
+- fever except in pure chor
