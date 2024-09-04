@@ -1,0 +1,3 @@
+- multisystem disease due to autoimmune reaction to gp A streptococcus
+- Almost all manifestation resolve with treatment **except cardiac valvular damage**
+- 
