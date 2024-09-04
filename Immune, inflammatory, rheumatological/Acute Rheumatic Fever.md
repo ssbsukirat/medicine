@@ -93,5 +93,9 @@
 - No treatment alters likelihood of developing or severity ofRHD 
 ## Antibiotics
 - treat precipitating GAS infection
-- Penicillin is DOC -- oral Phenoxymethyl penicillin 500 BD or Amoxicillin 50mg/kg
+- Penicillin is DOC -- oral Phenoxymethyl penicillin 500 BD or Amoxicillin 50mg/kg for 10 days 
+- Single dose IM 1.2 Million units benzathine Penicillin 
+## Salicylate and NSAIDs
+- for arthritis and arthralgia
+- No role in carditis or chorea 
 
