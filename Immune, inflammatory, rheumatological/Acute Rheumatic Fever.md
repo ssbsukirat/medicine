@@ -17,4 +17,5 @@
 - +/- role of gp C, G streptococcus
 ## Host factors
 - 3-6% population susceptible
-- Familial clustering of cases and 
+- Familial clustering of cases and concordance in monozygotic twins -- suggests **susceptibility is inherited characteristic** 
+- HLA
