@@ -112,5 +112,10 @@
 ## Bed rest
 - traditional
 - Not widely prescribed
-- 
+- For arthralgia, heart failure
+## Chorea 
+- medications for movement do not alter duration or outcome of chorea 
+- Mild cases with calm environment
+- Severe 
+    - carbamazepine or so
 
