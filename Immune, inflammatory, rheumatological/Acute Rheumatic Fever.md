@@ -37,4 +37,7 @@
 - Erythema marginatum and subcutaneous nodules rare <5% cases 
 ## Heart 
 - 75% of ARF progress to RHD 
-- Valvular damage is hallmark of th
+- Valvular damage is hallmark of Rheumatic carditis
+- Mitral valve almost always involved +/- aortic 
+- Isolated aortic valve involvement rare 
+- Pulmonary or tricuspid valve damage usually secondary to increased pulmonary pressure due to 
