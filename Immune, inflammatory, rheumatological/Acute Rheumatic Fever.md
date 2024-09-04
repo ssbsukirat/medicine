@@ -48,3 +48,6 @@
     - Calcification
 - Mitral regurgitation sometime with aortic regurgitation is characteristic
 - PR prolongation and softening of first heart sound due to electric pathway defects due to myocardial inflammation
+
+## Joints 
+- most common is Arthritis (hot swollen inflammation joint red and )
