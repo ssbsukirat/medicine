@@ -56,4 +56,7 @@
 - Assymetrical
 - Arthralgia with migratory pattern 
 - Aseptic monoarthritis maybe presenting feature in some cases
-- 
+- Highly responsive to salicylate and NSAIDs
+- If no response to NSAIDs in 1-2 days then unlikely ARF 
+## Sydenham Chorea 
+- in absence of other features, prolonged latency to onset, more in females
