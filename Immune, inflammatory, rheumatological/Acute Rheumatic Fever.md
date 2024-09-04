@@ -46,4 +46,5 @@
     - leaflet thickening
     - Scarring
     - Calcification
-- Mitral regurgitation sometime with aortic reg
+- Mitral regurgitation sometime with aortic regurgitation is characteristic
+- PR prolongation and softening of first heart sound due to electric pathway defects due to myocardial inflammation
