@@ -121,5 +121,9 @@
     - Response may take 1-2 weeks 
     - Continue medication 2 weeks after symptoms resolve
 - Corticosteroid effective and reduce symptoms rapidly
-- Prednisone or predjis
+- Prednisone or prednisolone 0.5mg/kg/day with early tapering
+## IVIG 
+- in chorea 
+- No use in carditis without chorea
+- Not recommended except
 
