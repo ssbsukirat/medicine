@@ -25,4 +25,5 @@
 - molecular mimicry is most commonly accepted 
 - Immune response targeted at streptococcal antigens -- M protein  and N-acetylglucosamine of gp A streptococcus carbohydrate , also targets human tissue
 - Cross-reactive antibodies bind to endothelial cells on heart valves -- Activate VCAM-1 -- activated lymphocytes recruited + complement --- and lysis of endothelial cells
-- Complement rekeases
+- Complement releases peptides like laminin, keratin and tropomyosin -- cross-reactive T cells activated -- invade heart -- amplify damage and cause epitope spreading
+- Alternative -- streptococcal invasion of epithelial surface -- M orotei
