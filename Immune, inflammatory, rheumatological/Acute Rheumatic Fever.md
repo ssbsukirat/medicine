@@ -60,3 +60,4 @@
 - If no response to NSAIDs in 1-2 days then unlikely ARF 
 ## Sydenham Chorea 
 - in absence of other features, prolonged latency to onset, more in females
+- affects 
