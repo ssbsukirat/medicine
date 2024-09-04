@@ -102,5 +102,7 @@
 - Monitor for salicylate toxicity (nausea vomiting tinnitus)
 - Reduce after symptoms resolve in 2 weeks and reduced dose for 2-4 more weeks 
 - Fever, joint pains , elevated acute phase reactants may occur 3 weeks after medicine discontinued but **do not mean recurrence**
-- 
+- Naproxen 10-20mg/kg day is safer 
+## Congestive heart failure
+
 
