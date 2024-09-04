@@ -18,4 +18,5 @@
 ## Host factors
 - 3-6% population susceptible
 - Familial clustering of cases and concordance in monozygotic twins -- suggests **susceptibility is inherited characteristic** 
-- HLA
+- HLADR7 HLA-DR4 associated with susceptibility
+- HLA D
