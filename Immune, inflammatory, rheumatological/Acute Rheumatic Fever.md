@@ -21,3 +21,6 @@
 - HLADR7 HLA-DR4 associated with susceptibility
 - HLA DR5, HLA-DR6 HLA-DR51 , HLA-DR52 HLA-DQ protective 
 - Associated with TNF-Alpha, high levels of Mannose binding lectins, TLRs 
+## Immune Response
+- molecular mimicry is most commonly accepted 
+- Immune response targeted at 
