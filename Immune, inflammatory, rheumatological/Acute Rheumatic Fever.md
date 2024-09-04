@@ -40,4 +40,6 @@
 - Valvular damage is hallmark of Rheumatic carditis
 - Mitral valve almost always involved +/- aortic 
 - Isolated aortic valve involvement rare 
-- Pulmonary or tricuspid valve damage usually secondary to increased pulmonary pressure due to 
+- Pulmonary or tricuspid valve damage usually secondary to increased pulmonary pressure due to left sided disease 
+- Acute is usually regurgitation
+- 
