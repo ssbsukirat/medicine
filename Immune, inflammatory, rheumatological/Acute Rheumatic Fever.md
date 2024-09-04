@@ -98,4 +98,6 @@
 ## Salicylate and NSAIDs
 - for arthritis and arthralgia
 - No role in carditis or chorea 
+- Aspirin 50-60mg/kg/day to max 80-100mg/kg/day 
+- Monitor for salicylate toxicity (nausea vomiting tinnitus)
 
