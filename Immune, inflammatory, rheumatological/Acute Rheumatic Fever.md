@@ -8,4 +8,6 @@
 - RHD peaks between 25-40 years age 
 - RHD female:male 2:1 but no clear for ARD 
 # Pathogenesis
-- 
+- ![[ARFpathogenesis.PNG]]
+## Organisms
+- Classically only caused by URTI by gp A streptococcus (M type )
