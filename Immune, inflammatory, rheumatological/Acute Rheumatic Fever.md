@@ -87,3 +87,10 @@
 - Anti-streptolysin O or anti-DNAase B titres raised
 ## Confirmation
 ![[ARFjones.PNG]]
+
+# Treatment
+- Echocardiogram on all patients
+- No treatment alters likelihood of developing or severity ofRHD 
+## Antibiotics
+- 
+
