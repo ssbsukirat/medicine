@@ -23,4 +23,5 @@
 - Associated with TNF-Alpha, high levels of Mannose binding lectins, TLRs 
 ## Immune Response
 - molecular mimicry is most commonly accepted 
-- Immune response targeted at 
+- Immune response targeted at streptococcal antigens -- M protein  and N-acetylglucosamine of gp A streptococcus carbohydrate , also targets human tissue
+- Cross-reactive antibodies bind to endothelial cells on heart valves by VCAM
