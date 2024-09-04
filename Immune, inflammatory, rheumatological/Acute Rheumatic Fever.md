@@ -50,4 +50,10 @@
 - PR prolongation and softening of first heart sound due to electric pathway defects due to myocardial inflammation
 
 ## Joints 
-- most common is Arthritis (hot swollen inflammation joint red and )
+- most common is Arthritis (hot swollen inflammation joint red and tender)
+- Migratory polyarthritis typical
+- Large joint usually - knee, ankles, hip, elbows 
+- Assymetrical
+- Arthralgia with migratory pattern 
+- Aseptic monoarthritis maybe presenting feature in some cases
+- 
