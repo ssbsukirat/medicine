@@ -67,4 +67,10 @@
 - Erythema marginatum
     - pink macules
     - Central clearing
-    - Serpentine
+    - Serpiginous spreading edge 
+    - Evanescent appearing and disappearing before eyes 
+    - Trunk mostly, sometimes limbs never face 
+- Subcutaneous nodules
+    - painless small (0.5-2cm)
+    - Mobile lumps 
+    - Overly
