@@ -82,4 +82,8 @@
 - High grade 39C 
 - Elevated inflammatory markers
 ## Evidence of GAS infection
-- except in Chorea and low grade carditis, essential for making diagns
+- except in Chorea and low grade carditis, essential for making diagnosis 
+- Most don't have positive throat swab or rapid antigen test 
+- Anti-streptolysin O or anti-DNAase B titres raised
+## Confirmation
+![[ARFjones.PNG]]
