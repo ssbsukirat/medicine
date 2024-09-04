@@ -10,4 +10,8 @@
 # Pathogenesis
 - ![[ARFpathogenesis.PNG]]
 ## Organisms
-- Classically only caused by URTI by gp A streptococcus (M type )
+- Classically only caused by URTI by gp A streptococcus (M type 1,3,5,6,14,18,19,24,27,29)
+- Recently many more serotypes associated
+- "Rheumatic Motifs" found in only a few serotypes
+- Clear role of skin infection also 
+- 
