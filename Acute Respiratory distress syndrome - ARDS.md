@@ -4,8 +4,10 @@ ARDS is a clinical syndrome of
 * diffuse pulmonary infiltrates
 * hypoxemia
 * Leading to respiratory failure
+* ![[ARDScriteria.PNG]]
 
 # Causes/Etiology of ARDS
+![[ARDSetiology.PNG]]
 ## DIrect lung injury
 * pneumonia
 * gastric content aspiration
@@ -20,7 +22,7 @@ ARDS is a clinical syndrome of
 * Drug ODs
 * pancreatitis
 * post Cardiopulmonary bypass
-
-### if trauma and APACHE II >_ 16 --> 2.5 fold increase risk
+* if trauma and APACHE II >_ 16 --> 2.5 fold increase risk
+# Clinical course and pathop
 
 
