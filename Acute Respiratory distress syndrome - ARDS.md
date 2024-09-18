@@ -1,8 +1,9 @@
-# Definition #definition 
+# Definition 
 ARDS is a clinical syndrome of 
-* severe dyspnea pf rapid onset
+* severe dyspnea of rapid onset
 * diffuse pulmonary infiltrates
 * hypoxemia
+* Leading to respiratory failure
 
 # Causes/Etiology of ARDS
 ## DIrect lung injury
