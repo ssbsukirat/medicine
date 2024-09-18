@@ -26,6 +26,9 @@ ARDS is a clinical syndrome of
 # Clinical course and pathophysiology
 - 3 phases -- exudative, proliferative, fibrotic 
 ## Exudative phase 
-- alveolar capillary endothelial cell
+- alveolar capillary endothelial cell and type 1 pneumocytes injured
+- Loss of normally tight alveolar Barrier to fluid and macromolecules
+- Protein rich fluid in interstitial and alveolar spaces 
+- 
 
 
