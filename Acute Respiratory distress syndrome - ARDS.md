@@ -23,6 +23,9 @@ ARDS is a clinical syndrome of
 * pancreatitis
 * post Cardiopulmonary bypass
 * if trauma and APACHE II >_ 16 --> 2.5 fold increase risk
-# Clinical course and pathop
+# Clinical course and pathophysiology
+- 3 phases -- exudative, proliferative, fibrotic 
+## Exudative phase 
+- alveolar capillary endothelial cell
 
 
