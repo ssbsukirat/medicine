@@ -30,6 +30,7 @@ ARDS is a clinical syndrome of
 - Loss of normally tight alveolar Barrier to fluid and macromolecules
 - Protein rich fluid in interstitial and alveolar spaces 
 - IL-1, IL8, TNF-ALPHA, leukotriene B4 increased 
-- Condensed plasma proteins in air spaces with cellular debris and dysfunctional
+- Condensed plasma proteins in air spaces with cellular debris and dysfunctional pulmonary surfactant -- hyaline membrane whorls 
+- 
 
 
