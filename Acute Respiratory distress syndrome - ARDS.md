@@ -34,7 +34,7 @@ ARDS is a clinical syndrome of
     - Nonspecific laboratory findings
     - Chest x-ray suggest pulmonary edema involving atleast 3/4 lung field (indistinguishable from cardiogenic pulmonary edema)
     - No cardiomegaly, pleural effusion or pulmonary vascular redistribution as in cardiogenic
-    - Do 2D
+    - Do 2D-ECHO to exclude cardiogenic cause if
 - alveolar capillary endothelial cell and type 1 pneumocytes injured
 - Loss of normally tight alveolar Barrier to fluid and macromolecules
 - Protein rich fluid in interstitial and alveolar spaces 
