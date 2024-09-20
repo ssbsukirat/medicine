@@ -60,5 +60,8 @@ ARDS is a clinical syndrome of
 - Type 2 pneumocytes proliferate -- differentiate into type 1 and also synthesise surfactant
 ## Fibrotic phas
 - 3-4 weeks later patients usually recover lung function
-- Some have fibrotic phase needing ventilation or supplemental oxy
+- Some have fibrotic phase needing ventilation or supplemental oxygen 
+- Alveolar edema and exudate -- alveolar duct and interstitial fibrosis
+- Acinar architecture disruption -- emphysematous changes with large bullae 
+- 
 
