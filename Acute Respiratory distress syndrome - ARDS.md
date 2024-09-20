@@ -81,4 +81,6 @@ ARDS is a clinical syndrome of
     - Low plateau pressure <30 cm H2O 
 - Minimise atelectrauma
     - use PEEP to minimise Fio2 and provide adequate Pao2 
+    - PEEP-Fio2 charts can be used to find best settings
+    - Static pressure volume curve can be generated and set PEEP just above inflection point
 
