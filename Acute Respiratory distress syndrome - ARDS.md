@@ -56,5 +56,6 @@ ARDS is a clinical syndrome of
 - Rapid recovery and off mechanical ventilation 
 - Dyspnea tachypnea hypoxemia perists 
 - Some have progressive lung injury and early pulmonary fibrosis
-- Histological evidence of repair 
+- Histological evidence of repair -- organisation of alveolar exudate , neutrophilic to lymphocytic infiltrate
+- Type 2 pneumocytes proliferate -- differentiate into type 1 
 
