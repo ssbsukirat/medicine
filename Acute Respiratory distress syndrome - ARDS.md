@@ -78,5 +78,7 @@ ARDS is a clinical syndrome of
     - **Volutrauma** from repeated overdistention of alveoli due to excess tidal volume or **atelectrauma** from recurrent alveolar collapse
     - Injury more in high tidal volume modes 
     - Low tidal volume 6ml/kg of predicted body weight should be used  
-    - Low 
+    - Low plateau pressure <30 cm H2O 
+- Minimise atelectrauma
+    - use PEEP to minimise Fio2 and provide adequate Pao2 
 
