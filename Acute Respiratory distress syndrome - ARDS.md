@@ -70,4 +70,10 @@ ARDS is a clinical syndrome of
 - general
     - recognise and treat underlying disorder
     - Minimise unnecessary procedures
+    - Bundled care approach in ICU 
+    - Nosocomial infection prevention
+    - Nutrition
+## Mechanical ventilation
+- Minimise ventilator induced lung injury
+    - 
 
