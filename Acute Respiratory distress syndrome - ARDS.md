@@ -63,5 +63,6 @@ ARDS is a clinical syndrome of
 - Some have fibrotic phase needing ventilation or supplemental oxygen 
 - Alveolar edema and exudate -- alveolar duct and interstitial fibrosis
 - Acinar architecture disruption -- emphysematous changes with large bullae 
-- 
+- Intimal fibroproliferation -- progressive vascular occlusion and pulmonary hypertension
+- Increased risk of pneumothorax, reduced lung compliance, increased pulmonary dead space 
 
