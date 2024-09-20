@@ -26,7 +26,11 @@ ARDS is a clinical syndrome of
 # Clinical course and pathophysiology
 - 3 phases -- exudative, proliferative, fibrotic 
 ## Exudative phase 
-- 1st 7 days ()
+- 1st 7 days (onset in 12-36h usually but maybe delayed upto 5-7 days)
+- Signs symptoms
+    - dyspnea
+    - Rapid shallow breathing with inability to get enough air 
+    - 
 - alveolar capillary endothelial cell and type 1 pneumocytes injured
 - Loss of normally tight alveolar Barrier to fluid and macromolecules
 - Protein rich fluid in interstitial and alveolar spaces 
