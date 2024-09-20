@@ -38,7 +38,11 @@ ARDS is a clinical syndrome of
     - CT chest -- bilateral pulmonary infiltrate with extensive heterogeneity in lung involvement
 - Differential
     - cardiogenic pulmonary edema
-    - 
+    - Bilateral pneumonia
+    - Alveolar hemorrhage
+    - Acute ILD (interstitial pneumonitis)
+    - Acute immunological injury (HSP)
+    - Toxin
 - alveolar capillary endothelial cell and type 1 pneumocytes injured
 - Loss of normally tight alveolar Barrier to fluid and macromolecules
 - Protein rich fluid in interstitial and alveolar spaces 
