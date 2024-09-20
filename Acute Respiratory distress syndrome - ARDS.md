@@ -52,5 +52,9 @@ ARDS is a clinical syndrome of
 - early pulmonary vascular injury with obliteration by microthrombi and fibrocellular proliferation
 - Alveolar edema predominantly in dependant portions with reduced aeration -- collapse of dependent portion -- decreased lung compliance -- intrapulmonary shunting and hypoxemia -- dyspnea -- exacerbated by reduced pulmonary artery flow to ventilated segments (blocked by microthrombi) -- may have hypercapnia due to pulmonary dead space increase in early ARDS 
 ## Proliferative phase 
-- 
+- day 7-21 
+- Rapid recovery and off mechanical ventilation 
+- Dyspnea tachypnea hypoxemia perists 
+- Some have progressive lung injury and early pulmonary fibrosis
+- Histological evidence of repair 
 
