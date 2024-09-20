@@ -65,4 +65,8 @@ ARDS is a clinical syndrome of
 - Acinar architecture disruption -- emphysematous changes with large bullae 
 - Intimal fibroproliferation -- progressive vascular occlusion and pulmonary hypertension
 - Increased risk of pneumothorax, reduced lung compliance, increased pulmonary dead space 
+- Poor prognosis
+# Treatment
+- general
+    - 
 
