@@ -68,5 +68,6 @@ ARDS is a clinical syndrome of
 - Poor prognosis
 # Treatment
 - general
-    - 
+    - recognise and treat underlying disorder
+    - Minimise unnecessary procedures
 
