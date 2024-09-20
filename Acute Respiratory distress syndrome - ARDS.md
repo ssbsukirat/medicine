@@ -30,7 +30,9 @@ ARDS is a clinical syndrome of
 - Signs symptoms
     - dyspnea
     - Rapid shallow breathing with inability to get enough air 
-    - 
+    - Tachypnea and increased work of breathing -- respiratory fatigue and failure
+    - Nonspecific laboratory findings
+    - Chest x-ray suggest pulmonary edema involving atleast 3/4 lung field
 - alveolar capillary endothelial cell and type 1 pneumocytes injured
 - Loss of normally tight alveolar Barrier to fluid and macromolecules
 - Protein rich fluid in interstitial and alveolar spaces 
