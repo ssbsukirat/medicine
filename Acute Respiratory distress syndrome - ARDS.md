@@ -76,4 +76,7 @@ ARDS is a clinical syndrome of
 ## Mechanical ventilation
 - Minimise ventilator induced lung injury
     - **Volutrauma** from repeated overdistention of alveoli due to excess tidal volume or **atelectrauma** from recurrent alveolar collapse
+    - Injury more in high tidal volume modes 
+    - Low tidal volume 6ml/kg of predicted body weight should be used  
+    - Low 
 
