@@ -57,5 +57,8 @@ ARDS is a clinical syndrome of
 - Dyspnea tachypnea hypoxemia perists 
 - Some have progressive lung injury and early pulmonary fibrosis
 - Histological evidence of repair -- organisation of alveolar exudate , neutrophilic to lymphocytic infiltrate
-- Type 2 pneumocytes proliferate -- differentiate into type 1 
+- Type 2 pneumocytes proliferate -- differentiate into type 1 and also synthesise surfactant
+## Fibrotic phas
+- 3-4 weeks later patients usually recover lung function
+- Some have fibrotic phase needing ventilation or supplemental oxy
 
