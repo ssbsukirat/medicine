@@ -75,5 +75,5 @@ ARDS is a clinical syndrome of
     - Nutrition
 ## Mechanical ventilation
 - Minimise ventilator induced lung injury
-    - **Volutrauma** from repeated overdistention of alveoli due to excess tidal volume or **atelectrauma** from rec
+    - **Volutrauma** from repeated overdistention of alveoli due to excess tidal volume or **atelectrauma** from recurrent alveolar collapse
 
