@@ -13,4 +13,8 @@
 - neuron **cytoskeleton** is typically affected early in the illness -- **focal enlargement** common -- "**spheroids**" made of accumulations of **neurofilament** and other proteins 
 - affected neurons demonstrate **ubiquitin-positive aggregates**, typically associated with the **protein TDP43** -- **proliferation of astroglia and microglia seen** 
 - death of the peripheral motor neurons in the brainstem and spinal cord leads to **denervation and atrophy of the corresponding muscle fibers** -- early phases of the illness denervated muscle can be **reinnervated by sprouting of nearby distal motor nerve terminals** -- but reinnervation less than in other diseases like poliomyelitis , peripheral neuropathy 
-- with disease progress , muscle atrophy is 
+- with disease progress , muscle atrophy is easily recognized visually and on biopsy, hence the name **"amyotrophy"**
+- The loss of fibers in the lateral columns and resulting fibrillary gliosis impart a particular firmness **(lateral sclerosis)** 
+- **selectivity** of neuronal cell death. By light microscopy, the entire sensory apparatus and cerebellar structures that control the coordination of movement remain intact
+- Cognitive areas preserved except in [[Fronto Temporal Dementia]] 
+- 
