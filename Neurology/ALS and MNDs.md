@@ -17,4 +17,9 @@
 - The loss of fibers in the lateral columns and resulting fibrillary gliosis impart a particular firmness **(lateral sclerosis)** 
 - **selectivity** of neuronal cell death. By light microscopy, the entire sensory apparatus and cerebellar structures that control the coordination of movement remain intact
 - Cognitive areas preserved except in [[Fronto Temporal Dementia]] 
-- 
+- motor neurons required for ocular motility remain unaffected, as do the parasympathetic neurons in the sacral spinal cord (the nucleus of Onufrowicz, or Onuf) that innervate the sphincters of the bowel and bladder. 
+## Clinical 
+- Depends on UMN vs LMN predominant 
+- LMN dysfunction
+	- initially insidious assymetric weakness , usually distally in one limb 
+	- recent development of cramping with volitional movement , in early hours of body 
