@@ -5,4 +5,5 @@
 - initially may have selective loss of either upper or lower but eventually all forms of motor neurons die 
 - in absence of clear involvement of both UMN and LMN, diagnosis is questionable 
 - in some cases ***ALS arises concurrently with frontotemporal dementia*** in these instances, there is degeneration of frontotemporal cortical neurons and corresponding cortical atrophy
-- 
+- ![[MNDetiology.png]]
+- ![[MNDtypes.png]]
