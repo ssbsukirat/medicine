@@ -23,3 +23,6 @@
 - LMN dysfunction
 	- initially insidious assymetric weakness , usually distally in one limb 
 	- recent development of cramping with volitional movement , in early hours of body 
+	- progressive wasting and atrophy of muscles and, particularly early in the illness, spontaneous twitching of motor units, or fasciculations 
+	- preponderance of extensor over flexor weakness is common
+	- if bulbar rather than limb muscles, the problem at onset is difficulty with chewing, swallowing, and movements of the face and tongue
