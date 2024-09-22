@@ -7,3 +7,5 @@
 - in some cases ***ALS arises concurrently with frontotemporal dementia*** in these instances, there is degeneration of frontotemporal cortical neurons and corresponding cortical atrophy
 - ![[MNDetiology.png]]
 - ![[MNDtypes.png]]
+- ***bulbar palsy and spinal muscular atrophy (SMA; also called progressive muscular atrophy)***, the ***lower motor neurons*** of brainstem and spinal cord, respectively, are most severely involved. 
+- By contrast, ***pseudobulbar palsy, primary lateral sclerosis (PLS), and hereditary spastic paraplegia (HSP) affect only upper motor neurons*** innervating the brainstem and spinal cord
