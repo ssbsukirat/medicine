@@ -12,4 +12,5 @@
 - Motor neurons undergo **shrinkage**, often with **accumulation of the pigmented lipid (lipofuscin)** that normally develops in these cells with advancing age
 - neuron **cytoskeleton** is typically affected early in the illness -- **focal enlargement** common -- "**spheroids**" made of accumulations of **neurofilament** and other proteins 
 - affected neurons demonstrate **ubiquitin-positive aggregates**, typically associated with the **protein TDP43** -- **proliferation of astroglia and microglia seen** 
-- 
+- death of the peripheral motor neurons in the brainstem and spinal cord leads to **denervation and atrophy of the corresponding muscle fibers** -- early phases of the illness denervated muscle can be **reinnervated by sprouting of nearby distal motor nerve terminals** -- but reinnervation less than in other diseases like poliomyelitis , peripheral neuropathy 
+- with disease progress , muscle atrophy is 
