@@ -10,4 +10,6 @@
 	- ***bulbar palsy and spinal muscular atrophy (SMA; also called progressive muscular atrophy)***, the ***lower motor neurons*** of brainstem and spinal cord, respectively, are most severely involved. 
 	- By contrast, ***pseudobulbar palsy, primary lateral sclerosis (PLS), and hereditary spastic paraplegia (HSP) affect only upper motor neurons*** innervating the brainstem and spinal cord
 - Motor neurons undergo **shrinkage**, often with **accumulation of the pigmented lipid (lipofuscin)** that normally develops in these cells with advancing age
+- neuron **cytoskeleton** is typically affected early in the illness -- **focal enlargement** common -- "**spheroids**" made of accumulations of **neurofilament** and other proteins 
+- affected neurons demonstrate **ubiquitin-positive aggregates**, typically associated with the **protein TDP43** -- **proliferation of astroglia and microglia seen** 
 - 
