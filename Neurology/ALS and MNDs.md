@@ -27,7 +27,7 @@
 	- preponderance of extensor over flexor weakness is common
 	- if bulbar rather than limb muscles, the problem at onset is difficulty with chewing, swallowing, and movements of the face and tongue
 	- rarely initially respiratory muscle weakness may cause death before other symptoms 
-- Corticospinal involvement predominant
+- **Corticospinal** involvement predominant
     - hyperactive tendon jerks -- **patient complains of muscle stiffness out of proportion to weakness**
     - Spastic resistance to passive movement
-    - 
+- **Corticobulbar** projections to brainstem -- if degeneration -- **dysarthria and exaggeration of motor expression of emotions** 
