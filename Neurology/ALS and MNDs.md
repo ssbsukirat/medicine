@@ -47,4 +47,6 @@
     - Probable if 2/4 
     - Possible if 1/4 
     - If 1/4 + progressive umn and LMN + SOD1(superoxide dismutase)
-- CSF markers of neurodegeneration like neurofilament light chains, phosphorylated neurofilament heavy chains, inflammatory markers like monocyte chemoattractant protein 1
+- CSF markers of neurodegeneration like neurofilament light chains, phosphorylated neurofilament heavy chains, inflammatory markers like **monocyte chemoattractant protein 1 are elevated** 
+## Epidemiology
+- median survival
