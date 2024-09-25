@@ -39,5 +39,8 @@
     - Simultaneous UMN and LMN involvement
     - Progressive weakness
     - Exclude all other diagnosis
-    - Definite when 3/4 
-        - 
+    - Definite when 3/4 involved
+        - bulbar 
+        - Cervical
+        - Thoracic
+        - Lumbosacral motor neurons
