@@ -121,5 +121,7 @@ ARDS is a clinical syndrome of
     - Direct lung injury more risk than indirect
     - Severity of ARDS 
 - Functional recovery
-- 
+    - majority who survive regain normal lung function
+    - Maximal function regained in 6 months
+    - 1/3 have normal spirometry and diffusion 1 year after extubation
 
