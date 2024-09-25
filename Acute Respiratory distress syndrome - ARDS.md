@@ -89,5 +89,6 @@ ARDS is a clinical syndrome of
     - mortality benefits in severe ARDS 
     - Needs critical care team already experienced in proning 
 - Other strategies
-    - Recruitment maneuvers to recruit atelectatic lung but may increase mortality in higher baseline PEEP
+    - **Recruitment maneuvers** to recruit atelectatic lung but may increase mortality in higher baseline PEEP
+    - Alternate modes of ventilation like **airway pressure release ventilation and HFO ventilation** 
 
