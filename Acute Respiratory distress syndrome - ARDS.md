@@ -96,5 +96,7 @@ ARDS is a clinical syndrome of
      - maintain low left atrial pressures
          - Minimise pulmonary edema
          - Prevent further decrement in arterial oxygenation and lung compliance
-         - 
+         - Improved pulmonary mechanics
+         - Shortens ICU stay and duration of mechanical ventilation
+     - Aggressively reduce left side pressure with fluid restriction and diuretic limited by hypotension and hypoperfusion of 
 
