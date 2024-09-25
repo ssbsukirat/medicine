@@ -51,4 +51,11 @@
 ## Epidemiology
 - median survival 3-5 years 
 - Death by respiratory paralysis
-- 1-3/100000 incidence, 3-5/10000
+- 1-3/100000 incidence, 3-5/100000 prevalence
+- Risk factors 
+    - exposure to pesticides and insecticide
+    - Silica 
+    - Smoking
+    - Service in military
+## Familial ALS 
+- 
