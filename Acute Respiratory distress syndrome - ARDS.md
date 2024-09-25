@@ -117,5 +117,9 @@ ARDS is a clinical syndrome of
     - Mainly due to non pulmonary causes with sepsis and nonpulmonary organ failure accounting for >80% 
 - Mortality risk factors
     - advanced age (>75 have 60% mortality vs 20% in <45)
-    - Pre-existing medical comorbidities 
+    - Pre-existing medical comorbidities like CLD, alcohol use, immunosuppression
+    - Direct lung injury more risk than indirect
+    - Severity of ARDS 
+- Functional recovery
+- 
 
