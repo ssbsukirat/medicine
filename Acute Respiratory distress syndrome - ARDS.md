@@ -93,5 +93,8 @@ ARDS is a clinical syndrome of
     - Alternate modes of ventilation like **airway pressure release ventilation and HFO ventilation** 
     - ECMO as  rescue therapy in ARDS
 - Fluid management
-     - 
+     - maintain low left atrial pressures
+         - Minimise pulmonary edema
+         - Prevent further decrement in arterial oxygenation and lung compliance
+         - 
 
