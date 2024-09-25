@@ -88,5 +88,6 @@ ARDS is a clinical syndrome of
 - Prone positioning
     - mortality benefits in severe ARDS 
     - Needs critical care team already experienced in proning 
-    - 
+- Other strategies
+    - Recruitment maneuvers to recruit atelectatic lung but may increase mortality in higher baseline PEEP
 
