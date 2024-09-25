@@ -114,5 +114,6 @@ ARDS is a clinical syndrome of
 # Prognosis
 - mortality
     - LUNG SAFE trial shows mortality 34.9% in mild, 40.3% in moderate, 46.1 in severe ARDS
-    - Mainly due to non pulmonary causes with sepsis and nonpulmonary organ 
+    - Mainly due to non pulmonary causes with sepsis and nonpulmonary organ failure accounting for >80% 
+- Mkrtal
 
