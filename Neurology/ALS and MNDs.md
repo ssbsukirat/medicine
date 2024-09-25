@@ -31,4 +31,4 @@
     - hyperactive tendon jerks -- **patient complains of muscle stiffness out of proportion to weakness**
     - Spastic resistance to passive movement
 - **Corticobulbar** projections to brainstem -- if degeneration -- **dysarthria and exaggeration of motor expression of emotions** 
-- With time more muscles involved till it takes a symmetric
+- With time more muscles involved till it takes a symmetric distribution in all regions
