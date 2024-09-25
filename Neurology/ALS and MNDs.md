@@ -34,4 +34,5 @@
 - With time more muscles involved till it takes a **symmetric distribution** in all regions -- both LMN and UMN will eventually be implicated
 - **Sensory, bowel, bladder, cognitive preserved** even late in disease
 - **Ocular motility preserved** even in late disease with brainstem involvement
-- 
+- Diagnostic guidelines
+    - 
