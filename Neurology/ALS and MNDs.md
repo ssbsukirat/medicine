@@ -36,4 +36,8 @@
 - **Ocular motility preserved** even in late disease with brainstem involvement
 - Diagnostic guidelines
     - world federation of neurology
-    - Simultaneous
+    - Simultaneous UMN and LMN involvement
+    - Progressive weakness
+    - Exclude all other diagnosis
+    - Definite when 3/4 
+        - 
