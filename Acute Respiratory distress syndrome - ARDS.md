@@ -92,4 +92,6 @@ ARDS is a clinical syndrome of
     - **Recruitment maneuvers** to recruit atelectatic lung but may increase mortality in higher baseline PEEP
     - Alternate modes of ventilation like **airway pressure release ventilation and HFO ventilation** 
     - ECMO as  rescue therapy in ARDS
+- Fluid management
+     - 
 
