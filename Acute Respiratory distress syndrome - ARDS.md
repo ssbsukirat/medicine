@@ -101,5 +101,9 @@ ARDS is a clinical syndrome of
      - Aggressively reduce left side pressure with fluid restriction and diuretic limited by hypotension and hypoperfusion of organs like kidneys 
  - Neuromuscular blockade
      - sedation alone maybe ineffective for patient-ventilator synchronisation
-     - Early neuromuscular blockade has mortality benefit
+     - Early neuromuscular blockade has mortality benefit in severe ARDS with asynchrony 
+ - Glucocorticoids
+     - many studies done 
+     - Inconclusive
+     - Routine use not reco
 
