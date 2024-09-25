@@ -35,4 +35,5 @@
 - **Sensory, bowel, bladder, cognitive preserved** even late in disease
 - **Ocular motility preserved** even in late disease with brainstem involvement
 - Diagnostic guidelines
-    - 
+    - world federation of neurology
+    - Simultaneous
