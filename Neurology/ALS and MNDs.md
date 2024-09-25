@@ -49,4 +49,6 @@
     - If 1/4 + progressive umn and LMN + SOD1(superoxide dismutase)
 - CSF markers of neurodegeneration like neurofilament light chains, phosphorylated neurofilament heavy chains, inflammatory markers like **monocyte chemoattractant protein 1 are elevated** 
 ## Epidemiology
-- median survival
+- median survival 3-5 years 
+- Death by respiratory paralysis
+- 1-3/100000 incidence, 3-5/10000
