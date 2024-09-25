@@ -105,5 +105,9 @@ ARDS is a clinical syndrome of
  - Glucocorticoids
      - many studies done 
      - Inconclusive
-     - Routine use not reco
+     - Routine use not recommended
+     - Only specific conditions
+ - Other therapies
+     - surfactant replacement not useful
+     - Inhaled NO and inhaled epoprostenol sodium transiently
 
