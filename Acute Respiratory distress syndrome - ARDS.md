@@ -109,5 +109,9 @@ ARDS is a clinical syndrome of
      - Only specific conditions
  - Other therapies
      - surfactant replacement not useful
-     - Inhaled NO and inhaled epoprostenol sodium transiently
+     - Inhaled NO and inhaled epoprostenol sodium transiently improve oxygenation
+
+# Prognosis
+- mortality
+    - LUNG SAFE trial 
 
