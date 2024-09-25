@@ -85,5 +85,8 @@ ARDS is a clinical syndrome of
     - Static pressure volume curve can be generated and set PEEP just above inflection point 
     - Maximise respiratory system compliance
     - Measure esophageal pressure to eliminate transpulmonary pressure
-- 
+- Prone positioning
+    - mortality benefits in severe ARDS 
+    - Needs critical care team already experienced in proning 
+    - 
 
