@@ -33,4 +33,5 @@
 - **Corticobulbar** projections to brainstem -- if degeneration -- **dysarthria and exaggeration of motor expression of emotions** -- involuntary excess of weeping or laughing (pseudobulbar affect)
 - With time more muscles involved till it takes a **symmetric distribution** in all regions -- both LMN and UMN will eventually be implicated
 - **Sensory, bowel, bladder, cognitive preserved** even late in disease
-- Ocular motility preserved even i
+- **Ocular motility preserved** even in late disease with brainstem involvement
+- 
