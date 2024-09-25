@@ -44,3 +44,6 @@
         - Cervical
         - Thoracic
         - Lumbosacral motor neurons
+    - Probable if 2/4 
+    - Possible if 1/4 
+    - If 1/4 + progressive umn and LMN + SOD1(superoxide discu)
