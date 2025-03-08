@@ -52,3 +52,14 @@
 - tendency to turn en bloc 
 - step to step variability contribute to falls 
 - improve with dopamine and cholinesterase inhibitor 
+- Freezing 
+	- brief, episodic absence of forward progression of the feet, **despite the intention to walk** 
+	- triggered by crowd or narrow areas 
+	- improves with visual cueing 
+	- 1/4 of PD 
+	- end of dose freezing improve with dopaminergic or MAO-B inhibitor 
+	- A/w PSP, MSA, CBD 
+	- PSP - **more erect gait than PD and more falls.** 
+	- vascular PD - broad based shuffling with bilateral reduced arm swing & **disproportionate gait involvement early** 
+- Huntington Disease - unpredictable choreic movements --> dancing quality 
+- Tardive Dyskinesias --> 
