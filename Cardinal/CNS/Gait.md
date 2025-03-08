@@ -159,4 +159,7 @@
 		- feet stick to the floor and the center of mass keeps moving, resulting in a disequilibrium from which the patient has difficulty recovering, resulting in a **forward fall.** 
 	- Sensory Loss 
 		- somatosensory, visual, or vestibular deficits 
-		- 
+		- rehabilitation helps 
+	- Weakness 
+		- often unable to get up after a fall and may have to remain on the floor for a prolonged period until help arrives 
+		- resistance training 
