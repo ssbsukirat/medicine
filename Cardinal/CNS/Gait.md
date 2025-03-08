@@ -148,4 +148,15 @@
 	- detailed Neuro 
 - Fall pattern 
 	- **Drop attacks** - sudden loss of postural tone --> syncope or postural hypotension , atonic seizure, myoclonus , intermittent obstruction of the foramen of Monro by a colloid cyst of the third ventricle causing **acute obstructive hydrocephalus** 
-	- if emtion
+	- if emotional trigger - **cataplexy** 
+	- Toppling Falls - 
+		- maintain tone in antigravity muscles but fall over like a tree trunk, as if postural defenses had disengaged 
+		- cerebellar and vestibular defects 
+		- **early feature of progressive supranuclear palsy, and a late feature of Parkinson’s disease** 
+		- Thalamic lesions causing truncal instability (**thalamic astasia**) may also cause
+	- Gait Freezing 
+		- Parkinsons 
+		- feet stick to the floor and the center of mass keeps moving, resulting in a disequilibrium from which the patient has difficulty recovering, resulting in a **forward fall.** 
+	- Sensory Loss 
+		- somatosensory, visual, or vestibular deficits 
+		- 
