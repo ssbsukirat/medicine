@@ -70,4 +70,7 @@
 - "slipping clutch" inability to start gait 
 - aka **lower body parkinsons** 
 - higher-level motor control disorder, as opposed to an apraxia (but still called **Gait Apraxia**) 
-- M/c due to vascular disease - subcortical small-vessel disease in deep white frontal 
+- M/c due to vascular disease - subcortical small-vessel disease in deep white frontal matter
+- NPH may have similar gait 
+## Cerebellar Gait 
+- wide base of support, lateral instability of the trunk, erratic foot placement, and decompensation of balance when attempting to walk on a narrow base
