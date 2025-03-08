@@ -73,4 +73,12 @@
 - M/c due to vascular disease - subcortical small-vessel disease in deep white frontal matter
 - NPH may have similar gait 
 ## Cerebellar Gait 
-- wide base of support, lateral instability of the trunk, erratic foot placement, and decompensation of balance when attempting to walk on a narrow base
+- **wide base** of support, **lateral instability** of the trunk, erratic foot placement, and **decompensation of balance when attempting to walk on a narrow base**
+- Difficulty maintaining balance when turning 
+- unable to walk tandem heel to toe and display truncal sway in narrow-based or tandem stance 
+- Stroke, trauma, tumour, MSA, hereditary 
+- Alcohol 
+- Fragile X permutation 
+## Sensory Ataxia 
+- Tabes Dorsalis, Vit B12 neuropathy
+- destabilize by closing eyes 
