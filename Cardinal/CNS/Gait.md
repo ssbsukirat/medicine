@@ -2,6 +2,8 @@
 - Step **generation** by locomotor centers in the pontine **tegmentum, midbrain, and subthalamic** region 
 - Step **modification** by **brainstem, cerebellum and forebrain**. 
 - Step synergies integrated by reticular formation and descending pathways in ventromedial spinal cord. 
+- Walking considered an unconscious activity and automatic ,
+- ***walking while doing cognitive task is dual task walking*** and maybe compromised in elderly. 
 ## Postural Control 
  - Centre of mass over the base of support needs to be maintained 
  - in legs, **110ms** needed to respond to disturbance 
@@ -14,4 +16,9 @@
 	- **vestibular and** 
 	- **proprioceptive systems.** 
 - If **2/3 systems lost** --> compromised standing balance 
+# Gait Disorder 
+- Maybe neurological or non-neurological 
+- **Asymmetry** is a common feature of gait disorders due to **contractures and other orthopedic deformities** 
+- ***The gait disorder observed clinically must be viewed as the product of a neurologic deficit and a functional adaptation*** 
+## Cautious Gait 
 - 
