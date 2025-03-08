@@ -94,4 +94,20 @@
 - altered sensorium , asterixis , myoclonus maybe seen 
 - more in renal and hepatic failure 
 - neuroleptic and benzodiazepines increase fall risk 
-## Functional Gait Disor
+## Functional Gait Disorder  or Pyschogenic 
+- common in practice 
+	- Sudden onset,
+	- inconsistent deficits,
+	- waxing and waning course 
+	- incongruence of symptoms with an organic lesion
+	- improvement with distraction
+- Astasia-Abasia 
+	- inability to stand and walk 
+- bouncing 
+- foot stiffness 
+
+# Balance Disorder 
+## Definition , ETIOLOGY , Manifest 
+- Balance is ability to maintain **equilibrium** - 
+	- **dynamic state in which one’s center of mass is controlled with respect to the lower extremities, gravity, and the support surface despite external perturbations** 
+- 
