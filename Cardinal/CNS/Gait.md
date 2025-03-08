@@ -139,3 +139,13 @@
 	- comorbidities 
 	- medication review 
 	- mechanical or extrinsic fall vs intrinsic component 
+	- recurrent falls 
+	- loss of consciousness --> cardiac and neuro evaluation 
+- EXAMINATION 
+	- Cardiac, orthostatic hypotension 
+	- orthopedic abnormalities 
+	- GCS and MMSE 
+	- detailed Neuro 
+- Fall pattern 
+	- **Drop attacks** - sudden loss of postural tone --> syncope or postural hypotension , atonic seizure, myoclonus , intermittent obstruction of the foramen of Monro by a colloid cyst of the third ventricle causing **acute obstructive hydrocephalus** 
+	- if emtion
