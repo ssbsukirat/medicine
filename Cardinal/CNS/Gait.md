@@ -26,5 +26,5 @@
 - non-specific and common in 1/3 with gait impairment  
 - a/w fear of falls
 - Physical therapy --> improve walking --> follow-up observation --> identify underlying cause 
-## Stiff Legged Gait 
-- 
+## Stiff Legged / Spastic Gait 
+- Stiff legs, imbalance in muscle tone
