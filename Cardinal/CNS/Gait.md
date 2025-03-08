@@ -110,4 +110,14 @@
 ## Definition , ETIOLOGY , Manifest 
 - Balance is ability to maintain **equilibrium** - 
 	- **dynamic state in which one’s center of mass is controlled with respect to the lower extremities, gravity, and the support surface despite external perturbations** 
+- cerebellar ataxia do not generally complain of dizziness, although balance is visibly impaired.
+- Vestibular 
+	- Vertigo - subjective inappropriate perception or illusion of movement 
+	- Nystagmus - Involuntary eye movement 
+	- Impaired standing balance 
+- Somatosensory a/w with subjective sense of insecure balance and fear of falling 
+	- romberg ++ 
+	- difficult navigating in dark 
+## Fall Risk 
+- Intrinsic
 - 
