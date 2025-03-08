@@ -120,4 +120,22 @@
 	- difficult navigating in dark 
 ## Fall Risk 
 - Intrinsic
-- 
+	- gait balance disorder 
+- Extrinsic 
+	- polypharmacy 
+	- environment 
+- multiple risk factors increase risk 
+- ![[fallrisk.png]]
+## Assessment of patient with fall 
+- annually ask about falls or fear of falling 
+- **TUG** test 
+	- timed up and go test 
+	- get up --> walk 10ft --> turn --> sit 
+	- if >12s --> further assessment 
+- History 
+	- provoking factors (including head turn, standing)
+	- prodromal symptoms
+	- FNDs 
+	- comorbidities 
+	- medication review 
+	- mechanical or extrinsic fall vs intrinsic component 
