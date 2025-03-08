@@ -82,3 +82,16 @@
 ## Sensory Ataxia 
 - Tabes Dorsalis, Vit B12 neuropathy
 - destabilize by closing eyes 
+- ![[gaittable.png]]
+## Neuromuscular Disease 
+- Steppage Gait 
+	- distal weakness 
+	- step height increased to compensate foot drop and sole of foot may slap floor while weight bearing 
+- Myopathy or dystrophy have proximal weakness 
+- Hip girdle - excess pelvic sway during locomotion 
+- stooped posture of **lumbar spinal stenosis** ameliorates pain from the compression of the cauda equina occurring with a more upright posture while walking and **may mimic early parkinsonism.** 
+## Toxic and Metabolic 
+- altered sensorium , asterixis , myoclonus maybe seen 
+- more in renal and hepatic failure 
+- neuroleptic and benzodiazepines increase fall risk 
+## Functional Gait Disor
