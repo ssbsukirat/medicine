@@ -21,4 +21,10 @@
 - **Asymmetry** is a common feature of gait disorders due to **contractures and other orthopedic deformities** 
 - ***The gait disorder observed clinically must be viewed as the product of a neurologic deficit and a functional adaptation*** 
 ## Cautious Gait 
+- **abbreviated stride, widened base, and lowered center of mass, as if walking on a slippery surface**
+- Arms abducted 
+- non-specific and common in 1/3 with gait impairment  
+- a/w fear of falls
+- Physical therapy --> improve walking --> follow-up observation --> identify underlying cause 
+## Stiff Legged Gait 
 - 
