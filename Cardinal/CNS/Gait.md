@@ -62,4 +62,12 @@
 	- PSP - **more erect gait than PD and more falls.** 
 	- vascular PD - broad based shuffling with bilateral reduced arm swing & **disproportionate gait involvement early** 
 - Huntington Disease - unpredictable choreic movements --> dancing quality 
-- Tardive Dyskinesias --> 
+- Tardive Dyskinesias --> cause of many odd, stereotypic gait disorders seen in patients chronically exposed to antipsychotics and other drugs that block the D2 dopamine receptor
+- Orthostatic tremor is a high-frequency, low-amplitude tremor predominantly involving the lower extremities.
+## Frontal Gait Disorder (Higher-level gait disorder)
+- shuffling , freezing gait with imbalance a/w signs of cerebral dysfunction 
+- wide based, short stride, shuffling along floor, ***difficult starts and turns*** 
+- "slipping clutch" inability to start gait 
+- aka **lower body parkinsons** 
+- higher-level motor control disorder, as opposed to an apraxia (but still called **Gait Apraxia**) 
+- M/c due to vascular disease - subcortical small-vessel disease in deep white frontal 
