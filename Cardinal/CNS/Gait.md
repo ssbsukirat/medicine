@@ -27,4 +27,21 @@
 - a/w fear of falls
 - Physical therapy --> improve walking --> follow-up observation --> identify underlying cause 
 ## Stiff Legged / Spastic Gait 
-- Stiff legs, imbalance in muscle tone
+- Stiff legs, imbalance in muscle tone 
+- **circumduction and scuffing of feet** 
+- may walk on toes 
+- **Scissoring** gait - if **increased** tone in **adductors** leading to leg crossing 
+- Spinal / Myelopathy 
+	- cervical spondylosis in elderly 
+	- trauma or demyelination in younger 
+	- rule out tumor or spinal vascular malformation 
+- Cerebral 
+	- **assymetric** , **upper**-extremity involvement  
+	- **dysarthria** 
+	- stroke, MS, MND, Cerebral palsy 
+- Dystonia 
+	- disorder characterized by sustained muscle contractions resulting in repetitive twisting movements and abnormal posture
+	- genetic mostly 
+	- plantar flexion and inversion of feet with torsion of trunk 
+- Stiff-Person Syndrome 
+	- 
