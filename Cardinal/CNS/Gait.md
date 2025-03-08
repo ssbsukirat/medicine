@@ -44,4 +44,11 @@
 	- genetic mostly 
 	- plantar flexion and inversion of feet with torsion of trunk 
 - Stiff-Person Syndrome 
-	- 
+	- autoimmune 
+	- exaggerated lordosis of the lumbar spine and overactivation of antagonist muscles restrict trunk and lower-limb movement and result in a wooden or fixed posture 
+## Parkinsons, Freezing Gait 
+- Festinating - accelerating with walking 
+- retropulsion 
+- tendency to turn en bloc 
+- step to step variability contribute to falls 
+- improve with dopamine and cholinesterase inhibitor 
