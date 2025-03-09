@@ -88,4 +88,14 @@
 - DLE - Discoid Lupus Erythematosus 
 	- m/c chronic 
 	- roughly circular with slightly raised, scaly, hyperpigmented erythematous rims and depigmented, atrophic centers in which all dermal appendages are permanently destroyed 
-	- disfiguring if on face 
+	- disfiguring if on face and scalp 
+	- 5% of DLE have SLE but 20% of SLE have DLE 
+- Acute SLE rash 
+	- **photosensitive**, 
+	- slightly raised, occasionally scaly erythema 
+	- on the face (particularly the cheeks and nose—the “**butterfly**” rash), ears, chin, V region of the neck and chest, upper back, and extensor surfaces of the arms
+	- worsening a/w flares 
+- Subacute 
+	- SCLE 
+	- scaly red patches, similar to psoriasis, or circular, flat, red-rimmed (“annular”) lesions
+	- photosensitive 
