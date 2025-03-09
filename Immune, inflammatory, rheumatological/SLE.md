@@ -197,4 +197,9 @@
 	- positive in >95%, usually at symptom onset --> some may have positive after 1 year --> repeat testing if negative is useful 
 	- IFA based more reliable than ELISA or bead assays 
 	- ANA-negative lupus --> rare in adults, anti-Ro or anti-DNA + 
+- Anti-dsDNA 
+	- high-titer IgG 
+	- not single stranded DNA 
+	- specific for SLE 
+	- increases in quantities of anti- dsDNA herald a flare, particularly of nephritis or vasculitis, and especially when associated with declining levels of C3 or C4 complement
 	- 
