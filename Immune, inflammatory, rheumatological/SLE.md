@@ -61,3 +61,7 @@
 - ANAs - repeated negative tests by immunofluorescent methods suggest that the diagnosis is not SLE, unless other autoantibodies are present 
 - high titer IgG to dsDNA ans Sm antigen are specific for SLE 
 - multiple autoantibodies in an individual without clinical symptoms should not be considered diagnostic for SLE, although such persons are at increased risk. 
+- ![[SLEslicc.png]]
+- ![[SLEslicc.png]]
+# Clinical 
+- 
