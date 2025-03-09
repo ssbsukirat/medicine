@@ -112,3 +112,9 @@
 - Renal biopsy in all SLE patients suspected of nephritis  
 - Class III and IV have microscopic hematuria and proteinuria >500mg, 50% have nephrotic
 - Lupus DPGN -- 20% have ESRD or death in 10 years 
+- 20% of SLE patients with proteinuria (usually nephrotic) have membranous glomerular changes without proliferative changes on renal biopsy -- better outcome than DPGN 
+- ongoing disease, with flares requiring re- treatment or increased treatment 
+## Neurological 
+- asking first whether the symptoms result from SLE or another condition (such as infection in immunosuppressed individuals or side effects of therapies) 
+- If symptoms are related to SLE, it should be determined whether they are caused by a diffuse process (requiring immunosuppression) or vascular occlusive disease (requiring anticoagulation) 
+- M/c is cognitive dysfunction 
