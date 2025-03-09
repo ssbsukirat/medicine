@@ -99,3 +99,15 @@
 	- SCLE 
 	- scaly red patches, similar to psoriasis, or circular, flat, red-rimmed (“annular”) lesions
 	- photosensitive 
+	- Ro (SS-A) + 
+- Urticaria 
+- Lichen-planus like dermatitis 
+- Bullae 
+- Panniculitis -- Lupus Profoundus 
+- Oral or nasal mucosal ulcerations 
+## Renal 
+- Nephritis is most serious 
+- Nephritis and infections m/c cause of death in SLE in 1st decade of disease 
+- Asymptomatic nephritis -- Urinalysis in all patients suspected of SLE 
+- Renal biopsy in all SLE patients suspected of nephritis  
+- 
