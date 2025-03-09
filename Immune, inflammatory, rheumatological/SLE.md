@@ -144,4 +144,15 @@
 	- Male, older age, HTN, dyslipidemia , Diabetes , dysfunctional proinflammatory high-density lipoproteins, high disease activity, high glucocorticoid dose, and high serum homocysteine and leptin have higher risk 
 	- Statins reduce LDL levels 
 ## Pulmonary 
-- 
+- m/c is pleuritis +/- effusion 
+	- Mild -- respond to NSAIDs 
+	- Severe - short glucocorticoid course 
+- Pulmonary infiltrates -- active SLE -- similar to infection on XRAY 
+- Interstitial Inflammation --> Fibrosis --> life-threatening  (Diffuse Interstitial Pneumonitis)
+- Shrinking lung syndrome, Intra-alveolar hemorrhage also life-threatening 
+- Pulmonary Arterial Hypertension --> manage as Idiopathic PAH
+## Cardiac 
+- Pericarditis m/c 
+	- response to NSAIDs +
+	- Some may have tamponade 
+- Myocarditis 
