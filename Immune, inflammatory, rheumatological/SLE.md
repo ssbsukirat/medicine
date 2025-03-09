@@ -14,4 +14,11 @@
 		- B and T lymphocyte subsets have altered metabolism (abnormal mitochondrial electron transport, membrane potential, and oxidative stress), increased glucose utilization, increased pyruvate production, activation of mechanistic target of rapamycin (mTOR), and increased autophagy 
 	- Increased IL-17 and reduced IL-2 --> more helper T cells and less regulatory T cells 
  - Tissue Damage 
-	 - 
+	 - Deposit of autoantibodies / Immune complexes --> complement activation & cytokine/chemokine release --> other inflammatory cells and processes also take place
+	 - Non-immune tissue-fixed cells activated 
+		 - basal cells in dermis 
+		 - synovial fibroblasts 
+		 - renal - mesangial cells , podocytes, tubular epithelium 
+		 - endothelial cells 
+- Multigenic 
+	- 
