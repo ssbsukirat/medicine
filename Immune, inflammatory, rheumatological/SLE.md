@@ -128,4 +128,10 @@
 	- maybe dominant manifestation 
 	- differentiate from steroid psychosis 
 		- first few weeks 
-		- >40mg daily doses 
+		- >40mg daily doses of prednisone 
+		- resolves after stopping 
+- Myelopathy -- high dose glucocorticoid and immunosuppression 
+## Vascular 
+- TIAs, Stroke, MI more in SLE 
+- More in antiphospholipid antibody + 
+- Focal occlusion -- non-inflammatory or a/w vasc
