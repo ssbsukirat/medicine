@@ -134,4 +134,14 @@
 ## Vascular 
 - TIAs, Stroke, MI more in SLE 
 - More in antiphospholipid antibody + 
-- Focal occlusion -- non-inflammatory or a/w vasc
+- Focal occlusion -- non-inflammatory or a/w vasculitis 
+- Embolisation -- carotid plaque or Libman-Sacks endocarditis 
+- Always test for antiphospholipid antibodies 
+- Clotting--  long-term anticoagulant 
+- MI - Accelerated atherosclerosis 
+	- 3x-10x risk overall 
+	- Women <49 max risk 
+	- Male, older age, HTN, dyslipidemia , Diabetes , dysfunctional proinflammatory high-density lipoproteins, high disease activity, high glucocorticoid dose, and high serum homocysteine and leptin have higher risk 
+	- Statins reduce LDL levels 
+## Pulmonary 
+- 
