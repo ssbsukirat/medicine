@@ -63,7 +63,20 @@
 - multiple autoantibodies in an individual without clinical symptoms should not be considered diagnostic for SLE, although such persons are at increased risk. 
 - ![[SLEslicc.png]]
 - ![[SLEslicc.png]]
+- ![[SLEdiagnosis.png]]
 # Clinical 
 - 85% of patients have either continuing active disease (on current treatment) or one or more flares of active disease annually 
 - Permanent complete remissions (absence of symptoms with no treatment) occur in <5% 
 - treatment target is remission on therapy (no clinical manifestations; abnormal laboratory tests permitted) or induction of low lupus disease activity 
+- ![[SLEclinical.png]]
+## Musculoskeletal 
+- Intermittent polyarthritis  --> mild to disabling 
+	- soft tissue swelling in tissues +/- tendons --> m/c in hands, wrists, knees 
+	- Joint deformity in 10% and reducible mostly 
+- erosions - X-ray uncommon but USG in 10-50% 
+	- with erosions may fulfill criteria for both RA and SLE (“**rhupus**”)
+- Persistent pain in 1 joint --> knee, shoulder or hip --> consider ***ischemic necrosis of bone*** 
+		- a/w SLE 
+		- in corticosteroid receiving patients 
+- Myositis 
+	- muscle weakness, elevated CK , MRI fi
