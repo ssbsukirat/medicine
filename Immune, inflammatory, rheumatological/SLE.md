@@ -159,4 +159,10 @@
 - fibrinous endocarditis of Libman-Sack
 	- can lead to valvular insufficiencies, most commonly of the mitral or aortic valves, 
 	- or to embolic events
-- 
+- administer a trial of high-dose steroids along with appropriate supportive therapy for heart failure, arrhythmia, or embolic events
+## Hematologic 
+- m/c is [[Anemia]] 
+	- NCNC M/C -- chronic inflammation & impaired iron utilisation 
+	- Hemolysis can be rapid in onset and severe, requiring high-dose glucocorticoid therapy 
+- Leucopenia 
+	- 
