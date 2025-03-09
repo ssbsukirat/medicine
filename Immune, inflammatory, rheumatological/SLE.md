@@ -21,4 +21,9 @@
 		 - renal - mesangial cells , podocytes, tubular epithelium 
 		 - endothelial cells 
 - Multigenic 
+	- Early complement deficit  --> C1q,r,s C2 C4 
+	- TREX1 on chr X (DNAase)
+	- Around 90 SNPs responsible --> increasing risk with increased number of mutation 
+	- Environment and epigenetic modify risk 
+	- **most characteristic** increased gene expression pattern of SLE patients - **influence IFN production or function** 
 	- 
