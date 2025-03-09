@@ -174,4 +174,20 @@
 - Recurring or prolonged hemolytic anemia or thrombocytopenia, or disease requiring an unacceptably high dose of daily glucocorticoids, should be treated with additional strategies such as rituximab, platelet growth factors, and/or splenectomy
 ## Gastrointestinal 
 - Nausea, sometimes vomiting and diarrhea 
-- Diffuse abdominal pain --> by autoimmune peritonitis  and/or intestinal vasculitis 
+- Diffuse abdominal pain --> by **autoimmune peritonitis  and/or intestinal vasculitis**  
+- AST ALT may increase in active SLE 
+- improve with steroids 
+- Vasculitis involving the intestine can be life- threatening; 
+	- perforations, ischemia, bleeding, and sepsis are frequent complications 
+	- high dose glucocorticoid 
+	- if recurrent --> additional immunosuppression 
+## Ocular 
+- Sicca , nonspecific conjunctivitis are common 
+	- rarely threaten vision 
+- Retinal Vasculitis and optic neuritis --> serious, blindness over days to weeks 
+- Need aggressive immunosuppression 
+# Laboratory 
+- to establish or rule out the diagnosis 
+- to follow the course of disease and, in particular, to suggest that a flare is occurring or organ damage is developing 
+- to identify adverse effects of therapies
+## Autoa
