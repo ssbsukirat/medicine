@@ -201,5 +201,18 @@
 	- high-titer IgG 
 	- not single stranded DNA 
 	- specific for SLE 
-	- increases in quantities of anti- dsDNA herald a flare, particularly of nephritis or vasculitis, and especially when associated with declining levels of C3 or C4 complement
-	- 
+	- increases in quantities of anti-dsDNA --> flare, particularly of nephritis or vasculitis, a/w declining levels of C3 or C4 complement
+- Anti-Sm 
+	- specific 
+	- do not correlate to disease activity or manifestation 
+- Antiphospholipid Antibodies 
+	- not specific 
+	- classify as increased risk for venous or arterial clotting, thrombocytopenia , fetal loss 
+	- anti-cardiolipin, anti-B2-glycoprotein (ELISA), lupus anticoagulant (Dilute Russell venom aPTT)
+	- Antiphospholipid syndrome  
+		- >1 clotting episode  and/or repeated fetal loss with 2 positive tests atleast 12 weeks apart 
+- Anti-Ro/SS-A 
+	- Neonatal lupus, sicca syndrome, SCLE 
+	- not for diagnosis 
+- C1q antibodies 
+	- not specific 
