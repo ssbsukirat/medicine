@@ -35,4 +35,6 @@
 	- XXY - Klinefelter has higher risk 
 - Environment 
 	- UV light causes flares 
+	- infections and lupus-inducing drugs activate autoreactive T and B cells 
+	- EBV trigger SLE in susceptible 
 	- 
