@@ -64,4 +64,6 @@
 - ![[SLEslicc.png]]
 - ![[SLEslicc.png]]
 # Clinical 
-- 
+- 85% of patients have either continuing active disease (on current treatment) or one or more flares of active disease annually 
+- Permanent complete remissions (absence of symptoms with no treatment) occur in <5% 
+- treatment target is remission on therapy (no clinical manifestations; abnormal laboratory tests permitted) or induction of low lupus disease activity 
