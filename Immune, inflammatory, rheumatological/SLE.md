@@ -13,3 +13,5 @@
 			- Epigenetic changes --> increased open chromatin 
 		- B and T lymphocyte subsets have altered metabolism (abnormal mitochondrial electron transport, membrane potential, and oxidative stress), increased glucose utilization, increased pyruvate production, activation of mechanistic target of rapamycin (mTOR), and increased autophagy 
 	- Increased IL-17 and reduced IL-2 --> more helper T cells and less regulatory T cells 
+ - Tissue Damage 
+	 - 
