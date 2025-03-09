@@ -47,4 +47,10 @@
 	- inflammation dominated by T lymphocytes in the DEJ and around blood vessels and dermal appendages
 	- expression of IFN-regulated cytokines and chemokines and by IFN-producing pDCs and keratinocytes 
 - Renal 
-	- 
+	- pattern and severity of injury are important in diagnosis and in selecting the best therapy 
+	- ISN/RPS classification, the addition of “A” for active and “C” for chronic changes 
+	- class III and IV disease, as well as class V accompanied by III or IV disease, treated with aggressive immunosuppression if possible because there is a high risk for ESRD if patients are untreated or undertreated
+	- do not treat class I, II or irreversible changes -VI 
+	- class III or class IV renal histology in the presence of antinuclear autoantibodies, without meeting additional criteria = SLE 
+	- ![[SLEnephritis.png]]
+- 
