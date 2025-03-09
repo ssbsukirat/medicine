@@ -37,4 +37,8 @@
 	- UV light causes flares 
 	- infections and lupus-inducing drugs activate autoreactive T and B cells 
 	- EBV trigger SLE in susceptible 
-	- 
+	- Tobacco use 1.5 higher risk 
+	- Crystalline silica exposure 
+	- pesticide exposure 
+## Pathology 
+- 
