@@ -155,4 +155,8 @@
 - Pericarditis m/c 
 	- response to NSAIDs +
 	- Some may have tamponade 
-- Myocarditis 
+- Myocarditis --> associated with left ventricular dysfunction and heart failure
+- fibrinous endocarditis of Libman-Sack
+	- can lead to valvular insufficiencies, most commonly of the mitral or aortic valves, 
+	- or to embolic events
+- 
