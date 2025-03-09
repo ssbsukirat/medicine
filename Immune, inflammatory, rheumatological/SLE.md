@@ -117,4 +117,15 @@
 ## Neurological 
 - asking first whether the symptoms result from SLE or another condition (such as infection in immunosuppressed individuals or side effects of therapies) 
 - If symptoms are related to SLE, it should be determined whether they are caused by a diffuse process (requiring immunosuppression) or vascular occlusive disease (requiring anticoagulation) 
-- M/c is cognitive dysfunction 
+- M/c is cognitive dysfunction -- memory and reasoning defects 
+- headache common 
+	- excruciating in flares 
+	- mild like migraine or tension headache 
+- Seizure 
+	- any type 
+	- anti-seizure and immunosuppression both needed 
+- Psychosis 
+	- maybe dominant manifestation 
+	- differentiate from steroid psychosis 
+		- first few weeks 
+		- >40mg daily doses 
