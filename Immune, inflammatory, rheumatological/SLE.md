@@ -41,4 +41,8 @@
 	- Crystalline silica exposure 
 	- pesticide exposure 
 ## Pathology 
-- 
+- affected skin 
+	- deposition of Ig at the dermal-epidermal junction (DEJ), 
+	- injury to basal keratinocytes, 
+	- inflammation dominated by T lymphocytes in the DEJ and around blood vessels and dermal appendages
+	- 
