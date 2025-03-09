@@ -110,4 +110,5 @@
 - Nephritis and infections m/c cause of death in SLE in 1st decade of disease 
 - Asymptomatic nephritis -- Urinalysis in all patients suspected of SLE 
 - Renal biopsy in all SLE patients suspected of nephritis  
-- 
+- Class III and IV have microscopic hematuria and proteinuria >500mg, 50% have nephrotic
+- Lupus DPGN -- 20% have ESRD or death in 10 years 
