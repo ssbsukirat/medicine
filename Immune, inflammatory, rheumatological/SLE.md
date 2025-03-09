@@ -45,4 +45,6 @@
 	- deposition of Ig at the dermal-epidermal junction (DEJ), 
 	- injury to basal keratinocytes, 
 	- inflammation dominated by T lymphocytes in the DEJ and around blood vessels and dermal appendages
+	- expression of IFN-regulated cytokines and chemokines and by IFN-producing pDCs and keratinocytes 
+- Renal 
 	- 
