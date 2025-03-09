@@ -165,4 +165,13 @@
 	- NCNC M/C -- chronic inflammation & impaired iron utilisation 
 	- Hemolysis can be rapid in onset and severe, requiring high-dose glucocorticoid therapy 
 - Leucopenia 
-	- 
+	- lymphopenia not granulocytopenia 
+	- lymphopenia may sometimes predisposes to infection but no treatment needed 
+- Thrombocytopenia 
+	- recurrent 
+	- if >40000 + no bleeding--> no treatment 
+	- 1mg/kg prednisone for 1st few episodes of severe thrombocytopenia 
+- Recurring or prolonged hemolytic anemia or thrombocytopenia, or disease requiring an unacceptably high dose of daily glucocorticoids, should be treated with additional strategies such as rituximab, platelet growth factors, and/or splenectomy
+## Gastrointestinal 
+- Nausea, sometimes vomiting and diarrhea 
+- Diffuse abdominal pain --> by autoimmune peritonitis  and/or intestinal vasculitis 
