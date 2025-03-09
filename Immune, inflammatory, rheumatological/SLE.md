@@ -26,4 +26,7 @@
 	- Around 90 SNPs responsible --> increasing risk with increased number of mutation 
 	- Environment and epigenetic modify risk 
 	- **most characteristic** increased gene expression pattern of SLE patients - **influence IFN production or function** 
-	- 
+	- hypermethylation of genes 
+- Females 
+	- permissive for SLE 
+	- hormones, 
