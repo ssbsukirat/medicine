@@ -54,4 +54,10 @@
 	- class III or class IV renal histology in the presence of antinuclear autoantibodies, without meeting additional criteria = SLE 
 	- ![[SLEnephritis.png]]
 
-## 
+## Diagnosis 
+- criteria are intended for diagnosis of SLE in subjects included in studies; the authors use them in individual patients for estimating the probability that a disease is SLE 
+- SLICC criteria, any combination of four or more well-documented criteria at any time during an individual’s history, with at least one in the clinical and one in the immunologic category, makes it likely that the patient has SLE (specificity 97%, sensitivity 84%) 
+- EULAR/ACR criteria, a subject must have a positive ANA (≥1:80 by immunofluorescence) and a score of 10 (specificity 97%, sensitivity 93%) 
+- ANAs - repeated negative tests by immunofluorescent methods suggest that the diagnosis is not SLE, unless other autoantibodies are present 
+- high titer IgG to dsDNA ans Sm antigen are specific for SLE 
+- multiple autoantibodies in an individual without clinical symptoms should not be considered diagnostic for SLE, although such persons are at increased risk. 
