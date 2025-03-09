@@ -7,4 +7,9 @@
 		- ***pDCs*** --> **IFN-alpha --> upregulation of genes** in blood, peripheral blood cells, skin lesion, synovium, kidney --> **"genetic signature"** in 50-80% of active disease patients 
 		- Activated **macrophage** --> IL-12 , TNF-α , BLys/BAFF (B cell maturation / survival factor)
 		- **Lupus Phagocytic Cells** --> reduced ability to clear immune complex , apoptotic cells & autoantigen-containing (e.g., DNA/RNA/Ro/La and phospholipid) surface blebs
-		- 
+	- Interaction of activated innate immunity 
+		- Hyperactivation of B-cells by receptors 
+			- Double negative B cells (DN2: CD27–CD11c+T-BET+CXCR5–)
+			- Epigenetic changes --> increased open chromatin 
+		- B and T lymphocyte subsets have altered metabolism (abnormal mitochondrial electron transport, membrane potential, and oxidative stress), increased glucose utilization, increased pyruvate production, activation of mechanistic target of rapamycin (mTOR), and increased autophagy 
+	- Increased IL-17 and reduced IL-2 --> more helper T cells and less regulatory T cells 
