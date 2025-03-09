@@ -29,4 +29,10 @@
 	- hypermethylation of genes 
 - Females 
 	- permissive for SLE 
-	- hormones, 
+	- hormones, Genes on X, epigenetic 
+	- females have more antibody response 
+	- estrogen containing HRT or OCPs further raise risk 
+	- XXY - Klinefelter has higher risk 
+- Environment 
+	- UV light causes flares 
+	- 
