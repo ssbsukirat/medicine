@@ -215,4 +215,5 @@
 	- Neonatal lupus, sicca syndrome, SCLE 
 	- not for diagnosis 
 - C1q antibodies 
-	- not specific 
+	- not specific or sensitive 
+	- a/w active lupus nephritis 
