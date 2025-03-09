@@ -79,4 +79,13 @@
 		- a/w SLE 
 		- in corticosteroid receiving patients 
 - Myositis 
-	- muscle weakness, elevated CK , MRI fi
+	- muscle weakness, elevated CK , MRI findings ++ 
+	- muscle necrosis and inflammation on Biopsy 
+	- most have myalgia without myositis 
+	- consider steroid/anti-malarial myopathy 
+## Cutaneous 
+- Acute, subacute, chronic 
+- DLE - Discoid Lupus Erythematosus 
+	- m/c chronic 
+	- roughly circular with slightly raised, scaly, hyperpigmented erythematous rims and depigmented, atrophic centers in which all dermal appendages are permanently destroyed 
+	- disfiguring if on face 
