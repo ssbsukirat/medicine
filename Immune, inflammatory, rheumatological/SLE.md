@@ -190,4 +190,11 @@
 - to establish or rule out the diagnosis 
 - to follow the course of disease and, in particular, to suggest that a flare is occurring or organ damage is developing 
 - to identify adverse effects of therapies
-## Autoa
+## Autoantibodies 
+- ![[SLEantibodies.png]]
+- ANA
+	- most important 
+	- positive in >95%, usually at symptom onset --> some may have positive after 1 year --> repeat testing if negative is useful 
+	- IFA based more reliable than ELISA or bead assays 
+	- ANA-negative lupus --> rare in adults, anti-Ro or anti-DNA + 
+	- 
