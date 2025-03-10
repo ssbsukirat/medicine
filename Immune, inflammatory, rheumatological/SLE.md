@@ -217,3 +217,13 @@
 - C1q antibodies 
 	- not specific or sensitive 
 	- a/w active lupus nephritis 
+## Following Up --> Disease Course
+- urinalysis for hematuria and proteinuria
+- hemoglobin levels, platelet counts
+- serum levels of creatinine or albumin
+- anti-DNA and anti-C1q levels 
+- C3 levels 
+- activated complement products --> level of binding to C4d receptor on RBCs and B cells 
+- IFN-inducible gene expression 
+- Serum BLyS levels --> B lymphocyte stimulator, also called BAFF
+- Urinary TNF-like weak inducer 
