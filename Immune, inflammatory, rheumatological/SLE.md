@@ -322,3 +322,4 @@
 		- low birth weight 
 		- CNS development anomalies 
 		- adult metabolic syndrome 
+- Hydroxychloroquine and lowest possible glucocorticoid must be used 
