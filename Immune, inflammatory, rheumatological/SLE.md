@@ -284,6 +284,7 @@
 - Toxicity 
 	- mycophenolate mofetil --> diarrhea common
 	- high-dose cyclophosphamide --> amenorrhea, leukopenia, and nausea 
+		- ovarian failure treated by GnRH agonist Leuprolide IM 3.75 before each monthly dose 
 	- similar rates of severe infection and death 
 - Cyclophosphamide 
 	- whites --> low doses of cyclophosphamide (500 mg every 2 weeks for six total doses, followed by daily azathioprine or mycophenolate maintenance) are as effective as standard high doses
@@ -292,3 +293,13 @@
 	- cellular or fibrotic crescents in glomeruli with proliferative glomerulonephritis, or rapidly progressive glomerulonephritis
 	- High-dose cyclophosphamide (500–1000 mg/m2 body surface area given monthly IV for 6 months, followed by azathioprine or mycophenolate maintenance) 
 - Cyclophosphamide and mycophenolate responses begin 3–16 weeks after treatment is initiated, whereas glucocorticoid responses may begin within 24 h
+- improved short-term responses with a combination of calcineurin inhibitors (tacrolimus, voclosporin) plus mycophenolate (MMF) plus glucocorticoids (GC) compared with MMF or cyclophosphamide with GC. 
+- Maintenance 
+	- MMF, Azathioprine safer than cyclophosphamide 
+	- MMF better than Azathioprine in survival 
+	- MMF (1.5-2g/day) = Azathioprine (1-2.5mg/kg/day) in flare reduction 
+	- Screen patients for TMPT homozygous deficiency before azathioprine  --> increased risk of bone marrow suppression 
+- If Membranous and Proliferative features on Biopsy --> treat as proliferative 
+	- if only membranous 
+		- Only treat if nephrotic range proteinuria 
+		- alter
