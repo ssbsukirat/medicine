@@ -406,4 +406,4 @@
 	- Sulfasalazine; 
 	- hydrochlorothiazide; 
 	- lovastatin and simvastatin
-	- IFNs TNF inhi
+	- IFNs TNF inhibitors 
