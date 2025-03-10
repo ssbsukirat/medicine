@@ -308,4 +308,17 @@
 	- Methotrexate in arthritis , dermatitis 
 	- HCQ give to most patients -- prolongs survival 
 	- Proteinuria >500mg/day --> ACE / ARBs 
-- 
+
+## Pregnancy and Lupus 
+- 2-3x rates of fetal loss --> increased in 
+	- high disease activity 
+	- APLA antibodies --> lupus anticoagulant specific 
+	- Hypertension 
+	- Lupus nephritis 
+- fertility preserved
+- achieve suppression of disease activity with glucocorticoid 
+	- placental enzyme, 11-β- dehydrogenase 2, deactivates glucocorticoids --> more for prednisone and prednisolone , less for dexamethasone , betamethasone (but both are flourinated)
+	- S/E -- more with flourinated and betamethasone 
+		- low birth weight 
+		- CNS development anomalies 
+		- adult metabolic syndrome 
