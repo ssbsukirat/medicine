@@ -249,4 +249,6 @@
 	- well tolerated daily dose of anti-malarial +/- immunosuppression 
 # Conservative Therapy 
 - Non life-threatening 
+	- fatigue, pain, and autoantibodies indicative of SLE but without major organ involvement, management can be directed to suppression of symptoms
+- Analgesic and anti-malarial mainstay 
 - 
