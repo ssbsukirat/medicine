@@ -302,4 +302,10 @@
 - If Membranous and Proliferative features on Biopsy --> treat as proliferative 
 	- if only membranous 
 		- Only treat if nephrotic range proteinuria 
-		- alter
+		- alternate day GC + Cyclophosphamide /MMF/ Cyclosporine/ Tacrolimus 
+- Others 
+	- Leflunomide limited use 
+	- Methotrexate in arthritis , dermatitis 
+	- HCQ give to most patients -- prolongs survival 
+	- Proteinuria >500mg/day --> ACE / ARBs 
+- 
