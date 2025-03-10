@@ -250,5 +250,17 @@
 # Conservative Therapy 
 - Non life-threatening 
 	- fatigue, pain, and autoantibodies indicative of SLE but without major organ involvement, management can be directed to suppression of symptoms
-- Analgesic and anti-malarial mainstay 
+- Analgesic and anti-malarial mainstay --> 
+	- especially arthritis arthralgia 
+	- increased risk of NSAID induced aseptic meningitis 
+	- Elevated serum transaminases 
+	- hypertension 
+	- renal dysfunction 
+	- COX-2 inhibitors increase risk of MI 
+- Antimalarials (hydroxychloroquine, chloroquine, and quinacrine) 
+	- often reduce disease symptoms
+	- hydroxychloroquine withdrawal may increase number of flares 
+	- hydroxychloroquine prolongs survival and reduces tissue damage, renal damage
+	- hydroxychloroquine blood level ≥750 ng/mL to optimize responses in active SLE --> reduce dose after response + 
+	- Annual ophthalmological examinations as retinal toxicity + 
 - 
