@@ -226,4 +226,6 @@
 - activated complement products --> level of binding to C4d receptor on RBCs and B cells 
 - IFN-inducible gene expression 
 - Serum BLyS levels --> B lymphocyte stimulator, also called BAFF
-- Urinary TNF-like weak inducer 
+- Urinary TNF-like weak inducer of apoptosis (TWEAK)
+- neutrophil gelatinase-associated lipocalin (NGAL)
+- monocyte chemotactic protein 1 (MCP-1)
