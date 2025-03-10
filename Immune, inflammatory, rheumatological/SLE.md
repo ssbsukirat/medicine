@@ -243,4 +243,10 @@
 	- leukopenia 1 
 - LLDAS 
 	- SLEDAI-2K less than or equal to 4 
-	- no new activity as compared to prev
+	- no new activity as compared to previous 
+	- physician global assessment  <_ 1 
+	- prednisone dose <_ 7.5mg daily 
+	- well tolerated daily dose of anti-malarial +/- immunosuppression 
+# Conservative Therapy 
+- Non life-threatening 
+- 
