@@ -281,4 +281,9 @@
 	- Either cyclophosphamide (an alkylating agent) or mycophenolate mofetil (a relatively lymphocyte-specific inhibitor of inosine monophosphatase and therefore of purine synthesis) is an acceptable choice for induction of improvement in severely ill patients
 	- azathioprine (a purine analogue and cycle-specific antimetabolite) may be effective but is associated with more flares
 	- biopsies show ISN grade III or IV disease, early treatment with combinations of glucocorticoids and cyclophosphamide reduces progression to ESRD and death 
-	- 
+- Toxicity 
+	- mycophenolate mofetil --> diarrhea common
+	- high-dose cyclophosphamide --> amenorrhea, leukopenia, and nausea 
+	- similar rates of severe infection and death 
+- Cyclophosphamide 
+	- whites --> 
