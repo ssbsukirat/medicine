@@ -265,3 +265,13 @@
 	- Annual ophthalmological examinations as retinal toxicity + 
 - quality of life is inadequate despite these conservative measures --> low doses of systemic glucocorticoids may be necessary
 - **Belimumab (anti-Baff)** and **anifrolumab (anti-IFN type 1 receptor)** are biologics that are each effective for patients with persistent disease activity and fatigue despite standard therapies
+	- robust clinical activity (SLEDAI- 2K score of ≥10), positive anti-DNA, and low serum complement 
+- Lupus dermatitis 
+	- topical sunscreens 
+	- anti-malarials 
+	- topical glucocorticoids 
+	- and/or tacrolimus
+	- if severe or unresponsive, systemic glucocorticoids with or without mycophenolate mofetil, azathioprine, methotrexate, or belimumab
+	- anifrolumab 
+# Life-threatening 
+- 
