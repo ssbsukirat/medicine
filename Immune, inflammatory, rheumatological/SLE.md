@@ -328,4 +328,25 @@
 	- LMWH + low-dose Aspirin 
 	- Warfarin is teratogenic 
 	- NOACs safety unknown so not to be given 
+- antibodies to Ro 
+	- Neonatal Lupus 
+		- rash +/- congenital heart block +/- Cardiomyopathy 
+		- monitoring of FHR --> if distress --> deliver 
+		- Hydroxychloroquine if previous fetus had block --> reduces chances in next 
+## Lupus and APLA 
+- APS 
+	- Patients with SLE who have venous or arterial clotting and/or repeated fetal losses and at least two positive tests for antiphospholipid antibodies 
+	- managed with long-term anticoagulation
+- Warfarin target INR 2-2.5 --> 1 episode of venous clotting 
+- INR 3-35 --> arterial or recurrent clotting 
+## Microvascular Thrombotic Crisis (Thrombotic Thrombocytopenic Purpura, Hemolytic-Uremic Syndrome) 
+- hemolysis, thrombocytopenia, and microvascular thrombosis in kidneys, brain, and other tissues 
+- high mortality rate
+- most commonly in young individuals with lupus nephritis
+- Labs 
+	- identification of schistocytes on peripheral blood smears,
+	- elevated serum levels of lactate dehydrogenase, 
+	- low levels of ADAMS13 activity
+- Plasma exchange or extensive plasmapheresis + glucocorticoid therapy
+## Lupus Dermatitis 
 - 
