@@ -349,4 +349,28 @@
 	- low levels of ADAMS13 activity
 - Plasma exchange or extensive plasmapheresis + glucocorticoid therapy
 ## Lupus Dermatitis 
-- 
+- minimize exposure to ultraviolet light, 
+	- using appropriate clothing
+	- sunscreens with a sun protection factor of at least 30
+- Topical steroids and antimalarials 
+- Methotrexate, azathioprine, mycophenolate, belimumab and anifrolumab effective 
+- Retinoid therapy systemic -- but teratogenic 
+- Glucocorticoid tapering may be accompanied by flare of lesions, thus necessitating use of a second medication such as hydroxychloroquine, retinoids, or belimumab
+- therapy-resistant lupus dermatitis 
+	- ttopical tacrolimus (caution must be exerted because of the possible increased risk for malignancies)
+	- systemic dapsone or thalidomide or the related lenalidomide (the extreme danger of fetal deformities from thalidomide requires permission from and supervision by the supplier; peripheral neuropathy is also common) 
+## PREVENTIVE 
+- appropriate vaccinations (the administration of influenza and pneumococcal vaccines has been studied in patients with SLE; flare rates are similar to those receiving placebo) 
+- suppressing recurrent urinary tract infections
+- Vaccination with attenuated live viruses is generally discouraged in patients who are immunosuppressed 
+- Prophylaxis 
+	- Receiving ≥20 mg of prednisone daily
+	- pneumocystis infections with trimethoprim-sulfamethoxazole (Bactrim) or atovaquone (we prefer the latter because SLE patients are predisposed to allergic reactions to sulfa-containing medications)
+	- recurrent herpes simplex infections with acyclovir 
+	- preventives withdrawn when the prednisone dose is decreased
+- protected from steroid-induced osteoporosis with calcium supplementation, vitamin D, and either bisphosphonates or denosumab 
+- Statin therapies reduce all-cause deaths in SLE patients and should be considered in patients with elevated LDL or total cholesterol levels 
+- Malignancy risk 
+	- non-Hodgkin lymphomas and cancers of thyroid, lung, liver, and vulvar/vaginal tissues.
+
+# Progno
