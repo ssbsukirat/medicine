@@ -286,4 +286,9 @@
 	- high-dose cyclophosphamide --> amenorrhea, leukopenia, and nausea 
 	- similar rates of severe infection and death 
 - Cyclophosphamide 
-	- whites --> 
+	- whites --> low doses of cyclophosphamide (500 mg every 2 weeks for six total doses, followed by daily azathioprine or mycophenolate maintenance) are as effective as standard high doses
+	- African-American or Hispanic patients with proliferative glomerulonephritis with mycophenolate mofetil (2–3 g daily) rather than cyclophosphamide, with the option to switch if no evidence of response is detectable after 2–6 months of treatment 
+- Severe disease, poorer prognosis -->
+	- cellular or fibrotic crescents in glomeruli with proliferative glomerulonephritis, or rapidly progressive glomerulonephritis
+	- High-dose cyclophosphamide (500–1000 mg/m2 body surface area given monthly IV for 6 months, followed by azathioprine or mycophenolate maintenance) 
+- Cyclophosphamide and mycophenolate responses begin 3–16 weeks after treatment is initiated, whereas glucocorticoid responses may begin within 24 h
