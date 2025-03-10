@@ -274,4 +274,6 @@
 	- if severe or unresponsive, systemic glucocorticoids with or without mycophenolate mofetil, azathioprine, methotrexate, or belimumab
 	- anifrolumab 
 # Life-threatening 
+- mainstay is systemic glucocorticoids (0.5–1 mg/kg per day PO or 500–1000 mg of methylprednisolone sodium succinate IV daily for 3 days followed by 0.5–1 mg/kg of daily prednisone or equivalent) 
+- high doses are recommended for much shorter periods; recent trials of interventions for severe SLE use 4–6 weeks of 0.5–1 mg/kg per day of prednisone or equivalent
 - 
