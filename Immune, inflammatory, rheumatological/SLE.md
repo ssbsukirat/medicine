@@ -322,4 +322,10 @@
 		- low birth weight 
 		- CNS development anomalies 
 		- adult metabolic syndrome 
-- Hydroxychloroquine and lowest possible glucocorticoid must be used 
+- Hydroxychloroquine and lowest possible glucocorticoid must be used +/- Azathioprine 
+- Avoid Breast-Feeding if treating SLE 
+- SLE + APLA + prior fetal loss 
+	- LMWH + low-dose Aspirin 
+	- Warfarin is teratogenic 
+	- NOACs safety unknown so not to be given 
+- 
