@@ -229,3 +229,18 @@
 - Urinary TNF-like weak inducer of apoptosis (TWEAK)
 - neutrophil gelatinase-associated lipocalin (NGAL)
 - monocyte chemotactic protein 1 (MCP-1)
+- 30 mg of prednisone daily for 2 weeks has been shown to prevent flares in patients with rising anti-DNA plus falling complement
+# MANAGEMENT 
+- aim for **low-level disease activity (LLDAS)** --> mild symptoms on the lowest possible doses of medications
+- LLDAS uses SLE Disease Activity Score 2K --> SLEDAI-2K 
+	- >3 active disease 
+	- arthritis 4 points 
+	- rash 2 
+	- pleurisy 2
+	- proteinuria 4 
+	- vascultis 8 
+	- Low complement 2
+	- leukopenia 1 
+- LLDAS 
+	- SLEDAI-2K less than or equal to 4 
+	- no new activity as compared to prev
