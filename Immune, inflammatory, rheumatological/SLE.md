@@ -276,4 +276,9 @@
 # Life-threatening 
 - mainstay is systemic glucocorticoids (0.5–1 mg/kg per day PO or 500–1000 mg of methylprednisolone sodium succinate IV daily for 3 days followed by 0.5–1 mg/kg of daily prednisone or equivalent) 
 - high doses are recommended for much shorter periods; recent trials of interventions for severe SLE use 4–6 weeks of 0.5–1 mg/kg per day of prednisone or equivalent
-- 
+- One open trial showed high response rates in patients with lupus nephritis treated with mycophenolate mofetil plus rituximab, without maintenance daily glucocorticoids
+- nephritis 
+	- Either cyclophosphamide (an alkylating agent) or mycophenolate mofetil (a relatively lymphocyte-specific inhibitor of inosine monophosphatase and therefore of purine synthesis) is an acceptable choice for induction of improvement in severely ill patients
+	- azathioprine (a purine analogue and cycle-specific antimetabolite) may be effective but is associated with more flares
+	- biopsies show ISN grade III or IV disease, early treatment with combinations of glucocorticoids and cyclophosphamide reduces progression to ESRD and death 
+	- 
