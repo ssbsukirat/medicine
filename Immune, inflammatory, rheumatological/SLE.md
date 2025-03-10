@@ -263,4 +263,5 @@
 	- hydroxychloroquine prolongs survival and reduces tissue damage, renal damage
 	- hydroxychloroquine blood level ≥750 ng/mL to optimize responses in active SLE --> reduce dose after response + 
 	- Annual ophthalmological examinations as retinal toxicity + 
-- 
+- quality of life is inadequate despite these conservative measures --> low doses of systemic glucocorticoids may be necessary
+- **Belimumab (anti-Baff)** and **anifrolumab (anti-IFN type 1 receptor)** are biologics that are each effective for patients with persistent disease activity and fatigue despite standard therapies
