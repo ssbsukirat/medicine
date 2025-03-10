@@ -373,4 +373,37 @@
 - Malignancy risk 
 	- non-Hodgkin lymphomas and cancers of thyroid, lung, liver, and vulvar/vaginal tissues.
 
-# Progno
+# Prognosis 
+- Poor 
+	- high serum creatinine levels (>124 μmol/L ,>1.4 mg/dL)
+	- hypertension 
+	- nephrotic syndrome (24-h urine protein excretion >2.6 g)
+	- anemia (hemoglobin <124 g/L <12.4 g/dL), 
+	- hypoalbuminemia 
+	- hypocomplementemia
+	- antiphospholipid antibodies
+	- male sex
+	- ethnicity (African American, Hispanic with mestizo heritage)
+	- low socioeconomic status
+- Graft reject 
+	- 2x risk than normal patient 
+	- lupus nephritis in 5% of transplant kidneys 
+# Drug Induced Lupus 
+- ANA + 
+	- fever, malaise, arthritis or arthralgia / myalgia serositis, rash 
+- less female predilection 
+- kidney , brain rare 
+- anti-dsDNA rare 
+- histone antibodies + 
+- Drugs 
+	- antiarrhythmics --> procainamide, disopyramide, and propafenone;
+	- hydralazine; 
+	- angiotensin- converting enzyme inhibitors and beta blockers;
+	- propylthiouracil; 
+	- chlorpromazine and lithium; 
+	- carbamazepine and phenytoin;
+	- isoniazid, minocycline, and nitrofurantoin (Macrodantin)
+	- Sulfasalazine; 
+	- hydrochlorothiazide; 
+	- lovastatin and simvastatin
+	- IFNs TNF inhi
