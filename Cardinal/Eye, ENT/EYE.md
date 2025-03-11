@@ -45,4 +45,21 @@
 	- crowded disc architecture and small optic cup --> increase risk --> if in 1 eye, more risk in 2nd eye 
 	- no treatment 
 	- steroids contraindicated 
-- 
+- ***Arteritic*** 
+	- 5% 
+	- a/w Giant cell temporal arteritis 
+	- **High dose glucocorticoid to prevent blindness in 2nd eye** 
+	- Tocilizumab (IL-6 receptor mab)--> alternate to steroid 
+	- polymyalgia rheumatica maybe seen --> ESR, CRP elevated 
+	- temporal artery biopsy mandatory 
+		- as early as possible as steroids may change 
+		- 3cm long 
+		- histologic features of granulomatous inflammation 
+		- if biopsy negative --> stop steroid 
+	- glucocorticoid without awaiting biopsy 
+### Posterior Ischemic Optic Neuropathy 
+- Uncommon 
+- severe anemia + hypotension 
+- after major blood loss --> surgery , shock, GI bleed, dialysis 
+- normal fundus 
+- optic disc swelling only if 
