@@ -80,4 +80,21 @@
 	- primary or autoimmune or paraneoplastic 
 	- circulating antibodies directed against aquaporin-4 or myelin oligodendrocyte glycoprotein (MOG) is diagnostic. 
 	- Treatment for acute episodes consists of glucocorticoids followed by satralizumab, eculizumab, or inebilizumab to prevent relapse
-- 
+## Lebers Hereditary Optic Neuropathy 
+- young men 
+- Progressive painless severe central vision loss in eye --> weeks to years later in other 
+- disc appears mildly plethoric with surface capillary telangiectasias but no vascular leakage on fluorescein angiography 
+- eventually optic atrophy 
+- NADH subunit 4 gene mutation (point)
+- Mitochondrial mutation + 
+### Toxic Optic Neuropathy 
+- acute visual loss with bilateral optic disc swelling and cecocentral scotomas 
+- visual loss also can develop gradually and produce optic atrophy without a phase of acute optic disc edema
+- Agents 
+	- ethambutol 
+	- methyl alcohol 
+	- ethyl alcohol 
+	- Carbon Monoxide 
+	- disulfiram, ethchlorvynol, chloramphenicol, amiodarone, monoclonal anti-CD3 antibody, ciprofloxacin, digitalis, streptomycin, lead, arsenic, thallium, D-penicillamine, isoniazid, emetine, and sulfonamides
+	- Metallosis (chromium, cobalt, nickel) from hip implant failure is a rare
+- Deficiency state (starvation , malabsorption, alcoholis)
