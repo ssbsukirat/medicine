@@ -131,4 +131,16 @@
 - All individuals with age 
 - opacities in vitreous --> shadows on retina 
 - distracting “floaters” move synchronously with eye movement, with a slight lag caused by inertia of the vitreous gel 
-- perception of flashing lights --> brief 
+- perception of flashing lights --> brief and unilateral 
+- contraction --> vitreous detachment --> harmless unless retinal damage 
+- fundus --> peripheral tears or holes --> laser application 
+- tear ruptures retinal blood vessel --> vitreous hemorrhage --> sudden loss of vision 
+	- fundus hidden by blood 
+	- USG required 
+	- if spontaneous resolution doesnt occur --> surgical removal 
+### Retinal Detachment 
+- floaters, flashing lights, and a scotoma in the peripheral visual field corresponding to the detachment 
+- If fovea involved --> RAPD, reduced acuity 
+- rhegmatogenous retinal detachment --> starts with a hole, flap, or tear in the peripheral retina 
+- more common in lattice degeneration (peripheral retinal thinning )
+- 
