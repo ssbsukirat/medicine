@@ -122,4 +122,13 @@
 	- optic nerve sheath fenestration 
 ### Optic Disc Drusen 
 - Refractile, glittering particles in substance of optic nerve head 
-- visible on surface --
+- visible on surface --> if hidden --> pseudopapilledema --> B-ultrasound to detect --> hyperechoic (calcium containing ) 
+- visible on CT and OCT 
+- perimetry --> they give rise to enlarged blind spots and arcuate scotomas from damage to the optic disc
+- Hemorrhage, choroidal neovascular membrane, and AION are more likely to occur in patients with optic disc drusen.
+- No treatment available 
+### Vitreous Degeneration 
+- All individuals with age 
+- opacities in vitreous --> shadows on retina 
+- distracting “floaters” move synchronously with eye movement, with a slight lag caused by inertia of the vitreous gel 
+- perception of flashing lights --> brief 
