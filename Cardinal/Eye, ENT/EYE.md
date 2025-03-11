@@ -152,4 +152,11 @@
 - vs amaurosis fugax --> last longer, bilateral , appears in dark or eyes closed 
 - usually right/left hemifield, sometimes entire field 
 ### TIAs 
-- Vertebrobasilar insufficiency --> acute homonu
+- Vertebrobasilar insufficiency --> acute homonymous symptoms 
+- patients mistakenly describe symptoms in the left or right eye when in fact the symptoms are occurring in the left or right hemifield of both eyes 
+- Visual cortex involved --> sudden fogging or graying of vision 
+- cortical TIA --> briefer in duration than migraine, occur in older patients, and are not followed by headache 
+- signs of brainstem ischemia, such as diplopia, vertigo, numbness, weakness, and dysarthria 
+### Stroke 
+- only finding on examination is a homonymous visual field defect that stops abruptly at the vertical meridian 
+- Occipital lobe stroke usually is due to thrombotic occlusion of the vertebrobasilar system, embolus, or dissection. Lobar hemorrhage, tumor, abscess, and arteriovenous malformation are other common causes
