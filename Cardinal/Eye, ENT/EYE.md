@@ -26,4 +26,23 @@
 	- sclerosis of retinal arterioles, splinter hemorrhages, **focal infarcts of the nerve fiber layer (cotton-wool spots)**, and **leakage of lipid and fluid (hard exudate) into the macula** 
 	- Crisis --> retinal arteriole vasospasm --> visual loss 
 	- Ischemic optic disc swelling 
-	- avoid rapid l
+	- avoid rapid lowering of BP --> may cause disc infarct 
+- Impending Branch/ Central Vein occlusion 
+	- similar symptoms  
+	- veins appear engorged and phlebitic, with numerous retinal hemorrhages 
+	- some evolve a frank obstruction with extensive retinal bleeding (“blood and thunder” appearance), infarction, and visual loss. 
+	- idiopathic , HTN, diabetes , glaucoma 
+	- polycythemia , thrombocytopenia 
+	- Aspirin 
+### Anterior Ischemic Optic Neuropathy 
+- insufficient blood flow through the posterior ciliary arteries that supply the optic disc 
+- painless monocular vision loss, sudden onset, stuttering progress 
+- edematous disc with nerve fiber layer splinter hemorrhage 
+- ***Non-Arteritic***
+	- more common 
+	- Diabetes , renal failure , hypertension are risk factor 
+	- +/- a/w erectile dysfunction drugs 
+	- crowded disc architecture and small optic cup --> increase risk --> if in 1 eye, more risk in 2nd eye 
+	- no treatment 
+	- steroids contraindicated 
+- 
