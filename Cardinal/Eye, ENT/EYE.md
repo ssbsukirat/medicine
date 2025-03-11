@@ -62,4 +62,22 @@
 - severe anemia + hypotension 
 - after major blood loss --> surgery , shock, GI bleed, dialysis 
 - normal fundus 
-- optic disc swelling only if 
+- optic disc swelling only if anterior extension to globe 
+- immediate blood transfusion + reverse hypotension --> maybe vision salvage 
+### Optic Neuritis 
+- Inflammatory disease of optic nerve 
+- common 
+- mean age of patients was 32 years, 77% were female, 92% had ocular pain (especially with eye movements), and 35% had optic disc swelling 
+- mostly retrobulbar demyelinating pathology --> fundus normal initially --> pallor over several months 
+- gradual recovery after single episode without treatment takes months 
+- if no improvement after 1st attack --> doubtful diagnosis 
+- high- dose IV methylprednisolone (250 mg every 6 h for 3 days) followed by oral prednisone (1 mg/kg per day for 11 days) --> no difference in final vision but faster recovery 
+- 15-year cumulative probability of developing clinically definite multiple sclerosis after optic neuritis is 50%. 
+- MRI in all --> 2 or more plaque --> treat MS 
+- NMO 
+	- bilateral 
+	- a/w myelitis 
+	- primary or autoimmune or paraneoplastic 
+	- circulating antibodies directed against aquaporin-4 or myelin oligodendrocyte glycoprotein (MOG) is diagnostic. 
+	- Treatment for acute episodes consists of glucocorticoids followed by satralizumab, eculizumab, or inebilizumab to prevent relapse
+- 
