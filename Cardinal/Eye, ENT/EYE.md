@@ -143,4 +143,7 @@
 - If fovea involved --> RAPD, reduced acuity 
 - rhegmatogenous retinal detachment --> starts with a hole, flap, or tear in the peripheral retina 
 - more common in lattice degeneration (peripheral retinal thinning )
+- history of myopia, trauma, or prior cataract extraction are at greatest risk for retinal detachment. 
+- diagnosis is confirmed by ophthalmoscopic examination of the dilated eye 
+### Classic Migraine 
 - 
