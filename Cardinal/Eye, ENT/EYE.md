@@ -97,4 +97,18 @@
 	- Carbon Monoxide 
 	- disulfiram, ethchlorvynol, chloramphenicol, amiodarone, monoclonal anti-CD3 antibody, ciprofloxacin, digitalis, streptomycin, lead, arsenic, thallium, D-penicillamine, isoniazid, emetine, and sulfonamides
 	- Metallosis (chromium, cobalt, nickel) from hip implant failure is a rare
-- Deficiency state (starvation , malabsorption, alcoholis)
+- Deficiency state (starvation , malabsorption, alcoholism , gastric bypass) --> check thiamine , B12, folate levels 
+### Papilledema 
+- Bilateral optic disc swelling from raised ICP (if other cause --> optic disc swelling)
+- Headache common but maybe absent 
+- transient visual obscurations classic --> one eye or both simultaneously 
+	- usually last seconds 
+	- afer abrupt posture changes or spontaneous 
+	- prolonged or spontaneous obscurations --> threatening papilledema 
+- vision normal unless 
+	- severe or long-standing papilledema 
+	- macular edema 
+	- hemorrhage 
+- enlarged blind spots & peripheral constriction 
+- unremitting papilledema, peripheral visual field loss progresses in an insidious fashion with optic nerve atrophy -->  reduction of optic disc swelling is an ***ominous sign of a dying nerve*** rather than an encouraging indication of resolving papilledema
+- 
