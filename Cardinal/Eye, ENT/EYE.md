@@ -159,4 +159,5 @@
 - signs of brainstem ischemia, such as diplopia, vertigo, numbness, weakness, and dysarthria 
 ### Stroke 
 - only finding on examination is a homonymous visual field defect that stops abruptly at the vertical meridian 
-- Occipital lobe stroke usually is due to thrombotic occlusion of the vertebrobasilar system, embolus, or dissection. Lobar hemorrhage, tumor, abscess, and arteriovenous malformation are other common causes
+- Occipital lobe stroke usually is due to thrombotic occlusion of the vertebrobasilar system, embolus, or dissection. 
+- Lobar hemorrhage, tumor, abscess, and arteriovenous malformation are other common causes
