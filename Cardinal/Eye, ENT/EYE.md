@@ -146,4 +146,10 @@
 - history of myopia, trauma, or prior cataract extraction are at greatest risk for retinal detachment. 
 - diagnosis is confirmed by ophthalmoscopic examination of the dilated eye 
 ### Classic Migraine 
-- 
+- visual aura ~ 20min 
+- small central disturbance --> marches to periphery --> transient scotoma 
+- scintillating, dancing or zigzag edge --> ***Fortification spectra*** 
+- vs amaurosis fugax --> last longer, bilateral , appears in dark or eyes closed 
+- usually right/left hemifield, sometimes entire field 
+### TIAs 
+- Vertebrobasilar insufficiency --> acute homonu
