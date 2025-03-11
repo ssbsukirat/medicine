@@ -111,4 +111,15 @@
 	- hemorrhage 
 - enlarged blind spots & peripheral constriction 
 - unremitting papilledema, peripheral visual field loss progresses in an insidious fashion with optic nerve atrophy -->  reduction of optic disc swelling is an ***ominous sign of a dying nerve*** rather than an encouraging indication of resolving papilledema
-- 
+- neuroimaging to exclude an intracranial lesion. 
+- Noninvasive MR vascular imaging to search for a dural venous sinus thrombosis or an arteriovenous shunt
+- if radiology negative --> subarachnoid opening pressure --> increased pressure + normal CSF --> Idiopathic Intracranial Hypertension 
+	- females 
+	- obese 
+	- carbonic anhydrase inhibitor like acetazolamide  --> reduces ICP by reducing CSF production 
+	- weight reduction 
+	- severe or progressive vision loss --> shunt / stent across transverse and sigmoid sinus 
+	- optic nerve sheath fenestration 
+### Optic Disc Drusen 
+- Refractile, glittering particles in substance of optic nerve head 
+- visible on surface --
