@@ -75,4 +75,7 @@
 	- chronic microhematuria 
 	- a/w celiac, RA, ANKYLOSING spondyltis 
 ### RPGN 
-- ![[RPGNcauses.png]
+- ![[RPGNcauses.png]]
+- proliferation of glomerular parietal epithelial cells and inflammatory cells called cellular crescents surrounding the capillary that, over time, becomes fibrotic and atrophic with global loss of the glomerular tuft 
+- if >50% glomureli --> glomerular sclerosis 
+- typical signs of the nephritic syndrome, though other clues to diagnosis may be present in the pulmonary-renal syndromes, where the patient may present with hemoptysis, interstitial lung disease, epistaxis, or upper airway symptoms of sinusitis or nasal congestion.
