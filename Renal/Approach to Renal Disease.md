@@ -26,4 +26,11 @@
 - inflammation + enlarged kidney --> point tender over flank and costovertebral-angle tenderness 
 ## Glomerulonephritis 
 - hypertension, volume expansion, and an abnormal urinalysis 
-- 
+- Volume expansion --> edema, hypertension 
+	- ascites in children 
+	- elderly --> restlessness and anxiety may be the first signs of incipient acute pulmonary edema 
+	- orthopnea , Dyspnea on exertion +/- peripheral edema 
+- acute --> 
+	- oliguria 
+	- low urinary sodium 
+	- concentr
