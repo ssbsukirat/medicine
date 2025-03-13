@@ -1,1 +1,8 @@
-- 
+- Upper urinary tract --> kidney , vasculature , renal parenchyma , collecting system 
+- Lower Urinary tract --> ureters, bladder, urethra 
+- diseases primarily with glomerular dysfunction --> albuminuria 
+- diseases that begin in the tubular structures--> electrolyte disorders or disorders of dilution and concentration of the urine
+- glomerular diseases eventually affect the tubular interstitium and tubular diseases progress to glomerular dysfunction and scarring 
+- ![[AKIapproach.png]]
+- Cystinosis --> lysosomal storage disorder, childhood Fanconi syndrome 
+	- 
