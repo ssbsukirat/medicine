@@ -58,4 +58,21 @@
 	- cellular casts 
 ### Postinfectious GN
 - complement mediatwd immune complex response to bacterial infection 10days to 3 weeks after infection 
-	- specifi
+	- specific nephritogenic strain of gp A streptococcal pharyngitis or impetigo 
+- Antibiotic treatment not needed 
+- Subacute bacterial endocarditis may cause 
+- low C3 levels 
+- infection associated GN 
+	- during ongoing infection 
+	- MRSA or Empyema 
+	- antibiotic and drain abcess 
+	- IgA and complement deposit 
+- vs synpharyngitic hematuria 
+	- gross hematuria 
+	- as little as 10–20 mL of blood will turn a liter of urine red 
+	- related to IgA nephropathy 
+	- Normal C3 levels 
+	- chronic microhematuria 
+	- a/w celiac, RA, ANKYLOSING spondyltis 
+### RPGN 
+- ![[RPGNcauses.png]
