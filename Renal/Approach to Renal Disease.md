@@ -5,4 +5,14 @@
 - glomerular diseases eventually affect the tubular interstitium and tubular diseases progress to glomerular dysfunction and scarring 
 - ![[AKIapproach.png]]
 - Cystinosis --> lysosomal storage disorder, childhood Fanconi syndrome 
-	- 
+	- 1st year of life --> dehydrated, salt wasting, poor feeding & growth 
+		- polyuria, hypotension, and muscle weakness 
+		- features of proximal tubular dysfunction 
+		- Hypokalemic RTA. glycosuria, phosphaturia
+		- lysosomal cystine accumulation --> PCT and interstitium destruction 
+		- glomerular filtration near normal , minimal albumin in urine 
+	- over a decade --> progressive scarring of capillaries 
+		- albuminuria 
+		- progressive decline in GFR 
+		- K, HPO4 retention 
+		- Metabolic acidosis 
