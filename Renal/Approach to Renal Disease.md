@@ -33,4 +33,17 @@
 - acute --> 
 	- oliguria 
 	- low urinary sodium 
-	- concentr
+	- concentrated urine 
+	- salt, water retention 
+- Acute / subacute 
+	- days or weeks 
+	- postinfectious GN 
+	- RPGN 
+	- biopsy -- inflammatory, proliferative, or necrotizing lesions in renal tissue
+- CHRONIC 
+	- month to years 
+	- sclerotic and atrophic findings on renal biopsy 
+- Urine analysis 
+	- hematuria 
+	- proteinuria 
+	- cells, clumps of cells 
