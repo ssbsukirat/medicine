@@ -38,12 +38,24 @@
 - Acute / subacute 
 	- days or weeks 
 	- postinfectious GN 
-	- RPGN 
+	- RPGN  
+		- ![[RPGNcauses.png]]
 	- biopsy -- inflammatory, proliferative, or necrotizing lesions in renal tissue
 - CHRONIC 
 	- month to years 
 	- sclerotic and atrophic findings on renal biopsy 
 - Urine analysis 
 	- hematuria 
+		- microscopic --> invisible to naked eye 
+		- Macroscopic --> cola or tea coloured urine 
 	- proteinuria 
 	- cells, clumps of cells 
+		- RBCs 
+			- through breaks in glomerular BM 
+			- Misshaped, Dysmorphic 
+		- PMNs 
+		- inflammatory cells 
+	- cellular casts 
+### Postinfectious GN
+- complement mediatwd immune complex response to bacterial infection 10days to 3 weeks after infection 
+	- specifi
