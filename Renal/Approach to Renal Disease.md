@@ -5,6 +5,7 @@
 - glomerular diseases eventually affect the tubular interstitium and tubular diseases progress to glomerular dysfunction and scarring 
 - ![[AKIapproach.png]]
 - Cystinosis --> lysosomal storage disorder, childhood Fanconi syndrome 
+	- photosensitivity related to highly refractile cystine crystals deposited in the cornea is very specific for cystinosis
 	- 1st year of life --> dehydrated, salt wasting, poor feeding & growth 
 		- polyuria, hypotension, and muscle weakness 
 		- features of proximal tubular dysfunction 
@@ -15,4 +16,14 @@
 		- albuminuria 
 		- progressive decline in GFR 
 		- K, HPO4 retention 
-		- Metabolic acidosis 
+		- Metabolic acidosis --> from inability to form NH4 
+		- Hypertension and edema from salt and water retention
+		- Anemia as in CKD
+		- Hepatomegaly at birth 
+# Nephritic
+- Inflammatory condition 
+- a/w infection , allergy to medication , systemic autoimmune , toxic 
+- inflammation + enlarged kidney --> point tender over flank and costovertebral-angle tenderness 
+## Glomerulonephritis 
+- hypertension, volume expansion, and an abnormal urinalysis 
+- 
