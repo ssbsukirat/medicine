@@ -1,0 +1,14 @@
+- Water = 50% of men, 60% women 
+	- ICF = 55-75% 
+	- ECF = 25-45% 
+		- Intravascular / Plasma => 1/4 
+		- extravascular / Interstitial -> 3/4 
+		- intravascular <-> extravascular water by capillary wall -->
+			- Starling forces of hydraulic pressure and oncotic pressure 
+			- transcapillary hydraulic pressure gradient exceeds the corresponding oncotic pressure gradient, thereby favoring the movement of plasma ultrafiltrate into the extravascular space
+- Osmolality = solute/ particle concentration in mOsm/kg 
+	- ECF osmolality = ICF osmolality by **Water flow**
+- ECF - Na, Cl, HCO3 
+- ICF K, organic phosphate -> ATP, creatine phosphate , phospholipid 
+- Ineffective Osmoles --> solute that do not contribute to water shift across membrane eg. urea 
+- 
