@@ -68,4 +68,6 @@
 	- Thiazide --> polydipsia , volume depletion, but effect of AVP on kidney preserved 
 	- Loop diuretc --> decreased Na+-K-2Cl at TALH --> reduced ability to concentrate urine
 	- Increased excretion of osmotically active nonreabsorbable or poorly reabsorbed solute --> **glycosuria**, **ketonuria** (e.g., in starvation or in diabetic or alcoholic ketoacidosis), and **bicarbonaturia** (e.g., in renal tubular acidosis or metabolic alkalosis, where the associated bicarbonaturia leads to loss of Na+) 
-	- Cerebral Salt wasting --> inappropriate natriuresis with intracranial disease --> SAH, Traumatic brain injury , c
+	- Cerebral Salt wasting --> inappropriate natriuresis with intracranial disease --> SAH, Traumatic brain injury , craniotome, encephalitis , meningitis --> respond to Na-Cl repletion --> so differentiate with SIADH 
+### Hypervolemic 
+- 
