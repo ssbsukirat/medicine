@@ -25,5 +25,13 @@
 - FACTORS affecting release 
 	- AVP secretion, thirst and water ingestion at osmolality >285 --> linear relationship with release 
 	- blood volume and BP changes also act as stimuli for AVP but weaker sensitivity 
-- ECF modulates AVP release --> hypovolemia increase slope of response curve + lower threshold of release 
-- 
+	- ECF modulates AVP release --> hypovolemia increase slope of response curve + lower threshold of release 
+	- non-osmotic stimuli 
+		- nausea 
+		- intracerebral angiotensin 2
+		- serotonin 
+		- drugs 
+- Effects 
+	- electrolyte-free water retention / release by kidney 
+	- V2 receptor in TAL of LOH, Principal cells of CD --> intracellular cAMP & protein kinase A increase --> Na-Cl-K transport in TALH affected 
+	- AVP induced, PKA dependent phosphorylation of aquaporin-2 --> active water channel in lumen of CD --> water absorption down the medullary gradient --> concentrated urine 
