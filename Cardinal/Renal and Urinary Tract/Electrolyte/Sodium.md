@@ -63,4 +63,4 @@
 		- if no hypervolemia --> likely rapid increase in Na once IV NS given as AVP levels fall --> water diuresis 
 - Renal 
 	- inappropriate Na-Cl loss in urine --> Na urinary >20 
-	- 
+	- primary adrenal insufficiency and other causes of hypoaldosteronism --> deficiency in circulating aldosterone and/or its renal effects 
