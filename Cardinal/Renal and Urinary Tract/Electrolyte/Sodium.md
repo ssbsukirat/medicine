@@ -115,4 +115,6 @@
 	- normocapneic or hypercapneic respiratory failure 
 		- normocapneic due to noncardiogenic, “neurogenic” pulmonary edema, with a normal pulmonary capillary wedge pressure 
 	- Women > men have encephalopathy and neurological sequela 
-	- persistent , chronic --> 
+	- persistent , chronic --> efflux of organic osmolytes (creatine, betaine, glutamate, myoinositol, and taurine) from brain cells --> reduced intracellular osmolality and increased water entry **(completed in 48hours --> chronic)** 
+	- asymptomatic may have subtle gait and cognitive defects --> increase fall risk 
+	- chronic --> assymetric response 
