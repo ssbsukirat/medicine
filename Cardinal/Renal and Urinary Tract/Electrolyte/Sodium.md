@@ -91,3 +91,16 @@
 	- subclinical volume expanded 
 	- AVP escape --> limit DCT transport --> maintain hypervolemic steady state 
 	- uric acid --> low (reduced PCT due to increased DCT na-cl and water resorption ) 
+	- Causes 
+		- Tb, pneumonia , Pleural effusion 
+		- CNS --> tumour , SAH, meningitis 
+		- Malignancy 
+			- m/c small cell lung ca (75% of malignancy associated )
+		- Drugs --> SSRIs 
+### Low Solute intake 
+- alcoholic with sole intake beer --> beer potomania 
+- extreme vegetation diets 
+- very low urine osmolality (<100–200 mOsm/kg) with a urine Na+ concentration that is <10–20 mM 
+- AVP levels have not been reported in patients with beer potomania but are expected to be suppressed or rapidly suppressible with saline hydration
+- overly rapid correction in plasma Na+ concentration that can be seen with saline hydration 
+- 
