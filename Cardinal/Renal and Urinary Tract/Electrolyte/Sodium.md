@@ -40,5 +40,12 @@
 - Na actively pumped out of cells by Na+-K+ATPase pump 
 - 85-90% Na is extracellular --> ECF volume function of total body Na content 
 - arterial perfusion and circulatory integrity depend on SVR and renal retention / excretion of Na 
-- Na filtered by glomeruli , reabsorbed by tubules alomg with Cl (2/3 by PCT)
+- Na filtered by glomeruli , reabsorbed by tubules alomg with Cl (2/3 by PCT --> paracellular & transcellular both, 25-30% by TALH --> apical furosemide-sensitive na+-K-2Cl, 5-10% by Na-Cl cotransporter in DCT)
+- Fine-tuning of Na-Cl by DCT, connecting tubule, CD (amiloride-sensitive ENac )
 - 99.6% of Na-Cl reabsorbed to excrete 100mM/day 
+- Angiotensin II, adrenergic  --> more proximal Na-Cl reabsorption 
+- Dopamine --> natriuretic 
+- Aldosterone --> ENaC mediated Na-Cl distal absorption 
+
+# Sodium Disorder 
+- abnormalities of water homeostasis 
