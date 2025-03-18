@@ -56,6 +56,7 @@
 - almost always --> more AVP/ more sensitivity to AVP + free water intake 
 ### Hypovolemic 
 - Hypovolemia --> increased AVP levels --> preserve BP by V1A baroreceptors and vasoreceptors + V2 receptor sodium reabsorption 
+- hyperuricemic due to a shared activation of proximal tubular Na+-Cl− and urate transport.
 - Non-renal causes 
 	- GI loss --> vomiting , diarrhea , tube drainage 
 	- Insensible loss --> sweating, burns 
@@ -88,4 +89,5 @@
 		- no circulating AVP --> gain in function in renal water reabsorption or a circulating antidiuretic substance that is distinct from AVP (gain in function is in V2 AVP receptor --> nephrogenic SIAD) 
 	- ![[siadhcauses.png]]
 	- subclinical volume expanded 
-	- AVP escape --> limit DCT transport --> 
+	- AVP escape --> limit DCT transport --> maintain hypervolemic steady state 
+	- uric acid --> low (reduced PCT due to increased DCT na-cl and water resorption ) 
