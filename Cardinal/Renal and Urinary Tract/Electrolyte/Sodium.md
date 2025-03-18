@@ -63,4 +63,9 @@
 		- if no hypervolemia --> likely rapid increase in Na once IV NS given as AVP levels fall --> water diuresis 
 - Renal 
 	- inappropriate Na-Cl loss in urine --> Na urinary >20 
-	- primary adrenal insufficiency and other causes of hypoaldosteronism --> deficiency in circulating aldosterone and/or its renal effects 
+	- primary adrenal insufficiency and other causes of hypoaldosteronism --> deficiency in circulating aldosterone and/or its renal effects --> as hyponatremia , hyperkalemia with hypotension /hypovolemia 
+	- Salt-losing nephropathy --> reflux nephropathy , interstitial nephropathy , postobstructive nephropathy , medullary cystic disease , recovering ATN 
+	- Thiazide --> polydipsia , volume depletion, but effect of AVP on kidney preserved 
+	- Loop diuretc --> decreased Na+-K-2Cl at TALH --> reduced ability to concentrate urine
+	- Increased excretion of osmotically active nonreabsorbable or poorly reabsorbed solute --> **glycosuria**, **ketonuria** (e.g., in starvation or in diabetic or alcoholic ketoacidosis), and **bicarbonaturia** (e.g., in renal tubular acidosis or metabolic alkalosis, where the associated bicarbonaturia leads to loss of Na+) 
+	- Cerebral Salt wasting --> inappropriate natriuresis with intracranial disease --> SAH, Traumatic brain injury , c
