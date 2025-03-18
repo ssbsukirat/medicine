@@ -70,4 +70,8 @@
 	- Increased excretion of osmotically active nonreabsorbable or poorly reabsorbed solute --> **glycosuria**, **ketonuria** (e.g., in starvation or in diabetic or alcoholic ketoacidosis), and **bicarbonaturia** (e.g., in renal tubular acidosis or metabolic alkalosis, where the associated bicarbonaturia leads to loss of Na+) 
 	- Cerebral Salt wasting --> inappropriate natriuresis with intracranial disease --> SAH, Traumatic brain injury , craniotome, encephalitis , meningitis --> respond to Na-Cl repletion --> so differentiate with SIADH 
 ### Hypervolemic 
-- 
+- more Na-Cl  --> even more water
+- AKI/CKD --> high urinary Na 
+- sodium-avid edematous disorders (congestive heart failure -->CHF, cirrhosis, and nephrotic syndrome) is similar to that in hypovolemic hyponatremia, except that arterial filling and circulatory integrity is decreased due to the specific etiologic factors (e.g., cardiac dysfunction in CHF, peripheral vasodilation in cirrhosis) 
+	- urinary sodium <10
+- degree of hyponatremia is prognostic 
