@@ -14,10 +14,16 @@
 # Water Balance 
 - Vasopressin , water intake, renal water transport 
 - body osmolality ~ 280-295 mOsm/kg 
-- Vasopressin 
-	- magnocellular neuron of hypothalamus 
-		- distal axons project to posterior pituitary or neurohypophysis --> release into circulation 
-	- Osmoreceptors 
+## Vasopressin 
+- magnocellular neuron of hypothalamus 
+	- distal axons project to posterior pituitary or neurohypophysis --> release into circulation 
+- half-life 10-20min --> rapid effect on water homeostasis 
+- Osmoreceptors 
 		- magnocellular neurons, central neurons 
 		- via nonselective stretch-activated cation channels 
-		- activated by increa
+		- activated by increase , inhibited by decrease osmolality --> activated --> AVP release --> thirst 
+- FACTORS affecting release 
+	- AVP secretion, thirst and water ingestion at osmolality >285 --> linear relationship with release 
+	- blood volume and BP changes also act as stimuli for AVP but weaker sensitivity 
+- ECF modulates AVP release --> hypovolemia increase slope of response curve + lower threshold of release 
+- 
