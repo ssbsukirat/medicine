@@ -60,4 +60,7 @@
 	- GI loss --> vomiting , diarrhea , tube drainage 
 	- Insensible loss --> sweating, burns 
 	- Urina Na <20mM 
-		- if no hypervolemia --> likely 
+		- if no hypervolemia --> likely rapid increase in Na once IV NS given as AVP levels fall --> water diuresis 
+- Renal 
+	- inappropriate Na-Cl loss in urine --> Na urinary >20 
+	- 
