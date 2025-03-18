@@ -11,4 +11,13 @@
 - ECF - Na, Cl, HCO3 
 - ICF K, organic phosphate -> ATP, creatine phosphate , phospholipid 
 - Ineffective Osmoles --> solute that do not contribute to water shift across membrane eg. urea 
-- 
+# Water Balance 
+- Vasopressin , water intake, renal water transport 
+- body osmolality ~ 280-295 mOsm/kg 
+- Vasopressin 
+	- magnocellular neuron of hypothalamus 
+		- distal axons project to posterior pituitary or neurohypophysis --> release into circulation 
+	- Osmoreceptors 
+		- magnocellular neurons, central neurons 
+		- via nonselective stretch-activated cation channels 
+		- activated by increa
