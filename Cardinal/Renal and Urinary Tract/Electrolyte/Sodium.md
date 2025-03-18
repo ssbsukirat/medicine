@@ -49,3 +49,15 @@
 
 # Sodium Disorder 
 - abnormalities of water homeostasis 
+	- water intake and AVP release dependent 
+- the absolute plasma Na+ concentration tells one nothing about the volume status of a given patient 
+## Hyponatremia 
+- Na < 135 
+- almost always --> more AVP/ more sensitivity to AVP + free water intake 
+### Hypovolemic 
+- Hypovolemia --> increased AVP levels --> preserve BP by V1A baroreceptors and vasoreceptors + V2 receptor sodium reabsorption 
+- Non-renal causes 
+	- GI loss --> vomiting , diarrhea , tube drainage 
+	- Insensible loss --> sweating, burns 
+	- Urina Na <20mM 
+		- if no hypervolemia --> likely 
