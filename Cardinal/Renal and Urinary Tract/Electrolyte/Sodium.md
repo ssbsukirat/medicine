@@ -79,4 +79,13 @@
 - moderate to severe hypothyroidism (corrects once thyroid normal )
 - secondary adrenal insufficiency (glucocorticoid deficiency ) --> negative feedback on AVP release by the posterior pituitary such that hydrocortisone replacement in these patients can rapidly normalize the AVP response to osmolality, reducing circulating AVP 
 - SIADH 
-	- 
+	- intake of free water, with persistent intake at serum osmolalities that are lower than the usual threshold for thirst;
+	- osmotic threshold and osmotic response curves for the sensation of thirst are shifted downward 
+	- may have 
+		- unregulated erratic AVP in 1/3 
+		- failure to suppress AVP at lower osmolalities but normal at hyperosmolar 
+		- Reset osmostat--> lower threshold osmolality and left-shift osmotic response curve 
+		- no circulating AVP --> gain in function in renal water reabsorption or a circulating antidiuretic substance that is distinct from AVP (gain in function is in V2 AVP receptor --> nephrogenic SIAD) 
+	- ![[siadhcauses.png]]
+	- subclinical volume expanded 
+	- AVP escape --> limit DCT transport --> 
