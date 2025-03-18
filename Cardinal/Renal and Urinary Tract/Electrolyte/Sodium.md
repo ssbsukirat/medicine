@@ -119,7 +119,7 @@
 	- asymptomatic may have subtle gait and cognitive defects --> increase fall risk 
 	- chronic --> assymetric response 
 		- reaccumulation of organic osmolytes by brain cells is attenuated and delayed as osmolality increases after correction of hyponatremia, sometimes resulting in ***degenerative loss of oligodendrocytes and an osmotic demyelination syndrome (ODS)*** 
-	- Over rapid correction (>8-10mm/24 hour or >18mM in 48H) --> 
+	- Over rapid correction (>8-10mm/24 hour or >18mM in 48H) --> ODS
 		- hypertonic stress in astrocyte --> generalised protein ubiquitination --> apoptotic and autophagic cell death 
 		- BBB integrity disrupted --> immune mediated demyelination 
 		- Pons 
@@ -129,4 +129,6 @@
 		- order of frequency, the lesions of extrapontine myelinolysis can occur in the cerebellum, lateral geniculate body, thalamus, putamen, and cerebral cortex or subcortex 
 		- extent and localization of extrapontine myelinolysis, with the reported development of ataxia, mutism, parkinsonism, dystonia, and catatonia 
 		- relowering Na after rapid correction can prevent or attentuate ODS 
-		- slow correction + ODS --> alco
+		- slow correction + ODS --> alcoholic , malnutrition , hypokalemia, liver transplant 
+### Diagnostic Evaluation 
+- 
