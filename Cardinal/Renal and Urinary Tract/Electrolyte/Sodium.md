@@ -75,3 +75,8 @@
 - sodium-avid edematous disorders (congestive heart failure -->CHF, cirrhosis, and nephrotic syndrome) is similar to that in hypovolemic hyponatremia, except that arterial filling and circulatory integrity is decreased due to the specific etiologic factors (e.g., cardiac dysfunction in CHF, peripheral vasodilation in cirrhosis) 
 	- urinary sodium <10
 - degree of hyponatremia is prognostic 
+### Euvolemic 
+- moderate to severe hypothyroidism (corrects once thyroid normal )
+- secondary adrenal insufficiency (glucocorticoid deficiency ) --> negative feedback on AVP release by the posterior pituitary such that hydrocortisone replacement in these patients can rapidly normalize the AVP response to osmolality, reducing circulating AVP 
+- SIADH 
+	- 
