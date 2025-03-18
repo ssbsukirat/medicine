@@ -34,4 +34,11 @@
 - Effects 
 	- electrolyte-free water retention / release by kidney 
 	- V2 receptor in TAL of LOH, Principal cells of CD --> intracellular cAMP & protein kinase A increase --> Na-Cl-K transport in TALH affected 
-	- AVP induced, PKA dependent phosphorylation of aquaporin-2 --> active water channel in lumen of CD --> water absorption down the medullary gradient --> concentrated urine 
+	- AVP induced, PKA dependent phosphorylation of aquaporin-2 --> active water channel in lumen of CD --> water absorption down the medullary gradient --> concentrated urine 1200mosm/kg 
+	- in absence of AVP --> insertion of aquaporin-2 channels and water absorption across the CD is essentially abolished --> secretion of a hypotonic, dilute urine (osmolality as low as 30–50 mOsm/kg) 
+## Maintenance of Arterial Circulatory Integrity 
+- Na actively pumped out of cells by Na+-K+ATPase pump 
+- 85-90% Na is extracellular --> ECF volume function of total body Na content 
+- arterial perfusion and circulatory integrity depend on SVR and renal retention / excretion of Na 
+- Na filtered by glomeruli , reabsorbed by tubules alomg with Cl (2/3 by PCT)
+- 99.6% of Na-Cl reabsorbed to excrete 100mM/day 
