@@ -103,4 +103,16 @@
 - very low urine osmolality (<100–200 mOsm/kg) with a urine Na+ concentration that is <10–20 mM 
 - AVP levels have not been reported in patients with beer potomania but are expected to be suppressed or rapidly suppressible with saline hydration
 - overly rapid correction in plasma Na+ concentration that can be seen with saline hydration 
-- 
+
+### Clinical 
+- generalized cellular swelling, a consequence of water movement down the osmotic gradient from the hypotonic ECF to the ICF 
+- Neurological primary 
+	- cerebral edema 
+	- rise in interstitial pressure --> shunting of ECF & solute from interstitial --> CSF --> systemic circulation 
+	- Acute Hyponatremic Encephalopathy (efflux of Na, K, Cl from brain cells )
+	- Nausea , headache , vomiting 
+	- complication --> seizure , herniation, coma, death 
+	- normocapneic or hypercapneic respiratory failure 
+		- normocapneic due to noncardiogenic, “neurogenic” pulmonary edema, with a normal pulmonary capillary wedge pressure 
+	- Women > men have encephalopathy and neurological sequela 
+	- persistent , chronic --> 
