@@ -149,6 +149,11 @@
 - Acute more severe than chronic 
 - if >8-10mM/24 hour correction --> risk of ODS 
 - highly unpredictable response to therapy so regular monitoring of Na 
-- euvolemic hyponatremia due to SIAD, hypothyroidism, or secondary adrenal failure will respond to successful treatment of
-
-the underlying cause
+- euvolemic hyponatremia due to SIAD, hypothyroidism, or secondary adrenal failure will respond to successful treatment of the underlying cause
+- Hypovolemia --> IV NS leads to rapid correction and water diuresis 
+- Hypervolemic --> CHF --> improved treatment of underlying disease eg. ACE inhibitor 
+- beer potomania and low solute intake will respond very rapidly to intravenous saline and the resumption of a normal diet 
+	- increased risk of ODS due to Hypokalemia , malnutrition , alcoholism 
+- CHRONIC - water deprivation 
+	- very difficult for patients with SIAD to tolerate, given that their thirst is also inappropriately stimulated
+	- 
