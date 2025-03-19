@@ -132,4 +132,12 @@
 		- slow correction + ODS --> alcoholic , malnutrition , hypokalemia, liver transplant 
 ### Diagnostic Evaluation 
 - Drug history + volume status in all 
+- Imaging for pulmonary /CNS causes 
+- Xray maybe insufficient , consider HRCT in high risk like smoker 
+- Osmolality to rule out pseudohyponatremia 
+	- coexistence of hyponatremia with a normal or increased plasma tonicity
+	- in hyperlipidemia, hyperproteinemia 
+	- measured osmolality --> effective osmolality (tonicity) by subtracting the measured concentration of urea (divided by 2.8, if in mg/dL); 
+	- hyponatremia have an effective osmolality of <275 mOsm/kg
+- BUN / creatinine elevated --> renal dysfunction 
 - 
