@@ -156,4 +156,10 @@
 	- increased risk of ODS due to Hypokalemia , malnutrition , alcoholism 
 - CHRONIC - water deprivation 
 	- very difficult for patients with SIAD to tolerate, given that their thirst is also inappropriately stimulated
-	- 
+	- urine-to-plasma electrolyte ratio (urinary Na+ + K+/plasma Na+) quick indicator of electrolyte-free water excretion
+		- Ratio > 1 --> <500ml/day 
+		- ~1 --> 500-700ml/day 
+		- <1 --> <1L/day 
+	- hypokalemic patients, potassium replacement will serve to increase plasma Na+ concentration --> rapid correction may over correct Na 
+	- increased oral salt intake --> oral salt tablet , oral urea tabs 
+- SIADH in some --> oral furosemide 20mg BD + ora
