@@ -131,4 +131,5 @@
 		- relowering Na after rapid correction can prevent or attentuate ODS 
 		- slow correction + ODS --> alcoholic , malnutrition , hypokalemia, liver transplant 
 ### Diagnostic Evaluation 
+- Drug history + volume status in all 
 - 
