@@ -146,4 +146,9 @@
 - hyroid, adrenal, and pituitary function should also be tested 
 - rest from Harrison 
 ### TREATMENT 
-- 
+- Acute more severe than chronic 
+- if >8-10mM/24 hour correction --> risk of ODS 
+- highly unpredictable response to therapy so regular monitoring of Na 
+- euvolemic hyponatremia due to SIAD, hypothyroidism, or secondary adrenal failure will respond to successful treatment of
+
+the underlying cause
