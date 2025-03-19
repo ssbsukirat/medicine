@@ -156,6 +156,7 @@
 	- increased risk of ODS due to Hypokalemia , malnutrition , alcoholism 
 - CHRONIC - water deprivation 
 	- very difficult for patients with SIAD to tolerate, given that their thirst is also inappropriately stimulated
+	- <6-8mM/24h and <6mM for subsequent 24h 
 	- urine-to-plasma electrolyte ratio (urinary Na+ + K+/plasma Na+) quick indicator of electrolyte-free water excretion
 		- Ratio > 1 --> <500ml/day 
 		- ~1 --> 500-700ml/day 
@@ -175,4 +176,14 @@
 	- conivaptan - V1A/V2 antagonist , IV --> may cause hypotension due to V1A block 
 	- needs liberalisation of restriction (>2 L/d) and close monitoring of plasma Na+ concentration
 	- not in hypovolemic , acute hyponatremia 
-	- Oral tolvaptan for the management of significant and persistent SIAD (e.g., in small-cell lung carcinoma) that has not responded to water restriction and/or oral furosemide and salt tablets
+	- Oral tolvaptan for the management of significant and persistent SIAD (e.g., in small-cell lung carcinoma) that has not responded to water restriction and/or oral furosemide and salt tablets 
+	- may cause abnormal LFT so dont use >1-2 months 
+- 3% Saline 
+	- 513mM 
+	- acutely increase plasma Na+ concentration by 1–2 mM/h to a total of 4–6 mM 
+	- sufficient to alleviate symptoms 
+	- bolus of 100ml better than infusion 
+	- infusion 
+		- calculate Na+ deficit = 0.6 × body weight × (target plasma Na+ concentration– starting plasma Na+ concentration)
+		- monitor Na 2-4 hourly 
+- Intravenous loop diuretics will help treat acute pulmonary edema and will also increase free water excretion, by interfering with the renal countercurrent multiplication system
