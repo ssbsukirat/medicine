@@ -162,4 +162,13 @@
 		- <1 --> <1L/day 
 	- hypokalemic patients, potassium replacement will serve to increase plasma Na+ concentration --> rapid correction may over correct Na 
 	- increased oral salt intake --> oral salt tablet , oral urea tabs 
-- SIADH in some --> oral furosemide 20mg BD + ora
+- SIADH in some --> oral furosemide 20mg BD + oral salt tablets but risk of hypokalemia and renal dysfunction 
+- Demeclocycline --> inhibitor of principal cells 
+	- can be used in patients whose Na levels do not increase in response to furosemide and salt tablets.
+	- may reduce GFR --> excessive natriuresis and/or renal toxicity 
+	- avoid in cirrhosis 
+- oral Urea ~ similar efficacy to vaptans 
+- AVP antagonist -- Vaptans 
+	- SIADH & hypervolemic hyponatremia in CHF, Cirrhosis 
+	- Aquaretic effect 
+	- V2 receptor antagonist 
