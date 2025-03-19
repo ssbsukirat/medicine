@@ -171,4 +171,8 @@
 - AVP antagonist -- Vaptans 
 	- SIADH & hypervolemic hyponatremia in CHF, Cirrhosis 
 	- Aquaretic effect 
-	- V2 receptor antagonist 
+	- V2 receptor antagonist (tolvaptan) 
+	- conivaptan - V1A/V2 antagonist , IV --> may cause hypotension due to V1A block 
+	- needs liberalisation of restriction (>2 L/d) and close monitoring of plasma Na+ concentration
+	- not in hypovolemic , acute hyponatremia 
+	- Oral tolvaptan for the management of significant and persistent SIAD (e.g., in small-cell lung carcinoma) that has not responded to water restriction and/or oral furosemide and salt tablets
