@@ -140,4 +140,10 @@
 	- measured osmolality --> effective osmolality (tonicity) by subtracting the measured concentration of urea (divided by 2.8, if in mg/dL); 
 	- hyponatremia have an effective osmolality of <275 mOsm/kg
 - BUN / creatinine elevated --> renal dysfunction 
+- hyperkalemia --> adrenal insufficiency , hypoaldosteronism 
+- 1.6-2.4 mM fall in Na for every 100mg/dl increase in plasma glucose 
+- uric acid --> SIADH - hypouricemia, volume-depletion --> hyperuricemic 
+- hyroid, adrenal, and pituitary function should also be tested 
+- rest from Harrison 
+### TREATMENT 
 - 
