@@ -81,5 +81,7 @@
 - typical signs of the nephritic syndrome, + in pulmonary-renal syndromes, may present with hemoptysis, interstitial lung disease, epistaxis, or upper airway symptoms of sinusitis or nasal congestion.
 - antineutrophil cytoplasmic antibody (ANCA) test, particularly those made up of antimyeloperoxidase (pANCA) or antiproteinase-3 antibodies (cANCA), is diagnostic for the pauci-immune disorders of systemic vasculitis 
 - Granulomatous vasculitis (formerly known as Wegener’s granulomatosis) and microscopic polyangiitis associated with pulmonary and upper respiratory disease
-- positive test for antiglomerular basement membrane (anti-GBM) antibodies --> either renal-limited anti-GBM disease or, when associated with pulmonary hemorrhage, with Goodpasture disease (young males, heavy smokers, h/o hydrocarbon inhalation )
-- 
+- positive test for antiglomerular basement membrane (anti-GBM) antibodies -->
+	- either renal-limited anti-GBM disease or, 
+	- when associated with pulmonary hemorrhage, with Goodpasture disease (young males, heavy smokers, h/o hydrocarbon inhalation )
+- Immune complex disease --> low C3 d/t high clearance of circulating complement with deposits in glomerular 
