@@ -187,3 +187,9 @@
 		- calculate Na+ deficit = 0.6 × body weight × (target plasma Na+ concentration– starting plasma Na+ concentration)
 		- monitor Na 2-4 hourly 
 - Intravenous loop diuretics will help treat acute pulmonary edema and will also increase free water excretion, by interfering with the renal countercurrent multiplication system
+- if Na overcorrects 
+	- reinduce or stabilize hyponatremia 
+	- use **AVP agonist Desmopressin** +/- free water by IV D5
+	- twice-daily administration of DDAVP to maintain constant AVP bioactivity, combined with the administration of hypertonic saline to slowly correct the serum sodium in a more controlled fashion, thus reducing upfront the risk of overcorrection.
+## Hypernatremia 
+- 
