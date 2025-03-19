@@ -84,4 +84,7 @@
 - positive test for antiglomerular basement membrane (anti-GBM) antibodies -->
 	- either renal-limited anti-GBM disease or, 
 	- when associated with pulmonary hemorrhage, with Goodpasture disease (young males, heavy smokers, h/o hydrocarbon inhalation )
-- Immune complex disease --> low C3 d/t high clearance of circulating complement with deposits in glomerular 
+- Immune complex disease -->
+	- **low C3** d/t high clearance of circulating complement with deposits in glomerular subendothelial space 
+	- SLE, cryoglobulinemia may have pulmonary hemorrhage 
+	- cryoglobulinemia - low C4 complement and a high rheumatoid factor, and the syndrome may be caused by paraproteinemias or hepatitis C
