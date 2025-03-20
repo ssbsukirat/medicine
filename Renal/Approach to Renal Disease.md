@@ -99,3 +99,4 @@
 	- if NSAID / ampicillin --> glomerular proteinuria 
 	- fever, rash, eosinophilia (eosinophilia in penicillin , FQs, Checkpoint inhibitors ) but eosinophilia atypical in NSAIDs 
 	- Urinalysis -- Pyuria, eosinophiluria 
+		- activated T lymphos, plasma
