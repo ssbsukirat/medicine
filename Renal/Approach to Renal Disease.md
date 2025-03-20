@@ -93,4 +93,6 @@
 
 ### Tubulointerstitial Nephritis 
 - Inflammatory disorder of renal tubules and interstitium --> infection , autoimmune , allergic immunologic response to drugs 
-- 
+- ACUTE ALLERGIC AND IMMUNE INTERSTITIAL NEPHRITIS 
+	- 1-2 weeks following exposure to offending drug 
+	- rapid and potential
