@@ -124,4 +124,10 @@
 - Chronic interstitial disease -- 
 	- paraproteinemias 
 	- aristolochic acid 
-	- prolonged analgesic use (m/c cause) -- if not discontinue , 
+	- prolonged analgesic use (m/c cause) -- if not discontinue , urothelial CA of distal ureter and bladder 
+	- Lithium CIN + nephrogenic DI 
+- hypercalcemia or hyperoxaluria 
+	- nephrocalcinosis, a interstitial nephritis characterized by calcifications within the renal parenchyma, often at the cortical medullary boundary
+- Nephrocalcinosis + nephrolithiasis 
+	- hypercalcemic disorders, particularly primary hyperparathyroidism, and congenital medullary sponge disease (tubular ectasia)
+	- hereditary distal RTA 
