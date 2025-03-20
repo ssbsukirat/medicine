@@ -107,3 +107,6 @@
 		- acetazolamide , thiazides, furosemide , bumetanide 
 		- Rifampin -- noncaseating granulomatous IN 
 		- Granulomatous TIN - sarcoidosis , TB (1st in cortical glomerular d/t high O2) 
+	- Systemic infection  -- bacterial, fungal, parasitic 
+		- Councilman nephritis in scarlet fever 
+	- 
