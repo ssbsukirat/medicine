@@ -151,7 +151,17 @@
 	- stick measures acidic proteins ike albumin 
 	- may miss kappa, lambda light chains as they have higher isoelectric point 
 		- their filtration itself causes damage to glomerulus 
-		- 
+		- The detection of light chains requires a urine protein electrophoresis.
 		- **overflow proteinuria** 
 - normalise measurement with urine creatinine ratio to counter dilution effects 
 	- ratio of total protein concentration to creatinine concentration is not specific for albumin excretion and may indicate the presence of light chains. 
+- Tubular Proteinuria 
+	- B2 microglobulin 
+	- proximal tubular cells 
+	- interstitial nephritis 
+## Nephrotic Syndrome 
+- Feature 
+	- edema 
+	- hypoalbuminemia <3.5g/dl 
+	- proteinuria >3.5g/day 
+- Lipids - high LDL, low HDL, lipiduria 
