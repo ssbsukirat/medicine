@@ -131,3 +131,12 @@
 - Nephrocalcinosis + nephrolithiasis 
 	- hypercalcemic disorders, particularly primary hyperparathyroidism, and congenital medullary sponge disease (tubular ectasia)
 	- hereditary distal RTA 
+- Papillary Necrosis 
+	- DM, chronic analgesic use, sickle-cell disease 
+	- a/w nephrogenic DI 
+	- sloughed tissue maybe seen in urine 
+- inflammatory bowel disease or post gastric bypass procedures like Roux-en-Y develops kidney injury, +/- calcium oxalate kidney stones, a 
+	- 24-h urine oxalate measurement to diagnose **intestinal hyperoxaluria,** which otherwise may lead to nephrocalcinosis.
+
+# Proteinuric and Nephrotic 
+- 
