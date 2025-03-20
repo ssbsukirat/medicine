@@ -145,4 +145,13 @@
 	- Microalbuminuria 
 	- after years of small vessel disease - mostly coincident retinopathy 
 	- rate of progression higher with HTN, obesity , poor glycemic control 
-	- further risks by nephr
+	- further risks by nephrectomy , HCV, african due to APOL1 gene 
+- Microalbuminuria non detectable on stick - 30-300mg/day 
+- if detectable - overt proteinuria 
+	- stick measures acidic proteins ike albumin 
+	- may miss kappa, lambda light chains as they have higher isoelectric point 
+		- their filtration itself causes damage to glomerulus 
+		- 
+		- **overflow proteinuria** 
+- normalise measurement with urine creatinine ratio to counter dilution effects 
+	- ratio of total protein concentration to creatinine concentration is not specific for albumin excretion and may indicate the presence of light chains. 
