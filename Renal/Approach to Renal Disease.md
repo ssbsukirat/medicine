@@ -109,4 +109,19 @@
 		- Granulomatous TIN - sarcoidosis , TB (1st in cortical glomerular d/t high O2) 
 	- Systemic infection  -- bacterial, fungal, parasitic 
 		- Councilman nephritis in scarlet fever 
-	- 
+	- Lupus, ANCA-positive vasculitis , Sjogrens 
+	- TINU - tubulointerstitial nephritis uveitis 
+		- photophobia and red painful eye, the clinician should look at renal function and the urinalysis 
+### Non-inflammatory Interstitial Disease 
+- toxic exposures that damage the tubular interstitial structure 
+- Fanconi’s syndrome, indicating proximal tubule damage 
+	- ifosfamide may develop 
+	- Lead, cadmium mercury from old dental filling 
+- Hypokalemia + Interstitial --> aminoglycoside , amphoB 
+- nephrogenic diabetes insipidus, unresponsive to antidiuretic hormone, 
+	- may have had treatment with lithium, analgesics, or chemotherapy
+- hypomagnesemia and acute kidney injury (AKI) may have had past exposure to platinum-containing chemotherapeutic agents 
+- Chronic interstitial disease -- 
+	- paraproteinemias 
+	- aristolochic acid 
+	- prolonged analgesic use (m/c cause) -- if not discontinue , 
