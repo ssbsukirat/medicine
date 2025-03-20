@@ -139,4 +139,10 @@
 	- 24-h urine oxalate measurement to diagnose **intestinal hyperoxaluria,** which otherwise may lead to nephrocalcinosis.
 
 # Proteinuric and Nephrotic 
-- 
+## Proteinuric States 
+- Generalised edema and foamy urine 
+- In DM 
+	- Microalbuminuria 
+	- after years of small vessel disease - mostly coincident retinopathy 
+	- rate of progression higher with HTN, obesity , poor glycemic control 
+	- further risks by nephr
