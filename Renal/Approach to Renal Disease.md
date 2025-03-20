@@ -101,4 +101,9 @@
 	- Urinalysis -- Pyuria, eosinophiluria 
 		- activated T lymphos, plasma cells, WBC casts 
 		- cyto-centrifuged specimen containing the sediment within a small tube mounted perpendicular to the slide, then stained with Giemsa, best demonstrates these cell types 
-	- polyuria , tender kidneys and 
+	- polyuria , tender kidneys and tubular dysfunction (nephrogenic DI, hypo-/hyperkalemia , hyperchloremic metabolic acidosis)
+	- PPIs, sulfa drugs 
+		- sulfamethoxazole
+		- acetazolamide , thiazides, furosemide , bumetanide 
+		- Rifampin -- noncaseating granulomatous IN 
+		- Granulomatous TIN - sarcoidosis , TB (1st in cortical glomerular d/t high O2) 
