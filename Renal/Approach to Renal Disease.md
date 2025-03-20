@@ -166,5 +166,13 @@
 	- proteinuria >3.5g/day 
 - Lipids - high LDL, low HDL, lipiduria 
 - oval fat bodies +/- cholesterol monohydrate crystals --> maltese crosses 
-- edema + facial, eyelid, periorbital swelling 
-- penile and scrotal edema 
+- edema +
+	- facial, eyelid, periorbital swelling 
+	- penile and scrotal edema 
+	- edema--> bullae--> eruption --> cellulitis 
+	- smooth "weeping " skin 
+	- hoarseness d/t vocal cord edema 
+- nephrotic range proteinuria without edema --> HIVAN (HIV associated Nephropathy )
+	- rapid loss of renal function may occur due to implosion of the glomerular capillary by proliferation of visceral epithelial cells that crush the glomerular loops, decreasing capillary flow and filtering surface area (collapsing glomerulopathy) 
+	- severe, treatment resistant FSGS
+- Hypercatabolic state with negative nitrogen balance 
