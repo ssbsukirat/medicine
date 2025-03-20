@@ -95,4 +95,7 @@
 - Inflammatory disorder of renal tubules and interstitium --> infection , autoimmune , allergic immunologic response to drugs 
 - ACUTE ALLERGIC AND IMMUNE INTERSTITIAL NEPHRITIS 
 	- 1-2 weeks following exposure to offending drug 
-	- rapid and potential
+	- rapid and potentially reversible loss of kidney function - follows change of dose or restarting previously used medication 
+	- if NSAID / ampicillin --> glomerular proteinuria 
+	- fever, rash, eosinophilia (eosinophilia in penicillin , FQs, Checkpoint inhibitors ) but eosinophilia atypical in NSAIDs 
+	- Urinalysis -- Pyuria, eosinophiluria 
