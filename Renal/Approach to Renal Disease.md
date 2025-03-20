@@ -99,4 +99,6 @@
 	- if NSAID / ampicillin --> glomerular proteinuria 
 	- fever, rash, eosinophilia (eosinophilia in penicillin , FQs, Checkpoint inhibitors ) but eosinophilia atypical in NSAIDs 
 	- Urinalysis -- Pyuria, eosinophiluria 
-		- activated T lymphos, plasma
+		- activated T lymphos, plasma cells, WBC casts 
+		- cyto-centrifuged specimen containing the sediment within a small tube mounted perpendicular to the slide, then stained with Giemsa, best demonstrates these cell types 
+	- polyuria , tender kidneys and 
