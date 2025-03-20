@@ -90,4 +90,7 @@
 	- cryoglobulinemia - low C4 complement and a high rheumatoid factor, and the syndrome may be caused by paraproteinemias or hepatitis C 
 	- crescentic RPGN but with normal C3 complement is a form of IgA vasculitis **(Henoch-Schonlein purpura),**
 		- skin vasculitis characterized by palpable purpura, gastrointestinal bleeding, and arthralgias, and in the vasculitic form, pulmonary hemorrhage
-	- 
+
+### Tubulointerstitial Nephritis 
+- Inflammatory disorder of renal tubules and interstitium --> infection , autoimmune , allergic immunologic response to drugs 
+- 
