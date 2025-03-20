@@ -165,3 +165,6 @@
 	- hypoalbuminemia <3.5g/dl 
 	- proteinuria >3.5g/day 
 - Lipids - high LDL, low HDL, lipiduria 
+- oval fat bodies +/- cholesterol monohydrate crystals --> maltese crosses 
+- edema + facial, eyelid, periorbital swelling 
+- penile and scrotal edema 
