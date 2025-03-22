@@ -1,4 +1,21 @@
 # Bacterial 
 - Acute purulent infection in the Subarachnoid space 
 - CNS inflammatory reaction resulting  in reduced consciousness , seizure , ICP stroke 
-- Strep pneumonia > Neisseria meningitidis >
+- Strep pneumonia > Neisseria meningitidis > gp B strep > Listeria > Haemophilus (<10%) 
+- S. pneumoniae 
+	- mc in adults>20  (>50% cases) 
+	- increased risk 
+		- pneumococcal pneumonia 
+		- acute or chronic pneumococcal sinusitis or otitis media, 
+		- alcoholism, 
+		- diabetes, 
+		- splenectomy,
+		- hypogammaglobulinemia, 
+		- complement deficiency, 
+		- head trauma with basilar skull fracture and cerebrospinal fluid (CSF) rhinorrhea
+- N. meningitidis 
+	- reduced incidence due to quadrivalent vaccine (A,C,W-135, Y) 
+	- does not contain B serogroup -- 1/3 cases of meningococcoal 
+	- 16-23 age to be vaccinated with gp B (4MCMenB, MenB-FHbp) -- 
+	- Neither group B vaccine reduces the risk of bacterial spread from vaccinated persons to unimmunized persons (vaccines do not significantly reduce nasopharyngeal carriage of meningococci, which is major source of person-to-person bacterial transmission)
+	- purp
