@@ -34,4 +34,4 @@
 - Listeria 
 	- neonates, pregnant comen, age>60 , immunocompromised 
 	- food borne transmission 
-	- coleslaw, milk, s
+	- coleslaw, milk, soft cheese, deli meat, uncooked hotdogs 
