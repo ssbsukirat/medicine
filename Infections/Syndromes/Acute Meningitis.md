@@ -2,6 +2,7 @@
 - Acute purulent infection in the Subarachnoid space 
 - CNS inflammatory reaction resulting  in reduced consciousness , seizure , ICP stroke 
 - Strep pneumonia > Neisseria meningitidis > gp B strep > Listeria > Haemophilus (<10%) 
+## ETIOLOGY 
 - S. pneumoniae 
 	- mc in adults>20  (>50% cases) 
 	- increased risk 
@@ -18,4 +19,19 @@
 	- does not contain B serogroup -- 1/3 cases of meningococcoal 
 	- 16-23 age to be vaccinated with gp B (4MCMenB, MenB-FHbp) -- 
 	- Neither group B vaccine reduces the risk of bacterial spread from vaccinated persons to unimmunized persons (vaccines do not significantly reduce nasopharyngeal carriage of meningococci, which is major source of person-to-person bacterial transmission)
-	- purp
+	- purpuric, petechial skin lesions + 
+	- fulminant --death within hours 
+	- complement deficiency --> higher risk 
+- Gram negative 
+	- chronic & debilitating diseases 
+		- diabetes 
+		- cirrhosis 
+		- alcoholism 
+		- UTIs 
+	- as complication of neurosurgical procedure (craniotomy especially ) 
+- otitis, mastoiditis, sinusitis --> Streptococci , gram negative anaerobes , Staphylococcus , Haemophilus , Enterobacteriacae 
+- in endocarditis --> viridans , S aures , Streptococci bovis, HACEK (Haemophilus spp., Actinobacillus actinomycetemcomitans, Cardiobacterium hominis, Eikenella corrodens, Kingella kingae), enterococci 
+- Listeria 
+	- neonates, pregnant comen, age>60 , immunocompromised 
+	- food borne transmission 
+	- coleslaw, milk, s
