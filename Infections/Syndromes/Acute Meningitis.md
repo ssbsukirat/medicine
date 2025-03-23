@@ -233,4 +233,6 @@
 - altered consciousness mostly not there but lethargy and drowsiness + 
 ## ETIOLOGY 
 - 60-90% can identify some cause 
-- Enter
+- Enterovirus (echoviruses and coxsackieviruses), Varicella-Zoster (VZV), HSV (1>2), HIV, Arbovirus 
+- 30-70% culture positive --> 2/3 of culture negative have PCR + 
+- 
