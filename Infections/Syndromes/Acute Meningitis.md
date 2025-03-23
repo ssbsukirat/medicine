@@ -38,4 +38,9 @@
 - H. influenzae causes meningitis in unvaccinated children and older adults, and non-b H. influenzae is an emerging pathogen 
 - Staphylococcus aureus and CoNS post neurosurgical procedure 
 ## Pathophysiology 
-- Initially colonise nasopharynx --> transported across epithelial cell
+- Initially colonise nasopharynx --> transported across epithelial cells in membran-bound vacoules or by invading intravascular space by separations in apical tight junction 
+- avoid phagocytosis d/t polysaccharide capsule 
+- bloodborne --> intraventricular choroid plexus --> epithelial cells --> CSF
+- CSF has little defence --> few WBCs, low complement , IGs (prevent opsonisation) 
+- Inflammatory 
+	- 
