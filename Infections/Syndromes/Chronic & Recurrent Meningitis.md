@@ -6,4 +6,8 @@
 	- chemical meningitis 
 	- parameningeal infection 
 # Clinical Pathophysiology 
-- Headache 
+- Headache , hydrocephalus , meningeal signs, cranial neuropathies, radiculopathy , cognitive /personality changes 
+- CSF -- choroid plexus --> narrow foramen in 4th ventricle --> subarachnoid space --> base of brain, hemisphere --> reabsorption by arachnoid villi 
+- Spread from the subarachnoid space into brain parenchyma may occur via the arachnoid cuffs that surround blood vessels that penetrate brain tissue (Virchow-Robin spaces) 
+- ![[ChronicMeningitisSYMPTOMS.png]]
+- ![[]]
