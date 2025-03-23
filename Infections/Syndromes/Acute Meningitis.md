@@ -157,4 +157,6 @@
 - Meropenem dont use as monotherapy 
 - ![[MeningitisTREATMENT.png]] 
 ### Meningococcal 
-- penicllin 
+- penicllin G DOC 
+- test CSF isolates for penicillin and ampicillin susceptiblity 
+- 
