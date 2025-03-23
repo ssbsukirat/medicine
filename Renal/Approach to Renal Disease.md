@@ -190,9 +190,18 @@
 	- Penicillamine , gold, mercury 
 	- Solid tumour (lung, Gastric, intestinal , bladder, breast, prostate ) -- paraneoplastic 
 	- Syphilis , malaria, schistosoma , HBV 
-	- anti-PL
+	- anti-PLA2R 
 - NS with heavy proteinuria / large kidney on USG in CKD 
 	- Diabetic nephropathy 
 	- amyloid 
 	- HIVAN 
 	- MN with RVT 
+- adult presenting with a nephrotic and nephritic picture should be considered to have an immune complex disorder unless proven otherwise
+- NS is associated with Fanconi’s syndrome (glycosuria, phosphaturia, uricosuria, and aminoaciduria), one must consider multiple myeloma in the adult. 
+# Hematuria & LUT syndromes 
+- **hematuria associated with flank pain or ureteral colic** is more characteristic of a lower urinary tract source, such as a stone or an obstructing lesion. 
+- when **flank pain without colic is noted,** one has to consider swelling of the kidney and stretching of the renal capsule, as might be seen in acute urinary obstruction, kidney infection, interstitial nephritis, and, on occasion, acute glomerular nephritis 
+- Heavy bleed + clots -- mostly lower urinary but in renal trauma also 
+- **acute flank pain and hypertension, consider occlusive vascular event** from an embolus or in situ clot within the arterial blood supply
+# AKI 
+- 
