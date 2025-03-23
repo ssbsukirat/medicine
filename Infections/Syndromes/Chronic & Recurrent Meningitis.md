@@ -31,3 +31,10 @@
 # APPROACH 
 - Signs must prompt CSF exam 
 - sometimes CT/MRI may show contrast leakage 
+- meningeal enhancement 
+	- meningitis 
+	- post LP 
+	- post neurosurgical procedure 
+	- concussion 
+	- spontaneous CSF leak 
+- 
