@@ -183,3 +183,7 @@
 - MRSA / penicillin allergy - Vancomycin 
 - 48h CSF not sterile -- intraventricular / intrathecal vancomycin 20mg OD 
 ### Gram-negative Bacillary Meningitis 
+- 3rd generation cephalosporin -- cefotaxime , ceftriaxone , ceftazidime 
+- if pseudomonas -- ceftazidime or meropenem  
+- 3 week IV antibiotic 
+## 
