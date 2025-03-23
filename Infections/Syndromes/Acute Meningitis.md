@@ -252,4 +252,12 @@
 	- some viral may have low glucose echovirus , enterovirus , HSV-2, VZV 
 - PCR 
 	- Enteroviral and HSV -- diagnostic of choice and more sensitive than culture 
+	- in recurrent "asceptic" meningitis -- HSV DNA PCR + despite negative culture 
+	- CMV, Epstein-Barr virus (EBV), VZV, and human herpesvirus 6 (HHV-6) 
+	- WNV PCR available but are not as sensitive as detection of WNV-specific CSF IgM 
+	- Mycoplasma pneumoniae, which can mimic viral meningitis and encephalitis 
+	- PCR of throat washings may assist in diagnosis of enteroviral and mycoplasmal CNS infections. 
+	- PCR of stool specimens may also assist in diagnosis of enteroviral infections
+- Viral Culture 
+	- sensitivity poor 
 	- 
