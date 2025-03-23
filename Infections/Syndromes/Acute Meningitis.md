@@ -197,4 +197,7 @@
 	- may reduce Vancomycin entry to CSF -- > give 45-60mg/kg/day or intraventricular 
 	- reduces complication rates 
 	- patients in sub-Saharan Africa and those in low-income countries with negative CSF Gram’s stain and culture should not be treated with dexamethasone. 
-- 
+- raised ICP 
+	- elevation to 30-45 degree 
+	- intubation and hyperventilation (pco2 25-30mmhg) 
+	- ICP monitor
