@@ -44,4 +44,5 @@
 - CSF has little defence --> few WBCs, low complement , IGs (prevent opsonisation) 
 - Inflammatory 
 	- neurological manifestation and complication due to inflammatory process 
-	- Lysis of bacteria --> cell wall component released in SAS (LPS, teichoic acid, peptidoglycan )--> meningeal inflamm
+	- Lysis of bacteria --> cell wall component released in SAS (LPS, teichoic acid, peptidoglycan )--> meningeal inflammation 
+	- tumor necrosis factor alpha (TNF-α) and interleukin 1β (IL-1β) are present in CSF within 1–2 h of intracisternal inoculation of LPS 
