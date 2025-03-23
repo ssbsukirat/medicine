@@ -16,4 +16,8 @@
 	- Cerebral aqueduct or arachnoid villi obstruction --> hydrocephalus + raised ICP --> headache , vomiting , apathy , drowsiness , gait instability , papilledema , visual loss, impaired upgaze , 6th nerve palsy 
 	- cognitive , behavioral defect due to focal infarct 
 	- inflammatory deposits around brainstem + CN nuclei --> Basal meningitis 
-	- 
+	- combination of decreased vision (CN II), facial weakness (CN VII), decreased hearing (CN VIII), diplopia (CNs III, IV, and VI), sensory or motor abnormalities of the oropharynx (CNs IX, X, and XII), decreased olfaction (CN I), or decreased facial sensation and masseter weakness (CN V) 
+- Spinal Meningitis 
+	- injury may occur to motor and sensory nerve roots as they traverse the subarachnoid space and penetrate the meninges 
+	- multiple radiculopathy with combination of radicular pain, sensory loss, motor weakness, urinary or fecal incontinence 
+	- arachnoiditis with clumping of lower nerve roots and thickening of meninges 
