@@ -220,4 +220,11 @@
 - immunocompetent -- headache , fever, meningeal irritation + inflammatory CSF 
 - Headache invariably ++ 
 	- frontal / retroorbital 
-	- a/w p
+	- a/w photophobia 
+	- pain on moving eyes 
+- Nuchal rigidity -- mild, mostly only on limit of anteflexion 
+- Constitutional signs -- m
+	- malaise 
+	- myalgia 
+	- anorexia 
+	- nausea 
