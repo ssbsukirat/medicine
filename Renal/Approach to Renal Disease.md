@@ -175,4 +175,13 @@
 - nephrotic range proteinuria without edema --> HIVAN (HIV associated Nephropathy )
 	- rapid loss of renal function may occur due to implosion of the glomerular capillary by proliferation of visceral epithelial cells that crush the glomerular loops, decreasing capillary flow and filtering surface area (collapsing glomerulopathy) 
 	- severe, treatment resistant FSGS
-- Hypercatabolic state with negative nitrogen balance 
+- Hypercatabolic state with negative nitrogen balance due to proximal tubule absorption and lysosomal catabolism exceeding hepatic albumin synthesis.
+- horizontal white lines in nailbed -- Muehrckes Lines 
+- Abrupt NS + high cholesterol --> conside podocytopathy --> idiopathic (MCD)
+- secondary causes of MCD 
+	- Hodgkins 
+	- lymphoproliferative disorder 
+- children with albumin <2g --> tissue ischemia --> Nephrotic Crisis (severe abdominal pain mistaken for surgical emergency ) 
+- Membranous Nephropathy 
+	- primary or secondary 
+	- 
