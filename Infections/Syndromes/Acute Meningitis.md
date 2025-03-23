@@ -140,7 +140,9 @@
 - medical emergency 
 - start therapy in 60 min of arrival -- before CSF reports available 
 - Empirical 
-	- suspected bacterial meningitis in children and adults --> combination of dexamethasone, a third- or fourth-generation cephalosporin (e.g., ceftriaxone, cefotaxime, or cefepime), and vancomycin, 
-	- plus acyclovir, as HSV encephalitis is the leading disease in the differential diagnosis, 
-	- Doxycycline during tick season to treat tick-borne bacterial infections
+	- suspected bacterial meningitis in children and adults --> combination of **dexamethasone, a third- or fourth-generation cephalosporin (e.g., ceftriaxone, cefotaxime, or cefepime), and vancomycin,** 
+	- plus **acyclovir**, as HSV encephalitis is the leading disease in the differential diagnosis, 
+	- **Doxycycline** during tick season to treat tick-borne bacterial infections
+- **Ceftriaxone or cefotaxime** --> susceptible S. pneumoniae, group B streptococci, and H. influenzae and adequate for N. meningitidis 
+- **Cefepime** is a broad-spectrum fourth-generation cephalosporin with in vitro activity similar to that of cefotaxime or ceftriaxone against S. pneumoniae and N. meningitidis and greater activity against Enterobacter species and Pseudomonas aeruginosa
 - 
