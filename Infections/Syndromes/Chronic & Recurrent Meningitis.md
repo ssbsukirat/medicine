@@ -21,3 +21,13 @@
 	- injury may occur to motor and sensory nerve roots as they traverse the subarachnoid space and penetrate the meninges 
 	- multiple radiculopathy with combination of radicular pain, sensory loss, motor weakness, urinary or fecal incontinence 
 	- arachnoiditis with clumping of lower nerve roots and thickening of meninges 
+	- encircle and damage cord -- myelopathy 
+- Systemic Manifest 
+	- travel, sexual , insect history 
+	- Infectious causes 
+		- are often associated with fever, malaise, anorexia, and signs of localized or disseminated infection 
+		- in immunocompromised & untreated HIV --> TB, Cryptococcus neoformans 
+	- Carcinomatous Meningitis has +/- clinical evidence of primary disorder 
+# APPROACH 
+- Signs must prompt CSF exam 
+- sometimes CT/MRI may show contrast leakage 
