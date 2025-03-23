@@ -71,3 +71,13 @@
 	- GTCS or status --> hyponatremia, cerebral anoxia, antimicrobial toxicity 
 - Raised ICP 
 	- major cause of obtundation and coma 
+	- 90% have >180mm, 20% >400mmH20 
+	- reduced level of consciousness, papilledema, dilated poorly reactive pupils, sixth nerve palsies, decerebrate posturing, and the Cushing reflex (bradycardia, hypertension, and irregular respirations) 
+	- most disastrous complication --> cerebral herniation 1-8%  
+- specific clues 
+	- rash of meningococcemia, 
+		- begins as a diffuse erythematous maculopapular rash resembling a viral exanthem; 
+		- skin lesions of meningococcemia rapidly become petechial. 
+		- Petechiae are found on the trunk and lower extremities, in the mucous membranes and conjunctiva, and occasionally on the palms and soles
+## Diagnosis 
+- 
