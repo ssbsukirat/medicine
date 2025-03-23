@@ -187,4 +187,6 @@
 - if pseudomonas -- ceftazidime or meropenem  
 - 3 week IV antibiotic 
 ## Adjunctive 
-- 
+- Dexamethasone 
+	- 20 min before antibiotic (only inhibits TNF-a )
+	- exerts its beneficial effect by inhibiting the synthesis of IL-1β and TNF-α at the level of mRNA, decreasing CSF outflow resistance, and stabilizing the blood-brain barrier.
