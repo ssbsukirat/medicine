@@ -137,4 +137,6 @@
 	- Sarcoid, SLE, Behcets , pituitary apoplexy associated meningitis 
 	- uveomeningitic syndromes (Vogt-Koyanagi-Harada syndrome) 
 ## TREATMENT 
+- medical emergency 
+- start therapy in 60 min of arrival -- before CSF reports available 
 - 
