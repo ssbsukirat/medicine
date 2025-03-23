@@ -260,4 +260,12 @@
 	- PCR of stool specimens may also assist in diagnosis of enteroviral infections
 - Viral Culture 
 	- sensitivity poor 
+	- also be isolated from throat swabs, stool, blood, and urine. 
+	- Enteroviruses (not diagnostic) and adenoviruses may be found in feces; 
+	- arboviruses, some enteroviruses, and LCMV in blood; 
+	- mumps and CMV in urine; and 
+	- enteroviruses, mumps, and adenoviruses in throat washings
+- Serology 
+	- WNV 
+	- oligoclonal gamma globulin bands in many 
 	- 
