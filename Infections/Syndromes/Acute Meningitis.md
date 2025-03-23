@@ -35,3 +35,7 @@
 	- neonates, pregnant comen, age>60 , immunocompromised 
 	- food borne transmission 
 	- coleslaw, milk, soft cheese, deli meat, uncooked hotdogs 
+- H. influenzae causes meningitis in unvaccinated children and older adults, and non-b H. influenzae is an emerging pathogen 
+- Staphylococcus aureus and CoNS post neurosurgical procedure 
+## Pathophysiology 
+- Initially colonise nasopharynx --> transported across epithelial cell
