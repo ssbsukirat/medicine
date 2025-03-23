@@ -227,4 +227,10 @@
 	- malaise 
 	- myalgia 
 	- anorexia 
-	- nausea 
+	- nausea vomiting 
+	- abdominal pain 
+	- diarrhea 
+- altered consciousness mostly not there but lethargy and drowsiness + 
+## ETIOLOGY 
+- 60-90% can identify some cause 
+- Enter
