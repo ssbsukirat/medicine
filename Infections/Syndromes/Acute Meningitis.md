@@ -248,5 +248,8 @@
 	- PMN predominant rarely in 1st 48h especially WNV, echovirus 9, eastern equine encephalitis virus or mumps 
 	- PMN with low glucose in CMV in immunocompromised 
 	- if PMN - consider bacterial or parameningeal infection 
-	- Lymphocytic + low glucose considere Fungal or TB 
+	- Lymphocytic + low glucose considere Fungal or TB or listeria or noninfectious 
+	- some viral may have low glucose echovirus , enterovirus , HSV-2, VZV 
+- PCR 
+	- Enteroviral and HSV -- diagnostic of choice and more sensitive than culture 
 	- 
