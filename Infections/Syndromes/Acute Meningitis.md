@@ -139,4 +139,8 @@
 ## TREATMENT 
 - medical emergency 
 - start therapy in 60 min of arrival -- before CSF reports available 
+- Empirical 
+	- suspected bacterial meningitis in children and adults --> combination of dexamethasone, a third- or fourth-generation cephalosporin (e.g., ceftriaxone, cefotaxime, or cefepime), and vancomycin, 
+	- plus acyclovir, as HSV encephalitis is the leading disease in the differential diagnosis, 
+	- Doxycycline during tick season to treat tick-borne bacterial infections
 - 
