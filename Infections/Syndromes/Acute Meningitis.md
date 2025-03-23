@@ -432,4 +432,16 @@
 - H capsulatum 
 	- AmB (0.7–1.0 mg/kg per day) for 4–12 weeks. A total dose of 30 mg/kg is recommended. 
 	- continue till sterile culture 
-	- maintain with 
+	- maintain with itraconazole 200mg BD/TID till 9m-1y 
+- C immitis 
+	- high-dose fluconazole (1000 mg daily) as monotherapy or intravenous AmB (0.5–0.7 mg/kg per day) for >4 weeks. 
+	- intrathecal AmB 0.25-0.75mg/day 3x/week 
+	- lifelong fluconazole 200-400mg to prevent reinfection 
+- Syphilitic 
+	- IV aqueous penicillin G 3-4MU Q4H for 10-14 days 
+	- 2.4MU of procaine penicillin G IM OD with oral probenecid 4x/day for 10-14d 
+	- either f/b 2.4 million units of benzathine penicillin G intramuscularly once a week for 3 weeks. 
+	- treatment success --> reexamine CSF 
+	- 6m repeat CSF for 2 years 
+	- cell count is expected to normalize within 12 months, and the VDRL titer to decrease by two dilutions or revert to nonreactive within 2 years of completion of therapy. 
+	- Failure of the CSF pleocytosis to resolve or an increase in the CSF VDRL titer by two or more dilutions requires retreatment.
