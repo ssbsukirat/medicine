@@ -43,4 +43,5 @@
 - bloodborne --> intraventricular choroid plexus --> epithelial cells --> CSF
 - CSF has little defence --> few WBCs, low complement , IGs (prevent opsonisation) 
 - Inflammatory 
-	- 
+	- neurological manifestation and complication due to inflammatory process 
+	- Lysis of bacteria --> cell wall component released in SAS (LPS, teichoic acid, peptidoglycan )--> meningeal inflamm
