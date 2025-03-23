@@ -396,3 +396,21 @@
 	- last LP tube -- send for AFB 
 	- Pellicle or cobweb like clot -- AFB 
 	- Culture gold standard 
+	- PCR, NAAT 
+- Fungal 
+	- mononuclear or lymphocytic pleocytosis 
+	- increased protein and low sugar 
+	- eosinophil in C. immitis CSF 
+	- India Ink or culture need large quantities 
+	- spinal fluid examined by LP on two separate occasions fails to yield an organism, CSF should be obtained by high-cervical or cisternal puncture. 
+	- cryptococcal polysaccharide antigen test - sensitive and specific 
+	- Histoplasma polysaccharide antigen --> fungal meningitis but not necessary Histoplasma as coccidiodal meningitis has false positive 
+	- CSF complement fixation antibody test is reported to have a specificity of 100% and a sensitivity of 75% for coccidioidal meningitis. 
+	- syphilitic meningitis is made when a reactive serum treponemal test (fluorescent treponemal antibody absorption test (TA-ABS) or microhemagglutination assay–T. pallidum MHA- TP) is associated with a CSF lymphocytic or mononuclear pleocytosis and an elevated protein concentration, or when the CSF Venereal Disease Research Laboratory (VDRL) test is positive 
+	- CSF FTA-ABS can be falsely positive from blood contamination. A negative CSF VDRL does not rule out neurosyphilis. A negative CSF FTA-ABS or MHA-TP rules out neurosyphilis. 
+## TREATMENT 
+- empirical for TB if high suspicion 
+	- HRZE + pyridoxine 
+	- ethambutol discontinue when susceptiblity known 
+	- if good response 
+		- 
