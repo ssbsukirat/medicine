@@ -85,3 +85,10 @@
 	- if immunocompetent + no head trauma , normal consciousness , no papilledema or FNDs --> CSF without neuroimaging 
 	- otherwise after neuroimaging 
 	- if waiting for CSF --> start therapy as picture not affected in few hours 
+	- ![[MeningitisCSF.png]]
+	- PMN leucocytosis >100 in 90% 
+	- low glucose <40 +/- CSF/serum RBS <0.4 
+	- increased protein -- >0.45/>45 mg/dl in 90% 
+	- increased opening pressure >180mmH2O 
+	- positive CSF culture + in >70% , positive g stain in >60% 
+	- 
