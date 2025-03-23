@@ -161,4 +161,5 @@
 - test CSF isolates for penicillin and ampicillin susceptiblity 
 - 7-day course of intravenous antibiotic therapy is adequate for uncomplicated
 - Index case and all close contacts --> chemoprophylaxis with a **2-day regimen of rifampin (600 mg every 12 h for 2 days in adults and 10 mg/kg every 12 h for 2 days in children >1 year).** (not in pregnancy )
-- 
+- adults alternate chemoprophylaxis -- one dose of azithromycin (500 mg) or one intramuscular dose of ceftriaxone (250 mg)
+- close contacts -- contact with oropharyngeal secretion by kissing, toys or beverage or cigarette 
