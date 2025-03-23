@@ -214,4 +214,10 @@
 	- hypercalcemia and hypoxia 
 - Intrinsic 
 	- low urinary sodium and concentrated urine 
-	- 
+	- urine to plasma creatinine concentration is usually >40 
+	- may or may not be oliguria and in fact there could be polyuria (unresponsiveness to ADH), sodium-wasting, potassium- wasting, and acid-base disorders 
+	- ATN -- gram negative sepsis, hemodynamic collapse , hemoglobinuria, myoglobinuria, medication , toxins 
+	- crush injury, heroin and alcohol stupor, and compartment syndrome. Drug causes include NSAIDs, aminoglycosides, and chemotherapeutic drugs like cisplatinum and methotrexate. 
+- Postrenal 
+	- accompanied by anuria suggest complete obstruction to the flow of urine, 
+	- polyuria and bland urinary sediment suggest incomplete obstruction combined with ADH unresponsiveness
