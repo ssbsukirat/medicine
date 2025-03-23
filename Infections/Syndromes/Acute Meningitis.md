@@ -106,4 +106,11 @@
 		- not diagnostic but seen in any disease with high BBB permeability 
 - biopsy of petechial skin lesions 
 ## DIFFERENTIAL 
-- Viral ()
+- Viral (HSV) meningoencephalitis 
+	- headache fever altered consciousness 
+	- FND 
+	- focal or general seizures 
+	- CSF , imaging and EEG to differentiate (CSF lymphocytic pleocytosis )
+	- FLAIR, T2 high-signal-intensity lesions are seen in the orbitofrontal, anterior, and medial temporal lobes in the majority of patients within 48 h of symptom onset
+- Rickettsial 
+	- Rocky mountain spotted fever 
