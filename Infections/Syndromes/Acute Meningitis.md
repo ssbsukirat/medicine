@@ -413,4 +413,23 @@
 	- HRZE + pyridoxine 
 	- ethambutol discontinue when susceptiblity known 
 	- if good response 
-		- 
+		- pyrazinamide can be discontinued after 8 weeks and isoniazid and rifampin continued alone for the next 6–12 months. 
+	- A 6-month course of therapy is acceptable, but therapy should be prolonged for 9–12 months in patients who have an inadequate resolution of symptoms of meningitis or who have positive mycobacterial cultures of CSF during the course of therapy.
+	- Dexamethasone in HIV negative 12-16mg/day for 3 weeks --> f/b 3-week taper 
+- C. neoformans in non-HIV, nontransplant patients
+	- induction therapy with amphotericin B (AmB) (0.7 mg/kg IV per day) plus flucytosine (100 mg/kg per day in four divided doses) for at least 4 weeks if CSF culture results are negative after 2 weeks of treatment 
+	- 6 weeks in neurological complication 
+	- Consolidation 
+		- Fluconazole 400mg/d for 8 weeks 
+- Organ transplant recipient 
+	- liposomal AmB (3–4 mg/kg per day) or AmB lipid complex (ABLC; 5 mg/kg per day) plus flucytosine (100 mg/kg per day in four divided doses) for at least 2 weeks or until CSF culture is sterile 
+	- CSF yeast culture to test sterility 
+	- f/b 8-10 week course of fluconazole 400-800mg/day orall 
+	- if CSF sterile after 10 weeks -- fluconazole 200mg/day for 6m to a yeat 
+- HIV + 
+	- AmB or a lipid formulation plus flucytosine for at least 2 weeks, followed by fluconazole for a minimum of 8 weeks. 
+	- may need indefinite fluconazole 200mg/day \
+- H capsulatum 
+	- AmB (0.7–1.0 mg/kg per day) for 4–12 weeks. A total dose of 30 mg/kg is recommended. 
+	- continue till sterile culture 
+	- maintain with 
