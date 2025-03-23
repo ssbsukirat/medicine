@@ -167,4 +167,8 @@
 - Cephalosporin + Vancomycin 
 - susceptible to penicillin with a minimal inhibitory concentration (MIC) <0.06 μg/mL and to be resistant when the MIC is >0.12 μg/mL 
 - cefotaxime or ceftriaxone MICs ≤0.5 μg/mL, treatment with cefotaxime or ceftriaxone is usually adequate. For MIC >1 μg/mL, vancomycin is the antibiotic of choice 
-- Rifam
+- Rifampin (can be ADDED to vancomycin ) but unsuitable for monotherapy 
+- 2-week IV antibiotic for pneumococcal 
+- Repeat CSF 
+	- repeat LP performed 24–36 h after the initiation of antimicrobial therapy to document sterilization of the CSF. 
+	- Failure to sterilize the CSF after 24–36 h of antibiotic therapy should be considered presumptive evidence of antibiotic resistance.
