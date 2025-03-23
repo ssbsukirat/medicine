@@ -301,4 +301,15 @@
 	- WNV, St louis encephalitis , California Encephalitis 
 	- history of tick exposure or travel or residence in the appropriate geographic area should suggest the possibility of Colorado tick fever virus or Powassan virus infection 
 	- CSF lymphocytic pleocytosis, normal glucose concentration, and normal or mildly elevated protein concentration
-	- CSF neutrop
+	- CSF neutrophilia in 45% 
+	- viral-specific IgM in CSF or seroconversion. 
+	- The prevalence of CSF IgM increases progressively during the first week 
+- HSV 
+	- 2nd MC 
+	- uncomplicated meningitis -- HSV-2 
+	- Encephalitis --> HSV-1 
+	- HSV CSF RTPCR 
+	- Demonstration of intrathecal synthesis of HSV- specific antibody may also be useful in diagnosis 
+	- Most cases of recurrent viral or “aseptic” meningitis, including cases previously diagnosed as Mollaret’s meningitis, are due to HSV. 
+- VZV 
+	- 
