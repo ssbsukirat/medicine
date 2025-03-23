@@ -188,5 +188,8 @@
 - 3 week IV antibiotic 
 ## Adjunctive 
 - Dexamethasone 
-	- 20 min before antibiotic (only inhibits TNF-a )
-	- exerts its beneficial effect by inhibiting the synthesis of IL-1β and TNF-α at the level of mRNA, decreasing CSF outflow resistance, and stabilizing the blood-brain barrier.
+	- **20 min before antibiotic** (only inhibits TNF-a by macrophage & microglia if given before their activation )
+	- inhibiting the synthesis of IL-1β and TNF-α at the level of mRNA, 
+	- decreasing CSF outflow resistance,
+	- stabilizing the blood-brain barrier.
+	- 
