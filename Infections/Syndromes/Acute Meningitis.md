@@ -145,4 +145,17 @@
 	- **Doxycycline** during tick season to treat tick-borne bacterial infections
 - **Ceftriaxone or cefotaxime** --> susceptible S. pneumoniae, group B streptococci, and H. influenzae and adequate for N. meningitidis 
 - **Cefepime** is a broad-spectrum fourth-generation cephalosporin with in vitro activity similar to that of cefotaxime or ceftriaxone against S. pneumoniae and N. meningitidis and greater activity against Enterobacter species and Pseudomonas aeruginosa
-- 
+- Cefepime has been associated with seizures, myoclonus, and encephalopathy, any of which may limit its use in critically ill patients 
+- **Ampicillin** --> Listeria coverage in <3m, >55 years or those with impaired cell mediated immunity (chronic disease , pregnancy , organ transplant , malignancy , immunosuppression )
+- **Metronidazole** --> cover gram-negative anaerobes in patients with otitis, sinusitis, or mastoiditis 
+- Hospital acquired or post neurosurgical 
+	- staphylococcus , pseudomonas 
+	- combination of **vancomycin and ceftazidime or meropenem**
+- Ceftazidime or Meropenem in neutropenia for pseudomonas 
+- Meropenem also has activity against Listeria, Pseudomonas , penicillin-resistant pneumococci 
+- Pneumococci --> meropenem better than ceftriaxone but worse than vancomycin 
+- Meropenem dont use as monotherapy 
+### Meningococcal 
+- penicllin G DOC 
+- test CSF isolates for penicillin and ampicillin susceptiblity 
+- hello
