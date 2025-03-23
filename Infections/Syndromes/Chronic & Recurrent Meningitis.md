@@ -6,4 +6,28 @@
 	- chemical meningitis 
 	- parameningeal infection 
 # Clinical Pathophysiology 
-- Headache 
+- Headache , hydrocephalus , meningeal signs, cranial neuropathies, radiculopathy , cognitive /personality changes 
+- CSF -- choroid plexus --> narrow foramen in 4th ventricle --> subarachnoid space --> base of brain, hemisphere --> reabsorption by arachnoid villi 
+- Spread from the subarachnoid space into brain parenchyma may occur via the arachnoid cuffs that surround blood vessels that penetrate brain tissue (Virchow-Robin spaces) 
+- ![[ChronicMeningitisSYMPTOMS.png]]
+- ![[chronicMenSystemic.png]]
+- Intracranial Meningitis 
+	- nociceptor of meninges --> headache , neck pain, back pain 
+	- Cerebral aqueduct or arachnoid villi obstruction --> hydrocephalus + raised ICP --> headache , vomiting , apathy , drowsiness , gait instability , papilledema , visual loss, impaired upgaze , 6th nerve palsy 
+	- cognitive , behavioral defect due to focal infarct 
+	- inflammatory deposits around brainstem + CN nuclei --> Basal meningitis 
+	- combination of decreased vision (CN II), facial weakness (CN VII), decreased hearing (CN VIII), diplopia (CNs III, IV, and VI), sensory or motor abnormalities of the oropharynx (CNs IX, X, and XII), decreased olfaction (CN I), or decreased facial sensation and masseter weakness (CN V) 
+- Spinal Meningitis 
+	- injury may occur to motor and sensory nerve roots as they traverse the subarachnoid space and penetrate the meninges 
+	- multiple radiculopathy with combination of radicular pain, sensory loss, motor weakness, urinary or fecal incontinence 
+	- arachnoiditis with clumping of lower nerve roots and thickening of meninges 
+	- encircle and damage cord -- myelopathy 
+- Systemic Manifest 
+	- travel, sexual , insect history 
+	- Infectious causes 
+		- are often associated with fever, malaise, anorexia, and signs of localized or disseminated infection 
+		- in immunocompromised & untreated HIV --> TB, Cryptococcus neoformans 
+	- Carcinomatous Meningitis has +/- clinical evidence of primary disorder 
+# APPROACH 
+- Signs must prompt CSF exam 
+- sometimes CT/MRI may show contrast leakage 
