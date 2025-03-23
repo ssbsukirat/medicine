@@ -80,4 +80,8 @@
 		- skin lesions of meningococcemia rapidly become petechial. 
 		- Petechiae are found on the trunk and lower extremities, in the mucous membranes and conjunctiva, and occasionally on the palms and soles
 ## Diagnosis 
-- 
+- blood culture + empirical antimicrobial + dexamethasone 
+- CSF 
+	- if immunocompetent + no head trauma , normal consciousness , no papilledema or FNDs --> CSF without neuroimaging 
+	- otherwise after neuroimaging 
+	- if waiting for CSF --> start therapy as picture not affected in few hours 
