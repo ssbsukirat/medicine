@@ -46,3 +46,7 @@
 	- neurological manifestation and complication due to inflammatory process 
 	- Lysis of bacteria --> cell wall component released in SAS (LPS, teichoic acid, peptidoglycan )--> meningeal inflammation 
 	- tumor necrosis factor alpha (TNF-α) and interleukin 1β (IL-1β) are present in CSF within 1–2 h of intracisternal inoculation of LPS 
+	- cytokine response --> CSF protein increase 
+	- production of excitatory amino acids, reactive oxygen and nitrogen species (free oxygen radicals, nitric oxide, and peroxynitrite), and other mediators that can induce death of brain cells, especially in the dentate gyrus of the hippocampus.
+- ![[meningitisPATHO.png]]
+- 
