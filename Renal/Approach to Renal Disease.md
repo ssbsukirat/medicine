@@ -184,4 +184,15 @@
 - children with albumin <2g --> tissue ischemia --> Nephrotic Crisis (severe abdominal pain mistaken for surgical emergency ) 
 - Membranous Nephropathy 
 	- primary or secondary 
-	- 
+	- a/w renal vein thrombosis -- urinary loss of AT3 and Plasminogen, hyperfibrogenemia 
+	- SLE associated 
+	- early MN d/t NSAID reaction 
+	- Penicillamine , gold, mercury 
+	- Solid tumour (lung, Gastric, intestinal , bladder, breast, prostate ) -- paraneoplastic 
+	- Syphilis , malaria, schistosoma , HBV 
+	- anti-PL
+- NS with heavy proteinuria / large kidney on USG in CKD 
+	- Diabetic nephropathy 
+	- amyloid 
+	- HIVAN 
+	- MN with RVT 
