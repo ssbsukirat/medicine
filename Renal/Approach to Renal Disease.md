@@ -204,4 +204,14 @@
 - Heavy bleed + clots -- mostly lower urinary but in renal trauma also 
 - **acute flank pain and hypertension, consider occlusive vascular event** from an embolus or in situ clot within the arterial blood supply
 # AKI 
-- 
+- retention of nitrogenous solutes like urea, uric acid and creatinine 
+- urea but not creatinine has a reabsorptive component, the **clearance of urea is less than the clearance of creatinine** 
+- constant catabolic rate, a decrease in glomerular filtration alone will affect the BUN and creatinine proportionately 
+- disorder associated with **enhanced urinary concentration (high ADH),** in which urea as well as water has increased reabsorption in the process of concentrating the urine, the retention of urea nitrogen exceeds that of creatinine, accounting for **an elevated BUN-to-creatinine ratio** 
+- Prerenal 
+	- decreased perfusion pressure to glomerular capillaries 
+	- proliferative GN, preglomerular vascular (scleroderma , thrombotic microangiopathy), pressors, vasoconstrictor like cocaine, IV Iodine contrast , HB or myoglobin, Vancomycin , cyclosporine , tacrolimus , NSAIDs
+	- hypercalcemia and hypoxia 
+- Intrinsic 
+	- low urinary sodium and concentrated urine 
+	- 
