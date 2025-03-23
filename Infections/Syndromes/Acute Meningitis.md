@@ -268,4 +268,20 @@
 - Serology 
 	- WNV 
 	- oligoclonal gamma globulin bands in many 
-	- 
+## DIFFERENTIAL 
+- untreated or partially treated bacterial meningitis 
+- early fungal, TB or neurosyphilis 
+- agents such as Mycoplasma, Listeria spp., Brucella spp., Coxiella spp., Leptospira spp., and Rickettsia spp 
+- parameningeal infection 
+- neoplastic meningitis 
+- noninfectious inflammatory disease meningitis 
+	- medication-induced hypersensitivity meningitis, SLE and other rheumatologic diseases, sarcoidosis, Behçet’s syndrome, and the uveomeningitic syndromes
+- high CSF protein >50 & high procalcitonin favor bacterial 
+- bacterial meningitis score (<0.3% chance of bacterial if all +)
+	- negative grams 
+	- CSF neutros <1000 
+	- CSF protein <80 
+	- peripheral ANC <10000 
+	- no prior history or current seizure 
+## Specific 
+- 
