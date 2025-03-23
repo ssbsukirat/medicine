@@ -235,4 +235,18 @@
 - 60-90% can identify some cause 
 - Enterovirus (echoviruses and coxsackieviruses), Varicella-Zoster (VZV), HSV (1>2), HIV, Arbovirus 
 - 30-70% culture positive --> 2/3 of culture negative have PCR + 
-- 
+- ![[MeningitisVIRUS.png]]
+## Epidemiology 
+- non-winter months 
+- seasonal 
+## Labs 
+- CSF 
+	- Pleocytosis (lymphocytic) + slightly raised protein (20-80) + normal glucose + normal or mildly elevated pressure (100-350 mmH2O) 
+	- gram stain negative 
+	- 25-500 cells 
+	- >1000 cells in ***lymphocytic choriomeningitis virus and mumps*** 
+	- PMN predominant rarely in 1st 48h especially WNV, echovirus 9, eastern equine encephalitis virus or mumps 
+	- PMN with low glucose in CMV in immunocompromised 
+	- if PMN - consider bacterial or parameningeal infection 
+	- Lymphocytic + low glucose considere Fungal or TB 
+	- 
