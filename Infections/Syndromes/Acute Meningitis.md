@@ -172,3 +172,5 @@
 - Repeat CSF 
 	- repeat LP performed 24–36 h after the initiation of antimicrobial therapy to document sterilization of the CSF. 
 	- Failure to sterilize the CSF after 24–36 h of antibiotic therapy should be considered presumptive evidence of antibiotic resistance.
+- If fail with iV vancomycin -- add **intraventricular Vancomycin** 
+- 
