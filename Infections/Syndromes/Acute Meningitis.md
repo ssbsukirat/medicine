@@ -163,3 +163,8 @@
 - Index case and all close contacts --> chemoprophylaxis with a **2-day regimen of rifampin (600 mg every 12 h for 2 days in adults and 10 mg/kg every 12 h for 2 days in children >1 year).** (not in pregnancy )
 - adults alternate chemoprophylaxis -- one dose of azithromycin (500 mg) or one intramuscular dose of ceftriaxone (250 mg)
 - close contacts -- contact with oropharyngeal secretion by kissing, toys or beverage or cigarette 
+### Pneumococci 
+- Cephalosporin + Vancomycin 
+- susceptible to penicillin with a minimal inhibitory concentration (MIC) <0.06 μg/mL and to be resistant when the MIC is >0.12 μg/mL 
+- cefotaxime or ceftriaxone MICs ≤0.5 μg/mL, treatment with cefotaxime or ceftriaxone is usually adequate. For MIC >1 μg/mL, vancomycin is the antibiotic of choice 
+- Rifam
