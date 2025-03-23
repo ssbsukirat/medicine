@@ -387,4 +387,12 @@
 		- 7,8 nerve involved 
 		- CNS involvement is early 
 ## LABORATORY 
-- TBM
+- TBM 
+	- high opening pressure 
+	- lymphocytic pleocytosis 10-500 
+	- protein 100-500 mg/dl 
+	- glucose 20-40mg/dl 
+	- unrelenting headache, stiff neck, fatigue, night sweats, and fever with a CSF lymphocytic pleocytosis and a mildly decreased glucose concentration is highly suspicious for tuberculous meningitis
+	- last LP tube -- send for AFB 
+	- Pellicle or cobweb like clot -- AFB 
+	- Culture gold standard 
