@@ -381,3 +381,10 @@
 	- inhalation of airborne spores 
 	- asymptomatic or fever, cough, sputum , chest pain -- self-limited pulmonary infection 
 	- dormant pulmonary infection --> cell mediated immunity abnormal --> reactivation and CNS dissemination 
+	- mc fungal is Cryptococcus neoformans 
+	- H. capsulatum is endemic to the Ohio and Mississippi River valleys of the central United States and to parts of Central and South America. C. immitis is endemic to the desert areas of the southwest United States, northern Mexico, and Argentina. 
+	- Syphilis STD --> painless chancre at site of inoculation 
+		- 7,8 nerve involved 
+		- CNS involvement is early 
+## LABORATORY 
+- TBM
