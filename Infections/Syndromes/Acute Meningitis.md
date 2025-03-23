@@ -192,4 +192,6 @@
 	- inhibiting the synthesis of IL-1β and TNF-α at the level of mRNA, 
 	- decreasing CSF outflow resistance,
 	- stabilizing the blood-brain barrier.
-	- 
+	- best benefit in pneumococcal 
+	- 10mg IV Q6H for 4 days 
+	- may reduce Vancomycin entry to CSF -- > give 45-60n
