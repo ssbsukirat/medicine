@@ -67,4 +67,7 @@
 	- Brudzinski’s 
 		- supine --> passive neck flex --> spontaneous flex hip and knee 
 - Seizures -- 15-40% 
-	- focal d/t focal arterial ischemia or infarct 
+	- focal d/t focal arterial ischemia or infarct , CVT with hemorrhage , focal edema 
+	- GTCS or status --> hyponatremia, cerebral anoxia, antimicrobial toxicity 
+- Raised ICP 
+	- major cause of obtundation and coma 
