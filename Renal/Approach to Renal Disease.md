@@ -221,3 +221,13 @@
 - Postrenal 
 	- accompanied by anuria suggest complete obstruction to the flow of urine, 
 	- polyuria and bland urinary sediment suggest incomplete obstruction combined with ADH unresponsiveness
+	- FeNa >1-2% (except hyperchloremic metabolic alkalosis) 
+	- obstruction is usually characterized by hydronephrosis visualized on ultrasound images or large volumes of urine removed by bladder catheterization, indicating bladder outlet obstruction
+# Chronic Kidney Disease 
+- if duration unknown 
+	- bilateral small kidney on USG 
+	- <8cm is small 
+	- Diabetes may have large kidney 
+	- elevated PTH in CKD 
+	- thinning of cortex 
+- 
