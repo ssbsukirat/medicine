@@ -339,4 +339,24 @@
 	- rash, pulmonary infiltrates , alopecia, parotitis , orchitis , myopericarditis 
 	- leucopenia , thrombocytopenia , abnormal LFTs 
 	- serology and culture 
-	- CSF pleocytosis >1000 and <30
+	- CSF pleocytosis >1000 and <30% have hypoglycorrhachia 
+## TREATMENT 
+- Symptomatic 
+	- analgesic 
+	- antipyretics 
+	- antiemetics 
+- fluids and electrolyte 
+- if suspect bacterial --> start empirical antibiotic 
+- No hospitalization if 
+	- immunocompetent 
+	- no focal signs or symptoms 
+	- classic CSF profile 
+- Hospital 
+	- immunocompromised 
+	- altered consciousness 
+	- seizure 
+	- focal signs 
+	- symptoms s/o encephalitis 
+	- atypical CSF 
+- Oral / IV acyclovir --> HSV-2 , HSV-1 , some EBV VZV 
+- seriously ill -- IV acyclovir 15-30ml/kg/day in 3 doses 
