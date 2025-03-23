@@ -128,4 +128,13 @@
 		- altered level of consciousness ranging from mild lethargy to coma, confusion, focal neurologic signs, cranial nerve palsies, hyperreflexia, and seizures 
 - Focal CNS infection 
 	- subdural or epidural empyema , brain abcess 
-	- MRI in meningitis with foc
+	- MRI in meningitis with focal features 
+- Noninfectious CNS 
+	- SAH 
+	- Medication induced hypersensitivity meningitis 
+	- chemical meningitis d/t tumour content rupture into CSF 
+	- Carcinomatous or lymphomatous meningitis 
+	- Sarcoid, SLE, Behcets , pituitary apoplexy associated meningitis 
+	- uveomeningitic syndromes (Vogt-Koyanagi-Harada syndrome) 
+## TREATMENT 
+- 
