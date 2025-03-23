@@ -155,7 +155,6 @@
 - Meropenem also has activity against Listeria, Pseudomonas , penicillin-resistant pneumococci 
 - Pneumococci --> meropenem better than ceftriaxone but worse than vancomycin 
 - Meropenem dont use as monotherapy 
-- ![[MeningitisTREATMENT.png]] 
 ### Meningococcal 
 - penicllin G DOC 
 - test CSF isolates for penicillin and ampicillin susceptiblity 
