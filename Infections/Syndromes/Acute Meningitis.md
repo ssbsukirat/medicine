@@ -179,4 +179,7 @@
 - Gentamicin in critically ill --2mg/kg loading f/b 7.5mg/kg/day Q8H 
 - Trimethoprim 10-20mg/kg/day Sulfamethoxazole 50-100mg/kg/day Q6H in penicillin allergy 
 ### Staphylococcus 
-- 
+- Nafcillin 
+- MRSA / penicillin allergy - Vancomycin 
+- 48h CSF not sterile -- intraventricular / intrathecal vancomycin 20mg OD 
+### Gram-negative Bacillary Meningitis 
