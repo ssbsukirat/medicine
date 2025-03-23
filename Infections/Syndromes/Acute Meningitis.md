@@ -49,4 +49,6 @@
 	- cytokine response --> CSF protein increase 
 	- production of excitatory amino acids, reactive oxygen and nitrogen species (free oxygen radicals, nitric oxide, and peroxynitrite), and other mediators that can induce death of brain cells, especially in the dentate gyrus of the hippocampus.
 - ![[meningitisPATHO.png]]
-- 
+- subarachnoid exudate of proteinaceous material and leukocytes obstructs the flow of CSF through the ventricular system and diminishes the resorptive capacity of the arachnoid granulations in the dural sinuses, leading to **obstructive and communicating hydrocephalus and concomitant interstitial edema** 
+- adherence of leukocytes to capillary endothelial cells increases the permeability of blood vessels, allowing for the leakage of plasma proteins into the CSF, which adds to the inflammatory exudate 
+- Neutrophil degranulation --> toxic metabolites that contribute to cytotoxic edema, cell injury, and death
