@@ -200,4 +200,12 @@
 - raised ICP 
 	- elevation to 30-45 degree 
 	- intubation and hyperventilation (pco2 25-30mmhg) 
-	- ICP monitor
+	- ICP monitoring device in ICU 
+## Prognosis 
+- risk of death more in 
+	- decreased GCS on admission 
+	- seizure within 24h of admission 
+	- raised ICP 
+	- young age 
+	- age >50 
+	- shock or need for mechan
