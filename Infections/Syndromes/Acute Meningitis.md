@@ -124,3 +124,8 @@
 		- Ehrlichia chaffeensis --> human monocytic ehrlichiosis
 		- fever, headache, confusion, nausea, and vomiting 
 		- 20% have maculopapular or petechial rash 
+		- leukopenia, thrombocytopenia, and anemia, and mild to moderate elevations in alanine aminotransferases, alkaline phosphatase, and lactate dehydrogenase 
+		- altered level of consciousness ranging from mild lethargy to coma, confusion, focal neurologic signs, cranial nerve palsies, hyperreflexia, and seizures 
+- Focal CNS infection 
+	- subdural or epidural empyema , brain abcess 
+	- MRI in meningitis with foc
