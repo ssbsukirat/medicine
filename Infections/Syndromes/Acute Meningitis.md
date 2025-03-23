@@ -369,3 +369,15 @@
 # Subacute 
 ## Clinical 
 - unrelenting headache , stiff neck, low-grade fever and lethargy for days to weeks 
+- Cranial nerve palsy and night sweats 
+## Etiology 
+- TB, Cryptococcus neoformans, H capsulatum, C immitis, T pallidum 
+- TB meningitis not from hematogenous spread 
+	- millet seed–sized (**miliary**) tubercles form in the parenchyma of the brain during hematogenous dissemination of tubercle bacilli in the course of primary infection --> enlarge and caseate 
+	- meningitis by caseating lesion if close to SAS and high rate of fibrous encapsulation 
+	- Subependymal caseous foci cause meningitis via discharge of bacilli and tuberculous antigens into the SAS 
+	- intense inflammatory reaction that leads to the production of a thick exudate that fills the basilar cisterns and surrounds the cranial nerves and major blood vessels at the base of the brain. 
+- Fungal 
+	- inhalation of airborne spores 
+	- asymptomatic or fever, cough, sputum , chest pain -- self-limited pulmonary infection 
+	- dormant pulmonary infection --> cell mediated immunity abnormal --> reactivation and CNS dissemination 
