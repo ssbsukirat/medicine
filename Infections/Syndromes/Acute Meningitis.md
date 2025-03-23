@@ -173,4 +173,7 @@
 	- repeat LP performed 24–36 h after the initiation of antimicrobial therapy to document sterilization of the CSF. 
 	- Failure to sterilize the CSF after 24–36 h of antibiotic therapy should be considered presumptive evidence of antibiotic resistance.
 - If fail with iV vancomycin -- add **intraventricular Vancomycin** 
-- 
+- intraventricular route of administration is preferred over the intrathecal route because adequate concentrations of vancomycin in the cerebral ventricles are not always achieved with intrathecal administration 
+### Listeria 
+- Ampicillin for 3 weeks 
+- Gentamicin in critically ill --2mg/kg loading f/b 7.5mg/kg/day in 
