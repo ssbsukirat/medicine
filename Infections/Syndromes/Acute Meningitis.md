@@ -194,4 +194,7 @@
 	- stabilizing the blood-brain barrier.
 	- best benefit in pneumococcal 
 	- 10mg IV Q6H for 4 days 
-	- may reduce Vancomycin entry to CSF -- > give 45-60n
+	- may reduce Vancomycin entry to CSF -- > give 45-60mg/kg/day or intraventricular 
+	- reduces complication rates 
+	- patients in sub-Saharan Africa and those in low-income countries with negative CSF Gram’s stain and culture should not be treated with dexamethasone. 
+- 
