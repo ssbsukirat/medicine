@@ -323,4 +323,20 @@
 	- IgM viral capsid antibodies (VCAs), antibodies to early antigens (EAs), and the absence of antibodies to EBV- associated nuclear antigen (EBNA). 
 	- PCR has false positive 
 - HIV meningitis 
-	- 
+	- 5,7,8 nerve palsies 
+	- HIV in CSF or blood 
+- Mumps 
+	- males, late winter, early spring 
+	- in nonimmunised populations 
+	- vaccine-associated mumps meningitis rare 
+	- parotitis , orchitis , pancreatitis , lipase/amylase elevation suggestive but may happen without 
+	- if prior infection -- exclude as lifelong immunity + 
+	- CSF pleocytosis >1000 , neutrophil in 25%
+	- hypoglycorrhachia in 10-30% 
+	- Culture or IgM or seroconversion 
+- LCMV 
+	- House mice, pet or lab rats or rat feces exposure 
+	- rash, pulmonary infiltrates , alopecia, parotitis , orchitis , myopericarditis 
+	- leucopenia , thrombocytopenia , abnormal LFTs 
+	- serology and culture 
+	- CSF pleocytosis >1000 and <30
