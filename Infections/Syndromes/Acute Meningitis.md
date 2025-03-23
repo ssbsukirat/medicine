@@ -288,4 +288,17 @@
 	- MC cause >85% of viral 
 	- sporadic and cluster both - EV71 
 	- in summer and fall especially children 
-	- 
+	- benign unless in neonate 
+	- sudden onset of fever; headache; nuchal rigidity; and constitutional signs, including vomiting, anorexia, diarrhea, cough, pharyngitis, and myalgias. 
+	- stigmata of enterovirus infection, including exanthems, hand-foot-mouth disease, herpangina, pleurodynia, myopericarditis, and hemorrhagic conjunctivitis
+	- lymphocytic pleocytosis 100-1000 with normal glucose and normal/slightly high protein 
+	- rarely PMN in 1st 48H 
+	- CSF RTPCR test of choice 
+	- RT-PCR of throat washings or stool specimens may be positive for several weeks, and positive results can help support the diagnosis of an acute enteroviral infection. 
+	- supportive TREATMENT 
+- Arbovirus 
+	- summer and fall 
+	- WNV, St louis encephalitis , California Encephalitis 
+	- history of tick exposure or travel or residence in the appropriate geographic area should suggest the possibility of Colorado tick fever virus or Powassan virus infection 
+	- CSF lymphocytic pleocytosis, normal glucose concentration, and normal or mildly elevated protein concentration
+	- CSF neutrop
