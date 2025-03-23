@@ -10,4 +10,10 @@
 - CSF -- choroid plexus --> narrow foramen in 4th ventricle --> subarachnoid space --> base of brain, hemisphere --> reabsorption by arachnoid villi 
 - Spread from the subarachnoid space into brain parenchyma may occur via the arachnoid cuffs that surround blood vessels that penetrate brain tissue (Virchow-Robin spaces) 
 - ![[ChronicMeningitisSYMPTOMS.png]]
-- ![[]]
+- ![[chronicMenSystemic.png]]
+- Intracranial Meningitis 
+	- nociceptor of meninges --> headache , neck pain, back pain 
+	- Cerebral aqueduct or arachnoid villi obstruction --> hydrocephalus + raised ICP --> headache , vomiting , apathy , drowsiness , gait instability , papilledema , visual loss, impaired upgaze , 6th nerve palsy 
+	- cognitive , behavioral defect due to focal infarct 
+	- inflammatory deposits around brainstem + CN nuclei --> Basal meningitis 
+	- 
