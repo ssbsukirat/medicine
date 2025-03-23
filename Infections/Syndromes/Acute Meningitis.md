@@ -208,4 +208,13 @@
 	- raised ICP 
 	- young age 
 	- age >50 
-	- shock or need for mechan
+	- shock or need for mechanical ventilation 
+- sequelae 
+	- decreased intellectual function, 
+	- memory impairment, 
+	- seizures,
+	- hearing loss and dizziness, and 
+	- gait disturbances
+# Viral Meningitis 
+## Clinical 
+- 
