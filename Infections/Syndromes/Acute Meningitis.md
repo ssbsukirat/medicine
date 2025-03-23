@@ -88,7 +88,22 @@
 	- ![[MeningitisCSF.png]]
 	- PMN leucocytosis >100 in 90% 
 	- low glucose <40 +/- CSF/serum RBS <0.4 
+		- low is CSF/serum <0.6 , <0.4 is highly suggestive 
+		- serum to CSF RBS equilibrium can take 30mins so safe to give 50ml of D50 if needed 
 	- increased protein -- >0.45/>45 mg/dl in 90% 
 	- increased opening pressure >180mmH2O 
 	- positive CSF culture + in >70% , positive g stain in >60% 
-	- 
+	- PCR assays 
+		- S pneumoniae 
+		- N meningitidis 
+		- E Coli 
+		- L monocytogenes 
+		- H influenzae 
+		- S agalactaciae 
+- neuroimaging 
+	- MRI > CT -- areas of edema and ischemia 
+	- bacterial meningitis, diffuse meningeal enhancement is often seen after the administration of gadolinium. 
+		- not diagnostic but seen in any disease with high BBB permeability 
+- biopsy of petechial skin lesions 
+## DIFFERENTIAL 
+- Viral ()
