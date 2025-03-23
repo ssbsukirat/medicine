@@ -284,4 +284,8 @@
 	- peripheral ANC <10000 
 	- no prior history or current seizure 
 ## Specific 
-- 
+- Enterovirus 
+	- MC cause >85% of viral 
+	- sporadic and cluster both - EV71 
+	- in summer and fall especially children 
+	- 
