@@ -113,4 +113,14 @@
 	- CSF , imaging and EEG to differentiate (CSF lymphocytic pleocytosis )
 	- FLAIR, T2 high-signal-intensity lesions are seen in the orbitofrontal, anterior, and medial temporal lobes in the majority of patients within 48 h of symptom onset
 - Rickettsial 
-	- Rocky mountain spotted fever 
+	- Rocky mountain spotted fever -- Rickettsia rickettsi 
+		- acutely with high fever, prostration, myalgia, headache, nausea, and vomiting 
+		- rash -- diffuse erythematous maculopapular rash that may be difficult to distinguish from that of meningococcemia. It progresses to a petechial rash, then to a purpuric rash, and if untreated, to skin necrosis or gangrene 
+		- diagnosis -- immunofluorescent staining of skin biopsy specimens. 
+	- Ehrlichioses 
+		- tick bite transmission 
+		- gram negative coccobacilli 
+		- Anaplasma phagocytophilum -- human granulocytic ehrlichiosis (anaplasmosis) 
+		- Ehrlichia chaffeensis --> human monocytic ehrlichiosis
+		- fever, headache, confusion, nausea, and vomiting 
+		- 20% have maculopapular or petechial rash 
