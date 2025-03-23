@@ -60,4 +60,11 @@
 - decreased consciousness in >75% 
 - nausea , vomiting , photophobia 
 - Nuchal Rigidity 
-	- 
+	- neck Stiffness -- neck resists passive flexion.
+	- pathognomic sign of meningeal irritation 
+	- Kernig’s 
+		- supine --> flex thigh on abdomen + flex knee --> attempt to passive extend knee --> pain
+	- Brudzinski’s 
+		- supine --> passive neck flex --> spontaneous flex hip and knee 
+- Seizures -- 15-40% 
+	- focal d/t focal arterial ischemia or infarct 
