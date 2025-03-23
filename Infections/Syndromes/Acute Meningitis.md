@@ -176,4 +176,6 @@
 - intraventricular route of administration is preferred over the intrathecal route because adequate concentrations of vancomycin in the cerebral ventricles are not always achieved with intrathecal administration 
 ### Listeria 
 - Ampicillin for 3 weeks 
-- Gentamicin in critically ill --2mg/kg loading f/b 7.5mg/kg/day in 
+- Gentamicin in critically ill --2mg/kg loading f/b 7.5mg/kg/day Q8H 
+- Trimethoprim 10-20mg/kg/day Sulfamethoxazole 50-100mg/kg/day Q6H in penicillin allergy 
+### Sta
