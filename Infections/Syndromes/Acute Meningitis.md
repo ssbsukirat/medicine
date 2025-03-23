@@ -56,4 +56,8 @@
 - combination of interstitial, vasogenic, and cytotoxic edema leads to raised ICP and coma 
 ## Clinical 
 - acute or fulminant in few hours or subacute over several days 
-- **fever , headache , nuchal rigidity**  
+- **fever , headache , nuchal rigidity** 
+- decreased consciousness in >75% 
+- nausea , vomiting , photophobia 
+- Nuchal Rigidity 
+	- 
