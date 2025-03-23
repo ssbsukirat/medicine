@@ -312,4 +312,15 @@
 	- Demonstration of intrathecal synthesis of HSV- specific antibody may also be useful in diagnosis 
 	- Most cases of recurrent viral or “aseptic” meningitis, including cases previously diagnosed as Mollaret’s meningitis, are due to HSV. 
 - VZV 
+	- if concurrent chickenpox or shingles 
+	- may have encephalitis or meningitis  without rash also 
+	- CSF PCR 
+	- demonstration of VZV-specific intrathecal antibody synthesis and/or the presence of VZV CSF IgM antibodies, or by positive CSF cultures.
+- EBV 
+	- +/- associated infectious mononucleosis 
+	- atypical lymphocytosis in CSF or PBF s/o EBV 
+	- Serum and CSF culture for diagnosis 
+	- IgM viral capsid antibodies (VCAs), antibodies to early antigens (EAs), and the absence of antibodies to EBV- associated nuclear antigen (EBNA). 
+	- PCR has false positive 
+- HIV meningitis 
 	- 
