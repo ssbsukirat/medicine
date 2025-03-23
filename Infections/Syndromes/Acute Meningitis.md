@@ -217,4 +217,7 @@
 	- gait disturbances
 # Viral Meningitis 
 ## Clinical 
-- 
+- immunocompetent -- headache , fever, meningeal irritation + inflammatory CSF 
+- Headache invariably ++ 
+	- frontal / retroorbital 
+	- a/w p
