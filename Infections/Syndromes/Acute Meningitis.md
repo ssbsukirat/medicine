@@ -360,3 +360,12 @@
 	- atypical CSF 
 - Oral / IV acyclovir --> HSV-2 , HSV-1 , some EBV VZV 
 - seriously ill -- IV acyclovir 15-30ml/kg/day in 3 doses 
+	- F/B oral drug such as acyclovir (800 mg five times daily), famciclovir (500 mg tid), or valacyclovir (1000 mg tid) for a total course of 7–14 days 
+- less sick oral only 
+- HIV meningitis --> HAART 
+- Deficient humoral immunity (X linked aggamaglobulinemia) + not receiving IM gamma globulin or IVIg --> give 1 of these 
+- IVIg with Ommaya reservoir through Intraventricular route if no response to IM or IV IVIg 
+- Vaccine to prevent 
+# Subacute 
+## Clinical 
+- unrelenting headache , stiff neck, low-grade fever and lethargy for days to weeks 
