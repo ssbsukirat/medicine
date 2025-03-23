@@ -52,3 +52,8 @@
 - subarachnoid exudate of proteinaceous material and leukocytes obstructs the flow of CSF through the ventricular system and diminishes the resorptive capacity of the arachnoid granulations in the dural sinuses, leading to **obstructive and communicating hydrocephalus and concomitant interstitial edema** 
 - adherence of leukocytes to capillary endothelial cells increases the permeability of blood vessels, allowing for the leakage of plasma proteins into the CSF, which adds to the inflammatory exudate 
 - Neutrophil degranulation --> toxic metabolites that contribute to cytotoxic edema, cell injury, and death
+- early --> increased cerebral blood flow --> reduced --> loss of autoregulation 
+- combination of interstitial, vasogenic, and cytotoxic edema leads to raised ICP and coma 
+## Clinical 
+- acute or fulminant in few hours or subacute over several days 
+- **fever , headache , nuchal rigidity**  
