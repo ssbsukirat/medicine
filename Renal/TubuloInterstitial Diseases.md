@@ -109,5 +109,16 @@
 	- tubular obstruction 
 	- severe hyperuricemia in tumour lysis syndrome (lympho or myeloproliferative disorder -- post chemo)
 	- dense **precipitate of birefringent uric acid crystals** is found in the urine, usually in association with microscopic or gross hematuria 
-	- Prophylactic allopurinol reduces the risk of uric acid nephropathy but is of no benefit once tumor lysis has occurred 
-	- increase tubular flow and solubility of uric acid with alkaline diuresis may be of some benefit; however, emergent treatment with hemodialysis or rasburicase, a recombinant urate oxidase, is usually required to rapidly lower uric acid levels and restore kidney function.
+	- Prophylactic **allopurinol** reduces the risk of uric acid nephropathy but is of no benefit once tumor lysis has occurred 
+	- increase tubular flow and solubility of uric acid with **alkaline diuresis** may be of some benefit; 
+	- emergent treatment with **hemodialysis or rasburicase,** a recombinant urate oxidase, is usually required to rapidly lower uric acid levels and restore kidney function.
+- calcium oxalate deposit in tubular cells and interstitium
+	- Ethyleneglycol ingestion 
+	- Enteric hyperoxaluria from ileal resection or small-bowel bypass 
+	- hereditary hyperoxaluria 
+- Acute Phosphate Nephropathy 
+	- uncommon 
+	- serious 
+	- oral phosphosoda in laxative or bowel preparation 
+## Light Chain Cast Nephropathy 
+- multiple myel
