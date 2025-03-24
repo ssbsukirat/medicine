@@ -152,3 +152,9 @@
 ## VUR & Reflux Nephropathy 
 - Reflux nephropathy is the consequence of vesicoureteral reflux (VUR) or other urologic anomalies in early childhood. 
 - previously called chronic pyelonephritis because it was believed to result from recurrent urinary tract infections (UTIs) in childhood
+- VUR 
+	- abnormal retrograde urine flow from bladder into ureter or kidney 
+	- sterile reflux -> impaired growth of kidney 
+	- if + recurrent UTI --> patchy interstitial scarring + tubular atrophy 
+	- loss of nephrons --> hypertrophy of remnant glomeruli --> secondary FSGS 
+	- 
