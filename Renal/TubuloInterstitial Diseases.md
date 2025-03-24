@@ -121,4 +121,11 @@
 	- serious 
 	- oral phosphosoda in laxative or bowel preparation 
 ## Light Chain Cast Nephropathy 
-- multiple myel
+- multiple myeloma --> AKI --> setting 
+	- hypovolemia,
+	- infection, or
+	- hypercalcemia or 
+	- after exposure to NSAIDs or 
+	- radiographic contrast media.
+- aka Myeloma Kidney 
+- 
