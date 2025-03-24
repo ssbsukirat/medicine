@@ -32,6 +32,20 @@
 	- biopsy not needed for diagnosis -- extensive interstitial and tubular infiltration of leucocytes and eosinophil 
 - TREATMENT 
 	- discontinue drug 
+	- ![[AINtreatment.png]]
 	- Glucocorticoid -- accelerate recovery but no impact on long-term kidney survival 
 		- cases with severe kidney injury in which dialysis is imminent or if kidney function continues to deteriorate despite stopping the offending drug 
 		- ![[AINsteroids.png]]
+## Sjogrens 
+- systemic autoimmune disorder 
+- exocrine glands, especially the lacrimal and salivary glands, and thus results in symptoms, such as dry eyes and mouth, that constitute the “sicca syndrome” 
+- TIN with lymphocytic infiltration m/c 
+- maybe a/w impaired renal function , distal RTA, nephrogenic DI 
+- anti-Ro, anti-La + support diagnosis 
+- polyclonal hypergammaglobulinemia 
+- Glucocorticoid + maintainence with azathioprine / MMF to prevent relapse 
+## TINU - Tubulointerstitial Nephritis with Uveitis 
+- systemic autoimmune disorder of unknown ETIOLOGY 
+- F:M 3:1 
+- age ~ 15years 
+- lymphocytic predominant interstitial nephritis + painful anterior uveitis (bilateral mostly ) + blurred vision/ photophobia 
