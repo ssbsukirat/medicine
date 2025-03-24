@@ -128,4 +128,12 @@
 	- after exposure to NSAIDs or 
 	- radiographic contrast media.
 - aka Myeloma Kidney 
-- 
+- filtered monoclonal immunoglobulin light chains (Bence-Jones proteins) form intratubular aggregates with secreted Tamm-Horsfall protein in the distal tubule 
+- Casts --> obstruct tubular flow, giant-cell or foreign body reaction --> tubular rupture --> interstitial fibrosis 
+- Diagnosis 
+	- anemia, bone pain, hypercalcemia , abnormal narrow anion gap (d/t hypoalbuminemia and hypergammaglobulinemia ) 
+	- laboratory detection of increased amounts of protein in a spot urine specimen and a negative dipstick result are highly suggestive that the urine contains Bence-Jones protein. 
+	- Serum and urine protein electrophoresis and for immunofixation for the detection and identification of a potential monoclonal band.
+- TREATMENT 
+	- correct precipitating FACTORS like hypovolemia , hypercalcemia 
+	- discontinue 
