@@ -68,3 +68,10 @@
 	- sarcoidosis 
 - oral glucocorticoid 
 - maintainence with methotrexate , azathioprine , MMF 
+## SLE 
+- Interstitial mononuclear inflammatory 
+- a/w glomerular lesion in class III or IV lupus nephritis 
+- Occasionally, however, the tubulointerstitial inflammation predominates and may manifest with azotemia and type IV RTA rather than features of glomerulonephritis.
+## Granulomatous Interstitial Nephritis 
+- AIN with protracted and relapsing course 
+- Biopsy - CHRONIC inflammatory infiltrate with granulomas and 
