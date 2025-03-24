@@ -13,4 +13,14 @@
 	- modest proteinuria <2g/day 
 	- FSGS - Nephrotic range proteinuria 
 	- pathology in chronic TIN is interstitial fibrosis with patchy mononuclear cell infiltration and widespread tubular atrophy, luminal dilation, and thickening of tubular basement membranes. 
-# Acute Int
+# Acute Interstitial Nephritis 
+- Councilman - **an acute inflammation of the kidney characterized by cellular and fluid exudation in the interstitial tissue, accompanied by, but not dependent on, degeneration of the epithelium; the exudation is not purulent in character, and the lesions may be both diffuse and focal.** 
+- today mostly allergic reaction to drug 
+- immune mediated in autoimmune disease 
+## Allergic Interstitial Nephritis 
+- Clinical 
+	- Fever, Rash, peripheral Eosinophilia, oliguric AKI 7-10 days after methicillin or beta-lactams is classic but rarely seen 
+	- mostly incidentally rising creatinine or symptoms of AKI 
+	- Atypical - **NSAID-induced AIN** - fever, rash, eosinophilia rare but **AKI + heavy proteinuria**
+	- severe and **rapid-onset AIN may occur upon reintroduction of rifampin** after a drug-free period
+	- PPI, sulfonamide , 5-ASA (mesalazine)
