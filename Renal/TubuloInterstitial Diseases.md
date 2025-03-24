@@ -5,4 +5,12 @@
 	- flank pain some time d/t capsule distension 
 	- active sediment with leucocyte and cellular casts 
 - CHRONIC 
-	- 
+	- indolent 
+	- polyuria d/t impaired concentrating ability (nephrogenic DI) 
+	- Defective PCT -- Fanconi syndrome -- glycosuria , aminoaciduria, phosphaturia, type 2 RTA d/t HCO3 losses 
+	- NAGMA and Hyperkalemia -- type 4 RTA 
+	- progressive azotemia 
+	- modest proteinuria <2g/day 
+	- FSGS - Nephrotic range proteinuria 
+	- pathology in chronic TIN is interstitial fibrosis with patchy mononuclear cell infiltration and widespread tubular atrophy, luminal dilation, and thickening of tubular basement membranes. 
+# Acute Int
