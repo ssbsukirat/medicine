@@ -157,4 +157,10 @@
 	- sterile reflux -> impaired growth of kidney 
 	- if + recurrent UTI --> patchy interstitial scarring + tubular atrophy 
 	- loss of nephrons --> hypertrophy of remnant glomeruli --> secondary FSGS 
-	- 
+	- adults are frequently asymptomatic but may give a history of prolonged bed-wetting or recurrent UTIs during childhood and may exhibit variable degrees of kidney injury as well as **hypertension, mild to moderate proteinuria, and an unremarkable urine sediment**  
+	- If both involving -- ESRD 
+	- if single kidney -- hypertension 
+	- TREATMENT 
+		- maintain sterile urine 
+		- surgical reimplantation of ureter 
+		- ACE/ARB for aggressive BP control
