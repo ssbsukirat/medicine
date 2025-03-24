@@ -96,4 +96,9 @@
 - responsive to glucocorticoid therapy but may follow a relapsing course requiring maintenance treatment with another immunosuppressive agent 
 - Antibody to target antigen of CD or PCT brush border 
 ## Infection Associated AIN 
-- 
+- differentiate from pyelonephritis 
+- pyelonephritis doesnt cause AKI unless bilateral or septic shock 
+- seen in immunocompromised especially renal transplant recipient with polyomavirus BK reactivation 
+## Crystal Deposition 
+- AKI + flank pain (d/t tubular obstruction) -- 
+	- sulfad
