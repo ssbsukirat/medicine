@@ -49,3 +49,7 @@
 - F:M 3:1 
 - age ~ 15years 
 - lymphocytic predominant interstitial nephritis + painful anterior uveitis (bilateral mostly ) + blurred vision/ photophobia 
+- ocular before renal in only 1/3 
+- extrarenal 
+	- fever 
+	- anore
