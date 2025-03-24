@@ -23,4 +23,15 @@
 	- mostly incidentally rising creatinine or symptoms of AKI 
 	- Atypical - **NSAID-induced AIN** - fever, rash, eosinophilia rare but **AKI + heavy proteinuria**
 	- severe and **rapid-onset AIN may occur upon reintroduction of rifampin** after a drug-free period
-	- PPI, sulfonamide , 5-ASA (mesalazine)
+	- PPI, sulfonamide , 5-ASA (mesalazine, sulfasalazine), antiretroviral 
+- Diagnosis 
+	- unexplained AKI + exposure to potentially offending drug 
+	- eosinophilia adds to evidence but only in minority 
+	- Urinalysis reveals **pyuria with white blood cell casts and hematuria.** 
+	- **Urinary eosinophils are neither sensitive nor specific for AIN; therefore, testing is not recommended** 
+	- biopsy not needed for diagnosis -- extensive interstitial and tubular infiltration of leucocytes and eosinophil 
+- TREATMENT 
+	- discontinue drug 
+	- Glucocorticoid -- accelerate recovery but no impact on long-term kidney survival 
+		- cases with severe kidney injury in which dialysis is imminent or if kidney function continues to deteriorate despite stopping the offending drug 
+		- ![[AINsteroids.png]]
