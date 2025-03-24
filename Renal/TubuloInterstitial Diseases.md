@@ -101,4 +101,10 @@
 - seen in immunocompromised especially renal transplant recipient with polyomavirus BK reactivation 
 ## Crystal Deposition 
 - AKI + flank pain (d/t tubular obstruction) -- 
-	- sulfad
+	- sulfadiazine for toxoplasmosis -- **"sheaf of wheat" crystal** 
+	- indinavir and atazanavir for HIV - **individual or parallel clusters of needle-shaped crystal** 
+	- IV acyclovir for herpes -- **red-green birefringent needle-shaped crystals**
+- precipitated by hypovolemia and is reversible with saline volume repletion and drug withdrawal 
+- **Acute Urate nephropathy** 
+	- tubular obstruction 
+	- severe hyperuricemia in tumour lysis syndrome (lympho or myelopro)
