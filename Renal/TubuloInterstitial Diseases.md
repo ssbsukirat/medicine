@@ -1,0 +1,8 @@
+- Inflammation or fibrosis of renal interstitium & atrophy of tubular compartments -- secondary to glomerular or vascular disease or maybe primary 
+- Acute vs CHRONIC 
+- Acute -- AKI mostly 
+	- aggressive inflammatory infiltrates --> tissue edema, tubular cell injury , compromised tubular flow, frank obstruction of tubules by cast, debris, crystal 
+	- flank pain some time d/t capsule distension 
+	- active sediment with leucocyte and cellular casts 
+- CHRONIC 
+	- 
