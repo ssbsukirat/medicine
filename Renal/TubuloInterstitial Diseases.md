@@ -163,4 +163,11 @@
 	- TREATMENT 
 		- maintain sterile urine 
 		- surgical reimplantation of ureter 
-		- ACE/ARB for aggressive BP control
+		- ACE/ARB for aggressive BP control and proteinuria control 
+## Sickle Cell Nephropathy 
+- polyuria 
+- type 4 RTA 
+- secondary FSGS 
+- treat with los-dose ACE inhibitors 
+- may cause papillary necrosis 
+- 
