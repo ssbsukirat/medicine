@@ -136,4 +136,19 @@
 	- Serum and urine protein electrophoresis and for immunofixation for the detection and identification of a potential monoclonal band.
 - TREATMENT 
 	- correct precipitating FACTORS like hypovolemia , hypercalcemia 
-	- discontinue 
+	- discontinue potential nephrotoxic agents 
+	- treat underlying plasma cell dyscrasia 
+	- plamsmapheresis +/- 
+## Lymphpomatous Infiltration of Kidney 
+- by malignant B lymphos 
+- usually an incidental finding. 
+- may cause massive enlargement of the kidneys and oliguric acute kidney injury 
+- high-dose glucocorticoid + chemotherapy 
+- poor prognosis 
+# Chronic Tubulointerstitial Disease 
+- most often the result of renal ischemia or secondary to a primary glomerular disease 
+- developmental anomalies or inherited diseases such as reflux nephropathy or sickle cell nephropathy and may not be recognized until adolescence or adulthood 
+- deterioration prevented or slowed by treating glomerular hypertension
+## VUR & Reflux Nephropathy 
+- Reflux nephropathy is the consequence of vesicoureteral reflux (VUR) or other urologic anomalies in early childhood. 
+- previously called chronic pyelonephritis because it was believed to result from recurrent urinary tract infections (UTIs) in childhood
