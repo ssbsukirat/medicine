@@ -52,4 +52,19 @@
 - ocular before renal in only 1/3 
 - extrarenal 
 	- fever 
-	- anore
+	- anorexia 
+	- weight loss 
+	- abdominal pain 
+	- arthralgia 
+- renal - 
+	- elevated creatinine 
+	- sterile pyuria 
+	- mild proteinuria 
+	- Fanconis 
+	- hihg ESR 
+- diagnosis of exclusion 
+	- Sjogrens 
+	- SLE 
+	- sarcoidosis 
+- oral glucocorticoid 
+- maintainence with methotrexate , azathioprine , MMF 
