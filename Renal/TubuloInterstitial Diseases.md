@@ -74,4 +74,18 @@
 - Occasionally, however, the tubulointerstitial inflammation predominates and may manifest with azotemia and type IV RTA rather than features of glomerulonephritis.
 ## Granulomatous Interstitial Nephritis 
 - AIN with protracted and relapsing course 
-- Biopsy - CHRONIC inflammatory infiltrate with granulomas and 
+- Biopsy - CHRONIC inflammatory infiltrate with granulomas and multinucleated giant cells 
+- most have no cause 
+- some of these cases may have or subsequently develop the pulmonary, cutaneous, or other systemic manifestations of **sarcoidosis** such as hypercalcemia
+- early glucocorticoid give some improvement 
+- immunosuppression if relapse while tapering steroids 
+- r/o TB 
+## IgG4 related systemic disease 
+- dense inflammatory infiltrate containing IgG4-expressing plasma cells can occur as a part of a syndrome known as **IgG4-related systemic disease** 
+- Autoimmune pancreatitis, sclerosing cholangitis, retroperitoneal fibrosis, and a chronic sclerosing sialadenitis (mimicking Sjögren’s syndrome) may variably be present as well 
+- inflammatory infiltrates --> fibrotic pseudotumours 
+- glucocorticoid DOC 
+## AIN d/t Immune Checkpoint Inhibitors 
+- increase incidence of autoimmune phenomena 
+- mostly dermatologic, GI, endocrine , renal in 2% 
+- 
