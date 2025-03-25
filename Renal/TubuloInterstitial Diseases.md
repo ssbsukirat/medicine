@@ -170,4 +170,8 @@
 - secondary FSGS 
 - treat with los-dose ACE inhibitors 
 - may cause papillary necrosis 
-## Glomerulonephritis 
+## Glomerulonephritis associated 
+- sometimes d/t same process affecting glomerular and  tubulointerstitial 
+- d/t secondary consequence of prolonged glomerular dysfunction 
+	- proteinuria mediated tubular damage 
+	- cytokine and complement mediated tubular cell activation 
