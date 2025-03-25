@@ -93,3 +93,18 @@
 - renal biopsy needed for diagnosis 
 - ADAMTS13 is normal 
 - a/w CMV coinfection 
+- HAART 
+- plasma exchange in TTP 
+## Radiation Nephropathy 
+- local or total body 
+- 4-5Gy exposure sufficient as kidney is radiosensitive 
+- renal insufficiency + proteinuria + hypertension 
+- >_ 6m of radiation 
+- TMA + glomerular/tubular/vascular cell damage on biopsy 
+- MAHA uncommon 
+- Bone marrow transplant nephropathy as its a/w allogenic HSCT 
+- RAAS blockage +/- therapy 
+## Scleroderma 
+- renal involvement in 52% with widespread scleroderma -- 20% have renal crisis 
+- others 
+	- AKI -
