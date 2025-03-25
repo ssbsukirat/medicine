@@ -188,3 +188,14 @@
 - aristolochic acid is known carcinogenic 
 - renal interstitial fibrosis with a relative paucity of cellular infiltrates 
 - bland urinary sediment -- rare leucocyte and mild proteinuria 
+- Anemia may be disproportionately severe relative to the level of kidney dysfunction 
+- Definitive diagnosis 2/3
+	- histology on biopsy 
+	- confirmed aristolochic acid ingestion 
+	- detection of aristolactam-DNA adducts 
+- AAN is associated with a very high incidence of upper urinary tract urothelial cancers, with risk related to cumulative dose 
+- surveillance with CT, ureteroscopy, urine cytology 
+- if esrd - bilateral nephroureterectomy 
+## Karyomegalic 
+- slowly progressive CKS 
+- mild proteinuria , interstitial fibrosis 
