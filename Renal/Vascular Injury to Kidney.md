@@ -28,5 +28,10 @@
 			- diarrhea , hemorrhagic , before MAHA by 1 week 
 			- Neurologic symptoms (dysphasia, hyperreflexia, blurred vision, memory deficits, encephalopathy, perseveration, and agraphia) often develop, especially in adults
 			- [[Seizure]] , cerebral infarct in adult 
-			- 
-		- 
+			- Stx1, Stx2 toxins aka verotoxins 
+			- O157:H7 mc strain 
+		- aHUS (atypical HUS) aka Complement Mediated HUS 
+			- complement dysregulation 
+			- congenital / acquired 
+			- low C3, normal C4 
+			- factor H deficiency in familial cases 
