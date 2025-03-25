@@ -127,3 +127,21 @@
 	- 2/3 need dialysis support 
 	- anti-U3RNP a/w renal crisis 
 	- anticentromere ab --> negative predictor 
+	- renal biopsy needed, especially if hypertensive 
+	- TREATMENT 
+		- ACE inhibitors unless contraindicated 
+		- **reduce SBP by 20mmhg, DBP by 10mmhg every 24h till normal** 
+		- additional therapy if max dose of ACE inhibitors reaches 
+		- ACE inhibitors are continued even after starting dialysis 
+		- IV Iloprost for BP control 
+		- Bosentan , eculizumab +/- 
+## APLA 
+- primary or secondary to SLE 
+- predisposes to systemic thrombosis both arterial and venous 
+- antibodies 
+	- anti-cardiolipin IgG, IgM, IgA 
+	- lupus anticoagulant 
+	- anti-B2-glycoprotein 
+- cardiolipin anti-B2-glycoprotein have highest risks of thrombosis 
+- Vascular compartment is main site of involvement 
+	- arteriolosclerosis in arcuat
