@@ -14,4 +14,19 @@
 	- preeclampsia / HELLP 
 	- HIV 
 	- radiation nephropathy 
-	- M
+	- Myeloproliferative neoplasm associated nephropathy 
+	- POEMS -- polyneuropathy , organomegaly , endocrinopathy, monoclonal gammopathy, skin 
+## HUS / TTP 
+- prototypes for MAHA 
+- TTP - adults, neurological complication 
+- HUS - children, a/w hemorrhagic diarrhea 
+- HUS 
+	- MAHA + renal impairment 
+	- variant 
+		- STEC - HUS (shiga toxin producing E coli) -- aka D+HUS (diarrhea associated HUS) aka EHEC HUS 
+			- children <5y , sometime adult 
+			- diarrhea , hemorrhagic , before MAHA by 1 week 
+			- Neurologic symptoms (dysphasia, hyperreflexia, blurred vision, memory deficits, encephalopathy, perseveration, and agraphia) often develop, especially in adults
+			- [[Seizure]] , cerebral infarct in adult 
+			- 
+		- 
