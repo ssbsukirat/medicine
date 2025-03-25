@@ -42,4 +42,4 @@
 	- MAHA + Thrombocytopenia + neurological + fever + renal failure 
 	- accumulation of ultra-large multimers of von Willebrand factor as a result of the absence or markedly decreased activity of the plasma protease ADAMTS13
 	- additional inflammatory trigger (such as infection, surgery, pancreatitis, or pregnancy) is required to initiate clinical TTP 
-	- 
+	- maybe cTTP (congenital ), iTTP (acquired ) 
