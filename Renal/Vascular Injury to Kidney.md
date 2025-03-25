@@ -108,3 +108,11 @@
 - renal involvement in 52% with widespread scleroderma -- 20% have renal crisis 
 - others 
 	- AKI -
+		- transient prerenal 
+		- medication related -- D penicillamine , NSAID, cyclosporine 
+- Scleroderma Renal Crisis 
+	- 12% with diffuse SS, only 2% with limited systemic sclerosis 
+	- most severe form of renal involvement 
+	- accelerated hypertension + rapid decline in renal function + nephrotic range proteinuria + hematuria 
+	- retinopathy , encephalopathy a/w hypertension 
+	- pulmonary edema d/t salt and water retention 
