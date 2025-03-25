@@ -271,4 +271,6 @@
 ## Hypokalemia 
 - chronic laxative or diuretic abuse 
 - surreptitious vomiting 
-- primary aldo
+- primary aldosteronism 
+- Eventually, tubular atrophy and cystic dilation accompanied by interstitial fibrosis may ensue, leading to irreversible chronic kidney disease. 
+- persist hypokalemia may cause ESRD 
