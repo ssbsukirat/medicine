@@ -182,3 +182,9 @@
 - Polyuria & NAGMA 
 - sloughed necrotic papillary --> ureteral obstruction -->  gross hematuria and ureteric colic 
 - increased risk of urothelial malignancy 
+- volume-depleted individuals and those with chronic kidney disease are at higher risk of NSAID-related renal toxicity 
+## Aristolochic Acid Nephropathy 
+- Chinese herbal medicine and Balkan endemic nephropathy 
+- aristolochic acid is known carcinogenic 
+- renal interstitial fibrosis with a relative paucity of cellular infiltrates 
+- bland urinary sediment -- rare leucocyte and mild proteinuria 
