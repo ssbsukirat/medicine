@@ -116,3 +116,14 @@
 	- accelerated hypertension + rapid decline in renal function + nephrotic range proteinuria + hematuria 
 	- retinopathy , encephalopathy a/w hypertension 
 	- pulmonary edema d/t salt and water retention 
+	- cardiac -- myocarditis , pericarditis , arrhythmia -- poor prognosis 
+	- MAHA in 50%, coagulopathy rare 
+	- Lesion 
+		- arcuate artery intimal and medial proliferation with luminal narrowing
+		- **Onion skinning** 
+		- +/- glomerular collapse 
+		- similar to malignant hypertension 
+	- RAAS blockage has improved mortality 
+	- 2/3 need dialysis support 
+	- anti-U3RNP a/w renal crisis 
+	- anticentromere ab --> negative predictor 
