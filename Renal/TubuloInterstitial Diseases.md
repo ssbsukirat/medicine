@@ -224,4 +224,15 @@
 	- monitor lithium levels and avoid toxic levels <1meq/l 
 ## Calcineurin Inhibitors Nephrotoxicity 
 - Cyclosporine , Tacrolimus may cause AKI , CKD 
-- 
+- AKI 
+	- vasoconstriction 
+	- development of thrombotic microangiopathy 
+	- toxic tubulopathy 
+- CKD 
+	- solid organ transplant recipient 
+	- slow, irreversible reduction of GFR 
+	- mild proteinuria 
+	- arterial hypertension 
+- Hyperkalemia common d/t tubular resistance to aldosterone ]
+- histology -- **striped** pattern
+## Heavt 
