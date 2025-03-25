@@ -43,3 +43,10 @@
 	- accumulation of ultra-large multimers of von Willebrand factor as a result of the absence or markedly decreased activity of the plasma protease ADAMTS13
 	- additional inflammatory trigger (such as infection, surgery, pancreatitis, or pregnancy) is required to initiate clinical TTP 
 	- maybe cTTP (congenital ), iTTP (acquired ) 
+	- cTTP - Upshaw-Schulman syndrome 
+		- congenital deficiency of ADAMTS13 
+		- may present in 1st few weeks or in adults, especially pregnancy 
+		- Plasma Transfusion 
+- Drug Induced TMA 
+	- chemotherapy , immunosuppresants , quinine  
+	- dose dependent if toxic damage to endothelial cells -- proteasome inhibitors 
