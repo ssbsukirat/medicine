@@ -235,4 +235,12 @@
 	- arterial hypertension 
 - Hyperkalemia common d/t tubular resistance to aldosterone ]
 - histology -- **striped** pattern
-## Heavt 
+## Heavy metal nephropathy 
+- lead, cadmium 
+- exposure reduced these days so not seen 
+- proximal tubular dysfunction -- hyperuricemia 
+- saturnine gout + Hypertension + Impaired renal function --> ask lead history 
+- measuring urinary lead after infusion of a chelating agent or by radiographic fluoroscopy of bone. 
+# Metabolic Disorder 
+## Chronic Uric Acid Nephropathy 
+- 
