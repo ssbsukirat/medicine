@@ -1,4 +1,17 @@
 # Thrombotic Microangiopathy 
 - endothelial cell injury in the terminal arterioles and capillaries. 
 - Platelet and hyaline thrombi causing partial or complete occlusion 
-- 
+- a/w Microangiopathic hemolytic anemia MAHA --> thrombocytopenia , schistocytes 
+- swollen endocapillary cells, fibrin thrombi, platelet plugs, arterial intimal fibrosis , membranoproliferative pattern of glomerular 
+- sometime --> glomerular collapse , cortical necrosis 
+- on recovery --> secondary FSGS in some 
+- a/w 
+	- TTP,
+	- HUS, 
+	- malignant hypertension 
+	- scleroderma renal crisis 
+	- APLA 
+	- preeclampsia / HELLP 
+	- HIV 
+	- radiation nephropathy 
+	- M
