@@ -251,4 +251,11 @@
 	- mutation in UMOD 
 - crystalline deposit of uric acid and monosodium urate salts in parenchyma 
 	- intrarenal obstruction + inflammatory response --> lymphocytic infiltration , foreign giant cell reaction --> fibrosis 
-- medullary and papillary reg
+- medullary and papillary regions 
+- insidious cause of CKD 
+- Treatment with allopurinol and urine alkalinization is generally effective in preventing uric acid nephrolithiasis and the consequences of recurrent kidney stones 
+## Hypercalcemia 
+- primary hyperparathyroidism , sarcoidosis ,multiple myeloma , vitamin D intoxication , metastatic bone disease 
+- focal degeneration of renal epithelia in CD, distal tubules and LOH 
+- Tubular cell necrosis --> nephron obstruction and stasis of intrarenal urine,--> local precipitation of calcium salts and infection
+- dilation and atrophy of tubules 
