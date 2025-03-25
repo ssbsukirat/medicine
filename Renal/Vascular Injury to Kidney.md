@@ -144,4 +144,23 @@
 	- anti-B2-glycoprotein 
 - cardiolipin anti-B2-glycoprotein have highest risks of thrombosis 
 - Vascular compartment is main site of involvement 
-	- arteriolosclerosis in arcuat
+	- arteriolosclerosis in arcuate , intralobular arteries 
+	- fibrous intimal hyperplasia + onion skinning in intralobular 
+- TMA + but MAHA, platelet consumption rare 
+- TMA m/c in catastrophic APLA 
+- Large vessel involvement , renal vein thrombosis maybe seen (nephrotic range proteinuria ) 
+- Hypertension + 
+- TREATMENT is lifelong anticoagulant 
+- glucocorticoid in accelerated hypertension 
+- Immunosuppresants + plasma exchange in catastrophic APLA 
+- rituximab 
+- eculizumab 
+## HELLP 
+- Hemolysis + elevated liver enzyme + low platelet 
+- 3rd trimester 
+- a/w preeclampsia but may occur without 
+- risk FACTORS 
+	- abnormal placentation 
+	- family history 
+	- elevated fetal mRNA for FLT1 
+- high inflammatory markers 
