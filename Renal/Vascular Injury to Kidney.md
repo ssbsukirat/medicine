@@ -72,3 +72,24 @@
 		- antimotility and antibiotic increase risk 
 		- azithromycin reduces duration of shedding in adult 
 ## HEMATOPOIETIC STEM CELL TRANSPLANTATION– ASSOCIATED THROMBOTIC MICROANGIOPATHY 
+- after allogenic HSCT ~8% 
+- FACTORS 
+	- conditioning regime 
+	- immunosuppression 
+	- infection 
+	- GVHD 
+	- females 
+	- HLA mismatch donor 
+- in first 100 days 
+- high mortality 
+- Plasma exchange beneficial in <25% 
+- Discontinuation of calcineurin inhibitors and treatment of infections or sinusoidal obstruction syndrome (if present) are recommended 
+- eculizumab maybe useful 
+- ![[HSCTtma.png]]
+## HIV related Microangiopathy 
+- before HAART, nowadays less 
+- advanced AIDS, low CD4 counts 
+- MAHA + thrombocytopenia + renal failure 
+- renal biopsy needed for diagnosis 
+- ADAMTS13 is normal 
+- a/w CMV coinfection 
