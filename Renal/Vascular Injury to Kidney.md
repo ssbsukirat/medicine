@@ -164,3 +164,10 @@
 	- family history 
 	- elevated fetal mRNA for FLT1 
 - high inflammatory markers 
+- renal failure in 50% 
+	- preeclampsia & acute tubular necrosis 
+	- TMA + endothelial swelling on biopsy but no thrombus 
+- liver involvement mc 
+- Neurologic complications such as cerebral infarction, cerebral and brainstem hemorrhage, and cerebral edema are other potentially life- threatening complications 
+- Nonfatal complications include placental abruption, permanent vision loss due to Purtscher-like (hemorrhagic and vaso-occlusive vasculopathy) retinopathy, pulmonary edema, bleeding, and fetal demise 
+- 
