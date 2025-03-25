@@ -175,3 +175,10 @@
 - d/t secondary consequence of prolonged glomerular dysfunction 
 	- proteinuria mediated tubular damage 
 	- cytokine and complement mediated tubular cell activation 
+	- reduced peritubular blood flow --> downstream tubulointerstitial ischemia 
+## Analgesic Nephropathy 
+- d/t phenacetin, aspirin caffeine 
+- Impaired kidney function , papillary necrosis , small scarred kidneys with papillary calcification on CT 
+- Polyuria & NAGMA 
+- sloughed necrotic papillary --> ureteral obstruction -->  gross hematuria and ureteric colic 
+- increased risk of urothelial malignancy 
