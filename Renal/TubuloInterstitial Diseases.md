@@ -258,4 +258,17 @@
 - primary hyperparathyroidism , sarcoidosis ,multiple myeloma , vitamin D intoxication , metastatic bone disease 
 - focal degeneration of renal epithelia in CD, distal tubules and LOH 
 - Tubular cell necrosis --> nephron obstruction and stasis of intrarenal urine,--> local precipitation of calcium salts and infection
-- dilation and atrophy of tubules 
+- dilation and atrophy of tubules , interstitial fibrosis , mononuclear leucocyte infiltration 
+- nephrocalcinosis 
+- inability to maximally concentrate urine 
+- reduced GFR and renal blood flow 
+- severe tubulointerstitial damage and overt kidney injury 
+- Abdominal x-rays may demonstrate nephrocalcinosis as well as nephrolithiasis, the latter due to the hypercalciuria that often accompanies hypercalcemia.
+- TREATMENT 
+	- reduce Calcium to normal 
+	- correct abnormality 
+- maybe completely reversible 
+## Hypokalemia 
+- chronic laxative or diuretic abuse 
+- surreptitious vomiting 
+- primary aldo
