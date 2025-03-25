@@ -205,4 +205,17 @@
 - most common of which is nephrogenic diabetes insipidus manifesting as polyuria and polydipsia 
 - accumulation in principal cells of CD by entering via ENaC channel 
 - chronic TIN develops after prolonged (>10–20 years) lithium use 
-- more in patients who have experienced repeated episodes of toxic lithium levels
+- more in patients who have experienced repeated episodes of toxic lithium levels 
+- biopsy 
+	- interstitial fibrosis and tubular atrophy that are out of proportion to the degree of glomerulosclerosis or vascular disease,
+	- a sparse lymphocytic infiltrate, and 
+	- small cysts or dilation of the distal tubule and collecting duct that are highly characteristic of this disorder
+- duration and dose proportional to degree of interstitial Fibrosis  
+- asymptomatic 
+- minimal proteinuria 
+- normal BP 
+- few leucocyte on urine 
+- TREATMENT 
+	- regular KFT 
+	- cautious use in CKD 
+	- amiloride to inhibit lithium entry via EN
