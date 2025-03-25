@@ -49,4 +49,6 @@
 		- Plasma Transfusion 
 - Drug Induced TMA 
 	- chemotherapy , immunosuppresants , quinine  
-	- dose dependent if toxic damage to endothelial cells -- proteasome inhibitors 
+	- dose dependent if toxic damage to endothelial cells -- proteasome inhibitors , mitomycin C, gemcitabine 
+	- dose independent if drug-induced antibody - quinine 
+	- 
