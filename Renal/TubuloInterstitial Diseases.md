@@ -198,4 +198,11 @@
 - if esrd - bilateral nephroureterectomy 
 ## Karyomegalic 
 - slowly progressive CKS 
-- mild proteinuria , interstitial fibrosis 
+- mild proteinuria , interstitial fibrosis , tubular atrophy 
+- oddly enlarged nuclei of proximal tubular epithelial cells 
+- FAN1 mutation 
+## Lithium 
+- most common of which is nephrogenic diabetes insipidus manifesting as polyuria and polydipsia 
+- accumulation in principal cells of CD by entering via ENaC channel 
+- chronic TIN develops after prolonged (>10–20 years) lithium use 
+- more in patients who have experienced repeated episodes of toxic lithium levels
