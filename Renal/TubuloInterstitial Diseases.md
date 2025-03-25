@@ -243,4 +243,12 @@
 - measuring urinary lead after infusion of a chelating agent or by radiographic fluoroscopy of bone. 
 # Metabolic Disorder 
 ## Chronic Uric Acid Nephropathy 
-- 
+- gouty nephropathy is very uncommon nowadays 
+- hyperuricemia is an independent risk factor for the development of chronic kidney disease, perhaps through endothelial damage. 
+- **severe tophaceous gout and prolonged hyperuricemia** from a hereditary disorder of purine metabolism 
+- vs Juvenile Hyperuricemic Nephropathy 
+	- medullary CKD 
+	- mutation in UMOD 
+- crystalline deposit of uric acid and monosodium urate salts in parenchyma 
+	- intrarenal obstruction + inflammatory response --> lymphocytic infiltration , foreign giant cell reaction --> fibrosis 
+- medullary and papillary reg
