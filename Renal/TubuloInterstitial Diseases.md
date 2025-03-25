@@ -218,4 +218,10 @@
 - TREATMENT 
 	- regular KFT 
 	- cautious use in CKD 
-	- amiloride to inhibit lithium entry via EN
+	- amiloride to inhibit lithium entry via ENaC 
+	- discontinue if nephropathy detected -- but problematic as good alternate to lithium not available 
+	- CKD maybe irreversible and slow progress to ESRD 
+	- monitor lithium levels and avoid toxic levels <1meq/l 
+## Calcineurin Inhibitors Nephrotoxicity 
+- Cyclosporine , Tacrolimus may cause AKI , CKD 
+- 
