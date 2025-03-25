@@ -51,4 +51,24 @@
 	- chemotherapy , immunosuppresants , quinine  
 	- dose dependent if toxic damage to endothelial cells -- proteasome inhibitors , mitomycin C, gemcitabine 
 	- dose independent if drug-induced antibody - quinine 
-	- 
+- TREATMENT 
+	- iTTP and DEAP HUS 
+		- respond to the combination of plasma exchange and prednisone 
+		- Twice- daily plasma exchanges with administration of rituximab may be effective in refractory cases 
+		- Caplacizumab binds to the A1 domain of von Willebrand factor, blocking its interaction with platelets
+	- cTTP - plasma infusion 
+	- aHUS - plasma infusion / exchange 
+		- Eculizumab - anti C5 antibody 
+		- ravulizumab anti-C5
+	- Neuraminidase associated HUS 
+		- antibiotic 
+		- washed RBCs 
+		- plasmapheresis 
+	- Drug-Induced TMA 
+		- discontinue agent 
+		- C5 inhibitors if refractory
+	- STEC HUS 
+		- supportive 
+		- antimotility and antibiotic increase risk 
+		- azithromycin reduces duration of shedding in adult 
+## HEMATOPOIETIC STEM CELL TRANSPLANTATION– ASSOCIATED THROMBOTIC MICROANGIOPATHY 
