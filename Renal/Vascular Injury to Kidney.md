@@ -170,4 +170,11 @@
 - liver involvement mc 
 - Neurologic complications such as cerebral infarction, cerebral and brainstem hemorrhage, and cerebral edema are other potentially life- threatening complications 
 - Nonfatal complications include placental abruption, permanent vision loss due to Purtscher-like (hemorrhagic and vaso-occlusive vasculopathy) retinopathy, pulmonary edema, bleeding, and fetal demise 
-- 
+- shares features with MAHA 
+- diagnosis is difficult as aHUS and TTP also triggered by pregnancy 
+- LDH:AST --> 13:1 in HELLP and preeclampsia , 29:1 in without preeclampsia 
+- HELLP resolves spontaneous after delivery , some may have postpartum HELLP 
+- glucocorticoid +/-
+- Plasma exchange if hemolysis refractory to glucocorticoid and delivery 
+- Eculizumab +/- 
+## 
