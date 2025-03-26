@@ -213,4 +213,24 @@
 	- microvascular occlusion 
 	- a/w nontraumatic rhabdomyolysis, high fever , infection , generalised sickling 
 # Renal Vein Thrombosis 
-- flank pain tenderness , hematuria , rapid decline in renal
+- flank pain tenderness , hematuria , rapid decline in renal function , proteinuria 
+- maybe silent 
+- maybe seen on workup for PTE 
+- L>R, 2/3 bilateral 
+- ETIOLOGY 
+	- Endothelial Damage 
+		- homocystinuria, endovascular intervention , surgery 
+	- Venous Stasis 
+		- dehydration , mc in males, pediatrics 
+		- retroperitoneal fibrosis , abdominal neoplasm 
+	- Hypercoagulability 
+		- APLA 
+		- Nephrotic syndrome 
+		- membranous nephropathy 
+		- protein C,S deficiency 
+		- AT deficiency 
+		- Factor V leiden 
+		- disseminated malignancy 
+		- OCPs 
+- Screen with Doppler USG 
+- CT is 100% sensis
