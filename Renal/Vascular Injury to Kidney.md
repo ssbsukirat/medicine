@@ -208,4 +208,9 @@
 - compensatory increase in blood flow -- Prostaglandin mediated --> greater GFR fall with NSAID use 
 - biopsy MPGN like 
 - FSGS in advance cases 
-- 
+- proteinuria in20-30%, nephrotic range a/w progress to renal failure 
+- AKI 
+	- microvascular occlusion 
+	- a/w nontraumatic rhabdomyolysis, high fever , infection , generalised sickling 
+# Renal Vein Thrombosis 
+- flank pain tenderness , hematuria , rapid decline in renal
