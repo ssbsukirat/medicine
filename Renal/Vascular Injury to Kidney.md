@@ -182,4 +182,23 @@
 	- MPN-related glomerulopathy 
 - MPN - clonal disorder CML, polycythemia vera, essential thrombocythemia, Primary Myelofibrosis , chronic eosinophilic leukemia not otherwise specified , chronic neutrophilic leukemia , unclassifiable MPN 
 - renal impairment + nephrotic range proteinuria 
-- occurs late in course of disease 
+- occurs late in course of disease -- 7.2 years after MPN diagnosis 
+- biopsy 
+	- mesangial expansion 
+	- hypercellular 
+	- mesangial and segmental sclerosis 
+	- luminal hyalinosis 
+	- loss of overlying podocytes 
+	- adhesions in Bowmans 
+- arteriolosclerosis + 
+- extramedullary hematopoiesis seen sometimes 
+- RAAS blockage + corticosteroid 
+## POEMS 
+- polyneuropathy, organomegaly, endocrinopathy, monoclonal gammopathy, and skin changes 
+- Peripheral neuropathy -- severe Motor sensory 
+- high IL-6, VEGF 
+- lambda light chain in 95%, IgA is main 
+- Organomegaly -- lymphadenopathy most common but can involve any , renal - unilateral hypertrophy 
+- biopsy similar to MPGN 
+- mild to moderate renal impairment + low-grade proteinuria 
+## Sickle Cell 
