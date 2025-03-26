@@ -201,4 +201,11 @@
 - Organomegaly -- lymphadenopathy most common but can involve any , renal - unilateral hypertrophy 
 - biopsy similar to MPGN 
 - mild to moderate renal impairment + low-grade proteinuria 
-## Sickle Cell 
+## Sickle Cell Nephropathy 
+- occlusion of vasas recta in renal medulla  
+- low PO2, high osmolarity --> hemoglobin S polymerisation, erythrocyte sickling 
+- sequelae -- hyposthenuria hematuria , papillary necrosis 
+- compensatory increase in blood flow -- Prostaglandin mediated --> greater GFR fall with NSAID use 
+- biopsy MPGN like 
+- FSGS in advance cases 
+- 
