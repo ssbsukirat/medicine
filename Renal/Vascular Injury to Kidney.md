@@ -180,4 +180,6 @@
 ## Myeloproliferative Neoplasm–Related Glomerulopathy 
 - renal TMA without MAHA 
 	- MPN-related glomerulopathy 
-- MPN - clonal disorder CML, polycythemia vera, essential thrombocythemia, Primary Myelofibrosis , chronic eosinop
+- MPN - clonal disorder CML, polycythemia vera, essential thrombocythemia, Primary Myelofibrosis , chronic eosinophilic leukemia not otherwise specified , chronic neutrophilic leukemia , unclassifiable MPN 
+- renal impairment + nephrotic range proteinuria 
+- occurs late in course of disease 
