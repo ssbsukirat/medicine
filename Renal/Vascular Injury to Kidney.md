@@ -233,4 +233,11 @@
 		- disseminated malignancy 
 		- OCPs 
 - Screen with Doppler USG 
-- CT is 100% sensis
+- CT is 100% sensitive 
+- MRA 
+- TREATMENT 
+	- anticoagulant 
+	- treat underlying cause 
+	- endovascular thrombolysis 
+	- nephrectomy for life-threatening 
+	- IVC filter to prevent migration 
