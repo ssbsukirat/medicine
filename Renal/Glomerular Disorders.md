@@ -1,1 +1,9 @@
-- 
+- glomerular capillary tuft, fed and drained by arterioles, represents an arteriolar portal system 
+- glomerular capillaries filter 120-180L/day of plasma 
+- large proteins and all cells are excluded from filtration by a physicochemical barrier governed by **pore size and negative electrostatic charge**
+- normal nephrons excrete on average **8– 10 mg of albumin in daily voided urine**, ∼20–60% of total excreted protein. 
+# PATHOGENESIS 
+- GENETIC 
+	- congenital nephrotic -- NPHS1(nephrin) , NPHS2 (podocin) 
+	- FSGS -- TRPC6 
+	- FSGS, ESRD -- APOL1 in Af
