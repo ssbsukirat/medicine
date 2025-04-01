@@ -9,4 +9,5 @@
 	- FSGS, ESRD -- APOL1 in African American 
 	- complement pathway mutations -- MPGN, dense deposit disease , apthous 
 	- Alports -- a3, a4, a5 chains of type IV collagen 
+- Systemic hypertension , atherosclerosis 
 	- 
