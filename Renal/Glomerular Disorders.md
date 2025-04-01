@@ -10,4 +10,7 @@
 	- complement pathway mutations -- MPGN, dense deposit disease , apthous 
 	- Alports -- a3, a4, a5 chains of type IV collagen 
 - Systemic hypertension , atherosclerosis 
-	- 
+	- pressure stress, ischemia, lipid oxidants --> **chronic glomerulosclerosis** 
+	- malignant hypertension --> fibrinoid necrosis of arterioles, glomeruli 
+- Diabetic Nephropathy --> acquired sclerotic injury associated with thickening of the GBM secondary to the long-standing effects of hyperglycemia 
+- 
