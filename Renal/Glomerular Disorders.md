@@ -6,4 +6,7 @@
 - GENETIC 
 	- congenital nephrotic -- NPHS1(nephrin) , NPHS2 (podocin) 
 	- FSGS -- TRPC6 
-	- FSGS, ESRD -- APOL1 in Af
+	- FSGS, ESRD -- APOL1 in African American 
+	- complement pathway mutations -- MPGN, dense deposit disease , apthous 
+	- Alports -- a3, a4, a5 chains of type IV collagen 
+	- 
