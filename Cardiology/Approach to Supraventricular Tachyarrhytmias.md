@@ -1,4 +1,5 @@
 - mc form of arrhythmia 
 - SVTs -- originate from or are dependent on conduction through the atrium or atrioventricular (AV) node to the ventricles 
 - mostly narrow QRS <120ms with with sinus rhythm morphology 
-- if LBBB/RBBB or accessory conduction pathway -->ma
+- if LBBB/RBBB or accessory conduction pathway -->may have broad complex tachycardia --> differentiate from Ventricular Tachycardia 
+- 
