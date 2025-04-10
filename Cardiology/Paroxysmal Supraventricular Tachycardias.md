@@ -22,4 +22,5 @@
 - Catheter ablation 
 # Junctional TACHYCARDIA 
 - automaticity in AV node 
-- 
+- more frequently encountered as an incessant tachycardia in children, often in the perioperative period of surgery for congenital heart disease 
+- narrow QRS tachycardia, often with ventriculoatrial (VA) block, such that AV dissociation is present
