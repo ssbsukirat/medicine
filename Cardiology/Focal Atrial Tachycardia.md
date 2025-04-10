@@ -7,4 +7,9 @@
 - non-sustained FAT is mc seen in ambulatory ECG incidence increased with age 
 - asymptomatic non-sustained FAT on ECG monitor --> does not need TREATMENT 
 - frequent atrial ectopy and nonsustained AT are often precursors to more significant arrhythmias such as atrial fibrillation and atrial flutter 
-- 
+- can occur in the absence of structural heart disease or may be associated with any condition that causes atrial fibrosis, including prior catheter ablation 
+- maybe sign of underlying illness 
+- AT with AV block in digitalis toxicity 
+- incessant AT can cause tachycardia-induced cardiomyopathy 
+- 1:1 AV conduction mostly , sometimes AV block in Wenckebach or fixed pattern (2:1, 3:1) 
+- does not terminate with AV block, atrial rate unaffected 
