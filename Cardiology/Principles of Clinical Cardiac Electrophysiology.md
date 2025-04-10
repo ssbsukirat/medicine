@@ -34,3 +34,7 @@
 		- binding of a ligand (transmitters, molecules, or other ions) results in channel opening or closing, 
 	- stretch-activated channels
 		- deformations in membrane shape determine gating 
+	- in many ion channels, a complex of **auxiliary proteins is associated with the primary alpha subunit**; most auxiliary subunits appear to **facilitate regulation of ion channel expression and activity.** 
+	- Gap junction complex 
+		- large multimeric complex of connexin subunits forms a large, nonselective pore that spans and thereby connects adjacent myocytes 
+		- allows free flux of ions between adjacent myocytes, facilitating impulse propagation across myocardial tissues. 
