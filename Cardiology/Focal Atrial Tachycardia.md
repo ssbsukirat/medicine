@@ -20,5 +20,12 @@
 	- left atrium --> monophasic positive P in V1 (sinus is biphasic ) + negative in I, aVL 
 	- SVC, superior pulmonary veins --> positive in II, III, aVF 
 	- ostium of coronary sinus --> negative in II, III, aVF 
-	- superior aspect of Crista Terminalis --> similar to sinus --> AT has abrupt onset and 
-- 
+	- superior aspect of Crista Terminalis --> similar to sinus --> AT has abrupt onset and offset 
+- atrial rate --> P may fall on T or 2:1 conduction may coincide with QRS --> Maneuver to increase AV block (valsalva , carotid sinus massage, adenosine )--> P wave exposed 
+- ![[ATManagement.png]]
+- consider and treat underlying heart disease 
+- recurrent 
+	- beta blocker 
+	- CCB like diltiazem, Verapamil 
+	- antiarrhythmic - fleicanide, propafenone, disopyramide , sotalol, amiodarone 
+- catheter ablation successful in >80% 
