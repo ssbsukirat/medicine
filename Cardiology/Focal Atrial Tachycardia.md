@@ -4,4 +4,7 @@
 - focal to differentiate from typical /atypical flutter 
 - can originate from most regions of the atria, including atrial tissue extending into a pulmonary vein, the coronary sinus, or vena cava 
 - sustained, non-sustained, paroxysmal or incessant 
+- non-sustained FAT is mc seen in ambulatory ECG incidence increased with age 
+- asymptomatic non-sustained FAT on ECG monitor --> does not need TREATMENT 
+- frequent atrial ectopy and nonsustained AT are often precursors to more significant arrhythmias such as atrial fibrillation and atrial flutter 
 - 
