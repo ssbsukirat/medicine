@@ -25,4 +25,12 @@
 		- P domain 
 		- hydrophillic AA residues 
 		- structural variants 
-			- 
+			- **four separate homologous alpha subunits**, each with homologous P domains (**voltage-gated K channels**)
+			- **single alpha subunit** with four internally homologous P domains (**voltage-gated Na or Ca channels** 
+			- **two internally homologous P domains from two separate subunits (most ligand- gated K channels)** 
+	- voltage-gated channels 
+		- 4th segment (of 6) -- S4 -- AAs function as voltage sensor --> cause changes in protein conformation --> gating 
+	- Ligand-gated 
+		- binding of a ligand (transmitters, molecules, or other ions) results in channel opening or closing, 
+	- stretch-activated channels
+		- deformations in membrane shape determine gating 
