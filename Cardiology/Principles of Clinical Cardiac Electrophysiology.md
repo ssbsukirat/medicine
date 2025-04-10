@@ -106,3 +106,6 @@
 - enhanced automaticity based --> target phase4 --> CCBs, beta blocker, ivabradine 
 - trigger activity based arrhythmia 
 	- correct precipitating factor 
+	- remove digitalis 
+	- remove QT prolonging drugs 
+	- increase heart rate --> QT reduced 
