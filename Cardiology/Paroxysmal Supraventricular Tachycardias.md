@@ -33,4 +33,6 @@
 - Accessory Pathway (APs) may cause narrow-complex PSVT, wide-complex tachycardias, and, rarely, sudden death
 - associated with Ebstein’s anomaly of the tricuspid valve and forms of hypertrophic cardiomyopathy including PRKAG2 mutations, Danon’s disease, and Fabry’s disease 
 - APs --> across either an AV valve annulus or the septum, most frequently between the left atrium and free wall of the left ventricle > posteroseptal > right free wall, > anteroseptal locations
-- 
+- if sinus --> AP faster than to his-purkinje --> ventricles pre-excited --> short PR (<0.12s), **slurred initial portion of QRS (delta wave)**, prolonged QRS
+- Right sided AP --> pre-excited RV --> LBBB like in V1 and marked pre-excitation 
+- Left-sided AP --> RBBB in V1 , negative delta wave in aVL (may mimic Q wave of lateral wall infarct ), minimal or absent pre-excitation (as more distance between SA and left ventricle )
