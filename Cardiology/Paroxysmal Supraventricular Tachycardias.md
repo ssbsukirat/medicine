@@ -44,4 +44,9 @@
 	- Fasciculoventricular connections between the His bundle and ventricular septum produce preexcitation but do not cause arrhythmia, probably because the circuit is too short to promote reentry 
 # ATRIOVENTRICULAR Reciprocating TACHYCARDIA 
 - mc TACHYCARDIA caused by AP is **orthrodromic AV reciprocating tachycardia** 
+- propagates from the atrium anterogradely over the AV node and His-Purkinje system to the ventricles and then reenters the atria via retrograde conduction over the AP 
+- narrow QRS +/- LBBB/RBBB but no preexcitation during tachycardia 
+- AV or VA block --> terminates 
+- RP shorter than PR --> may resemble AVNRT --> but always P f/b QRS 
+- Occasionally, an AP conducts extremely slowly in the retrograde direction, resulting in tachycardia with a long R-P interval, similar to most ATs 
 - 
