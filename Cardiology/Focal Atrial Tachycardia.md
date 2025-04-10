@@ -14,5 +14,11 @@
 - 1:1 AV conduction mostly , sometimes AV block in Wenckebach or fixed pattern (2:1, 3:1) 
 - does not terminate with AV block, atrial rate unaffected --> contrast vs AVNRT and AV reentry using accessory pathway 
 - **warm-up phase** when the atrial activation rate increases after initiation or a **cool-down phase** when the rate slows prior to termination also favors AT rather than AV nodal–dependent SVT, as this is a common observation with triggered automaticity
-- in 1:1 conduction --> similar to sinus tachycardia but PR shorter than RP & different P wave morphology f
+- in 1:1 conduction --> similar to sinus tachycardia but PR shorter than RP & different P wave morphology from sinus 
+- P wave morphology can guide source of origin 
+	- atrial septum --> narrower P wave 
+	- left atrium --> monophasic positive P in V1 (sinus is biphasic ) + negative in I, aVL 
+	- SVC, superior pulmonary veins --> positive in II, III, aVF 
+	- ostium of coronary sinus --> negative in II, III, aVF 
+	- superior aspect of Crista Terminalis --> similar to sinus --> AT has abrupt onset and 
 - 
