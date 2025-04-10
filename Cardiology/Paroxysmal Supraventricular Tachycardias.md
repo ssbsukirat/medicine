@@ -29,6 +29,8 @@
 - accelerated junctional rhythm --> junctional automatic rhythm  between 50-100/min 
 - VA conduction is usually present, with P-wave morphology and timing such that it resembles AVNRT at a slow rate 
 # Accessory Pathway & WPW syndrome 
+- APs are abnormal connections that allow conduction between the atrium and ventricles across the AV ring
 - Accessory Pathway (APs) may cause narrow-complex PSVT, wide-complex tachycardias, and, rarely, sudden death
 - associated with Ebstein’s anomaly of the tricuspid valve and forms of hypertrophic cardiomyopathy including PRKAG2 mutations, Danon’s disease, and Fabry’s disease 
+- APs --> across either an AV valve annulus or the septum, most frequently between the left atrium and free wall of the left ventricle > posteroseptal > right free wall, > anteroseptal locations
 - 
