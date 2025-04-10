@@ -9,3 +9,13 @@
 	- NSR between 60-100/min 
 # Physiological sinus tachycardia 
 - sympathetic stimulation and vagal withdrawal 
+- rate of spontaneous depolarization increase 
+- focus of earliest activation within the node typically shifts more leftward and closer to the superior septal aspect of the crista terminalis, thus producing **taller P waves in the inferior limb leads when compared to normal sinus rhythm** 
+- physiological -- when it is in response to exercise , stress , illness 
+- vs focal atrial tachycardia 
+	- causative factor (e.g., exertion) and a gradual rate increase favor a diagnosis of sinus tachycardia, whereas abrupt tachycardia onset and offset favor atrial tachycardia 
+	- may need extended ECG monitoring to differentiate 
+- TREATMENT -- treat underlying cause, often no TREATMENT is needed 
+- consider abnormal thyroid function or anemia 
+- CVS abnormalities presenting as sinus tachycardia 
+	- 
