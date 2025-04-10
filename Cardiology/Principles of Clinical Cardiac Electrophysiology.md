@@ -79,4 +79,18 @@
 	- **border zones of infarcted ventricular myocardium, or rapidly reperfused ischemic myocardium**, often exhibit automatic arrhythmias including **PVCs or automatic idioventricular rhythms (AIVR)**
 ## Afterdepolarizations & Triggered Arrhythmia 
 - abnormal depolarization in late phases of AP 
-- Early Afterdepolarizations in phases 2-3 --> facilitated by intracellular Ca loading --> QT prolongation in heterogeneous manner across ventricle --> trigger wavefront of abnormal depolarization --> **Torsades des pointes** 
+- Early Afterdepolarizations (EADs) in phases 2-3 --> facilitated by intracellular Ca loading --> QT prolongation in heterogeneous manner across ventricle --> trigger wavefront of abnormal depolarization --> **Torsades des pointes** 
+- predisposing to TdP 
+	- Medication prolonging QT 
+	- hypokalemia 
+	- hypomagnesemia 
+	- bradycardia 
+- Delayed Afterdepolarizations (DADs) --> in phase 4 --> increased intracellular Ca --> enhances repetitive depolarization in late phase --> bidirectional ventricular tachycardia. 
+- causes of DADs 
+	- Digitalis glycoside toxicity, 
+	- ischemia 
+	- catecholamines 
+## Reentry 
+- circus movement of a wavefront of electrical activation 
+- fixed anatomic barrier --> **anatomic reentry** 
+- 
