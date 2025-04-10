@@ -7,4 +7,9 @@
 	- made possible by the existence of multiple pathways for conduction from the atrium into the AV node that are capable of conduction in two directions
 	- utilize a slowly conducting AV nodal pathway (**right inferior extension**) that extends from the compact AV node near the His bundle, inferiorly along the tricuspid valve annulus to the floor of the coronary sinus.
 	- propagates up this slowly conducting pathway to the compact AV node and then exits from the fast pathway at the top of the AV node 
-	- unusual 
+	- unusual forms use left atrial septum pathway 
+	- conduction time from the compact AV node region to the atrium is similar to that from the compact node to the His bundle and ventricles --> atrial activation same time as ventricle 
+- P wave is 
+	- therefore inscribed during, slightly before, or slightly after the QRS and can be difficult to discern
+	- seen at the end of the QRS complex as a pseudo-r′ in lead V1 and pseudo-S waves in leads II, III, and aVF
+	- unusual forms of AVNRT have P waves falling later, anywhere between QRS complexes, in which case, an inverted P wave is seen in the inferior limb leads with the inverted P wave seen in the subsequent T wave.
