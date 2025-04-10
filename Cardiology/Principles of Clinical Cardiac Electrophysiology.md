@@ -97,4 +97,6 @@
 - prerequisite 
 	- **unidirectional block** -- electric can propagate in 1 direction 
 	- **slow conduction** -- zone in reentrant circuit with relatively slow conduction --> allowing the remainder of the circuit to repolarize and recover from refractoriness (the inability to re-excite) --> perpetual circus movement 
+- if the total length of the circuit exceeds a distance determined by the **product of the conduction velocity (theta) of the tissue and the refractory period (duration) of that tissue (tr), referred to as the wavelength of tachycardia (lambda = theta × tr)**, an excitable gap, where tissue is recovered from refractory and able to depolarize, is created, allowing reentry 
+- atrial flutter, AV nodal reentry, AV reciprocating tachycardia utilizing an accessory pathway, and scar-based reentrant VT 
 - 
