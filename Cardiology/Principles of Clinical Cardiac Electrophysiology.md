@@ -122,7 +122,11 @@
 	- class 1 - Na 
 		- IA - **procainamide and quinidine**, possess **intermediate** binding kinetics and potency
 		- IB - **lidocaine and mexiletine**, possess **rapid binding** kinetics and relatively **low potency** 
-		- IC- 
-	- class 2 
-	- class 3 
-	- class 4
+		- IC- **flecainide, propafenone** possess **slow kinetics and high potency** 
+	- class 2 - BETA Blocker 
+	- class 3 - **sotalol, dofetilide, ibutilide** specifically target the **HERG potassium channel** and risk **prolongation of the QT interval**
+	- class 4 - Cardioselective CCBs 
+	- limitation -- Amiodarone has properties of all classes 
+	- ![[antiarrhytmics.png]]
+## Catheter Ablation 
+- 
