@@ -21,3 +21,6 @@
 	- warranted to provoke the arrhythmia with pacing, confirm the mechanism, and risk stratify the patient, 
 	- mostly performed at the time of intended catheter ablation to treat the arrhythmia.
 - paroxysmal SVT usually has no underlying structural heart disease 
+- mc SVT -- sinus tachycardia 
+	- in response to physiological stress like exercise 
+	- maybe manifestation of acute 
