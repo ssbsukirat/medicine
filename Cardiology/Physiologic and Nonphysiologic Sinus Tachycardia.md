@@ -28,4 +28,15 @@
 - palpitations +/- fatigue , dizziness , syncope 
 - additional -- chest pain, headache , GI upset
 - vs appropriate sinus tachycardia , focal atrial tachycardia arising near sinus node 
+- TREATMENT 
+	- ineffective or poorly tolerated 
+	- beta blocker or calcium channel blocker 
+	- Clonidine 
+	- serotonin reuptake inhibitors 
+	- Ivabradine 
+		- blocks If current 
+	- catheter ablation of sinus node to modify sinus rate 
+## POTS 
+- Postural orthostatic Tachycardia syndrome 
+- symptomatic sinus tachycardia on supine --> standing 
 - 
