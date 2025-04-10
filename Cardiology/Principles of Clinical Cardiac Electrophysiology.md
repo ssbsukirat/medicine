@@ -1,2 +1,20 @@
 # Cellular Electrophysiology 
-- cardiac 
+- cardiac action potential AP in 5 phases 0-4 
+- phase 0 
+	- rapid upstroke 
+	- QRS 
+	- Na current 
+- phase 1-2 
+	- ST segment 
+	- 1 - activation of Ito with inactivation of the Na current
+	- 2 - plateau , balance of repolarising K and depolarizing Ca currents 
+- phase 3 
+	- T wave 
+	- deactivation of Ca and repolarisation by K (Ikr, I)
+- phase 4 
+	- end of T to start of QRS 
+- P -- atrial depolarization 
+- PR -- 
+	- time between initiation of atrial depolarization to the initiation of ventricular depolarization
+	- mainly conduction through AV node 
+- 
