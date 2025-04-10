@@ -129,4 +129,10 @@
 	- limitation -- Amiodarone has properties of all classes 
 	- ![[antiarrhytmics.png]]
 ## Catheter Ablation 
-- 
+- anatomic substrate can be identified and localized, and mechanical disruption of that substrate will eliminate the cardiac arrhythmia 
+- automaticity driven --> focal source of automaticity identified and ablated 
+- anatomical reentrant --> critical zone of slow conduction --> ablated 
+- must be in a location deemed at acceptable risk of not damaging critical structures such as the native conduction system, coronary arteries, or epicardial structures including the esophagus and phrenic nerve 
+- indicated for a wide variety of clinical arrhythmias, including SVT, accessory pathways, atrial flutter, atrial fibrillation, PVCs, and VT 
+- nowadays RF used 300-550 kHz 
+- other sources -- laser, microwave, USG, 
