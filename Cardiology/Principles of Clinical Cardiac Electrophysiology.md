@@ -135,4 +135,9 @@
 - must be in a location deemed at acceptable risk of not damaging critical structures such as the native conduction system, coronary arteries, or epicardial structures including the esophagus and phrenic nerve 
 - indicated for a wide variety of clinical arrhythmias, including SVT, accessory pathways, atrial flutter, atrial fibrillation, PVCs, and VT 
 - nowadays RF used 300-550 kHz 
-- other sources -- laser, microwave, USG, 
+- other sources -- laser, microwave, USG, pulse field electroporation 
+- stereotactic (focused and directed) external beam ionizing radiation has been applied to the heart to treat various arrhythmias, including VT and AF 
+- mc non-RF ablative energy source today is cryothermy, where an ablative catheter tip is cooled to a temperature range (typically below –40°C) that results in permanent tissue death.
+## Implanted cardiac device 
+- 1st pacemaker --> 1958 
+- 
