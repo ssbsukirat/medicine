@@ -39,4 +39,11 @@
 ## POTS 
 - Postural orthostatic Tachycardia syndrome 
 - symptomatic sinus tachycardia on supine --> standing 
-- 
+- sinus rate increases by 30 beats/min or to >120 beats/min within 10 min of standing and in the absence of hypotension. 
+- d/t autonomic dysfunction following viral illness 
+- resolves spontaneously over 3-12 months 
+- TREATMENT 
+	- volume expansion with salt expansion , 
+	- oral fludrocortisone
+	- compression stockings 
+	- midodrine - alpha agonist 
