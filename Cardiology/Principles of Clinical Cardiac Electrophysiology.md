@@ -92,6 +92,9 @@
 	- catecholamines 
 ## Reentry 
 - circus movement of a wavefront of electrical activation 
-- fixed anatomic barrier --> **anatomic reentry** 
+- fixed anatomic barrier --> **anatomic reentry** -- mc form 
 - functional / refractory barrier or anchor --> **functional reentry**  
+- prerequisite 
+	- **unidirectional block** -- electric can propagate in 1 direction 
+	- **slow conduction** -- zone in reentrant circuit with relatively slow conduction --> allowing the remainder of the circuit to repolarize and recover from refractoriness (the inability to re-excite) --> perpetual circus movement 
 - 
