@@ -109,3 +109,11 @@
 	- remove digitalis 
 	- remove QT prolonging drugs 
 	- increase heart rate --> QT reduced 
+- reentrant 
+	- increase refractory period -- K channel blocker 
+	- slow conduction velocity --> may paradoxical shorten wavelength of tachycardia --> increased excitable gap -- proarrhytmic effect 
+# Care of patient 
+## Evaluation and Diagnosis 
+- directed history and examinations 
+- ECG 
+- 
