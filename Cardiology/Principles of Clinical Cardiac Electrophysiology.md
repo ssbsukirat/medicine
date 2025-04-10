@@ -116,4 +116,13 @@
 ## Evaluation and Diagnosis 
 - directed history and examinations 
 - ECG 
-- 
+# TREATMENT
+## Drugs 
+- Vaughan Williams classification 
+	- class 1 - Na 
+		- IA - **procainamide and quinidine**, possess **intermediate** binding kinetics and potency
+		- IB - **lidocaine and mexiletine**, possess **rapid binding** kinetics and relatively **low potency** 
+		- IC- 
+	- class 2 
+	- class 3 
+	- class 4
