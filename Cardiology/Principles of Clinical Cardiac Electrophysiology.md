@@ -10,11 +10,19 @@
 	- 2 - plateau , balance of repolarising K and depolarizing Ca currents 
 - phase 3 
 	- T wave 
-	- deactivation of Ca and repolarisation by K (Ikr, I)
+	- deactivation of Ca and repolarisation by K (Ikr, Iks)
 - phase 4 
 	- end of T to start of QRS 
+	- K current Ik1 
 - P -- atrial depolarization 
 - PR -- 
 	- time between initiation of atrial depolarization to the initiation of ventricular depolarization
 	- mainly conduction through AV node 
-- 
+- Channels 
+	- complex, multi-subunit transmembrane glycoproteins 
+	- contains a central pore selective for ion species -- "gating" apparatus regulating the opening, closing, inactivation apparatus 
+	- central pore 
+		- P domain 
+		- hydrophillic AA residues 
+		- structural variants 
+			- 
