@@ -1,1 +1,7 @@
+- 10% of PSVTs
+- mechanism
+	- abnormal automaticity, triggered automaticity or small reentry circuit in diseased atrial tissue 
+- focal to differentiate from typical /atypical flutter 
+- can originate from most regions of the atria, including atrial tissue extending into a pulmonary vein, the coronary sinus, or vena cava 
+- sustained, non-sustained, paroxysmal or incessant 
 - 
