@@ -1,0 +1,11 @@
+- Sinus node 
+	- group of cells in lateral superior aspect of junction of RA and SVC 
+	- in the superior aspect of thick ridge of muscle -- crista terminalis 
+- sinus tachycardia will present as abnormal awareness of own heartbeat 
+- ECG -- 
+	- characteristic P wave originating from the superior and lateral aspect of the right atrium with a positive deflection in leads I, II, and III and 
+	- a biphasic morphology in lead V1 
+	- Sinus P waves are characterized by a frontal plane **axis directed inferiorly and leftward,** with positive P waves in leads II, III, and aVF; a negative P wave in aVR; and an initially positive biphasic P wave in V1. 
+	- NSR between 60-100/min 
+# Physiological sinus tachycardia 
+- sympathetic stimulation and vagal withdrawal 

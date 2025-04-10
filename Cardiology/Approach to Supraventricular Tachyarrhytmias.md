@@ -23,4 +23,10 @@
 - paroxysmal SVT usually has no underlying structural heart disease 
 - mc SVT -- sinus tachycardia 
 	- in response to physiological stress like exercise 
-	- maybe manifestation of acute 
+	- maybe manifestation of acute illness 
+	- treat inciting cause 
+- arrhythmia needing immediate TREATMENT 
+	- hypotension 
+	- impaired consciousness 
+	- angina 
+	- heart failure 
