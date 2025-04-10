@@ -72,4 +72,11 @@
 	- Sympathetic --> catecholamine mediated alpha and beta adrenergic receptor --> B-1 (L-type Ca channel) --> Ca influx --> enhanced depolarization --> increased automaticity 
 - **intrinsic heart rate (IHR)** is defined as the “**native**” automaticity rate of the SA node, **absent any autonomic input.** 
 - **Abnormally enhanced automaticity may occur at any site that exhibits automaticity**, including the SA node, AV node, or His- Purkinje system --> pathological tachycardia 
-- other **stereotyped regions** in the heart may exhibit **enhanced automaticity,** including the pulmonary veins, coronary sinus superior vena cava, and ventricular outflow tracts
+- other **stereotyped regions** in the heart may exhibit **enhanced automaticity,** including the **pulmonary veins, coronary sinus superior vena cava, and ventricular outflow tracts** 
+	- pulmonary veins --> drive paroxysmal AF 
+	- in atria --> atrial tachycardia 
+- myocardial injury (ischemic or otherwise ) may alter cell character --> automaticity 
+	- **border zones of infarcted ventricular myocardium, or rapidly reperfused ischemic myocardium**, often exhibit automatic arrhythmias including **PVCs or automatic idioventricular rhythms (AIVR)**
+## Afterdepolarizations & Triggered Arrhythmia 
+- abnormal depolarization in late phases of AP 
+- Early Afterdepolarizations in phases 2-3 --> facilitated by intracellular Ca loading --> QT prolongation in heterogeneous manner across ventricle --> trigger wavefront of abnormal depolarization --> **Torsades des pointes** 
