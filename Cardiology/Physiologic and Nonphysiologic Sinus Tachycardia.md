@@ -18,4 +18,14 @@
 - TREATMENT -- treat underlying cause, often no TREATMENT is needed 
 - consider abnormal thyroid function or anemia 
 - CVS abnormalities presenting as sinus tachycardia 
-	- 
+	- pulmonary embolism 
+- relatively elevated sinus rate (whether at rest or during exercise) without underlying cause, particularly without symptoms, typical does not warrant treatment 
+- ![[sinuscauses.png]]
+# Nonphysiologic Sinus Tachycardia 
+- Inappropriate sinus tachycardia is an uncommon condition in which the sinus rate increases spontaneously at rest or out of proportion to physiologic stress or exertion and is within a spectrum of ill-defined conditions associated with autonomic dysregulation. 
+- d/t imbalance between sympathetic and parasympathetic inputs to node 
+- often women in 3rd/4th decade of life 
+- palpitations +/- fatigue , dizziness , syncope 
+- additional -- chest pain, headache , GI upset
+- vs appropriate sinus tachycardia , focal atrial tachycardia arising near sinus node 
+- 
