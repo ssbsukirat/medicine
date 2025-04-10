@@ -67,4 +67,9 @@
 	- others - K currents, Ca currents, or even the Na/Ca and ATP-driven Na/K exchangers contribute
 - if proximal structure automaticity is unreliable --> **distal structure automaticity creates "escape rhythm"** to maintain CO 
 - automaticity determined by rate of depolarization 
-- nodal --> rate of depolarization determine
+- nodal --> rate of depolarization determined by autonomic system 
+	- Parasympathetic --> ACh --> GPCR mediated IKACh potassium channel complex --> K efflux --> hyperpolarisation --> slow phase 4 depolarization --> slow automaticity 
+	- Sympathetic --> catecholamine mediated alpha and beta adrenergic receptor --> B-1 (L-type Ca channel) --> Ca influx --> enhanced depolarization --> increased automaticity 
+- **intrinsic heart rate (IHR)** is defined as the “**native**” automaticity rate of the SA node, **absent any autonomic input.** 
+- **Abnormally enhanced automaticity may occur at any site that exhibits automaticity**, including the SA node, AV node, or His- Purkinje system --> pathological tachycardia 
+- other **stereotyped regions** in the heart may exhibit **enhanced automaticity,** including the pulmonary veins, coronary sinus superior vena cava, and ventricular outflow tracts
