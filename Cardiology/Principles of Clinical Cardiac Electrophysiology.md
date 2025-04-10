@@ -58,4 +58,13 @@
 - Tachyarrhythmia 
 	- conduction tissues or even atria or ventricle 
 	- **Enhanced Automaticity -- abnormal spontaneous depolarization**, which can occur along the conduction system, the atria, or ventricles
-	- **Triggered arrhythmia -- abnormal afterdepolarizations** that occur in either **phase 2/3 (early afterdepolarizations)** or phase 4 (delayed afterdepolarizations) of the AP
+	- **Triggered arrhythmia -- abnormal afterdepolarizations** that occur in either **phase 2/3 (early afterdepolarizations)** or **phase 4 (delayed afterdepolarizations)** of the AP
+	- ![[tachymechanism.png]]
+## Enhanced Automaticity 
+- Automaticity -- spontaneous depolarization in phase 4 of AP 
+	- in SA, AV, His-Purkinje system 
+	- SA- If (na/Ca) current of phase 4
+	- others - K currents, Ca currents, or even the Na/Ca and ATP-driven Na/K exchangers contribute
+- if proximal structure automaticity is unreliable --> **distal structure automaticity creates "escape rhythm"** to maintain CO 
+- automaticity determined by rate of depolarization 
+- nodal --> rate of depolarization determine
