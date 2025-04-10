@@ -13,3 +13,4 @@
 	- therefore inscribed during, slightly before, or slightly after the QRS and can be difficult to discern
 	- seen at the end of the QRS complex as a pseudo-r′ in lead V1 and pseudo-S waves in leads II, III, and aVF
 	- unusual forms of AVNRT have P waves falling later, anywhere between QRS complexes, in which case, an inverted P wave is seen in the inferior limb leads with the inverted P wave seen in the subsequent T wave.
+- rate varies with sympathetic tone 
