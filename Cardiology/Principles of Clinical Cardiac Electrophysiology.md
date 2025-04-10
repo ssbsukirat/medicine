@@ -101,3 +101,8 @@
 - atrial flutter, AV nodal reentry, AV reciprocating tachycardia utilizing an accessory pathway, and scar-based reentrant VT (by anatomical reentry )
 - **functional** --> no fixed anatomical barrier -->nidus of partially refractory tissue --> circular or rotational reentrant wavefront --> less stable than anatomical --> variation in depolarization rate and may easily terminate or reinitiate 
 - AF, VF by functional reentry 
+- Ischemia and infarct may create regions of heterogeneous fibrosis, resulting in islands of scar surrounded by injured tissue. This creates the anatomic substrate that can sustain anatomic reentry, which underlies scar-based VT, as well as many macro-reentrant atrial arrhythmias 
+## Underpinning of treatment of arrhythmia 
+- enhanced automaticity based --> target phase4 --> CCBs, beta blocker, ivabradine 
+- trigger activity based arrhythmia 
+	- correct precipitating factor 
