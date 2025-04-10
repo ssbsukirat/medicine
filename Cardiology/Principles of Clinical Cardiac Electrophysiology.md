@@ -140,4 +140,4 @@
 - mc non-RF ablative energy source today is cryothermy, where an ablative catheter tip is cooled to a temperature range (typically below –40°C) that results in permanent tissue death.
 ## Implanted cardiac device 
 - 1st pacemaker --> 1958 
-- 
+- sinus node or 
