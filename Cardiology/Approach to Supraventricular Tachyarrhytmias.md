@@ -11,4 +11,13 @@
 ## Initial Evaluation 
 - Ventricular preexcitation on the resting ECG suggests AV reciprocating tachycardia using an accessory pathway 
 - urgent care or inpatient setting, **treatment of SVT will often involve vagal maneuvers or carotid sinus massage (CSM)** to ***achieve AV block*** 
-- 
+- ![[vagalmaneuvers.png]]
+- ![[vagaleffect.png]]
+- transient arrhythmia --> ambulatory ECG using wearable devices 
+- exercise testing 
+	- exercise-related symptoms and potentially evoking the arrhythmia 
+- invasive electrophysiology study 
+	- occasionally 
+	- warranted to provoke the arrhythmia with pacing, confirm the mechanism, and risk stratify the patient, 
+	- mostly performed at the time of intended catheter ablation to treat the arrhythmia.
+- paroxysmal SVT usually has no underlying structural heart disease 
