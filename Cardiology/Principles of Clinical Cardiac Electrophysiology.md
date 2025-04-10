@@ -51,4 +51,11 @@
 # Normal Cardiac impulse Propagation 
 - SA node --> RA -> LA --> atrial systole --> AV node --> relatively slow conduction --> bundle of His --> Right , Left bundle branches --> left anterio, left posterior fascicles --> Purkinje fibres (2-3m/s speed but in myocardial cells 0.3-0.4m/s)
 # Mechanisms of cardiac Arrhythmia 
-- 
+- Bradyarythmias from abnormalities in conduction tissues 
+	- SA node - pathologic sinus bradycardia 
+	- AV -- conduction block 
+	- His-Purkinje system - conduction block 
+- Tachyarrhythmia 
+	- conduction tissues or even atria or ventricle 
+	- **Enhanced Automaticity -- abnormal spontaneous depolarization**, which can occur along the conduction system, the atria, or ventricles
+	- **Triggered arrhythmia -- abnormal afterdepolarizations** that occur in either **phase 2/3 (early afterdepolarizations)** or phase 4 (delayed afterdepolarizations) of the AP
