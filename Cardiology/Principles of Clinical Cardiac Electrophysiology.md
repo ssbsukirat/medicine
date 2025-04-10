@@ -141,4 +141,7 @@
 ## Implanted cardiac device 
 - 1st pacemaker --> 1958 
 - sinus node or AV conduction defects 
-- 
+- ICDs - implantable cardioverter-defibrillator 
+	- sense abnormal ventricular arrhythmias and deliver either antitachycardia pacing or defibrillation to prevent sudden death 
+	- considered for either primary prevention of sudden cardiac death (SCD) due to arrhythmia in an at-risk patient, 
+	- or as secondary prevention in a patient who has survived an SCD event 
