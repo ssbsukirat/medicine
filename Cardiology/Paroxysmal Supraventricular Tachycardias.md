@@ -36,3 +36,12 @@
 - if sinus --> AP faster than to his-purkinje --> ventricles pre-excited --> short PR (<0.12s), **slurred initial portion of QRS (delta wave)**, prolonged QRS
 - Right sided AP --> pre-excited RV --> LBBB like in V1 and marked pre-excitation 
 - Left-sided AP --> RBBB in V1 , negative delta wave in aVL (may mimic Q wave of lateral wall infarct ), minimal or absent pre-excitation (as more distance between SA and left ventricle )
+- AP at the diaphragmatic surface of the heart, typically in the paraseptal region, produces delta waves that are negative in leads III and aVF, mimicking the Q waves of inferior wall infarction
+- WPW syndrome 
+	- Wolff-Parkinson-White 
+	- pre-excited QRS during sinus and episodes of PSVT 
+	- Concealed APs allow only retrograde conduction, from ventricle to atrium, so no preexcitation is present during sinus rhythm, but SVT can occur 
+	- Fasciculoventricular connections between the His bundle and ventricular septum produce preexcitation but do not cause arrhythmia, probably because the circuit is too short to promote reentry 
+# ATRIOVENTRICULAR Reciprocating TACHYCARDIA 
+- mc TACHYCARDIA caused by AP is **orthrodromic AV reciprocating tachycardia** 
+- 
