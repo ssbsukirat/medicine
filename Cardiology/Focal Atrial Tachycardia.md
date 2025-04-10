@@ -14,4 +14,5 @@
 - 1:1 AV conduction mostly , sometimes AV block in Wenckebach or fixed pattern (2:1, 3:1) 
 - does not terminate with AV block, atrial rate unaffected --> contrast vs AVNRT and AV reentry using accessory pathway 
 - **warm-up phase** when the atrial activation rate increases after initiation or a **cool-down phase** when the rate slows prior to termination also favors AT rather than AV nodal–dependent SVT, as this is a common observation with triggered automaticity
-- in 1:1 conduction --> similar to sinus tachycardia but PR shorter than RP 
+- in 1:1 conduction --> similar to sinus tachycardia but PR shorter than RP & different P wave morphology f
+- 
