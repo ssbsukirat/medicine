@@ -93,4 +93,5 @@
 ## Reentry 
 - circus movement of a wavefront of electrical activation 
 - fixed anatomic barrier --> **anatomic reentry** 
+- functional / refractory barrier or anchor --> **functional reentry**  
 - 
