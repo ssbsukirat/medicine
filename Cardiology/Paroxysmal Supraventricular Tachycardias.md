@@ -15,4 +15,11 @@
 	- unusual forms of AVNRT have P waves falling later, anywhere between QRS complexes, in which case, an inverted P wave is seen in the inferior limb leads with the inverted P wave seen in the subsequent T wave.
 - rate varies with sympathetic tone 
 - Atrial + ventricle --> spontaneous contraction --> atria contraction against closed tricuspid --> **cannon A wave in JVP** --> natriuretic peptide release --> **posttachycardia diuresis** 
+- maneuver or drug to induce AV block --> terminate attack 
+- Reassurance and instruction as to how to perform the Valsalva maneuver or other vagal nerve stimulating maneuvers to terminate episodes are sufficient for many patients
+- oral beta blocker, verapamil, or diltiazem at the onset of an episode can be used to facilitate termination 
+- chronic therapy with beta blocker, verapamil , diltiazem or flecainide 
+- Catheter ablation 
+# Junctional TACHYCARDIA 
+- automaticity in AV node 
 - 
