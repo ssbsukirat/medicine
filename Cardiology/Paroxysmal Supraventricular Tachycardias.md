@@ -24,3 +24,9 @@
 - automaticity in AV node 
 - more frequently encountered as an incessant tachycardia in children, often in the perioperative period of surgery for congenital heart disease 
 - narrow QRS tachycardia, often with ventriculoatrial (VA) block, such that AV dissociation is present
+- maybe manifestation of **increased adrenergic tone** and may be seen after administration of **isoproterenol,** particularly after catheter ablation in the perinodal region.
+- short period of time after ablation for AVNRT 
+- accelerated junctional rhythm --> junctional automatic rhythm  between 50-100/min 
+- VA conduction is usually present, with P-wave morphology and timing such that it resembles AVNRT at a slow rate 
+# Accessory Pathway & WPW syndrome 
+- 
