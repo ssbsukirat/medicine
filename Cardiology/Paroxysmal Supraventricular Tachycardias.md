@@ -54,4 +54,4 @@
 - ventricle activated by anterograde conduction over AP 
 - mc is **antidromic AV reciprocating tachycardia**  
 - atrium to ventricle via the AP and then conducts retrogradely to the atria via the His-Purkinje system and the AV node (or rarely a second AP) 
-- 
+- wide QRS complex is produced entirely via ventricular excitation over the AP because there is no contribution of ventricular activation over more rapidly conducting specialized His-Purkinje fibers
