@@ -48,5 +48,10 @@
 - narrow QRS +/- LBBB/RBBB but no preexcitation during tachycardia 
 - AV or VA block --> terminates 
 - RP shorter than PR --> may resemble AVNRT --> but always P f/b QRS 
-- Occasionally, an AP conducts extremely slowly in the retrograde direction, resulting in tachycardia with a long R-P interval, similar to most ATs 
+- Occasionally, an AP conducts extremely slowly in the retrograde direction, resulting in tachycardia with a long R-P interval, similar to most ATs
+- slow AP --> reentry --> incessant tachycardia --> **Permanent Junctional Reciprocating Tachycardia** 
+# Pre-excited Tachycardia 
+- ventricle activated by anterograde conduction over AP 
+- mc is **antidromic AV reciprocating tachycardia**  
+- atrium to ventricle via the AP and then conducts retrogradely to the atria via the His-Purkinje system and the AV node (or rarely a second AP) 
 - 
