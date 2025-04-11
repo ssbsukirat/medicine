@@ -55,3 +55,7 @@
 - mc is **antidromic AV reciprocating tachycardia**  
 - atrium to ventricle via the AP and then conducts retrogradely to the atria via the His-Purkinje system and the AV node (or rarely a second AP) 
 - wide QRS complex is produced entirely via ventricular excitation over the AP because there is no contribution of ventricular activation over more rapidly conducting specialized His-Purkinje fibers
+- indistinguishable from monomorphic VT 
+- presence of preexcitation in sinus rhythm suggests the diagnosis 
+- also occurs if an AP allows antegrade conduction to the ventricles during AT, atrial flutter, atrial fibrillation (AF), or AV nodal reentry, otherwise known as **bystander AP conduction.** 
+- 
