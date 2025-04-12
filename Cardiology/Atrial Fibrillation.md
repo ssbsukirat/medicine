@@ -108,4 +108,15 @@
 - Drugs 
 	- oral Xa inhibitors --> apixaban, edoxaban, riaroxaban 
 	- oral antithrombin inhibitors --> dabigatran 
-	- Warfarin --> vit
+	- Warfarin --> vit K antagonist 
+	- antiplatelet --> insufficient 
+- DOACs vs Warfarin 
+	- DOACs **noninferior in Nonvalvular AF**
+	- DOACs superior in nonvalvular AF for mortality , stroke, bleeding , ICH 
+	- Warfarin in MS, mechanical heart valves 
+- Dabigatran , rivaroxaban, apixaban --> renal excretion , c/i if GFR<15ml/min, dose adjustment in renal dysfunction 
+- apixaban can be given in hemodialysis dependent 
+- Reversal 
+	- Warfarin -> fresh frozen plasma, prothrombin complex concentrate, and vitamin K 
+	- Dabigatran --> idarucizumab 
+	- Xa inhibitors --> adexanet alpha 
