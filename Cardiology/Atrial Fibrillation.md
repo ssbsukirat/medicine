@@ -25,5 +25,6 @@
 	- **Paroxysmal** --> spontaneous , terminate in short days, mostly <7 days 
 	- **Persistent** --> >7days , <1 year 
 	- **Long-standing persistent** --> >1 year 
+	- ![[AFcategories.png]]
 - proposed pathophysiology suggests a **“final common pathway”** of risk factors leading to electrophysiologic changes in atrial tissues
 - 
