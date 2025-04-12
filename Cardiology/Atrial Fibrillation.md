@@ -27,4 +27,4 @@
 	- **Long-standing persistent** --> >1 year 
 	- ![[AFcategories.png]]
 - proposed pathophysiology suggests a **“final common pathway”** of risk factors leading to electrophysiologic changes in atrial tissues
-- 
+- progressive disease in most 
