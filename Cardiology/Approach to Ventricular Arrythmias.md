@@ -14,9 +14,22 @@
 	- >30s/ needs active intervention  -> sustained VT 
 - Monomorphic VT
 	- same QRS morphology 
+	- if very rapid --> sinusoidal appearace --> **ventricular flutter** 
+	- slow sinusoidal VTs have a wide QRS indicative of slowed ventricular conduction
+		- Hyperkalemia, 
+		- toxicity from excessive effects of drugs that block sodium channels (e.g., flecainide,propafenone, or tricyclic antidepressants),
+		- severe global myocardial ischemia are possible causes
 - initial site of activation determines sequence 
 	- Arrhythmias that originate from the **right ventricle or septum** result in late activation of much of the left ventricle, thereby producing a **prominent S wave in V1 referred to as a left bundle branch block–like configuration**
-	- 
+	- free wall of the **left ventricle** have a prominent positive deflection in V1, thereby producing a **right bundle branch block–like morphology in V1**  
+	- axis that is directed **inferiorly**, as indicated by dominant R waves in lead II, III, and AVF, suggests **initial activation of the cranial portion** of the ventricle
+	- frontal plane axis that is directed **superiorly** (dominant S waves in II, III, and AVF) suggests **initial activation at the inferior wall.**
+- Polymorphic VT 
+	- changing QRS morphology 
+	- changing activation sequence 
+	- if congenital or acquired prolongation of the QT interval-->  waxing and waning QRS amplitude --> characteristic shifting axis referred to as **torsades des pointes after the classic ballet sequence**
 - Idioventricular Rhythm 
 	- 3 or more consecutive beats at slowet rate 
-	- 
+- Ventricular Fibrillation 
+	- continuous irregular activation with no discrete QRS complexes 
+	- monomorphic or polymorphic VT
