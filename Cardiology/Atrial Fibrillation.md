@@ -147,4 +147,10 @@
 ## Pharmacologic Rhythm Control 
 - appropriate anticoagulation strategy approach similar to electrical cardioversion is recommended, particularly at the time of initiation of therapy 
 - Class I sodium channel– blocking agents (e.g., flecainide, propafenone, disopyramide) if without significant structural heart disease, but negative inotropic and proarrhythmic effects warrant **avoidance in patients with coronary artery disease or heart failure** 
+- class III agents sotalol and dofetilide can be administered to patients with coronary artery disease or structural heart disease but have ∼3% **risk of inducing excessive QT prolongation and torsades des pointes** 
+- Dronedarone increases mortality in HF or long-standing persistent AF 
+- Amiodarone --> sinus is 2/3 patients 
+## Catheter and Surgical ablation 
+- previously untreated but recurrent paroxysmal AF, catheter ablation has superior efficacy compared to antiarrhythmic drug therapy
+- Ablation is even more clearly superior to antiarrhythmic drugs for patients who have recurrent AF despite drug treatment
 - 
