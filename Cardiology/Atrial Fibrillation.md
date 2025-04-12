@@ -130,4 +130,15 @@
 	- excess alcohol or NSAID use 
 - if DAPT needed for coronary or peripheral vessel stenting --> addition of warfarin or DOAC worsens bleeding risk 
 - if anticoagulation c/i d/t bleeding risk 
-	- 
+	- surgical removal of the LA appendage, combined with atrial maze surgery, may be considered for patients undergoing surgery
+## Rhythm Control 
+- sinus rhythm has better survival than AF 
+- RCT evaluating an early rhythm control strategy (within 1 year of initial presentation) compared to standard rate control demonstrated a reduction in cardiovascular events, including death from cardiovascular causes and stroke
+-  if HF due to depressed LV function, a catheter ablation–based strategy to maintain sinus rhythm --> mortality benefit compared with a medical rhythm control strategy
+- rhythm control in 
+	- symptomatic paroxysmal AF 
+	- recurrent episode of symptomatic persistent AF 
+	- AF with difficult rate control 
+	- AF with depressed LV function 
+	- AF worsening HF 
+- 
