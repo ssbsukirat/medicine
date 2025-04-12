@@ -5,4 +5,18 @@
 - conduction away from Ventricular focus / reentrant circuit --> slower than normal purkinje system activation --> wide WRS (>0.12s)
 - PVCs / Premature Ventricular Contraction 
 	- single ventricular beats earlier than anticipated supraventricular beat 
+	- if from same focus --> same QRS --> unifocal 
+	- different focus --> variable QRS -- Multifocal 
+	- 2 consecutive VPCs --> Ventricular Couplets 
+- VT/ Ventricular TACHYCARDIA 
+	- 3 or more beats at rate >100/min 
+	- terminate spontaneous <30s --> Nonsustained VT
+	- >30s/ needs active intervention  -> sustained VT 
+- Monomorphic VT
+	- same QRS morphology 
+- initial site of activation determines sequence 
+	- Arrhythmias that originate from the **right ventricle or septum** result in late activation of much of the left ventricle, thereby producing a **prominent S wave in V1 referred to as a left bundle branch block–like configuration**
+	- 
+- Idioventricular Rhythm 
+	- 3 or more consecutive beats at slowet rate 
 	- 
