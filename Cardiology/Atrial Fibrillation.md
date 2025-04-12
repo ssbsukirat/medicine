@@ -155,4 +155,15 @@
 - Ablation is even more clearly superior to antiarrhythmic drugs for patients who have recurrent AF despite drug treatment
 - percutaneous venous access (typically via the femoral veins) --> trans(atrial) septal puncture --> radiofrequency ablation or cryoablation to electrically isolate the left atrial regions around the pulmonary vein antra, 
 - abolishing the ability of triggering foci in these regions to initiate AF and also likely impacting the substrate for reentry in the left atrium
-- 
+- patients become more responsive to antiarrhythmic drugs or become less symptomatic with a reduced AF burden after a pulmonary vein isolation procedure, and thus, repeat ablation may not be required for symptom control in some 
+- less effective in long-standing persistent / persistent AF 
+- ![[AFsurgical.png]]
+- Complication 
+	- stroke 
+	- cardiac tamponade 
+	- phrenic nerve paralysis 
+	- bleeding from femoral access site 
+	- fluid overload 
+	- PV stenosis 
+	- esophageal ulcers 
+	- 
