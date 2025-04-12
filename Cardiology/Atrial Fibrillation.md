@@ -120,3 +120,14 @@
 	- Warfarin -> fresh frozen plasma, prothrombin complex concentrate, and vitamin K 
 	- Dabigatran --> idarucizumab 
 	- Xa inhibitors --> adexanet alpha 
+- aspirin insufficient --> aspirin + clopidogrel better but still inferior to warfarin while having worse bleeding rate 
+- major side effect --> bleeding --> DOACs better 
+- bleeding risk factor 
+	- age >65-75 
+	- heart failure 
+	- renal insufficiency 
+	- prior bleeding 
+	- excess alcohol or NSAID use 
+- if DAPT needed for coronary or peripheral vessel stenting --> addition of warfarin or DOAC worsens bleeding risk 
+- if anticoagulation c/i d/t bleeding risk 
+	- 
