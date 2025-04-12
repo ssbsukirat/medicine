@@ -77,4 +77,15 @@
 # TREATMENT 
 - narrow QRS PSVT depends on presentation 
 - **hypotension with unconsciousness or respiratory distress, QRS- synchronous direct current cardioversion is warranted**
-- stable --> 
+- stable --> IV adenosine 
+- PSVT dependent on AV nodal conduction --> respond to vagotonic or sympatholytic maneuvers 
+- ![[PSVTtreatmnent.png]]
+- Carotid sinus massage, Valsalva --> if ineffective Adenosine 
+- Adenosine 
+	- transient chest pain, dyspnea, anxiety 
+	- c/i in prior cardiac transplant 
+	- may aggravate bronchospasm 
+	- may precipitate AF --> careful use in WPW as AF may cause hemodynamic compromise 
+- DIFFERENTIAL 
+	- VT
+	- PSVT with 
