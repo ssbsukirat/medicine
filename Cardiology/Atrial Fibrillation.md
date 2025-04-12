@@ -90,5 +90,22 @@
 	- <100/min light exertion like walking 
 	- upto 110/min normal if no symptoms and normal LV function 
 - if rate control difficult --> consider cardioversion 
-- catheter ablation of AV junction --> permanent AV block --> PPM for pacing --> **Ablate and Pace Strategy** 
-- 
+- catheter ablation of AV junction --> permanent AV block --> PPM for pacing --> **Ablate and Pace Strategy** --> stay in AF + need PPM support 
+	- ventricular lead in the right ventricular apex may induce dyssynchronous ventricular activation that can depress ventricular function 
+	- Biventricular pacing or direct pacing of the His bundle or left bundle branch may be used to minimize the degree of ventricular dyssynchrony
+## Stroke Prevention 
+- continuous anticoagulation with oral drug 
+- high risk 
+	- MS 
+	- HOCM 
+	- prior stroke 
+- **AF without MS --> nonvalvular AF** 
+- CHA2DS2VASc 
+	- if score >_ 1 --> anticoagulation unless female sex is sole risk 
+- Bleeding risk with HAS-BLED score 
+- APPROACH to paroxysmal AF is same as persistent --> risk is similar 
+- ![[AFStrokeRISK.png]]
+- Drugs 
+	- oral Xa inhibitors --> apixaban, edoxaban, riaroxaban 
+	- oral antithrombin inhibitors --> dabigatran 
+	- Warfarin --> vit
