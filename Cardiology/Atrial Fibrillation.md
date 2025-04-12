@@ -45,4 +45,18 @@
 	- HOCM 
 	- CAD 
 	- HFpEF, HFrEF 
-	- amyloidos
+	- amyloidosis 
+- AF --> sinus --> pause --> presyncope /syncope 
+- loss of atrial mechanical function --> blood stasis --> thrombus formation --> embolism --> stroke and others --> recurrent strokes --> debilitating neurological sequelae 
+- prolonged periods of FVR --> **tachycardia-induced cardiomyopathy** 
+	- reversible once rate controlled 
+- persistent AF -->.LA>RA dilated , higher fibrotic load 
+	- fibrotic left atrium --> elevated left atrial filling pressures, volume overload, and congestive heart failure, have been described as **“stiff left atrial syndrome.”** 
+# TREATMENT 
+- Aims 
+	- Control symptoms with rate +/- rhythm control 
+	- mitigate thromboembolism risk 
+	- change modifiable risk factor of AF progress 
+- Acute AF + hemodynamic compromise/ pulmonary edema/ coronary ischemia --> **Emergent cardioversion** 
+	- QRS synchronous shock in sedated patient 
+	- Pharmacologic 
