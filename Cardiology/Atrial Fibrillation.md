@@ -153,4 +153,6 @@
 ## Catheter and Surgical ablation 
 - previously untreated but recurrent paroxysmal AF, catheter ablation has superior efficacy compared to antiarrhythmic drug therapy
 - Ablation is even more clearly superior to antiarrhythmic drugs for patients who have recurrent AF despite drug treatment
+- percutaneous venous access (typically via the femoral veins) --> trans(atrial) septal puncture --> radiofrequency ablation or cryoablation to electrically isolate the left atrial regions around the pulmonary vein antra, 
+- abolishing the ability of triggering foci in these regions to initiate AF and also likely impacting the substrate for reentry in the left atrium
 - 
