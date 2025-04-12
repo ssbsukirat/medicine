@@ -33,4 +33,7 @@
 - clear isoelectric interval between P waves + slower atrial rate VS AF 
 - likely triggered automaticity from multiple atrial foci 
 - mostly seen in COPD and acute illness 
-- 
+- therapy --> treat the cause, correct metabolic abnormalities 
+- Verapamil or diltiazem to slow atrial and ventricular rate 
+- severe pulmonary disease often do not tolerate beta blocker therapy. 
+- may respond to amiodarone --> but avoid long-term use d/t toxicity like pulmonary fibrosis 
