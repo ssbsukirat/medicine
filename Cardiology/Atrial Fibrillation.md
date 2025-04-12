@@ -28,3 +28,21 @@
 	- ![[AFcategories.png]]
 - proposed pathophysiology suggests a **“final common pathway”** of risk factors leading to electrophysiologic changes in atrial tissues
 - progressive disease in most 
+- other tissue that produce ectopic and trigger AF 
+	- SVC 
+	- Coronary Sinus 
+	- remnant of vein of marshall 
+# Clinical Presentation 
+- D/t 
+	- irregular , rapid or slow ventricular rates 
+	- hemodynamic instability d/t impaired cardiac function 
+	- consequences of cardioembolic phenomena 
+	- AF impact on CV function over time 
+- ECG/ Ambulatory ECG --> lack of organized atrial activity (no P wave), with an irregular ventricular response 
+- irregular , rapid ventricular rates --> variable cardiac displacement and contraction --> palpitations , awareness of heart beats 
+- in AF --> atrial systole no role in cardiac output --> variable ventricular function --> variable stroke volume --> exercise intolerance, fatigue , weakness, presyncope, dyspnea 
+- may precipitate underlying cardiac disease 
+	- HOCM 
+	- CAD 
+	- HFpEF, HFrEF 
+	- amyloidos
