@@ -86,6 +86,9 @@
 	- c/i in prior cardiac transplant 
 	- may aggravate bronchospasm 
 	- may precipitate AF --> careful use in WPW as AF may cause hemodynamic compromise 
-- DIFFERENTIAL 
+- DIFFERENTIAL of wide QRS tachycardia 
 	- VT
-	- PSVT with 
+	- PSVT with bundle branch block aberrancy 
+	- preexcited tachycardia 
+- if AF with preexcitation --> cardioversion , procainamide , ibutilide 
+- if PSVT with aberrancy --> vagal maneuver , Adenosine 
