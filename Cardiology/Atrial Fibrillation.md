@@ -64,4 +64,15 @@
 - if rhythm control is considered --> anticoagulant consider to prevent risk of thromboembolism --> **if >48h onset --> anticoagulant and cardioversion after 4 weeks** / **Rule out LA thrombus by TEE / Ct angiography** 
 ## Cardioversion & Anticoagulation 
 - main source of thromboembolism --> LA thrombus 
-- prolonged AF --> sinus --> atrial mechanical function recovery takes weeks --> 
+- prolonged AF --> sinus --> atrial mechanical function recovery takes weeks --> risk of thrombus even in sinus rhythm 
+- if **AF>48h + MS/HOCM --> conversion to sinus has higher risk of thromboembolism**  
+- if AF<48H --> Cardioversion without anticoagulant if no high risk of stroke
+	- no embolic events 
+	- no Rheumatic MS
+	- HOCM with LA enlargement 
+- if AF>48h 
+	- anticoagulant for 3 weeks before and 4 weeks after cardioversion 
+	- start anticoagulant + TEE/ High resolution Cardiac CT to r/o LA thrombus --> thrombus absent --> cardioversion + continue anticoagulant for 4 weeks 
+## Acute Rate Control 
+- goal allow more diastolic filling time, improving cardiac output and reducing patient symptoms
+- beta blocker/ verapamil / diltiazem 
