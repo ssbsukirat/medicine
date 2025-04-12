@@ -90,4 +90,5 @@
 	- <100/min light exertion like walking 
 	- upto 110/min normal if no symptoms and normal LV function 
 - if rate control difficult --> consider cardioversion 
-- catheter ablation of AV junction --> permanent AV block --
+- catheter ablation of AV junction --> permanent AV block --> PPM for pacing --> **Ablate and Pace Strategy** 
+- 
