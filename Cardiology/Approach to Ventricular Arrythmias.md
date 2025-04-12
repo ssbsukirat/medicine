@@ -32,4 +32,7 @@
 	- 3 or more consecutive beats at slowet rate 
 - Ventricular Fibrillation 
 	- continuous irregular activation with no discrete QRS complexes 
-	- monomorphic or polymorphic VT
+	- monomorphic or polymorphic VT may transition to VF 
+- idiopathic ventricular arrhythmia generally refers to PVCs or VT that occurs in patients with a normal electrocardiogram (ECG), without structural heart disease, and not associated with an underlying genetic syndrome or risk of sudden death 
+# Clinical 
+- 
