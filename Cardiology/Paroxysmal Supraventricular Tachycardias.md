@@ -58,4 +58,5 @@
 - indistinguishable from monomorphic VT 
 - presence of preexcitation in sinus rhythm suggests the diagnosis 
 - also occurs if an AP allows antegrade conduction to the ventricles during AT, atrial flutter, atrial fibrillation (AF), or AV nodal reentry, otherwise known as **bystander AP conduction.** 
-- 
+- RR intervals <250ms during AF in 25% of APs --> risk of sudden death 
+- Pre-excited AF --> wide QRS, very irregular rhythm , QRS may change on beat to beat basis 
