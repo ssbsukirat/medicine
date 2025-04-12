@@ -12,3 +12,13 @@
 	- family h/o AF 
 	- obesity 
 	- Sleep disordered breathing 
+- mortality 1.5-1.9x with higher risk of stroke --> 25% of all strokes 
+- increased dementia , MRI-detected asymptomatic embolic infarct 
+- PRECIPITATING 
+	- hyperthyroidism 
+	- acute alcohol intoxication 
+	- MI 
+	- PTE 
+	- Pericarditis 
+	- cardiac surgery 
+- 
