@@ -26,3 +26,11 @@
 - 1st episode commonly spontaneous revert to sinus 
 - recurrent episodes, **antiarrhythmic drug therapy with sotalol, dofetilide, disopyramide, and amiodarone** may be considered, but >70% of patients experience recurrences
 - in recurrent --> catheter ablation (maybe considered 1st line)
+- ![[Afluttermanage.png]]
+# Multifocal Atrial Tachycardia 
+- 3 distinct P wave morphology 
+- rate 100-150/min 
+- clear isoelectric interval between P waves + slower atrial rate VS AF 
+- likely triggered automaticity from multiple atrial foci 
+- mostly seen in COPD and acute illness 
+- 
