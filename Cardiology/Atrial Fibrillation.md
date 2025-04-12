@@ -1,0 +1,14 @@
+# Pathophysiology & Epidemiology 
+- Cardiac arrhythmia -- seemingly disorganised, rapid, irregular atrial activation --> loss of organised atrial mechanical contraction 
+- conducted ventricular rate --> irregular , rapid ventricular rate b/w 110-160/min in most 
+- sometime rate >200/min but in some with Vagal tone or conduction defects --> slow rate 
+- prevalence more in age --> 95% of AF have age >60 
+- men > women, white> black 
+- Risk factor 
+	- Age 
+	- HTN 
+	- DM 
+	- Cardiac disease 
+	- family h/o AF 
+	- obesity 
+	- Sleep disordered breathing 
