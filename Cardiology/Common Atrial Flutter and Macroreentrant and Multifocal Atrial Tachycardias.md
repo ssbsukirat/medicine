@@ -16,4 +16,13 @@
 - similar to common atrial flutter but with different P- wave morphologies 
 - difficult to distinguish from focal AT, and in most cases, the mechanism can only be confirmed by an electrophysiology study 
 # MANAGEMENT 
-- 
+- similar to AF 
+- electric cardioversion in hemodynamic instability 
+- AV nodal block in stable patient 
+- thrombotic risk similar to AF --> 
+- Anticoagulation is warranted
+	- prior to conversion for episodes >48 h in duration and 
+	- chronically for patients at increased risk of thromboembolic stroke based on the CHA2DS2-VASc scoring system
+- 1st episode commonly spontaneous revert to sinus 
+- recurrent episodes, **antiarrhythmic drug therapy with sotalol, dofetilide, disopyramide, and amiodarone** may be considered, but >70% of patients experience recurrences
+- in recurrent --> catheter ablation (maybe considered 1st line)
