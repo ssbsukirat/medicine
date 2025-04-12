@@ -35,4 +35,11 @@
 	- monomorphic or polymorphic VT may transition to VF 
 - idiopathic ventricular arrhythmia generally refers to PVCs or VT that occurs in patients with a normal electrocardiogram (ECG), without structural heart disease, and not associated with an underlying genetic syndrome or risk of sudden death 
 # Clinical 
+- symptoms 
+	- palpitations, 
+	- dizziness, 
+	- exercise intolerance, 
+	- episodes of lightheadedness, 
+	- syncope, or 
+	- sudden cardiac arrest leading to sudden death if not resuscitated
 - 
