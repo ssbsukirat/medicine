@@ -58,5 +58,10 @@
 	- mitigate thromboembolism risk 
 	- change modifiable risk factor of AF progress 
 - Acute AF + hemodynamic compromise/ pulmonary edema/ coronary ischemia --> **Emergent cardioversion** 
-	- QRS synchronous shock in sedated patient 
-	- Pharmacologic 
+	- **QRS synchronous shock** in sedated patient 
+	- Pharmacologic cardioversion with **ibutilide (clas III)** --> avoid if QT prolongation / LV dysfunction 
+- Hemodynamic stable + new-onset AF --> **rate control** +/- anticoagulant +/- rhythm control strategy 
+- if rhythm control is considered --> anticoagulant consider to prevent risk of thromboembolism --> **if >48h onset --> anticoagulant and cardioversion after 4 weeks** / **Rule out LA thrombus by TEE / Ct angiography** 
+## Cardioversion & Anticoagulation 
+- main source of thromboembolism --> LA thrombus 
+- prolonged AF --> sinus --> atrial mechanical function recovery takes weeks --> 
