@@ -11,3 +11,9 @@
 # Atypical Atrial Tachycardia 
 - Macroreentrant atrial tachycardias (ATs) that are not dependent on conduction through the cavotricuspid isthmus 
 - in either atria and associated with scar 
+- in RA only when right atriotomy as part of cardiac surgery 
+- LA flutter and perimitral LA flutter are commonly seen after extensive left atrial ablation for atrial fibrillation or atrial surgery
+- similar to common atrial flutter but with different P- wave morphologies 
+- difficult to distinguish from focal AT, and in most cases, the mechanism can only be confirmed by an electrophysiology study 
+# MANAGEMENT 
+- 
