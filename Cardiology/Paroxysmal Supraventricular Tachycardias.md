@@ -60,3 +60,7 @@
 - also occurs if an AP allows antegrade conduction to the ventricles during AT, atrial flutter, atrial fibrillation (AF), or AV nodal reentry, otherwise known as **bystander AP conduction.** 
 - RR intervals <250ms during AF in 25% of APs --> risk of sudden death 
 - Pre-excited AF --> wide QRS, very irregular rhythm , QRS may change on beat to beat basis 
+- AV nodal–blocking agents, including **oral or intravenous verapamil, diltiazem, beta blockers, intravenous adenosine, and intravenous amiodarone, is contraindicated during preexcited AF**
+- treated with **electrical cardioversion or intravenous procainamide or ibutilide,** which may terminate the arrhythmia or slow the ventricular rate
+# MANAGEMENT 
+- 
