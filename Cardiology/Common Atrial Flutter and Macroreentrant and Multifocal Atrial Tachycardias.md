@@ -9,4 +9,5 @@
 - Right sided cardiac or Pulmonary vascular disease --> predispose to common right atrial flutter 
 - AF treated with flecanide, propafenone , amiodarone --> present as flutter 
 # Atypical Atrial Tachycardia 
-- 
+- Macroreentrant atrial tachycardias (ATs) that are not dependent on conduction through the cavotricuspid isthmus 
+- in either atria and associated with scar 
