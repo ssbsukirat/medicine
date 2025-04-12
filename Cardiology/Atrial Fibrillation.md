@@ -75,4 +75,19 @@
 	- start anticoagulant + TEE/ High resolution Cardiac CT to r/o LA thrombus --> thrombus absent --> cardioversion + continue anticoagulant for 4 weeks 
 ## Acute Rate Control 
 - goal allow more diastolic filling time, improving cardiac output and reducing patient symptoms
-- beta blocker/ verapamil / diltiazem 
+- beta blocker/ verapamil / diltiazem either IV or oral 
+- Digoxin 
+	- in patient susceptible to CHF 
+	- no negative inotropic effect 
+	- synergistic with BB/ CCB 
+	- add to BB/ CCB if needed 
+	- may have increased mortality 
+## Chronic Rate Control 
+- β-Adrenergic blockers and calcium channel blockers are often used either alone or in combination. 
+- exertion symptoms --> poor rate control 
+- adequate rate control 
+	- Resting <80/min 
+	- <100/min light exertion like walking 
+	- upto 110/min normal if no symptoms and normal LV function 
+- if rate control difficult --> consider cardioversion 
+- catheter ablation of AV junction --> permanent AV block --
