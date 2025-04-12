@@ -63,4 +63,18 @@
 - AV nodal–blocking agents, including **oral or intravenous verapamil, diltiazem, beta blockers, intravenous adenosine, and intravenous amiodarone, is contraindicated during preexcited AF**
 - treated with **electrical cardioversion or intravenous procainamide or ibutilide,** which may terminate the arrhythmia or slow the ventricular rate
 # MANAGEMENT 
-- 
+- rhythm determine 
+- rule out Ebsteins anomaly and HOCM 
+- invasibve electrophysiology study + catheter ablation 
+- Catheter ablation is warranted for recurrent arrhythmias when drugs are ineffective, not tolerated, or not desired by the patient. 
+	- Complications 
+		- Av block 
+		- cardiac tamponade 
+		- thromboembolism 
+		- coronary artery injury 
+		- vascular access complication 
+- concealed APs or known low-risk APs causing orthodromic AVRT, chronic therapy is guided by symptoms and frequency of events. Vagal maneuvers may terminate episodes, as may a dose of beta blocker, verapamil, or diltiazem taken at the onset of an episode.
+# TREATMENT 
+- narrow QRS PSVT depends on presentation 
+- **hypotension with unconsciousness or respiratory distress, QRS- synchronous direct current cardioversion is warranted**
+- stable --> 
