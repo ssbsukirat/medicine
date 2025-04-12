@@ -141,4 +141,10 @@
 	- AF with difficult rate control 
 	- AF with depressed LV function 
 	- AF worsening HF 
+- anticoagulation still recommended with CHA2DS2VASc 
+- 1st episode of persistent AF -->  AV nodal–blocking agents, cardioversion, and anticoagulation
+- frequent symptomatic AF despite rate control, then a rhythm control strategy incorporating catheter ablation and/or antiarrhythmic medications is indicated 
+## Pharmacologic Rhythm Control 
+- appropriate anticoagulation strategy approach similar to electrical cardioversion is recommended, particularly at the time of initiation of therapy 
+- Class I sodium channel– blocking agents (e.g., flecainide, propafenone, disopyramide) if without significant structural heart disease, but negative inotropic and proarrhythmic effects warrant **avoidance in patients with coronary artery disease or heart failure** 
 - 
