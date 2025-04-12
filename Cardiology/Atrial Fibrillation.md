@@ -166,4 +166,4 @@
 	- fluid overload 
 	- PV stenosis 
 	- esophageal ulcers 
-	- 
+	- atrioesophageal fistula --> EGD c/i, urgent surgery needed 
