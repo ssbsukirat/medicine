@@ -17,3 +17,9 @@
 # PVCs AND NSVT DURING ACUTE ILLNESS 
 - acute illness or as a new finding, evaluation should focus on detection and correction of potential aggravating factors and causes, specifically myocardial ischemia, ventricular dysfunction, and electrolyte abnormalities, most commonly **hypokalemia** 
 - asymptomatic PVCs and NSVT in the hospitalized patient do not indicate any specific treatment outside the patient’s presenting illness.
+# PVCs AND NSVT IN PATIENTS WITHOUT HEART DISEASE 
+- originate from the left or right ventricular outflow tracts near the valve annuli, giving rise to PVCs or VT that have a left bundle branch block–like configuration, with an inferiorly directed frontal plane axis,
+- other regions --> papillary muscles and fascicular tissue
+- benign idiopathic NSVT --> monomorphic , <200/min 
+- rapid, polymorphic first beay prior to peak of T --> Short coupled --> evaluation for underlying disease 
+- if f/h/o SCD --> evalu
