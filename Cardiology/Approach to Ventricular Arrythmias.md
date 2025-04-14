@@ -49,3 +49,10 @@
 		- during exercise 
 		- setting of abnormal ECG or structural heart disease 
 - sustained VT --> wide QRS tachycardia (differentiate from SVT with aberrancy) 
+# Evaluation of PATIENT 
+- diagnosis of VAs can be established by 
+	- recording the arrhythmia on an ECG, 
+	- by an ambulatory or implanted cardiac monitor, 
+	- by an implanted rhythm management device such as a pacemaker or ICD, or 
+	- in some cases, initiation of the arrhythmia during an electrophysiologic study.
+- 
