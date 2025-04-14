@@ -7,4 +7,8 @@
 - ECG 
 	- PVCs with **smooth uninterrupted contours and sharp QRS deflections** may suggest an ectopic focus in relatively **normal** myocardium, 
 	- whereas **broad notching and slurred QRS deflections may suggest a diseased myocardial substrate.**
+	- morphology of QRS suggests site 
+	- dominant S wave in V1, referred to as a **left bundle branch block–like configuration, originate from the right ventricle or interventricular septum.**
+	- dominant R wave in V1 originate from the left ventricle.
 	- 
+- 
