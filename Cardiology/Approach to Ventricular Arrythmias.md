@@ -126,4 +126,15 @@
 	- lead can provide pacing for bradycardia if needed
 	- transvenous --> s/e --> vascular occlusion, risk of lead fracture, endocarditis in the event of infection, and difficulty with removal 
 	- ATP --> Monomorphic VT can also be terminated by a burst of rapid pacing faster than the VT, known as antitachycardia pacing (ATP) 
-	- if ATP fai
+	- if ATP fails --> shock 
+	- maybe subcutaneous --> no transvenous lead --> reads like surface ecg so no pacing 
+	- most common ICD complication is the delivery of unnecessary therapy (either ATP or shocks) 
+		- in response to an inappropriately detected rapid supraventricular tachycardia or 
+		- electrical noise as a result of an ICD lead fracture or electromagnetic interference from an external source
+		- record and store electrograms from arrhythmia episodes that can be retrieved by interrogation of the ICD 
+		- assessment is critical after an ICD shock to determine the arrhythmia diagnosis and exclude an unnecessary therapy.
+	- recommended only if there is also expectation for survival of at least a year with acceptable functional capacity. 
+		- exception is in cases of patients with end-stage heart disease who are awaiting cardiac transplantation outside the hospital or
+		- who have left bundle branch block QRS prolongation such that they are likely to have improvement in ventricular function with cardiac resynchronization therapy from a biventricular ICD
+- Catheter Ablation 
+	- 
