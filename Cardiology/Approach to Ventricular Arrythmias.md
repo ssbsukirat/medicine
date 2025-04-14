@@ -106,4 +106,12 @@
 		- hypokalemia 
 		- significant bradycardia 
 - Amiodarone 
-	- 
+	- blocks multiple cardiac ionic currents and has sympatholytic activity. 
+	- MOST Effective drugs for suppressing VAs 
+	- IV for life threatening arrhythmias 
+	- more effective than sotalol for ICD shock reduction 
+	- major S/e bradyarythmias 
+	- TdP rare 
+	- Hyper- and hypothyroidism are related to the iodine content of the drug 
+	- Pneumonitis or pulmonary fibrosis 
+	- phot
