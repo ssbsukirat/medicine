@@ -55,4 +55,10 @@
 	- by an ambulatory or implanted cardiac monitor, 
 	- by an implanted rhythm management device such as a pacemaker or ICD, or 
 	- in some cases, initiation of the arrhythmia during an electrophysiologic study.
-- 
+- take h/o cardiac disease , drugs, precipitating factors 
+- family h/o premature CAD, cardiomyopathy or cardiac arrhythmia 
+- physical -->pulse, jugular venous pressure lung fields, and cardiac auscultation 
+- Stigmata of neuromuscular disease or dysmorphic features may suggest a genetic arrhythmia syndrome. 
+- ECG 
+	- always done even if asymptomatic 
+	- 
