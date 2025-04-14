@@ -22,4 +22,13 @@
 - other regions --> papillary muscles and fascicular tissue
 - benign idiopathic NSVT --> monomorphic , <200/min 
 - rapid, polymorphic first beay prior to peak of T --> Short coupled --> evaluation for underlying disease 
-- if f/h/o SCD --> evalu
+- if f/h/o SCD --> evaluation for cardiomyopathy, long QT syndrome, and arrhythmogenic right ventricular cardiomyopathy (ARVC) 
+- MVP, Mitral annular disjunction --> a/w papillary muscle PVCs & SCD 
+- 2DECHO for ventricular function, wall motion abnormalities, and valvular heart diseas 
+
+# TREATMENT of Idiopathic Arrhythmia 
+- no specific therapy is needed unless the patient has significant symptoms or evidence that frequent PVCs are depressing ventricular function 
+- Reassurance 
+- Avoiding stimulants, such as caffeine and alcohol, is helpful 
+- If symptoms require treatment, β-adrenergic blockers and nondihydropyridine calcium channel blockers (verapamil and diltiazem) 
+- 
