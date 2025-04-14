@@ -69,3 +69,8 @@
 - Cardiac imaging if suspicion of cardiac disease 
 	- TTE --> depressed LV function --> increased SCD risk 
 	- Ventricular thickening --> HOCM, amyloidosis 
+	- Cardiac MRi with gadolinium --> scar seen as delayed hyperenhancement 
+- exclude CAD in at-risk PATIENT 
+# TREATMENT 
+- some --> reassurance , remove aggravation factor like caffeine 
+- 
