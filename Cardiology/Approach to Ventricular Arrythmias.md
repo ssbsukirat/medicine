@@ -43,4 +43,9 @@
 	- syncope, or 
 	- sudden cardiac arrest leading to sudden death if not resuscitated
 - **every other beat is a PVC (bigeminy)**, pulse measurements for heart rate can be erroneously low (**pseudobradycardia**) because the PVCs may not generate a separate pulse wave
-- Syncope 
+- Syncope -- concerning 
+	- more risk for cardiac arrest and sudden death if 
+		- without prodrome 
+		- during exercise 
+		- setting of abnormal ECG or structural heart disease 
+- sustained VT --> wide QRS tachycardia (differentiate from SVT with aberrancy) 
