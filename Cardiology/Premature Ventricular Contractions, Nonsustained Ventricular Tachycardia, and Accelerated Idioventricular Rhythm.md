@@ -15,4 +15,5 @@
 - RBBB configuration likely to have cardiac disease 
 - Multiple morphologies of PVCs (multifocal PVCs) are also more likely to indicate structural heart disease or a myopathic disease process
 # PVCs AND NSVT DURING ACUTE ILLNESS 
-- 
+- acute illness or as a new finding, evaluation should focus on detection and correction of potential aggravating factors and causes, specifically myocardial ischemia, ventricular dysfunction, and electrolyte abnormalities, most commonly **hypokalemia** 
+- asymptomatic PVCs and NSVT in the hospitalized patient do not indicate any specific treatment outside the patient’s presenting illness.
