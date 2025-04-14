@@ -73,4 +73,20 @@
 - exclude CAD in at-risk PATIENT 
 # TREATMENT 
 - some --> reassurance , remove aggravation factor like caffeine 
-- 
+- if associated with a sudden death risk, **ICD implantation is usually indicated and will provide a “safety net”** to terminate life-threatening VT or VF, preventing sudden death but without preventing the arrhythmia
+- supress -> antiarrhythmic therapy 
+## Drugs 
+- Adverse effects are mostly noncardiac and minor but can sometimes be severe enough to limit their use
+- Cardiac side effects, however, include the potential for “proarrhythmia,” whereby a drug can increase the frequency of arrhythmia or cause a new arrhythmia
+- may aggravate bradyarythmias 
+- B blockers 
+	- safe so 1st line in most 
+	- for exercise induced arrhythmias , idiopathic arrhythmias 
+	- limited use in arrhythmias d/t cardiac disease 
+- CCBs 
+	- effective for some idiopathic VTs 
+	- risk of proarrhythmia is low, 
+	- but they have negative inotropic and vasodilatory effects that can aggravate hypotension 
+- [[Sodium]] Channel blocker 
+	- include mexiletine, quinidine, disopyramide, flecainide, and propafenone, and are available for chronic oral therapy
+	- 
