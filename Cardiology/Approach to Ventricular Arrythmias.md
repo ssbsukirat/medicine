@@ -61,4 +61,11 @@
 - Stigmata of neuromuscular disease or dysmorphic features may suggest a genetic arrhythmia syndrome. 
 - ECG 
 	- always done even if asymptomatic 
-	- 
+	- sometimes only VPCs seen 
+	- benign idiopathic arrhythmia often have normal ECG 
+	- Q waves prior MI 
+	- Ventricular Hypertrophy 
+	- ECG for long QT, short QT, Brugada 
+- Cardiac imaging if suspicion of cardiac disease 
+	- TTE --> depressed LV function --> increased SCD risk 
+	- Ventricular thickening --> HOCM, amyloidosis 
