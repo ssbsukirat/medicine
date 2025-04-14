@@ -89,4 +89,19 @@
 	- but they have negative inotropic and vasodilatory effects that can aggravate hypotension 
 - [[Sodium]] Channel blocker 
 	- include mexiletine, quinidine, disopyramide, flecainide, and propafenone, and are available for chronic oral therapy
-	- 
+	- Antiarrhythmic actions are the result of depressing cardiac conduction and membrane excitability. 
+	- Conduction slowing can be manifest as a prolongation of QRS duration 
+	- IV -- lidocaine , quinidine , procainamide 
+	- Quinidine, disopyramide, and procainamide also have potassium channel–blocking effects that prolong the QT interval (class III antiarrhythmic drug action 
+	- have potential proarrhythmic effects and, with the possible exception of quinidine, also have negative inotropic effects --> increased mortality if given to PATIENT with prior MI 
+	- avoid if structural heart disease 
+	- used to reduce symptomatic arrhythmias in ICD patient 
+- Potassium Channel Blockers 
+	- Sotalol and dofetilide --> block the delayed rectifier potassium channel IKr --> prolonging action potential duration (QT interval) and the cardiac refractory period, known as the class III antiarrhythmic drug effect
+	- sotalol also non-selective beta blockage --> modest reduction in ICD shocks 
+	- Proarrhythmia due to the polymorphic VT torsade de pointe that is associated with QT prolongation --> 3-5% 
+	- dose adjustment or avoidance in renal insufficiency 
+	- avoid if TdP risk factor 
+		- QT prolongation 
+		- hypokalemia 
+		- signif
