@@ -31,4 +31,18 @@
 - Reassurance 
 - Avoiding stimulants, such as caffeine and alcohol, is helpful 
 - If symptoms require treatment, β-adrenergic blockers and nondihydropyridine calcium channel blockers (verapamil and diltiazem) 
+- flecainide, propafenone, mexiletine, and amiodarone can be effective 
+- Catheter Ablation 
+# PVCs AND NSVT ASSOCIATED WITH ACUTE CORONARY SYNDROMES 
+- common and can be an early manifestation of ischemia and a harbinger of subsequent VF 
+- Treatment with β-adrenergic blockers and correction of hypokalemia and hypomagnesemia reduce the risk of VF 
+- routine lidocaine , amiodarone no role for suppressing PVCs or asymptomatic NSVT 
+- post MI --> frequent PVCs (typically >10 PVCs/h), repetitive PVCs with couplets, and NSVT are markers for depressed ventricular function and increased mortality 
+- post MI --> amiodarone , beta blocker, ICDs can be used 
+- ICDs in 
+	- survived >40days post MI 
+	- LV EF <30% 
+	- EF<35% + heart failure 
+	- >5 days after MI who have a reduced left ventricular ejection fraction, NSVT, and inducible sustained VT or VF on electrophysiologic testing 
+# PVCs AND NSVT ASSOCIATED WITH DEPRESSED VENTRICULAR FUNCTION AND HEART FAILURE 
 - 
