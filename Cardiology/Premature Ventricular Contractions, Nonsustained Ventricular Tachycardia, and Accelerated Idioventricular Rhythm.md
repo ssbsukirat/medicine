@@ -47,4 +47,10 @@
 # PVCs AND NSVT ASSOCIATED WITH DEPRESSED VENTRICULAR FUNCTION AND HEART FAILURE 
 - common in patients with depressed ventricular function and heart failure and are markers for disease severity and increased mortality 
 - avoid sodium channel blockage drugs (flecainide, propafenone, mexiletine, quinidine, and disopyramide) as risk of proarrhytmic and negative inotropic 
+- Amiodarone suppresses ventricular ectopy and reduces sudden death but does not improve overall survival 
+- ICDs --> left ventricular ejection fraction <35% and New York Heart Association class II or III heart failure 
+# PVC & NSVT Associated with other cardiac diseases 
+- increases mortality in hypertrophic cardiomyopathy or with congenital heart disease associated with right or left ventricular dysfunction. 
+- ICDs for SCD prevention 
+# PVC induced Ventricular Dysfunction 
 - 
