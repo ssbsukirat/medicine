@@ -45,4 +45,6 @@
 	- EF<35% + heart failure 
 	- >5 days after MI who have a reduced left ventricular ejection fraction, NSVT, and inducible sustained VT or VF on electrophysiologic testing 
 # PVCs AND NSVT ASSOCIATED WITH DEPRESSED VENTRICULAR FUNCTION AND HEART FAILURE 
+- common in patients with depressed ventricular function and heart failure and are markers for disease severity and increased mortality 
+- avoid sodium channel blockage drugs (flecainide, propafenone, mexiletine, quinidine, and disopyramide) as risk of proarrhytmic and negative inotropic 
 - 
