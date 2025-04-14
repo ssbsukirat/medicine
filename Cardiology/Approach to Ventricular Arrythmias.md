@@ -137,4 +137,11 @@
 		- exception is in cases of patients with end-stage heart disease who are awaiting cardiac transplantation outside the hospital or
 		- who have left bundle branch block QRS prolongation such that they are likely to have improvement in ventricular function with cardiac resynchronization therapy from a biventricular ICD
 - Catheter Ablation 
-	- 
+	- applying radiofrequency (RF) current to cause thermal injury by resistive heating of cardiac tissue responsible for the arrhythmia. 
+	- size and location of the arrhythmia substrate determine the ease and likely effectiveness of the procedure, as well as the potential complication 
+	- arrhythmia originates from the endocardium, as is most commonly the case, it can be reached from an endovascular approach via a femoral vein or artery. 
+	- originate from the subepicardium, and percutaneous pericardial puncture, similar to pericardiocentesis, is required to insert a catheter into the pericardial space for mapping and ablation 
+	- performed in patients with recurrent VAs associated with poor cardiac function
+	- better outcomes in prior infarction and VT 
+	- Stereotactic body radiation therapy (SBRT), classically used for treating thoracic tumors, has been used to direct radiation therapy to a specific portion of the scar substrate to noninvasively ablate VT with encouraging early studies 
+	- Idiopathic VTs and PVCs that occur in the absence of structural heart disease usually originate from a small focus, for which catheter ablation typically has a higher success rate for preventing recurrent arrhythmia
