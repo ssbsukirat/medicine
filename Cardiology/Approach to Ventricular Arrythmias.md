@@ -104,4 +104,6 @@
 	- avoid if TdP risk factor 
 		- QT prolongation 
 		- hypokalemia 
-		- signif
+		- significant bradycardia 
+- Amiodarone 
+	- 
