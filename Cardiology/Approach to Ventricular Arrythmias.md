@@ -114,4 +114,16 @@
 	- TdP rare 
 	- Hyper- and hypothyroidism are related to the iodine content of the drug 
 	- Pneumonitis or pulmonary fibrosis 
-	- phot
+	- photosensitivity 
+	- neuropathy 
+	- ocular toxicity 
+	- assess --> thyroid , liver and pulmonary toxicity regularly 
+	- >24h IV infusion --> thrombophlebitis 
+	- Dronedarone --> similar to amiodarone without Iodine but poor result in VAs 
+- ICD - IMPLANTABLE CARDIOVERTER DEFIBRILLATORS
+	- sustained VT, largely based on heart rate, and then terminate the arrhythmia
+	- transvenous devices, VF is terminated by a shock applied between a lead in the right ventricle and the ICD pulse generator
+	- lead can provide pacing for bradycardia if needed
+	- transvenous --> s/e --> vascular occlusion, risk of lead fracture, endocarditis in the event of infection, and difficulty with removal 
+	- ATP --> Monomorphic VT can also be terminated by a burst of rapid pacing faster than the VT, known as antitachycardia pacing (ATP) 
+	- if ATP fai
