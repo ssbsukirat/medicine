@@ -53,4 +53,12 @@
 - usually d/t scar related reentry 
 - scar possibly d/t progressive replacement fibrosis 
 - post-viral, genetic and inflammatory etiologies 
+- Scar causing VT --> adjacent to a valve annulus and can occur in either ventricle
+- cardiac sarcoidosis, Chagas’ disease, and cardiomyopathy due to Lamin A/C mutations are particularly associated with monomorphic VT 
+- ICD 
+	- h/o sustained VT 
+	- syncope 
+	- class II, III NYHA symptoms 
+	- additional drugs or catheter ablation for control of recurrent VT 
+- patients with malignant familial arrhythmogenic cardiomyopathies --> early ICD 
 - 
