@@ -61,4 +61,8 @@
 	- class II, III NYHA symptoms 
 	- additional drugs or catheter ablation for control of recurrent VT 
 - patients with malignant familial arrhythmogenic cardiomyopathies --> early ICD 
-- 
+- catheter ablation --> success rates are lower than VT ablation in ischemic cardiomyopathy 
+- inability to reproduce the clinical VT at ablation attempts and epicardial and intramural reentry circuits are important causes of failure of endocardial VT ablation in NICM 
+# Arrhythmogenic RV Cardiomyopathy 
+- Rare GENETIC disorder 
+- mutations in genes encoding for cardiac desmosomal proteins 
