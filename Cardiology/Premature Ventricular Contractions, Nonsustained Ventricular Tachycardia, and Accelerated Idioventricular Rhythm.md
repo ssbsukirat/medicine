@@ -53,4 +53,9 @@
 - increases mortality in hypertrophic cardiomyopathy or with congenital heart disease associated with right or left ventricular dysfunction. 
 - ICDs for SCD prevention 
 # PVC induced Ventricular Dysfunction 
-- 
+- Very frequent ventricular ectopy and repetitive NSVT can depress ventricular function, possibly through an 
+	- effect similar to chronic tachycardia or 
+	- by inducing ventricular dyssynchrony
+- rarely occurs unless PVCs account for at least 10–20% of total beats over a 24-h period 
+- minority will develop reversible cardiomyopathy 
+- mostly idiopathic and unifocal, most commonly originating from the outflow tract regions or left ventricular papillary muscles --> can be targ
