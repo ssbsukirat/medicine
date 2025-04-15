@@ -24,4 +24,13 @@
 - if k/c/o BBB --> same QRS as during sinus --> s/o SVT 
 	- reentry involving the bundle branches of the Purkinje system can have a VT morphology that resembles their native QRS in sinus rhythm 
 - electrophysiology study for definite diagnosis 
+- ![[VTvsSVT.png]]
+# Treatment 
+- follow ACLS guidelines 
+- QRS synchronous electrical cardioversion if 
+	- hypotension 
+	- impaired consciousness 
+	- pulmonary edema 
+- if stable --> adenosine trial to differentiate SVT with abberancy 
+	- no adenosine if heart transplant , irregular / unstable wide complex rhythm 
 - 
