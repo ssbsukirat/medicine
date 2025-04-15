@@ -5,4 +5,19 @@
 - Rapid VT can produce hypotension that may present as syncope, particularly in patients with significant ventricular dysfunction 
 - Monomorphic VT that is rapid or associated with structural heart disease may eventually deteriorate to ventricular fibrillation (VF) 
 # Diagnosis 
-- sustained monomorphic VT 
+- sustained monomorphic VT --> distinguish from other uniform wide QRS tachycardia 
+	- SVT with LBBB/ RBBB aberrancy 
+	- SVT with accessory pathway 
+	- rapid cardiac pacing 
+- if heart disease ++ --> likely to be VT independent of QRS morphology 
+- if LV dysfunction / myocardial defect --> reentry is likely cause 
+- Scar 
+	- pathologic Q waves 
+	- segmental LV/RV wall motion abnormal 
+	- delayed gadolinium contrast uptake on MRI 
+- table from harrison 
+- hemodynamic stability does not differentiate 
+- ECG for SVT with aberrancy vs VT 
+	- Ventriculoatrial dissociation --> especially if atrial rate slower than ventricular 
+	- P after every QRS does not exclude VT as 1:1 conduction may exist 
+	- **monophasic R wave or Rs complex in aVR** or **concordance from V1 to V6 of monophasic R or S waves** is also relatively specific for VT 
