@@ -58,4 +58,19 @@
 	- by inducing ventricular dyssynchrony
 - rarely occurs unless PVCs account for at least 10–20% of total beats over a 24-h period 
 - minority will develop reversible cardiomyopathy 
-- mostly idiopathic and unifocal, most commonly originating from the outflow tract regions or left ventricular papillary muscles --> can be targ
+- mostly idiopathic and unifocal, most commonly originating from the outflow tract regions or left ventricular papillary muscles --> can be target for ablation 
+- other sites --> mitral and tricuspid valve annuli, right ventricular moderator band, and even the epicardial surface of the heart 
+- factors for developing heart failure 
+	- PVC frequency 
+	- PVC morphology 
+	- timing of PVC coupling interval 
+	- late gadolinium enhancement --> underlying cardiomyopathic process 
+# Accelerated Idioventricular Rhythms 
+- 3 or more ventricular beats at rate >100/min 
+- automaticity is mechanism > reentry 
+- common during acute MI and may emerge during sinus bradycardia 
+- hemodynamic compromise may occur with the loss of atrioventricular synchrony in susceptible patients. 
+- atropine can be used to increase sinus rates 
+- common in patients with cardiomyopathies or sleep apnea 
+- target any underlying cause and correction of bradycardia 
+
