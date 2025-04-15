@@ -33,4 +33,14 @@
 	- pulmonary edema 
 - if stable --> adenosine trial to differentiate SVT with abberancy 
 	- no adenosine if heart transplant , irregular / unstable wide complex rhythm 
+- post reverting to sinus --> hospitalise to evaluate 
+- markers for MI to be done (MI is rarely cause of sustained monomorphic VT)
+- Subsequent management is determined by the underlying heart disease and frequency of VT 
+- If frequent recurrent VT --> antiarrhythmic or catheter ablation 
+- Implantable cardioverter defibrillators (ICDs) are warranted for secondary prevention of sudden death in patients who present with sustained VT associated with structural heart disease 
+# SUSTAINED MONOMORPHIC VT IN SPECIFIC DISEASES 
+## CAD 
+- typically have a history of a remote prior large MI 
+- years after acute infarction --> remodeled LV and severely depressed LV function 
+- even in acute MI --> suspect old MI scar as cause of VT 
 - 
