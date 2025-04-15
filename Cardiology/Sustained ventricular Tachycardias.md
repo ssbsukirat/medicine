@@ -1,1 +1,2 @@
-- 
+- Sustained monomorphic ventricular tachycardia (VT) is a ventricular arrhythmia with a wide QRS lasting for 30 s or requiring an intervention for termination
+- all QRS same morphology --> s/o au
