@@ -43,4 +43,14 @@
 - typically have a history of a remote prior large MI 
 - years after acute infarction --> remodeled LV and severely depressed LV function 
 - even in acute MI --> suspect old MI scar as cause of VT 
+- coronary revascularization is unlikely to prevent recurrent VT --> more appropriate for treatment of angina or other indications 
+- If survival expected >1y --> ICD implant 
+- Antiarrhythmic drugs may have some utility for palliation of VT symptoms and prevention of ICD therapies, such as shocks and antitachycardia pacing; however, without an ICD, these drugs do not improve survival 
+- post ICD --> treat CAD, HF medically also 
+- recurrent VT episodes in patients with an ICD warrant treatment with medications or catheter ablation 
+- catheter ablation superior to increasing doses of antiarrhythmics especially amiodarone according to VANISH trial 
+## Non-ischemic Dilated Cardiomyopathy 
+- usually d/t scar related reentry 
+- scar possibly d/t progressive replacement fibrosis 
+- post-viral, genetic and inflammatory etiologies 
 - 
