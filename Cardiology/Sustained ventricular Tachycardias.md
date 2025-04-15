@@ -21,3 +21,4 @@
 	- Ventriculoatrial dissociation --> especially if atrial rate slower than ventricular 
 	- P after every QRS does not exclude VT as 1:1 conduction may exist 
 	- **monophasic R wave or Rs complex in aVR** or **concordance from V1 to V6 of monophasic R or S waves** is also relatively specific for VT 
+- if k/c/o BBB --> same QRS as during sinus --> s/o SVT 
