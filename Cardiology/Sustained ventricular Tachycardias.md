@@ -130,4 +130,7 @@
 	- moderator band in RV 
 # MANAGEMENT of idiopathic VT 
 - if symptomatic or causing depressed ventricular function --> treat 
-- beta blockers, CC
+- beta blockers, CCBs, Na blocker like flecainide 
+- flecainide --> resolved tachycardia-induced cardiomyopathy in PVCs or VT 
+- catheter ablation 8-% success rates (best from RVOT) 
+- LV interfascicular VT can be terminated by intravenous administration of verapamil, although chronic therapy with oral verapamil is not always effective 
