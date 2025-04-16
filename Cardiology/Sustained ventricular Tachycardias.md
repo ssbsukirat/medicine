@@ -101,4 +101,8 @@
 - reentry circuit typically revolves retrograde via the left bundle and anterograde down the right bundle --> LBBB pattern VT 
 - catheter ablation of RBB 
 # Idiopathic Monomorphic VT 
-- 
+- without structural heart disease 
+- palpitations , lightheadedness and rare syncope 
+- precipitating --> sympathetic stimulation , acute withdrawal of sympathetic tone (immediate post-exercise) 
+- sinus ECG --> normal 
+- no family h/o cardiac diea
