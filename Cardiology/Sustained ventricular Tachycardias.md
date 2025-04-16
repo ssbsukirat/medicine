@@ -64,5 +64,9 @@
 - catheter ablation --> success rates are lower than VT ablation in ischemic cardiomyopathy 
 - inability to reproduce the clinical VT at ablation attempts and epicardial and intramural reentry circuits are important causes of failure of endocardial VT ablation in NICM 
 # Arrhythmogenic RV Cardiomyopathy 
-- Rare GENETIC disorder 
+- Rare GENETIC disorder --> AD 
 - mutations in genes encoding for cardiac desmosomal proteins 
+- rare --> AR --> cardiocutaneous syndromes that include
+	- Naxos disease 
+		- plakophilin-2 and plakoglobin
+	- Carvajal syndrome
