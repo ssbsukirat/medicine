@@ -115,4 +115,19 @@
 - sudden death is Rare 
 - ICD not recommend 
 - originate from a focus near the pulmonic or aortic valve annuli, usually with features consistent with **triggered automaticity.**
-- a
+- may have sustained VT, nonsustained VT or PVCs 
+- most originate in RV outflow tract --> LBBB configuration in V1 + inferior axis --> tall R in II, III, aVF 
+- if LV outflow tract --> V1/V2 has prominent R waves -->mostly idiopathic VT but some cardiomyopathy (ARVC) may cause PVCs/VT from this region also 
+- Belhassen's VT / LV fascicular VT / Verapamil Sensitive VT 
+	- 2nd mc cause of idiopathic VT (mc is outflow tract VTs) 
+	- sustained VT + RBBB + negative in inferior leads 
+	- exercise induced 
+	- Men > Women 
+	- small reentry circuit in or near the septal ramifications of the LV Purkinje system 
+- Other sites 
+	- Papillary muscle 
+	- Mitral or tricuspid valve annuli 
+	- moderator band in RV 
+# MANAGEMENT of idiopathic VT 
+- if symptomatic or causing depressed ventricular function --> treat 
+- beta blockers, CC
