@@ -83,4 +83,22 @@
 - if exercise induced VT --> beta-blocker, exercise limitation 
 - Sotalol , flecainide , amiodarone 
 # Adult congenital Heart Disease 
+- mc after VSD, TOF repair
+- risk more by 
+	- if ventriculotomy done 
+	- long-standing hemodynamic overload causing ventricular dysfunction 
+- d/t reentry around scar-related circuit 
+- VT risk 
+	- age >5y at repair 
+	- high-grade ventricular ectopy 
+	- inducible VT on electrophysiology study 
+	- abnormal RV hemodynamic 
+	- sinus rhythm QRS>120ms 
+- ICD for spontaneous episode of VT or if multiple risk factors + 
+- catheter ablation or antiarrhythmic maybe ysed for recurrent episodes 
+# Bundle Branch Reentry VT 
+- 5% of all with monomorphic VT in structural heart disease 
+- reentry circuit typically revolves retrograde via the left bundle and anterograde down the right bundle --> LBBB pattern VT 
+- catheter ablation of RBB 
+# Idiopathic Monomorphic VT 
 - 
