@@ -105,4 +105,14 @@
 - palpitations , lightheadedness and rare syncope 
 - precipitating --> sympathetic stimulation , acute withdrawal of sympathetic tone (immediate post-exercise) 
 - sinus ECG --> normal 
-- no family h/o cardiac diea
+- no family h/o cardiac disease 
+- Cardiac imaging, including echocardiography and cardiac MRI, shows normal ventricular function and no evidence of ventricular scar 
+- if heart disease + concomitant idiopathic VT --> treat heart disease according to guidelines separate from VT 
+- repetitive monomorphic VT 
+	- repeated bursts of nonsustained VT 
+	- may cause tachycardia induced cardiomyopathy with depressed LV function 
+	- LV function recovery after suppressing VT 
+- sudden death is Rare 
+- ICD not recommend 
+- originate from a focus near the pulmonic or aortic valve annuli, usually with features consistent with **triggered automaticity.**
+- a
