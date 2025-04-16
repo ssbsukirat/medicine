@@ -71,4 +71,16 @@
 		- plakophilin-2 and plakoglobin mutation 
 	- Carvajal syndrome
 		- desmoplakin mutation 
+- 2nd-5th decade --> palpitations, syncope, or cardiac arrest owing to sustained monomorphic VT, although polymorphic VT can also occur
+- fibrosis or fibrofatty replacement of RV 
+- ECG --> left bundle branch block–like configuration in ECG lead V1, consistent with the right ventricular origin, and can resemble idiopathic VT
+- sinus rhythm ECG --> 
+	- T wave inversion in V1-V3 
+	- Delayed activation of the right ventricle may cause a widened QRS (>110 ms) in the right precordial leads (V1–V3) and a 
+	- prolonged S-wave upstroke in those leads 
+	- notched deflection at the end of the QRS known as an epsilon wave 
+- ICD is recommended 
+- if exercise induced VT --> beta-blocker, exercise limitation 
+- Sotalol , flecainide , amiodarone 
+# Adult congenital Heart Disease 
 - 
