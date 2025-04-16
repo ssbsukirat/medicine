@@ -68,5 +68,7 @@
 - mutations in genes encoding for cardiac desmosomal proteins 
 - rare --> AR --> cardiocutaneous syndromes that include
 	- Naxos disease 
-		- plakophilin-2 and plakoglobin
+		- plakophilin-2 and plakoglobin mutation 
 	- Carvajal syndrome
+		- desmoplakin mutation 
+- 
