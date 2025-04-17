@@ -29,5 +29,20 @@
 - rarely mechanical ventricular support with extracorporeal membrane oxygenation, percutaneous left ventricular assist device, or intra- aortic balloon pump may be considered
 - ![[electricalstormmanagement.png]]
 - ![[electricalstormtreatment.png]]
-# VT/VF post MI 
+## VT/VF post MI 
 - consider if polymorphic VT/ VF is primary arrhythmia 
+- emergent revascularization and alleviation of anginal symptoms should be attempted 
+- surviving Purkinje cells can exhibit triggered automaticity and lead to recurrent episodes of polymorphic VT/VF requiring frequent cardioversions before and after revascularization. 
+- Catheter ablation of premature ventricular contractions (PVCs) that are observed to repeatedly initiate the arrhythmia can be effective
+## PVC induced polymorphic VT/VF 
+- without myocardial infarction or ischemia can have PVC-initiated polymorphic VT/VF storm 
+- caused by triggering PVCs originating from fascicular tissue or papillary muscles.
+- Catheter ablation is indicated for this condition when antiarrhythmic medication is ineffective.
+## Acquired or Congenital Long QT
+- intravenous magnesium should be administered for its immediate effect on repolarization 
+- electrolyte repletion, especially potassium, should be aggressively pursued 
+- increased HR --> normalised QT --> consider pacing or pharmacologic support 
+- Isoproterenol can be used to increase a patient’s sinus rate 
+- lidocaine can reduce the QT interval --> avoid others 
+## Brugada 
+- 
