@@ -50,4 +50,9 @@
 - gain of function in Ikr K channel or reduced inward depolarising current 
 - AF, polymorphic VT, sudden death 
 ## Brugada Syndrome 
-- 
+- >0.2 mV ST elevation with coved ST segment and negative T wave in >1 anterior precordial lead 
+- episode of syncope or cardiac arrest d/t polymorphic VT in absence of structural heart disease 
+- cardiac arrest in sleep or provoked by febrile illness 
+- M > F
+- cardiac sodium channel mutation in ~25% 
+- ST segment elevation wax and wane over time --> more pro
