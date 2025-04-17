@@ -70,4 +70,27 @@
 - cardiac ryanodine receptor or sarcoplasmic calcium binding protein calsequestrin 2 mutation 
 - abnormal sarcoplasmic reticulum handling of calcium --> recurrent VT polymorphic similar to digitalis toxicity 
 - polymorphic or has a characteristic alternating QRS morphology termed bidirectional VT 
-- 
+- in childhood with exercise or emotion-induced palpitations, syncope, or cardiac arrest
+- beta blocker + ICD 
+- Verapamil, flecainide, or surgical left cardiac sympathetic denervation to prevent recurrent VT 
+
+## HOCM 
+- mc genetic CVS disease 
+- 1:500 
+- cause of sudden death before age 35 year 
+- d/t polymorphic VT/VF 
+- rare --> sustained monomorphic VT --> in areas of ventricular scar in apical aneurysm 
+- risk of SCD 
+	- young age, 
+	- nonsustained VT, 
+	- failure of blood pressure to increase during exercise, 
+	- recent (within 6 months) syncope, 
+	- ventricular wall thickness >3 cm, and 
+	- possibly the severity of LV outflow obstruction
+- ICD for high-risk 
+- surgery to relieve LVOT 
+- transcoronary ethanol septal ablation 
+## Genetic Dilated Cardiomyopathy 
+- 30-40% of nonischemic dilated cardiomyopathy 
+- a/w muscular dystrophy 
+- AD, AR, X-link
