@@ -45,4 +45,10 @@
 - Isoproterenol can be used to increase a patient’s sinus rate 
 - lidocaine can reduce the QT interval --> avoid others 
 ## Brugada 
-- 
+- If the QT interval is not prolonged and a Brugada pattern of Rsr′ with ST elevation in leads V1 or V2 is seen on resting ECG, administration of **quinidine and/or isoproterenol** may abolish recurrent polymorphic VT/VF episodes
+- Nondihydropyridine calcium channel blockers and isoproterenol 
+- epicardial substrate-based catheter ablation over the right ventricular outflow tract has been described as a strategy for drug-refractory ventricular tachyarrhythmias in Brugada syndrome 
+## Inflammatory Cardiomyopathy 
+- inflammatory myocarditis causing the frequent ventricular arrhythmias 
+- Giant cell myocarditis, cardiac sarcoidosis, and certain viral myocarditis can present with VT/VF storm.
+- endomyocardial biopsy should be considered to potentially identify new-onset inflammatory cardiomyopathies that may require urgent anti-inflammatory therapy 
