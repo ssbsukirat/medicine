@@ -28,4 +28,12 @@
 	- correct bradycardia , remove offending drugs 
 	- Avoid future drugs which prolong QT 
 - table harrison 
-- 
+## Congenital Long QT 
+- LQTS -- mutation in genes for ion channel of ventricular repolarisation 
+- QTc >449ms in men, >460ms in women 
+- symptoms d/t TdP VT 
+- LQTS-1, LQTS-2 --> K channel defects 
+- LQTS-3 --> sodium channel 
+- syncope or cardiac arrest in childhood 
+- LQTS-1 --> exertional episode , especially swimming 
+- LQTS-2 --> sudden auditory , or emotional 
