@@ -55,4 +55,15 @@
 - cardiac arrest in sleep or provoked by febrile illness 
 - M > F
 - cardiac sodium channel mutation in ~25% 
-- ST segment elevation wax and wane over time --> more pro
+- ST segment elevation wax and wane over time --> more pronounced during acute illness and fever 
+- sodium channel– blocking drugs flecainide, ajmaline, or procainamide can augment or unmask ST elevation in affected individuals
+- ICD --> unexplained syncope or been resuscitated from cardiac arrest 
+- Quinidine and catheter ablation of abnormal regions in the epicardial right ventricular free wall have been used successfully to suppress frequent episodes of VT 
+## Early Repolarisation Syndrome 
+- patient resuscitated from VF with no structural heart disease or other abnormalities --> higher prevalence of **J point elevation with notching of terminal QRS**
+- family history present in some 
+- also seen in smoe with Brugada Syndrome 
+- ICD if prior cardiac arrest 
+- J point elevation without arrhythmias --> normal variant , significant unknown 
+## Catecholaminergic Polymorphic VT 
+- 
