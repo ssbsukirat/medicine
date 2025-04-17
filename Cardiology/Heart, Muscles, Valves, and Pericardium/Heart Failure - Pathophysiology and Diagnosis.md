@@ -31,3 +31,23 @@
 	- fulminant myocarditis, stress cardiomyopathy, peripartum cardiomyopathy, and tachycardia- induced cardiomyopathy
 	- reversible toxin exposures such as chemotherapy, immunotherapy, or alcohol 
 	- symptomatic due to persistent abnormalities in diastolic function or exercise-induced pulmonary hypertension.
+	- withdrawal of therapy can lead to recurrence of HF symptoms and decrease in EF 
+- HF with Mildly Reduced EF (HFmrEF)
+	- 40-50% EF 
+	- primarily mild systolic dysfunction with features of diastolic dysfunction 
+	- patients with reduced EF who experience improvement in their EF or those with initially preserved EF who suffer a mild decline in their systolic performance. 
+- Acquired / Familial / Congenital and other disorders 
+	- CAD responsible for 2/3s cases of HF 
+	- HTN in 75%, DM in 10-40% 
+	- adult with Congenital Heart Disease 
+		- uncorrected defects with late presentation due to missed diagnosis, nonintervention, or lack of access to care; 
+		- repaired or palliated defects with late valvular and/or ventricular failure; or 
+		- failing single-ventricle physiology
+	- Inherited Cardiomyopathy 
+		- Hypertrophic 
+		- Arrhythmogenic 
+		- lamin, titin genes 
+		- muscular dystrophy 
+		- mitochondrial disease 
+# Pathophysiology 
+- 
