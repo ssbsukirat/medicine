@@ -36,4 +36,18 @@
 - LQTS-3 --> sodium channel 
 - syncope or cardiac arrest in childhood 
 - LQTS-1 --> exertional episode , especially swimming 
-- LQTS-2 --> sudden auditory , or emotional 
+- LQTS-2 --> sudden auditory , or emotional upset 
+- LQTS-3 --> sudden death during sleep 
+- LQTS-1 , 2--> beta blocker reduces suddent death risk 
+- increased risk 
+	- QTc>500ms 
+	- female 
+	- h/o syncope or cardiac arrest 
+- Recurrent syncope despite beta-blocker therapy or a high-risk profile merits consideration of an ICD 
+- avoid all QT prolonging drugs 
+## Short QT syndrome 
+- <360ms, <300ms mostly 
+- gain of function in Ikr K channel or reduced inward depolarising current 
+- AF, polymorphic VT, sudden death 
+## Brugada Syndrome 
+- 
