@@ -23,4 +23,11 @@
 # MANAGEMENT of electrical storm 
 - adequate sedation 
 - standard Advanced Cardiac Life Support guidelines; treatment includes the use of medications such as beta blockers, amiodarone, and lidocaine with correction of any metabolic abnormalities 
-- 
+- assess whether VT is monomorphic or polymorphic 
+- Sedation or general anesthesia should be considered for suppression of recurrent hemodynamically unstable ventricular arrhythmia 
+- Percutaneous stellate ganglion block and upper thoracic epidural anesthesia may reduce cardiac sympathetic outflow 
+- rarely mechanical ventricular support with extracorporeal membrane oxygenation, percutaneous left ventricular assist device, or intra- aortic balloon pump may be considered
+- ![[electricalstormmanagement.png]]
+- ![[electricalstormtreatment.png]]
+# VT/VF post MI 
+- consider if polymorphic VT/ VF is primary arrhythmia 
