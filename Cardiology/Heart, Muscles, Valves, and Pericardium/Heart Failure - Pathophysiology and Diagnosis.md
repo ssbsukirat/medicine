@@ -19,4 +19,15 @@
 - Reduced VS Preserved Ejection Fraction 
 	- around half reduced, half preserved 
 	- most patients with HF (regardless of EF) have abnormalities in both systolic and diastolic function, the older terms of systolic heart failure and diastolic heart failure have fallen out of favor 
-	- 
+	- ![[HFcauses.png]]
+- HF with Recovered EF 
+	- HFrEF and treated with guideline-directed therapy have rapid or gradual improvement in EF to the normal range and are referred to as having HF with recovered EF (HFrecEF) 
+	- HFrecEF predictor 
+		- young age 
+		- short duration of HF 
+		- non-ischemic ETIOLOGY 
+		- smaller ventricular volumes 
+		- absence of myocardial fibrosis 
+	- fulminant myocarditis, stress cardiomyopathy, peripartum cardiomyopathy, and tachycardia- induced cardiomyopathy
+	- reversible toxin exposures such as chemotherapy, immunotherapy, or alcohol 
+	- symptomatic due to persistent abnormalities in diastolic function or exercise-induced pulmonary hypertension.
