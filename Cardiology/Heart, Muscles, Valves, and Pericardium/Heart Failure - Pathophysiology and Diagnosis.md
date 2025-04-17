@@ -9,4 +9,14 @@
 - **acute pulmonary edema** in HF describes a clinical scenario in which a patient presents with rapidly worsening signs and symptoms of pulmonary congestion, typically due to severe elevation of left heart filling pressure 
 ## Epidemiology 
 - HF increases significantly with age 
-- 
+- prevalence of HF continues to rise, incidence may be decreasing due to improved recognition and treatment of cardiovascular disease
+- blacks followed by Hispanic, white, and Chinese Americans
+- disparities in risk factors (e.g., obesity, hypertension, diabetes), socioeconomic status, and access to health care
+- hospitalization are highest for black men, followed by black women, white men, and white women 
+- Risk Factors ![[HFmortalityRISK.png]]
+- each subsequent admission, the risk of death rises. 
+## Phenotype 
+- Reduced VS Preserved Ejection Fraction 
+	- around half reduced, half preserved 
+	- most patients with HF (regardless of EF) have abnormalities in both systolic and diastolic function, the older terms of systolic heart failure and diastolic heart failure have fallen out of favor 
+	- 
