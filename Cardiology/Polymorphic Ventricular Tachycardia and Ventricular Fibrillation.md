@@ -24,4 +24,8 @@
 	- PVCs, nonsustained VT --> sustained episode --> V Fib --> Defibrillation 
 	- IV MgSO4 1-2g suppress recurrent episodes 
 	- if Mg insufficient --> increase HR with isoproterenol infusion / pacing --> HR 100-120/min --> suppresses VPCs and suppresses VT recurrences 
-	- 
+	- correct hyopkalemia, hypocalcemia 
+	- correct bradycardia , remove offending drugs 
+	- Avoid future drugs which prolong QT 
+- table harrison 
+- 
