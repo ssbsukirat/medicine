@@ -14,4 +14,13 @@
 - occurrence of multiple ICD shocks constitutes a medical emergency and warrants immediate medical attention by activating the emergency medical system'
 - should never drive to hospital after receiving shock 
 - spontaneous arrhythmia a/w subsequent increased risk of death and hospitalization in patients with depressed ventricular function --> evaluate for worsening cardiac function , emergence of ischemia or intercurrent illness 
+- if VT/VF --> consider catheter ablation or antiarrhythmic 
+- possibility of a shock can be reduced with appropriate ICD programming.
+- ATP --> can reduce 70% shocks 
+- patients implanted with ICDs as primary prevention, **programming of VF detection zones >220 beats/min** significantly reduces unnecessary and inappropriate shocks
+- beta blockers sotalol and amiodarone are the most common pharmacologic options. 
+- Most antiarrhythmic drugs have the potential to induce bradycardia to the point of requiring pacing from the ICD that, in itself, may have deleterious effects on ventricular function
+# MANAGEMENT of electrical storm 
+- adequate sedation 
+- standard Advanced Cardiac Life Support guidelines; treatment includes the use of medications such as beta blockers, amiodarone, and lidocaine with correction of any metabolic abnormalities 
 - 
