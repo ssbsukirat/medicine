@@ -50,4 +50,13 @@
 		- muscular dystrophy 
 		- mitochondrial disease 
 # Pathophysiology 
-- 
+- HFrEF is a progressive disease that typically involves an index event followed by months to years of structural and functional cardiovascular remodeling 
+- Index event 
+	- sudden like MI 
+	- gradual as in chronic pressure or volume overload 
+	- inherited - GENETIC cardiomyopathy or congenital disease 
+- maybe asymptomatic for long time d/t compensatory mechanism --> remodeling 
+- ![[HFremodeling.png]]
+- Ventricular Remodeling 
+	- **Concentric hypertrophy**, in which increased mass is out of proportion to chamber volume, effectively reduces wall stress under **conditions of pressure overload (e.g., hypertension, aortic stenosis)** 
+	- 
