@@ -15,4 +15,5 @@
 # Repolarisation abnormalities & Genetic Arrhythmia 
 ## Acquired Long QT 
 - a/w polymorphic VT - TdP 
+- characteristic initiation sequence --> PVC --> induces a pause --> sinus beat that has a longer QT interval and interruption of the T wave by the premature ventricular contraction (PVC) that is the first beat of the polymorphic VT
 - 
