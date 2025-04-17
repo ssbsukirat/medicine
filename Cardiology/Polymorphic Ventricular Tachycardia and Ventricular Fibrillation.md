@@ -16,4 +16,12 @@
 ## Acquired Long QT 
 - a/w polymorphic VT - TdP 
 - characteristic initiation sequence --> PVC --> induces a pause --> sinus beat that has a longer QT interval and interruption of the T wave by the premature ventricular contraction (PVC) that is the first beat of the polymorphic VT
-- 
+- ![[VT-tdp.png]]
+- presentation 
+	- near-syncope 
+	- syncope 
+	- cardiac arrest 
+	- PVCs, nonsustained VT --> sustained episode --> V Fib --> Defibrillation 
+	- IV MgSO4 1-2g suppress recurrent episodes 
+	- if Mg insufficient --> increase HR with isoproterenol infusion / pacing --> HR 100-120/min --> suppresses VPCs and suppresses VT recurrences 
+	- 
