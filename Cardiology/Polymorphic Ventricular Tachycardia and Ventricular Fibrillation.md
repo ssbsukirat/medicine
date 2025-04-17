@@ -66,4 +66,8 @@
 - ICD if prior cardiac arrest 
 - J point elevation without arrhythmias --> normal variant , significant unknown 
 ## Catecholaminergic Polymorphic VT 
+- rare, familial 
+- cardiac ryanodine receptor or sarcoplasmic calcium binding protein calsequestrin 2 mutation 
+- abnormal sarcoplasmic reticulum handling of calcium --> recurrent VT polymorphic similar to digitalis toxicity 
+- polymorphic or has a characteristic alternating QRS morphology termed bidirectional VT 
 - 
