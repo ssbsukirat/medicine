@@ -93,4 +93,13 @@
 ## Genetic Dilated Cardiomyopathy 
 - 30-40% of nonischemic dilated cardiomyopathy 
 - a/w muscular dystrophy 
-- AD, AR, X-link
+- AD, AR, X-linked, Mitochondrial inheritance 
+- Mutations in genes coding for structural proteins of the nuclear lamina (Lamin A/C) and the SCN5A gene 
+- polymorphic VT and cardiac arrest or develop areas of scar causing sustained monomorphic VT 
+- ICD in sustained VT, high-risk d/t LV function <35% or malignant family h/o SCD 
+# Ventricular Fibrillation 
+- disordered electrical ventricular activation without identifiable QRS complexes 
+- Spiral wave reentry and multiple circulating reentry wavefronts are possible mechanisms 
+- Sustained polymorphic or monomorphic VT that degenerates to VF is a common cause of out-of-hospital cardiac arrest 
+- Defibrillation to restore sinus 
+- if no MI --> ICD to reduce further risk 
