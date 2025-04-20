@@ -80,4 +80,6 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 ## Mechanisms of Disease Progress 
 - compensatory mechanism --> contribute to disease progress 
 - **Neurohormonal Activation** 
-	- 
+	- Sympathetic nervous system and RAAS activation 
+	- initially --> increase heart rate, BP, cardiac contractility sodium & water retention
+	- unchecked compensatory responses lead to excessive vasoconstriction and volume retention, electrolyte and renal abnormalities, baroreceptor dysfunction, direct myocardial toxicity, and cardiac arrhythmias 
