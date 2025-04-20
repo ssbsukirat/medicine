@@ -68,3 +68,13 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 		- at the **molecular level** by re- expression of fetal genes
 	- impairment in pump function and increased wall stress in the face of systemic vasoconstriction and loss of neurohormonal adaptation can lead to **afterload mismatch** 
 	- ![[HFremodelingmechanisms.png]]
+- HFpEF 
+	- originally focused on diastolic dysfunction 
+	- mainly in older women with HTN 
+	- myocyte level --> impaired uptake of cytosolic calcium into the sarcoplasmic reticulum by reductions in adenosine triphosphate --> abnormalities in myocardial relaxation
+	- other mechanism 
+		- vascular stiffness, 
+		- renal dysfunction, 
+		- sodium avidity, and 
+		- metabolic inflammation related to regional adiposity
+## M
