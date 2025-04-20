@@ -1,4 +1,6 @@
-# Clinical Definitions, Epidemiology ,Phenotype 
+increase in
+
+cavity size or volume (eccentric hypertrophy) occurs in volume overload conditions (e.g., aortic regurgitation, mitral regurgitation)# Clinical Definitions, Epidemiology ,Phenotype 
 ## Definitions 
 - Heart failure (HF) is a common final pathway for most chronic cardiovascular diseases including hypertension, coronary artery disease, and valvular heart disease.
 - **complex clinical syndrome that results from any structural or functional impairment of ventricular filling or ejection of blood leading to cardinal manifestations of dyspnea, fatigue, and fluid retention** --> ACCF/AHA, HFSA 
@@ -59,4 +61,8 @@
 - ![[HFremodeling.png]]
 - Ventricular Remodeling 
 	- **Concentric hypertrophy**, in which increased mass is out of proportion to chamber volume, effectively reduces wall stress under **conditions of pressure overload (e.g., hypertension, aortic stenosis)** 
-	- 
+	- **eccentric hypertrophy** - increase in cavity size or volume occurs in **volume overload conditions (e.g., aortic regurgitation, mitral regurgitation)**
+	- increase in ventricle mass accompanied by 
+		- **cellular level** by myocyte hypertrophy and interstitial fibrosis, 
+		- at the **protein level** by alteration in calcium- handling and cytoskeletal function, and 
+		- at the molecular level by re- expression of fetal genes
