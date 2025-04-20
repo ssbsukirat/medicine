@@ -97,4 +97,6 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 - **Endothelin, Inflammatory Cytokine, Oxidative Stress** 
 	- endothelin --> potent vasoconstrictor with role in PAH and RVF 
 		- released from vascular and inflammatory cells in pulmonary circulation --> myocyte hypertrophy and interstitial fibrosis 
-	- 
+		- blockage not shown to be useful 
+	- inflammatory cytokines such as tumor necrosis factor (TNF) α and interleukin (IL) 1β and 
+	- reactive oxygen species such as superoxide 
