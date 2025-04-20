@@ -83,3 +83,11 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 	- Sympathetic nervous system and RAAS activation 
 	- initially --> increase heart rate, BP, cardiac contractility sodium & water retention
 	- unchecked compensatory responses lead to excessive vasoconstriction and volume retention, electrolyte and renal abnormalities, baroreceptor dysfunction, direct myocardial toxicity, and cardiac arrhythmias 
+	- contributes to remodeling of the heart, blood vessels (atherosclerosis), kidneys, and other organs and the development of symptomatic HF
+	- antagonism of the RAAS and SNS with renin-angiotensin system inhibitors, mineralocorticoid receptor antagonists, and beta blockers attenuates or reverses ventricular and vascular remodeling and reduces morbidity and mortality
+	- ![[HFRaasMechanism.png]]
+- **Vasodilatory HORMONE** 
+	- number of counterregulatory hormones are upregulated and exert beneficial effects on the heart, kidney, and vasculature. 
+	- natriuretic peptides (atrial natriuretic peptide -ANP and B-type natriuretic peptide-BNP), prostaglandins (prostaglandin E1 [PGE1] and prostacyclin [PGI2]), bradykinin, adrenomedullin, and nitric
+
+oxide.
