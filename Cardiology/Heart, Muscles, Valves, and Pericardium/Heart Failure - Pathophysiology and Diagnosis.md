@@ -102,4 +102,13 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 	- reactive oxygen species such as superoxide 
 - **Novel Biologic Targets**
 	- SGLT-2 --> located on the proximal tubule of the kidney --> reabsorption of up to 90% of filtered glucose 
+	- activity of SGLT-2 contributes to sodium and water retention, endothelial dysfunction, abnormal myocardial metabolism, and impaired calcium handling
+	- SGLT2 inhibitors --> initially for DM --> but now beneficial effects on morbidity and mortality in HF 
+	- effects d/t --> diuretic effects or to effects on cardiac and vascular remodeling, proarrhythmia, renal function, and/or metabolic function or inflammation 
+	- **Oral soluble guanylate cyclase stimulators** enhance the cGMP pathway and exert beneficial myocardial and vascular effects in experimental and clinical HF. 
+- Dyssynchrony & Electrical Instability 
+	- 1/3 of HF have QRS prolongation 
+	- LBBB or IVCD --> abnormal ventricular contraction 
+	- left or biventricular pacing can improve contractile function, decrease mitral regurgitation, and reverse ventricular remodeling
+	- HFrEF + LBBB --> medical + cardiac resynchronization therapy is indicated to reduce morbidity and mortality. 
 	- 
