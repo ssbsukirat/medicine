@@ -100,3 +100,6 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 		- blockage not shown to be useful 
 	- inflammatory cytokines such as tumor necrosis factor (TNF) α and interleukin (IL) 1β and 
 	- reactive oxygen species such as superoxide 
+- **Novel Biologic Targets**
+	- SGLT-2 --> located on the proximal tubule of the kidney --> reabsorption of up to 90% of filtered glucose 
+	- 
