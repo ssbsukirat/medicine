@@ -111,4 +111,5 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 	- LBBB or IVCD --> abnormal ventricular contraction 
 	- left or biventricular pacing can improve contractile function, decrease mitral regurgitation, and reverse ventricular remodeling
 	- HFrEF + LBBB --> medical + cardiac resynchronization therapy is indicated to reduce morbidity and mortality. 
+	- AF with FVR and frequent VPCs can worsen HF
 	- 
