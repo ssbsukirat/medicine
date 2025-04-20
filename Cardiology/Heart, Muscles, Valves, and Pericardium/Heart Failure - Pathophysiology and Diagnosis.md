@@ -65,4 +65,5 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 	- increase in ventricle mass accompanied by 
 		- **cellular level** by myocyte hypertrophy and interstitial fibrosis, 
 		- at the **protein level** by alteration in calcium- handling and cytoskeletal function, and 
-		- at the molecular level by re- expression of fetal genes
+		- at the **molecular level** by re- expression of fetal genes
+	- impairment in pump function and increased wall stress in the face of systemic vasoconstriction and loss of neurohormonal adaptation (discussed below) can lead to afterload mismatch
