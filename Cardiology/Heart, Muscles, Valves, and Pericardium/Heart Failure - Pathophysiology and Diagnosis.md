@@ -88,6 +88,9 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 	- ![[HFRaasMechanism.png]]
 - **Vasodilatory HORMONE** 
 	- number of counterregulatory hormones are upregulated and exert beneficial effects on the heart, kidney, and vasculature. 
-	- natriuretic peptides (atrial natriuretic peptide -ANP and B-type natriuretic peptide-BNP), prostaglandins (prostaglandin E1 [PGE1] and prostacyclin [PGI2]), bradykinin, adrenomedullin, and nitric
-
-oxide.
+	- natriuretic peptides (atrial natriuretic peptide -ANP and B-type natriuretic peptide-BNP) --> stored and released from atria and ventricle 
+	- prostaglandins (prostaglandin E1--PGE1 and 
+	- prostacyclin--PGI2),
+	- bradykinin, 
+	- adrenomedullin, and 
+	- nitric oxide.
