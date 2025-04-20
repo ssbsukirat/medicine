@@ -77,4 +77,7 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 		- renal dysfunction, 
 		- sodium avidity, and 
 		- metabolic inflammation related to regional adiposity
-## M
+## Mechanisms of Disease Progress 
+- compensatory mechanism --> contribute to disease progress 
+- **Neurohormonal Activation** 
+	- 
