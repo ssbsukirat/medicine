@@ -121,4 +121,9 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 		- and dilation of the posterior wall of the left atrium --> distorts the posterior leaflet of the valve
 	- treating the mitral valve using transcatheter techniques when patients are carefully selected after exposure to optimal medical therapy when residual and significant secondary mitral regurgitation persists 
 - Cardiorenal and abdominal Interactions 
-	- 
+	- systemic disease 
+	- many of the presenting signs and symptoms are related to end-organ failure, including dysfunction of the kidneys, liver, and lungs
+	- with kidneys --> increases circulating volume, worsens symptoms of HF, and results in disease progression, referred to as the **cardiorenal syndrome**
+		- initially thought to be d/t decreased cardiac output --> hypoperfusion 
+		- now, even systemic congestion --> increased back pressure --> worsening renal function 
+		- relief of venous congestion --> improves renal function 
