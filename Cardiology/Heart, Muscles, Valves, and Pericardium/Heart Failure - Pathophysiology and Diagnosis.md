@@ -133,7 +133,7 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 	- circulating proinflammatory cytokines elevated in HF 
 	- alteration in gut MICROBIOME + loss of diversity --> role in inflammation 
 	- Lipopolysaccharide (LPS) levels raised in HF & increased intestinal permeability in congestive states 
-	- LPS --> immune stimulator --> macrophage activation --> high TNF-α , IL1, IL6 --> progressive loss of cardiac function + cardiac cachexia 
+	- LPS --> immune stimulator --> macrophage activation --> high TNF-α , IL1, IL6 --> progressive loss of cardiac function + **cardiac cachexia** 
 	- association between gut microbe–dependent generation of trimethylamine N-oxide derived from specific dietary nutrients such as choline and carnitine and poor outcomes in patients with both acute and chronic HF
 - High Output States 
 	- minority patients have high output state + low Systemic Vascular Resistance (SVR) 
@@ -156,3 +156,16 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 			- increased work of breathing (d/t reduced lung compliance) 
 			- if ascites or hepatomegaly --> diaphragm elevation 
 		- in 1-2min of lying down 
+		- for some, orthopnea may diminish as symptoms of right HF appear.
+		- maybe a/w nocturnal cough d/t congestion 
+	- Paroxysmal Nocturnal Dyspnea (PND) 
+		- episodes of shortness of breath that awaken a patient suddenly from sleep with feelings of anxiety and suffocation and require sitting upright for relief 
+		- occurs after prolonged recumbency, is less predictable in occurrence, and may require 30 min or longer in the upright position for relief 
+		- a/w coughing and wheezing (so-called **cardiac asthma**) thought to be due to increased bronchial arterial pressure leading to airway compression and interstitial pulmonary edema causing increased airway resistance
+	- right HF --> systemic congestion 
+		- Weight gain and lower extremity edema --> initial manifestations 
+		- followed by --> gastrointestinal symptoms due to edema of the bowel wall and hepatic congestion.
+		- bloating, anorexia, and early satiety are common 
+		- RUQ pain d/t stretching of hepatic capsule 
+		- maybe misdiagnosed as biliary tract disease 
+		- 
