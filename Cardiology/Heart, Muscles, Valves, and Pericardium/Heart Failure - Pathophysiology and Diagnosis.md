@@ -168,4 +168,15 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 		- bloating, anorexia, and early satiety are common 
 		- RUQ pain d/t stretching of hepatic capsule 
 		- maybe misdiagnosed as biliary tract disease 
-		- 
+		- in refractory right HF, the **development of massive edema involving the entire body with recurrent pleural effusions and/or ascites is termed anasarca.**
+- Symptoms of reduced perfusion 
+	- decreased CO, sometimes referred to as low-output syndrome 
+	- Fatigue and weakness, particularly of the lower extremities, are nonspecific symptoms that can occur with exertion or at rest 
+	- in elderly with cerebrovascular disease + HF --> reduced systemic perfusion may result in mental dullness, depressed affect, and confusion
+- Others 
+	- mood disturbance 
+	- poor sleep 
+	- Nocturia due to improved CO and renal perfusion in the supine position, in addition to delayed diuretic effects, can also contribute to sleep disturbances 
+	- oliguria --> maybe sign of advanced HF 
+- PRECIPITATING FACTORS 
+	- ![[HFPrecipitatingFactors.png]]
