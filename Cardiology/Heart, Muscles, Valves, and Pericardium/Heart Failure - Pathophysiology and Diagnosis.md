@@ -130,4 +130,8 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 	- splanchnic veins serve as a blood reservoir and actively function in regulation of cardiac preload during changes in volume status, regulated by transmural pressure changes or mechanisms of systemic sympathetic activation
 	- Splanchnic congestion --> portal vein distension + activation of the hepatorenal reflex + splenorenal reflex, --> renal vasoconstriction
 - GUT CONGESTION, THE MICROBIOME, AND INFLAMMATION 
-	- circula
+	- circulating proinflammatory cytokines elevated in HF 
+	- alteration in gut MICROBIOME + loss of diversity --> role in inflammation 
+	- Lipopolysaccharide (LPS) levels raised in HF & increased intestinal permeability in congestive states 
+	- LPS --> immune stimulator --> macrophage activation --> high TNF-α , IL1, IL6 --> progressive loss of cardiac function + cardiac cachexia 
+	- association between gut microbe–dependent generation of trimethylamine N-oxide derived from specific dietary nutrients such as choline and carnitine and poor outcomes in patients with both acute and chronic HF
