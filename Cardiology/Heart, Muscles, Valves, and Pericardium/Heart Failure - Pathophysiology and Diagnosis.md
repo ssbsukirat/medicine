@@ -144,4 +144,15 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 ## History 
 - Symptoms of Congestion: Pulmonary Versus Systemic 
 	- mc symptoms --> volume overload with elevation in pulmonary and/or systemic venous pressures
-	- 
+	- Shortness of Breath --> Cardinal of left HF --> exertional dyspnea, orthopnea , PND, Dyspnea at rest 
+	- Mechanism --> pulmonary venous congestion + transudation of fluid into the interstitium and/or alveoli, --> decreased lung compliance, increased airway resistance, hypoxemia, and ventilation/perfusion mismatch
+	- juxtacapillary J receptors ++ --> increased ventilatory drive + reduced blood flow to respiratory muscle --> lactic acidosis 
+	- NYHA class does not correlate well with other objective measures of cardiac structure (e.g., left ventricular size, EF) or function (e.g., peak oxygen consumption). 
+	- ![[NYHAclass.png]]
+	- Orthopnea 
+		- dyspnea in recumbent position 
+		- d/t 
+			- redistribution of fluid --> abdomen, lower body --> chest 
+			- increased work of breathing (d/t reduced lung compliance) 
+			- if ascites or hepatomegaly --> diaphragm elevation 
+		- in 1-2min of lying down 
