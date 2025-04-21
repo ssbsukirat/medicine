@@ -112,4 +112,13 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 	- left or biventricular pacing can improve contractile function, decrease mitral regurgitation, and reverse ventricular remodeling
 	- HFrEF + LBBB --> medical + cardiac resynchronization therapy is indicated to reduce morbidity and mortality. 
 	- AF with FVR and frequent VPCs can worsen HF
+	- involves increased wall stress, neurohormonal activation, and inflammation 
+- Secondary MR 
+	- D/t distortion in the mitral valve apparatus and includes the effects of various pathophysiologic mechanisms 
+		- reduced contractile force --> decreased coaptation of the leaflets, 
+		- spherical shape of the ventricle --> influences length and function of the chordal-papillary muscle structure, 
+		- increased dimension of the mitral annulus (and inability of the annulus to contract during systole) with reduced leaflet alignment,
+		- and dilation of the posterior wall of the left atrium --> distorts the posterior leaflet of the valve
+	- treating the mitral valve using transcatheter techniques when patients are carefully selected after exposure to optimal medical therapy when residual and significant secondary mitral regurgitation persists 
+- Cardiorenal and abdominal Interactions 
 	- 
