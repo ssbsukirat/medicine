@@ -135,3 +135,13 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 	- Lipopolysaccharide (LPS) levels raised in HF & increased intestinal permeability in congestive states 
 	- LPS --> immune stimulator --> macrophage activation --> high TNF-α , IL1, IL6 --> progressive loss of cardiac function + cardiac cachexia 
 	- association between gut microbe–dependent generation of trimethylamine N-oxide derived from specific dietary nutrients such as choline and carnitine and poor outcomes in patients with both acute and chronic HF
+- High Output States 
+	- minority patients have high output state + low Systemic Vascular Resistance (SVR) 
+	- most --> low CO + high SVR 
+	- chronic anemia <8g/dL --> high CO --> increased vasodilatory cytokine --> low SVR --> if with ischemic or valvular heart disease --> may precipitate failure 
+	- CKD --> may develop HF when Anemia + high flow through AV fistula 
+# Evaluation 
+## History 
+- Symptoms of Congestion: Pulmonary Versus Systemic 
+	- mc symptoms --> volume overload with elevation in pulmonary and/or systemic venous pressures
+	- 
