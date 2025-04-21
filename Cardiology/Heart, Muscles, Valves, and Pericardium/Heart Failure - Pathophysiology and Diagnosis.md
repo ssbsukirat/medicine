@@ -129,4 +129,5 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 		- relief of venous congestion --> improves renal function 
 	- splanchnic veins serve as a blood reservoir and actively function in regulation of cardiac preload during changes in volume status, regulated by transmural pressure changes or mechanisms of systemic sympathetic activation
 	- Splanchnic congestion --> portal vein distension + activation of the hepatorenal reflex + splenorenal reflex, --> renal vasoconstriction
-	- 
+- GUT CONGESTION, THE MICROBIOME, AND INFLAMMATION 
+	- circula
