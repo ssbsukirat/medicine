@@ -184,4 +184,12 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 - General Appearace 
 	- mild to moderate --> well nourished and comfortable at rest 
 	- advanced --> may be in no distress after resting for a few minutes but may demonstrate dyspnea with minimal exertion such as walking across the room 
+	- severe HF --> sit upright + anxious, diaphoretic, and dyspneic at rest with pallor due to anemia or duskiness due to low output
+	- cool extremities and peripheral cyanosis 
+	- ![[CardiacCachexia.png]]
+- Vital 
+	- initially HR and BP high in new-onset HF 
+	- resting HR <70-75/min on therapy 
+	- BP in normal to low-normal range 
+	- irregular rhythm --> AF, Flutter, frequent APCs, VPCs 
 	- 
