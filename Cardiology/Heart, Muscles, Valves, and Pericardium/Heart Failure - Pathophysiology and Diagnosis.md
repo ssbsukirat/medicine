@@ -192,4 +192,12 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 	- resting HR <70-75/min on therapy 
 	- BP in normal to low-normal range 
 	- irregular rhythm --> AF, Flutter, frequent APCs, VPCs 
-	- 
+	- severe HF --> hypotension , narrow PP , rapid thready pulse 
+	- alternate strong and weak pulse --> pulsus alternans --> reduced left ventricular contraction in every other cardiac cycle due to incomplete recovery causing alternation in the left ventricular stroke volume 
+	- RR - Normal at rest, more in lying down or exertion 
+	- Periodic or Cheyne-Stokes Respirations ini ADVANCE HF 
+		- patient is usually unaware of the altered breathing pattern, but family members or friends may become alarmed or attribute this incorrectly to anxiety 
+	- SpO2 normal unless 
+		- pulmonary edema acute 
+		- CHD with shunting 
+		- severe P
