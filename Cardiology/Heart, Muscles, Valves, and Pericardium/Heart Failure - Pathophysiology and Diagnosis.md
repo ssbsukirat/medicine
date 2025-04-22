@@ -200,4 +200,18 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 	- SpO2 normal unless 
 		- pulmonary edema acute 
 		- CHD with shunting 
-		- severe P
+		- severe PAH 
+		- concomitant acute or chronic lung disease 
+	- low grade fever d/t cytokine 
+- JVP 
+	- estimate Right heart pressure 
+	- examined at a 45° angle, and jugular venous pressure (JVP) is quantified in centimeters of water by estimating the height of the venous column of blood above the sternal angle in centimeters and then adding 5 
+	- in mild right HF --> normal JVP (<8cm H2O) but rises with compressing RUQ 
+	- **Hepatojugular Reflex** --> applying firm continuous pressure over the liver for 15–30 s while observing the neck veins
+	- **abdominojugular test,** defined as an increase in right atrial pressure during 10 s of firm midabdominal compression followed by an abrupt drop on pressure release, **suggests elevated left-sided filling pressure** 
+	- rise in JVP with inspiration or **Kussmaul’s sign** may be due to severe biventricular HF and is a marker of poor outcome.
+- Lung 
+	- Rales 
+		- Result from transudation of fluid from the intravascular space into the alveoli and airways
+		- heard at bases 
+		- in severe HF or acute pulmonary edema --> throughout lung fields 
