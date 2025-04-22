@@ -215,3 +215,4 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 		- Result from transudation of fluid from the intravascular space into the alveoli and airways
 		- heard at bases 
 		- in severe HF or acute pulmonary edema --> throughout lung fields 
+	- 
