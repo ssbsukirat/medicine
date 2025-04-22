@@ -180,3 +180,8 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 	- oliguria --> maybe sign of advanced HF 
 - PRECIPITATING FACTORS 
 	- ![[HFPrecipitatingFactors.png]]
+## Physical Examination 
+- General Appearace 
+	- mild to moderate --> well nourished and comfortable at rest 
+	- advanced --> may be in no distress after resting for a few minutes but may demonstrate dyspnea with minimal exertion such as walking across the room 
+	- 
