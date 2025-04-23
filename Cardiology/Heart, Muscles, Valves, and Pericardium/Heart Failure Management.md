@@ -44,4 +44,12 @@
 		- randomized Study to Evaluate the Efficacy and Safety of Finerenone on Morbidity and Mortality in Participants with Heart Failure and Left Ventricular Ejection Fraction Greater than or Equal to 40%
 ## Novel Targets 
 - microvascular endothelial inflammation driven by comorbidities that results in impaired nitric oxide (NO) signaling and associated increases in myocardial stiffening 
-- phosphodiesterase-5 inhibitor **sildenafil** improved filling pressures and right ventricular function in a cohort of HFpEF patients with pulmonary venous hypertension
+- phosphodiesterase-5 inhibitor **sildenafil** improved filling pressures and right ventricular function in a cohort of **HFpEF patients with pulmonary venous hypertension**
+	- but RELAX trial phase 2 (Phosphodiesterase-5 Inhibition to Improve Clinical Status and Exercise Capacity in Diastolic Heart Failure) did **not show any improvement**  
+- NEAT-HFpEF - Nitrate’s Effect on Activity Tolerance in Heart Failure with Preserved Ejection Fraction 
+	- Isosorbide mononitrate did not improve QOL or submaximal exercise capacity and decreased overall activity levels in treated patients 
+- INDIE-HFpEF - Nitrite Delivery to Improve Exercise Capacity in Heart Failure with Preserved Ejection Fraction
+	- Inorganic nitrate compounds have also been shown to enhance NO signaling but did not improve functional capacity compared to placebo
+- PARAGON-HF 
+	- symptomatic HFpEF (LVEF ≥45%), elevated natriuretic peptides, and structural heart disease to treatment with either **sacubitril-valsartan or valsartan** with the novel composite primary endpoint of cardiovascular death and total hospitalizations for HF
+	- 
