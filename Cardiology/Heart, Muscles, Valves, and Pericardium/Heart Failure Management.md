@@ -69,4 +69,9 @@
 	- pulmonary arterial hypertension, 
 	- valvular heart disease, and 
 	- primary right ventricular failure
+- aggressive control of blood pressure to guideline-recommended targets and relief of volume overload with diuretics are critical to symptom relief 
+- at risk for coronary heart disease --> deliberate evaluation for ischemia and consideration of coronary revascularization is important
+- in the setting of atrial fibrillation, aggressive rate control, anticoagulation, and early consideration of sinus rhythm restoration 
+- ![[HFPEFMANAGE.png]]
+# Acute Decompensated HF
 - 
