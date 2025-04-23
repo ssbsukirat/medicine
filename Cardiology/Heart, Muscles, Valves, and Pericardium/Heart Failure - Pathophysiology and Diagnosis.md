@@ -317,4 +317,7 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 - ICU setting 
 - cardiac filling pressure and CO 
 - pulmonary artery catheter --> response to IV vasoactive and diuretc therapy --> bedside
-- catheterisation laboratory --> right and left heart filling  
+- catheterisation laboratory --> right and left heart filling pressures --> simultaneous measurement  --> RCM vs Restrictive pericarditis 
+- Coronary Angiography to r/o IHD 
+- left ventriculography for LV size, function , MR severity 
+- 
