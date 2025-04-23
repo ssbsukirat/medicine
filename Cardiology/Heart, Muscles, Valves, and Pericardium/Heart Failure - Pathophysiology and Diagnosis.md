@@ -320,4 +320,13 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 - catheterisation laboratory --> right and left heart filling pressures --> simultaneous measurement  --> RCM vs Restrictive pericarditis 
 - Coronary Angiography to r/o IHD 
 - left ventriculography for LV size, function , MR severity 
-- 
+- right ventricular endomyocardial biopsy --> 
+	- detection of myocarditis,
+	- diagnosis of cardiac amyloidosis and chemotherapy- related left ventricular failure, and 
+	- screening for cardiac allograft rejection following heart transplant.
+# COMORBIDITIES 
+## Diabetes 
+- prevalence 10-40% in HF with higher in hospitalised patients 
+- if HF+DM --> worse prognostic , poor QOL, higher cost of care 
+- SGLT-2 inhibitors in particular have not only been shown to be safe in patients with HF but can also improve renal function and decrease the risk of hospitalization and death 
+- ![[]]
