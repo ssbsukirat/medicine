@@ -329,4 +329,24 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 - prevalence 10-40% in HF with higher in hospitalised patients 
 - if HF+DM --> worse prognostic , poor QOL, higher cost of care 
 - SGLT-2 inhibitors in particular have not only been shown to be safe in patients with HF but can also improve renal function and decrease the risk of hospitalization and death 
-- ![[]]
+- ![[HFDMmechanism.png]]
+## [[Sleep apnea]] 
+- both OSA, CSA 
+- pathophysiologic link --> increased afterload, decreased preload, intermittent hypoxia, and sympathetic activation 
+- higher sympathetic tone -->ischemic , arrhythmia  
+- HFrEF + OSA --> CPAP 
+- no known therapy for CSA 
+## Obesity 
+- both a risk factor for the development of HF and highly prevalent in patients with HF. 
+- more in HFpEF 
+- complicates volume status assessment 
+- **obesity paradox** refers to the observation that obese patients diagnosed with HF have a more favorable prognosis than patients with low or even normal body mass index
+## Depression 
+- independent risk FACTOR for adverse outcome , especially older women 
+- involve neuroendocrine dysfunction and systemic inflammation, as well as contributions from poor sleep, decreased appetite, and adverse effects of medications and alcohol 
+- screen for depression in HF patients 
+- SSRIs safe 
+- Cognitive Behavioral Therapy 
+- collaborative care model 
+# DIFFERENTIAL 
+- 
