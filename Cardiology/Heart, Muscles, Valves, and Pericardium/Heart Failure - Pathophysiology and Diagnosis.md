@@ -288,4 +288,18 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 	- If LVEF >50% --> normal systolic function 
 	- Myocardial strain rate imaging using speckle tracking --> prognostic value 
 	- Doppler --> CO, pulmonary artery pressures, and valve areas, and may detect abnormalities in left ventricular diastolic filling in patients with HFpEF 
-	- TEE --> r/o intracardiac thrombus before cardioversion 
+	- TEE --> r/o intracardiac thrombus before cardioversion , aortic, mitral valve pathology 
+- Cardiac MRI (CMR) 
+	- quantitative tool for evaluation of left ventricular mass, volumes, and function and for determining specific causes of HF (e.g., ischemic cardiomyopathy, myocarditis, amyloidosis, hemochromatosis) 
+	- anatomical and functional anomaly in adults with CHD 
+	- Serial CMR --> ventricular remodeling response to therapy 
+- CT Cardiac 
+	- if cannot undergo MRI 
+	- rule out pericardial disease or left ventricular apical thrombus 
+- PET CT 
+	- evaluating the extent of ischemia or infarction in patients with coronary artery disease and,
+	- in the case of sarcoid, can reliably determine the severity and distribution of cardiac inflammation 
+## Cardiopulmonary Exercise Testing 
+- not routine done in HF 
+- symptom-limited, ramp protocol can provide an objective assessment of peak functional capacity in patients being evaluated for mechanical circulatory support or heart transplant 
+- VO2, ventilatory efficiency -
