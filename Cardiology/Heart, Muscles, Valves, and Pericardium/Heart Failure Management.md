@@ -30,4 +30,18 @@
 	- nebivolol - vasodilator beta blocker 
 	- no significant reduction in all cause or cardiovascular mortality 
 - TOPCAT -- Treatment of Preserved Cardiac Function Heart Failure with an Aldosterone Antagonist 
-	- 
+	- Spironolactone vs Placebo 
+	- no improvement in the primary composite endpoint of cardiovascular death, HF hospitalizations, or aborted cardiac arrest but 
+	- **reduction in HF hospitalizations among those allocated to spironolactone** 
+	- some differences seen in regional results 
+	- weak recommendation for spironolactone in patients with HFpEF who meet the inclusion criteria for the TOPCAT trial and are at low risk for adverse effects, including hyperkalemia and worsening renal function 
+- ALDO-DHF - Aldosterone Receptor Blockade in Diastolic Heart Failure
+	- **spironolactone improved echocardiographic indices of diastolic dysfunction** but failed to improve exercise capacity, symptoms, or quality-of-life (QOL) measures
+- Ongoing trials 
+	- SPIRRIT-HFpEF 
+		- Spironolactone Initiation Registry Randomized Interventional Trial in Heart Failure with Preserved Ejection Fraction
+	- FINE-ARTS-HF 
+		- randomized Study to Evaluate the Efficacy and Safety of Finerenone on Morbidity and Mortality in Participants with Heart Failure and Left Ventricular Ejection Fraction Greater than or Equal to 40%
+## Novel Targets 
+- microvascular endothelial inflammation driven by comorbidities that results in impaired nitric oxide (NO) signaling and associated increases in myocardial stiffening 
+- phosphodiesterase-5 inhibitor **sildenafil** improved filling pressures and right ventricular function in a cohort of HFpEF patients with pulmonary venous hypertension
