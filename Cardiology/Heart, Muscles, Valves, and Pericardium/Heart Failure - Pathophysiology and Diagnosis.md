@@ -302,4 +302,10 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 ## Cardiopulmonary Exercise Testing 
 - not routine done in HF 
 - symptom-limited, ramp protocol can provide an objective assessment of peak functional capacity in patients being evaluated for mechanical circulatory support or heart transplant 
-- VO2, ventilatory efficiency -
+- VO2, ventilatory efficiency - VE/VCO2 slope --> independent predictor of survival 
+- heart rate and blood pressure response to exercise and exercise-induced arrhythmias can also be assessed 
+## Biomarker 
+- BNP and NT-proBNP --> atria and ventricle in response to wall stress --> 
+	- HFrEF > HFpEF (levels) 
+	- falsely low in obese 
+	- ambulatory + dyspnea --> helps diagnosis 
