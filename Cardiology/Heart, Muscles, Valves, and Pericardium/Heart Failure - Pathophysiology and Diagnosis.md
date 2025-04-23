@@ -309,3 +309,12 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 	- HFrEF > HFpEF (levels) 
 	- falsely low in obese 
 	- ambulatory + dyspnea --> helps diagnosis 
+	- in chronic HF --> establish disease severity and prognostic 
+	- age, female sex, and chronic kidney disease, increase natriuretic peptide levels 
+	- AF, PTE, PAH increase NT-proBNP 
+- Galactin-3 and soluble ST2 are new markers 
+## Invasive Study 
+- ICU setting 
+- cardiac filling pressure and CO 
+- pulmonary artery catheter --> response to IV vasoactive and diuretc therapy --> bedside
+- catheterisation laboratory --> right and left heart filling  
