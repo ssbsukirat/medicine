@@ -349,4 +349,10 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 - Cognitive Behavioral Therapy 
 - collaborative care model 
 # DIFFERENTIAL 
-- 
+- cardiac vs pulmonary 
+- orthopnea may be a well-established symptom in some patients with severe chronic lung disease 
+- episodic episode of SOB in lung disease patients resembling PND 
+- chronic lung disease, this is usually due to accumulation of tracheobronchial secretions and is relieved by coughing and expectoration, whereas in cardiac disease, the patient has to sit upright 
+- ![[HFdifferentials.png]]
+- renal failure for volume overload 
+- ARDS / noncardiogenic pulmonary edema 
