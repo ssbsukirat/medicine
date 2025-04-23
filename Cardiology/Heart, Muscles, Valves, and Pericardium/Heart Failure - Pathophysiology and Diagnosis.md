@@ -257,4 +257,20 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 - Electrolyte 
 	- Hyponatremia --> sodium restriction , diuretic therapy , vasopressin induced free water retention 
 		- negative prognostic marker 
-	- hypokalemia -> thiazide diuretc 
+	- hypokalemia -> thiazide and loop  diuretic, increased aldosterone levels 
+	- hyperkalemia --> reduced GFR, exacerbated by RAAS inhibitors , potassium sparing diuretics 
+	- hypo/hyperkalemia --> ventricular arrhythmia 
+	- hypophosphatemia, hypomagnesemia --> chronic alcohol use 
+- Anemia --> exacerbate HF , should be corrected 
+	- IDA --> decreased gut absorption, impaired hepatic storage, and chronic blood loss. 
+## Chest XRAY 
+- left HF include enlarged cardiac silhouette **(cardiothoracic ratio >0.5)** and pulmonary venous congestion
+- upper zone venous redistribution and thickening of interlobular septa 
+- PCWP moderate to severely elevated, alveolar edema can present as diffuse haziness extending downward toward the lower lung fields
+- if absent --> increased lymphatic drainage of interstitial or pulmonary fluids 
+- pleural effusion 
+- may see pneumonia, COPD 
+## ECG 
+- tells underlying cardiac disease 
+- not diagnostic 
+- LVH, LAH --> HFpEF 
