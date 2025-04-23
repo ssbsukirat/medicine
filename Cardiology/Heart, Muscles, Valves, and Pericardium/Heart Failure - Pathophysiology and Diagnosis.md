@@ -221,4 +221,20 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 		- if **unilateral**, they typically involve the **right** side
 - Cardiac Examination 
 	- chronic HF --> cardiac enlargement 
-		- apical impulse 
+		- apical impulse -->down and left 
+			- diffuse in DCM 
+			- sustained in pressure overload like AS 
+	- biventricular /severe Right HF --> parasternal RV heave/lift at left sternal border 
+	- palpable S3 --> uncommon 
+	- HFpEF --> palpation normal 
+	- auscultation --> S3 gallop in volume overload and tachycardia --> s/o hemodynamic compromise and poor prognosis 
+	- S4 --> not specific to HF but maybe seen in HFpEF d/t HTN 
+	- MR/TR holosystolic murmurs in advanced HF in absence of structural anomaly 
+	- in secondary PAH --> loud P2 
+- Abdomen 
+	- hepatomegaly early sign 
+	- tender liver edge --> early but disappear later 
+	- pulsatile liver in TR 
+	- cardiac cirrhosis --> longstanding congestion --> splenomegaly and mild to moderate ascites 
+	- if massive ascites --> look for other causes 
+- bilat
