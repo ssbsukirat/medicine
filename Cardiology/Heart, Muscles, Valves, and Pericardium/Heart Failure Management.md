@@ -77,4 +77,10 @@
 ## General Principle 
 - Interrelated decreased cardiac performance, renal dysfunction, and alterations in vascular compliance
 - high mortality and morbidity --> 50% have readmission in 6-month 
-- 
+- combined incidence of cardiovascular deaths, HF hospitalizations, myocardial infarction, strokes, or sudden death reaching 50% at 12 months after hospitalization 
+- identify and address the factors that precipitated decompensation
+	- non-adherence to medication 
+	- dietary salt indiscretion 
+	- medication -- NSAIDs, thiazolidinediones , TNF-inhibitors, antidepressants , onco therapy , cold/flu preparations with cardiac stimulant , herbals 
+	- Coronary Ischemia 
+	- 
