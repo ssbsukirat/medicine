@@ -237,4 +237,12 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 	- pulsatile liver in TR 
 	- cardiac cirrhosis --> longstanding congestion --> splenomegaly and mild to moderate ascites 
 	- if massive ascites --> look for other causes 
-- bilat
+- bilateral symmetric pitting extremity edema 
+- Anasarca is used to describe massive, generalized edema involving the legs, sacrum, and abdominal wall 
+
+## Diagnosis 
+- signs and symptoms not sensitive or specific 
+- high index of suspicion in older, CVS disease , comorbid like HTN, Diabetes , CKD 
+- ![[HFassessment.png]]
+## ROUTINE LAbs 
+- 
