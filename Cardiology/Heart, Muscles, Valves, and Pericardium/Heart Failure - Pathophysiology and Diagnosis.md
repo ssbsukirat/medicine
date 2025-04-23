@@ -255,4 +255,6 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 - ESR, CRP, uric acid --> not diagnostic 
 - antinuclear antibodies, rheumatoid factor, serum free light chains, serum protein electrophoresis, ferritin, ceruloplasmin, hepatitis C, and HIV, are reserved for **targeted testing.**
 - Electrolyte 
-	- Hyponatremia --> sodium restriction , diuretic therp
+	- Hyponatremia --> sodium restriction , diuretic therapy , vasopressin induced free water retention 
+		- negative prognostic marker 
+	- hypokalemia -> thiazide diuretc 
