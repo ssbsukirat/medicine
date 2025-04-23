@@ -273,4 +273,13 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 ## ECG 
 - tells underlying cardiac disease 
 - not diagnostic 
-- LVH, LAH --> HFpEF 
+- LVH, LAH --> HFpEF d/t HTN, AS, HOCM 
+- Q waves or infarct --> IHD 
+- Q wave + reduced QRS voltage (pseudo-infarct pattern) --> restrictive or infiltrative cardiomyopathy eg amyloid 
+- Conduction system disease should raise concern for cardiac sarcoid or Chagas cardiomyopathy in the right clinical setting. 
+- Paroxysmal or persistent AF in 40% of HF 
+- PVCs and nonsustained VT --> reflect worsening HF and markers of increased risk 
+- frequent VPCs --> may cause cardiomyopathy --> resolve with ablation 
+- QRS width and presence of LBBB --> cardiac resynchronization therapy
+## Noninvasive IMAGING 
+- 
