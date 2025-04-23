@@ -245,4 +245,14 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 - high index of suspicion in older, CVS disease , comorbid like HTN, Diabetes , CKD 
 - ![[HFassessment.png]]
 ## ROUTINE LAbs 
-- 
+- metabolic panel, complete blood count, coagulation studies, and urinalysi 
+- evaluate DM, dyslipidemia , thyroid function 
+- Renal function maybe deranged 
+- proteinuria --> in DM, HTN, systemic disease 
+- modest elevation in transaminase , ALP, bilirubin 
+- marked high transaminase , lactic acid --> cardiogenic shock with low-output state 
+- cardiac cirrhosis, hypoalbuminemia may exacerbate fluid accumulation, whereas hyperammonemia contributes to altered mental status 
+- ESR, CRP, uric acid --> not diagnostic 
+- antinuclear antibodies, rheumatoid factor, serum free light chains, serum protein electrophoresis, ferritin, ceruloplasmin, hepatitis C, and HIV, are reserved for **targeted testing.**
+- Electrolyte 
+	- Hyponatremia --> sodium restriction , diuretic therp
