@@ -74,4 +74,7 @@
 - in the setting of atrial fibrillation, aggressive rate control, anticoagulation, and early consideration of sinus rhythm restoration 
 - ![[HFPEFMANAGE.png]]
 # Acute Decompensated HF
+## General Principle 
+- Interrelated decreased cardiac performance, renal dysfunction, and alterations in vascular compliance
+- high mortality and morbidity --> 50% have readmission in 6-month 
 - 
