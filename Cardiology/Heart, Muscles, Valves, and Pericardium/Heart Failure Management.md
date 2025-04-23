@@ -52,4 +52,12 @@
 	- Inorganic nitrate compounds have also been shown to enhance NO signaling but did not improve functional capacity compared to placebo
 - PARAGON-HF 
 	- symptomatic HFpEF (LVEF ≥45%), elevated natriuretic peptides, and structural heart disease to treatment with either **sacubitril-valsartan or valsartan** with the novel composite primary endpoint of cardiovascular death and total hospitalizations for HF
-	- 
+	- **13% reduction in the rate of the primary composite endpoint in those allocated to sacubitril-valsartan**, this result narrowly missed the margin for statistical significance in the primary statistical analysis (p = .06)
+	- **sacubitril-valsartan has recently been approved in the United States for treatment of symptomatic heart failure across the full spectrum of ejection fraction** 
+- SGLT2 inhibitors 
+	- dapagliflozin to guideline-directed medical therapy of HFrEF was associated with reductions in cardiovascular mortality and HF hospitalization among patients with and without diabetes enrolled in the Dapagliflozin and Prevention of Adverse Outcomes in Heart Failure (DAPA-HF) 
+	- Ongoing trials 
+		- DELIVER for Dapa 
+		- EMPEROR-PRESERVED for empagliflozin 
+## Clinical Principal 
+- 
