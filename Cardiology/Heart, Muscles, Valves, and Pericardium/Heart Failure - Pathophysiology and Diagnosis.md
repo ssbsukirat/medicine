@@ -282,4 +282,10 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 - frequent VPCs --> may cause cardiomyopathy --> resolve with ablation 
 - QRS width and presence of LBBB --> cardiac resynchronization therapy
 ## Noninvasive IMAGING 
-- 
+- 2D ECHO 
+	- ventricular size and function 
+	- intracavitary thrombus and pericardial effusion 
+	- If LVEF >50% --> normal systolic function 
+	- Myocardial strain rate imaging using speckle tracking --> prognostic value 
+	- Doppler --> CO, pulmonary artery pressures, and valve areas, and may detect abnormalities in left ventricular diastolic filling in patients with HFpEF 
+	- TEE --> r/o intracardiac thrombus before cardioversion 
