@@ -215,4 +215,10 @@ cavity size or volume (eccentric hypertrophy) occurs in volume overload conditio
 		- Result from transudation of fluid from the intravascular space into the alveoli and airways
 		- heard at bases 
 		- in severe HF or acute pulmonary edema --> throughout lung fields 
-	- 
+		- absent in patients with longstanding HF and chronically elevated pulmonary capillary wedge pressures due to increased lymphatic drainage
+	- Pleural Effusion 
+		- biventricular or predominant right HF, **bilateral** --> dullness to percussion and decreased breath sounds at the bases. 
+		- if **unilateral**, they typically involve the **right** side
+- Cardiac Examination 
+	- chronic HF --> cardiac enlargement 
+		- apical impulse 
