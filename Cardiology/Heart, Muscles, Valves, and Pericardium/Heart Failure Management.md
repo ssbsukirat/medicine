@@ -19,4 +19,15 @@
 ## Clinical Trials 
 - CHARM -- Candesartan in Heart FAILURE 
 	- Candesartan (ARB) showed reduced HF hospitalization but **no difference in all-cause mortality**  
-- I-PRESERVE - Irbesartan in 
+- I-PRESERVE - Irbesartan in Heart Failure with Preserved Systolic Function 
+	- no differences in the composite of cardiovascular death or HF hospitalization during treatment with the ARB irbesartan compared with placebo. 
+- PEP-CHF -- Perindopril in Elderly People with Chronic Heart Failure 
+	- early on showed benefit 
+	- long-term no benefit 
+- DIG(Digitalis Investigation Group) Ancillary Trial 
+	- no impact of digoxin on all-cause mortality or on all-cause or cardiovascular hospitalization among patients with chronic HF, ejection fraction (EF) >45%, and sinus rhythm, although a **modest reduction in HF hospitalizations was noted** 
+- SENIORS - Study of the Effects of Nebivolol Intervention on Outcomes and Rehospitalization in Seniors with Heart Failure
+	- nebivolol - vasodilator beta blocker 
+	- no significant reduction in all cause or cardiovascular mortality 
+- TOPCAT -- Treatment of Preserved Cardiac Function Heart Failure with an Aldosterone Antagonist 
+	- 
