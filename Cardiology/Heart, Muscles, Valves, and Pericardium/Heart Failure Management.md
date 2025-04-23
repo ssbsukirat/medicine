@@ -60,4 +60,13 @@
 		- DELIVER for Dapa 
 		- EMPEROR-PRESERVED for empagliflozin 
 ## Clinical Principal 
+- focus on decongestion, aggressive management of medical comorbidities, and relief of exacerbating factors 
+- HfPEF is s heterogenous group that includes patients with 
+	- infiltrative heart disease (amyloidosis, hemochromatosis, sarcoidosis), 
+	- storage disease (Fabry’s disease, Gaucher’s disease), 
+	- hypertrophic cardiomyopathy, 
+	- pericardial disease, 
+	- pulmonary arterial hypertension, 
+	- valvular heart disease, and 
+	- primary right ventricular failure
 - 
