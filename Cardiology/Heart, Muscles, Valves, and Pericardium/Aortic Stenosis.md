@@ -88,4 +88,10 @@ Epidemiology from book
 - HTN common 
 - when stroke volume declines, the systolic pressure may fall and the **pulse pressure narrow** 
 - carotid arterial pulse rises slowly to a delayed peak (**pulsus parvus et tardus**)
+- **thrill or anacrotic “shudder”** may be palpable over the carotid arteries, more commonly the left
+- a wave of JVP accentuated 
+- displaced lateral LV impulse late 
+- **double apical impulse + palpable S4** in left lateral recumbent 
+- systolic thrill --> base of heart to right of sternum when leaning forward 
+## Auscultation 
 - 
