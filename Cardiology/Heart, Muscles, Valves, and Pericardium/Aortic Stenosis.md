@@ -42,4 +42,9 @@ Epidemiology from book
 - suprvalvular AS 
 ## Pathophysiology 
 - systolic pressure gradient b/w LV and Aorta 
-- slow obstruction --> LV performance maintained by concentric Hypertrophy 
+- slow obstruction --> LV performance maintained by concentric Hypertrophy --> initially adaptive and helpful 
+- as progresses --> excessive hypertrophy --> LV function decline (d/t afterload mismatch ) --> abnormalities of diastolic dysfunction --> irreversible myocardial fibrosis 
+- Severe LVO obstruction 
+	- Mean systolic pressure gradient >40mmHg 
+	- effective Aortic orific <1cm2 (or <0.6cm2/m2 BSA) ~<1/3 of normal 
+- diminished compliance of hypertrophy LV --> high EDP in severe AS + 
