@@ -143,4 +143,6 @@
 	- dopaminergic , A, B adrenergic receptor -- dose-dependent effect 
 	- vasodilator effect at <2ug/kg/min 
 	- beta adrenergic -- inotropic at moderate 
-	- alpha adrenergic 
+	- alpha adrenergic - vasoconstrictor -- at >10ug/kg/min 
+	- low dose dopamine but does not appear to provide incremental advantage over routine therapy with intravenous diuretics (ROSE-AHF)
+- 
