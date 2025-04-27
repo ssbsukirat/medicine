@@ -1,3 +1,7 @@
 - ![[ARcauses.png]]
-- Rheumatic 
+- PRIMARY 
+	- rheumatic --> thickening , deformity , shortening of individual cusps 
+	- less common if no associated mitral valve disease 
+	- congenital Aortic vakve fenestration --> mild AR 
+	- Aortic Cusp prolapse --> progressive chronic AR  (maybe isolated or a/w myxomatous degeneration a/w mitral or tricuspid involvement )
 	- 
