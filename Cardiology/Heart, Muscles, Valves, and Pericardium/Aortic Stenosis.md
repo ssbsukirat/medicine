@@ -5,4 +5,20 @@ Epidemiology from book
 - male > female 
 # ETIOLOGY and PATHOGENESIS 
 - d/t degenerative calcification of aortic cusps 
-- mc in 
+- mc in congenital BAV, chronic trileaflet deterioration or previous rheumatic inflammation 
+- active deterioration and calcification --> f/ vascular atherosclerosis , endothelial dysfunction , lipid accumulation , inflammatory cell activation , cytokine release , upregulation of signaling pathways 
+- Genetic 
+	- vit D receptor 
+	- Estrogen receptor 
+	- IL10 
+	- apolipoprotein E4 
+- risk factor 
+	- HTN 
+	- LDL 
+	- Lipoprotein a 
+	- DM 
+	- Smoking 
+	- CKD 
+	- Metabolic syndrome
+- ![[AScauses.png]]
+- 
