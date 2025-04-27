@@ -163,4 +163,6 @@
 - no benefit of the oral selective vasopressin-2 antagonist **tolvaptan** 
 ## Guiding Principle 
 - focused on decongestion to relieve symptoms, investigation and suppression of triggers for recurrent decompensation, and careful transition to longitudinal HF management 
+- all patients should receive education regarding HF self-management prior to discharge
+- institution of appropriate guideline-directed medical therapy prior to hospital discharge 
 - 
