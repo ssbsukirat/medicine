@@ -117,4 +117,11 @@
 		- neutral on electrolyte 
 		- decreased neurohumoral activity 
 	- aka Aquapharesis 
-	- 
+	- CARRESS-HF trial 
+		- similar weight loss with UF 
+		- more rise in creatinine  with UF 
+	- complicates 
+		- kidney failure 
+		- bleeding 
+		- IV catheter related complication 
+## Vasoactive therapy 
