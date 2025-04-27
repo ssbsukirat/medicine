@@ -68,5 +68,7 @@ Epidemiology from book
 		- elevation of PCWP d/t elevations of LV diastolic pressures secondary to impaired relaxation and reduced LV compliance
 	- **angina pectoris** -- imbalance in high O2 demand and reduced availability , coexist with CAD in >65y 
 	- **syncope** -- exertional d/t 
-		- 
-	- 
+		- decline in arterial pressure caused by vasodilation in exercising muscles and inadequate vasoconstriction in nonexercising muscles in the face of a fixed CO, or
+		- from a sudden fall in CO produced by an arrhythmia
+	- Late course 
+		- fatiguability 
