@@ -156,4 +156,19 @@ Epidemiology from book
 - ![[AStreatment.png]]
 - Stages 
 	- A - risk factors + 
-	- B - proge
+	- B - progressive , mild-to-moderate asymptomatic valve disease 
+	- C1 - severe AS with asymptomatic and compensated cardiac function 
+	- C2 - asymptomatic , severe, decompensated ventricle function 
+	- D1 - severe, symptomatic , high gradient  >40mmHg 
+	- D2 severe, symptomatic low-flow , low-gradient with reduced EF 
+	- D3 symptomatic, severe, low-flow, low-gradient aortic stenosis and preserved left ventricular ejection fraction
+- Medical 
+	- avoid strenous physical activity and competitive sports if severe (even if asymptomatic )
+	- avoid dehydration , hypovolemia 
+	- asymptomatic , preserved LVEF -- beta blockers, ACE inhibitors safe 
+	- Nitroglycerin safe in CAD 
+	- statins, RAAS blockage --> dont slow disease 
+	- IE prophylaxis --> only if h/o IE 
+- SURGICAL 
+	- indication 
+		- 
