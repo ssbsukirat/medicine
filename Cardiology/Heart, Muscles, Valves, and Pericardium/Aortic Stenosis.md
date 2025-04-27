@@ -85,4 +85,7 @@ Epidemiology from book
 # Physical Finding 
 - regular rhythm until late 
 - if AF --> think mitral valve disease 
+- HTN common 
+- when stroke volume declines, the systolic pressure may fall and the **pulse pressure narrow** 
+- carotid arterial pulse rises slowly to a delayed peak (**pulsus parvus et tardus**)
 - 
