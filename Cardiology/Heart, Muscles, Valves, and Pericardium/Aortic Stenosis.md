@@ -143,4 +143,9 @@ Epidemiology from book
 	- Coronary angiography if valve intervention planned 
 # Natural History 
 - 7th-8th decade --> death 
-- 
+- onset of symptoms to death 
+	- angina - 3 years 
+	- syncope - 3 years 
+	- dyspnea - 2years 
+	- HF - 1.5-2 years 
+	- 
