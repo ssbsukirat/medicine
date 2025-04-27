@@ -21,4 +21,8 @@ Epidemiology from book
 	- CKD 
 	- Metabolic syndrome
 - ![[AScauses.png]]
-- 
+- Rheumatic disease of Aortic valve 
+	- commissural fusion --> may cause bicuspid valve 
+	- more susceptible to trauma and ultimately leads to fibrosis, calcification, and further narrowing 
+	- Rheumatic AS always a/w Mitral involvement + AR 
+# 
