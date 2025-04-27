@@ -108,4 +108,7 @@
 	- deteriorating function of one organ while therapy is administered to preserve the other.
 	- most patients with cardiorenal syndrome demonstrate a preserved cardiac output 
 	- exacerbated by “backward failure” resulting from increased intraabdominal pressure and impairment in return of renal venous blood flow
+	- Continued use of diuretic therapy may be associated with a reduction in glomerular filtration rate and a worsening of the cardiorenal syndrome
+	- late stages of disease characterized by profound low cardiac output state, inotropic therapy or mechanical circulatory support has been shown to preserve or improve renal function
+- Ultrafiltration 
 	- 
