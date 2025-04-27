@@ -154,4 +154,13 @@
 - routine use of inotropic support in ADHF is discouraged 
 - currently indicated --> short-term use as bridge therapy (to either left ventricular assist device support or to transplant) in cardiogenic shock or as selectively applied palliation in end-stage HF. 
 - Novel Inotropic 
-	- 
+	- Levosimendan is a **calcium sensitizer** that provides **inotropic activity but also possesses phosphodiesterase-3 inhibition properties that are vasodilatory.**
+		- did not reduce all-cause mortality at 180 days or affect any secondary clinical outcomes 
+
+![[ADHFvasoactive.png]]
+## Other Therapy 
+- Adenosine receptor antagonist  -- Rolofylline --> No benefit 
+- no benefit of the oral selective vasopressin-2 antagonist **tolvaptan** 
+## Guiding Principle 
+- focused on decongestion to relieve symptoms, investigation and suppression of triggers for recurrent decompensation, and careful transition to longitudinal HF management 
+- 
