@@ -148,4 +148,9 @@ Epidemiology from book
 	- syncope - 3 years 
 	- dyspnea - 2years 
 	- HF - 1.5-2 years 
-	- 
+- sudden death in 10-20% 
+- 1% risk of SCD as 1st presentation of AS
+- Calcific AS is progressive --> 0.1cm2/year 
+	- jeat velocity and mean valve gradient --> 0.3m/s and 7mmg per year 
+# Treatment 
+- 
