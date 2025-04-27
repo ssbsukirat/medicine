@@ -67,5 +67,6 @@ Epidemiology from book
 	- **exertional dyspnea** -- slow progress, reduced effort tolerance, curtailment of activity --> d/t 
 		- elevation of PCWP d/t elevations of LV diastolic pressures secondary to impaired relaxation and reduced LV compliance
 	- **angina pectoris** -- imbalance in high O2 demand and reduced availability , coexist with CAD in >65y 
-	- **syncope** -- exertional
+	- **syncope** -- exertional d/t 
+		- 
 	- 
