@@ -87,3 +87,13 @@
 	- Valvular heart disease
 	- systemic infection 
 	- PTE 
+- Pharmacologic Therapy 
+	- relief of congestion, reduction in afterload, and maximization of vital organ perfusion 
+	- Pulmonary artery catheter routinely not recommend -- use in low output HF, cardiogenic shock or those resistant to diuretics , those with combined cardiorenal dysfunction, known or suspected pulmonary artery hypertension 
+- Worse outcome 
+	- BUN >43mg/dl 
+	- SBP<115mmhg 
+	- Creatinine  -- >2.75uL 
+- ![[ADHFmanagement.png]]
+## Volume Management 
+- 
