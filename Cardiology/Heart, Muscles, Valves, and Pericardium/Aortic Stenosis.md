@@ -153,4 +153,7 @@ Epidemiology from book
 - Calcific AS is progressive --> 0.1cm2/year 
 	- jeat velocity and mean valve gradient --> 0.3m/s and 7mmg per year 
 # Treatment 
-- 
+- ![[AStreatment.png]]
+- Stages 
+	- A - risk factors + 
+	- B - proge
