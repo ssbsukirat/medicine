@@ -84,4 +84,5 @@ Epidemiology from book
 		- redced CO d/t MS --> reduced gradient --> masks clinical finding 
 # Physical Finding 
 - regular rhythm until late 
+- if AF --> think mitral valve disease 
 - 
