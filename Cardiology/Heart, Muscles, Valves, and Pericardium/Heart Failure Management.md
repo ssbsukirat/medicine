@@ -96,4 +96,8 @@
 	- Creatinine  -- >2.75uL 
 - ![[ADHFmanagement.png]]
 ## Volume Management 
-- 
+- IV Diuretc 
+	- essential when oral drug absorption is impaired 
+	- continuous infusion --> reduce toxicity and maintain stable serum drug levels
+	- if resistant to loops --> thiazide diuretic like chlorothiazide or metolazone --> sequential nephron blockade may enhance natriuresis and facilitate decongestion --> increases the risk of significant hypokalemia
+	- 
