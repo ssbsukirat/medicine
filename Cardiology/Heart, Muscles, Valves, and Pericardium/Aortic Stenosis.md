@@ -94,4 +94,8 @@ Epidemiology from book
 - **double apical impulse + palpable S4** in left lateral recumbent 
 - systolic thrill --> base of heart to right of sternum when leaning forward 
 ## Auscultation 
+- early ejection systolic sound --> in young with BAV --> disappear when valve is calcified and rigid 
+- as AS severity increases --> LV systole prolonged --> reduced S2 split and later Paradoxical split 
+- S4 at apex --> LVH and elevated LV EDP 
+- S3 late in course -- when systolic function compromised 
 - 
