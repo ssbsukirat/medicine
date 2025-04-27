@@ -128,4 +128,6 @@
 - intravenous nitroglycerin, sodium nitroprusside, and nesiritide (a recombinant brain-type natriuretic peptide) 
 - lower intracardiac filling pressures and reduce systemic vascular tone 
 - effective in providing symptom relief in patients with pulmonary edema and in restoring end-organ perfusion for those with low cardiac output and high systemic vascular resistance 
+- Nitroglycerine --> venous tone and ventricular preload
+- sodium nitroprusside - potent arterial and venous vasodilator --> both preload and afterload
 - 
