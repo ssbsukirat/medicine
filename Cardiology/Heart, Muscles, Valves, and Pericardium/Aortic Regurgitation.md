@@ -1,7 +1,18 @@
 - ![[ARcauses.png]]
-- PRIMARY 
+- PRIMARY valve disease 
 	- rheumatic --> thickening , deformity , shortening of individual cusps 
 	- less common if no associated mitral valve disease 
 	- congenital Aortic vakve fenestration --> mild AR 
 	- Aortic Cusp prolapse --> progressive chronic AR  (maybe isolated or a/w myxomatous degeneration a/w mitral or tricuspid involvement )
-	- 
+	- IE --> d/t perforation or erosion of leaflet 
+	- d/t syphilis or ANKYLOSING SPONDOLYITIS --> scarred and retracted valve 
+	- traumatic or avulsion if cusp 
+- PRIMARY Aortic Root disease 
+	- d/t widening of aortic annulus, lack of diastolic coaptation 
+	- Medial degeneration of Ascending aorta 
+	- Idiopathic dilation of aorta 
+	- annuloaortic ectasia 
+	- osteogenesis imperfecta 
+	- severe chronic HTN 
+	- retrograde dissection of aorta 
+	- Syphilis and ankylosing spondylitis --
