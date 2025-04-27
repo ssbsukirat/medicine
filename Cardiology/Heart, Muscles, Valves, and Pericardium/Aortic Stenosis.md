@@ -58,4 +58,13 @@ Epidemiology from book
 	- CO further low in significant hypertrophy and a small LV cavity despite a normal EF. 
 - Low-flow (stroke volume index <35ml/m2), low gradient (mean pressure gradient <40mmHg ) AS is therapeutic challenge 
 # Symptoms 
-- 
+- insignificant if orifice >1cm2 
+- maybe asymptomatic for long --> as LV hypertrophy compensate for function 
+- **when EF below normal or symptoms --> replacement** 
+- pure/predominant AS --> asymptomatic till 6th-8th decade 
+- if BAV in adult --> symptoms 1-2 decades earlier 
+- symptoms 
+	- exertional dyspnea 
+	- angina pectoris 
+	- syncope 
+	- 
