@@ -51,4 +51,11 @@ Epidemiology from book
 - CO --> maybe normal at rest --> fails to increase with exercise 
 - loss of timed, vigorous atrial contraction (AF or AV dissociation) --> rapid progress of symptoms 
 - Late course 
-	- decline in contractility --> afterload is high
+	- decline in contractility --> afterload is high 
+	- CO falls --> LV-aortic pressure gradient falls 
+	- LA, PA , RV pressures rise 
+	- further compromised if epicardial CAD 
+	- CO further low in significant hypertrophy and a small LV cavity despite a normal EF. 
+- Low-flow (stroke volume index <35ml/m2), low gradient (mean pressure gradient <40mmHg ) AS is therapeutic challenge 
+# Symptoms 
+- 
