@@ -133,3 +133,14 @@
 - Nesiritide --> intermediate b/w nitroglycerin and nitroprusside --> vs nitroglycerin more rapid reduction in pulmonary capillary wedge pressure and pulmonary vascular resistance --> but higher mortality and renal insufficiency 
 - routine use of nesiritide is accordingly not recommended. 
 - Serelaxin
+	- Recombinant human relaxin-2
+	- vasodilator hormone in pregnancy 
+	- improved dyspnea, signs-symptoms of congestion 
+	- not approved as subsequent trials not effective 
+## Inotropic Therapy 
+- pharmacologic agents that increase intracellular concentration of cyclic adenosine monophosphate via direct or indirect pathways, such as **sympathomimetic amines (dopamine, dobutamine) and phosphodiesterase-3 inhibitors (milrinone**), respectively, serve as positive inotropic agents
+- Dopamine 
+	- dopaminergic , A, B adrenergic receptor -- dose-dependent effect 
+	- vasodilator effect at <2ug/kg/min 
+	- beta adrenergic -- inotropic at moderate 
+	- alpha adrenergic 
