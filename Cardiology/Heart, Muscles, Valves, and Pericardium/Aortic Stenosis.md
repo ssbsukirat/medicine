@@ -210,4 +210,6 @@ Epidemiology from book
 	- lower risk of stroke, major bleed, AF 
 	- **permanent PPM, perivalvular AR, vascular complication less with SAVR**  
 	- in <65y RCTs less--> prefer SAVR 
-	- 
+	- ![[AStreatmentchart.png]]
+- ![[ASprotocolsurgery.png]]
+- 
