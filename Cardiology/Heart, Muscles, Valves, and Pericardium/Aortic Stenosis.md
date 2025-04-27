@@ -48,4 +48,7 @@ Epidemiology from book
 	- Mean systolic pressure gradient >40mmHg 
 	- effective Aortic orific <1cm2 (or <0.6cm2/m2 BSA) ~<1/3 of normal 
 - diminished compliance of hypertrophy LV --> high EDP in severe AS + preserved EF 
-- 
+- CO --> maybe normal at rest --> fails to increase with exercise 
+- loss of timed, vigorous atrial contraction (AF or AV dissociation) --> rapid progress of symptoms 
+- Late course 
+	- decline in contractility --> afterload is high
