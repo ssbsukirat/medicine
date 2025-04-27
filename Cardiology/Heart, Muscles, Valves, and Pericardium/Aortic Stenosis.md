@@ -25,4 +25,9 @@ Epidemiology from book
 	- commissural fusion --> may cause bicuspid valve 
 	- more susceptible to trauma and ultimately leads to fibrosis, calcification, and further narrowing 
 	- Rheumatic AS always a/w Mitral involvement + AR 
-# 
+# Bicuspid Aortic Valve 
+- mc congenital valve defect 
+- 2-4:1 male:female 
+- AD with incomplete penetrance 
+- maybe X linked...in turners 
+- 
