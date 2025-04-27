@@ -181,3 +181,6 @@ Epidemiology from book
 		- rapid progress of AS 
 		- very severe AS -- jet velocity >5m/s or gradient >60mmHg 
 		- excess LVH without systemic Hypertension 
+	- Long-term postoperative survival correlates with preoperative LV function
+	- adequacy of hepatic, renal, and pulmonary function before AVR is recommended 
+	- 
