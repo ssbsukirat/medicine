@@ -203,4 +203,11 @@ Epidemiology from book
 - TAVI - TRANSCATHETER AORTIC VALVE IMPLANTATION 
 	- across full spectrum of patient 
 	- balloon- expandable valve or a self-expanding valve, both of which incorporate a **pericardial bioprosthesis**
+	- via the **transfemoral route**, although trans-LV apical, subclavian, carotid, and ascending aortic routes have been used
+	- Aortic balloon valvuloplasty under rapid RV (or LV) pacing first step --> creates orifice for prosthetic 
+	- treatment of patients with structural deterioration of bioprosthetic aortic valves **(valve-in-valve TAVI),** as an alternative to reoperative valve replacement
+	- fewer periprocedural deaths 
+	- lower risk of stroke, major bleed, AF 
+	- **permanent PPM, perivalvular AR, vascular complication less with SAVR**  
+	- in <65y RCTs less--> prefer SAVR 
 	- 
