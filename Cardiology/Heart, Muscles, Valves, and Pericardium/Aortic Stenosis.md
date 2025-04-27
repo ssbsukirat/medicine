@@ -72,3 +72,16 @@ Epidemiology from book
 		- from a sudden fall in CO produced by an arrhythmia
 	- Late course 
 		- fatiguability 
+		- weakness 
+		- peripheral cyanosis 
+		- cachexia 
+		- Orthopnea, paroxysmal nocturnal dyspnea, and pulmonary edema, i.e., symptoms of LV failure
+		- severe PAH --> RV failure 
+		- hepatomegaly 
+		- AF 
+		- TR 
+	- AS + MS 
+		- redced CO d/t MS --> reduced gradient --> masks clinical finding 
+# Physical Finding 
+- regular rhythm until late 
+- 
