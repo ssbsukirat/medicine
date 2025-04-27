@@ -83,4 +83,7 @@
 	- dietary salt indiscretion 
 	- medication -- NSAIDs, thiazolidinediones , TNF-inhibitors, antidepressants , onco therapy , cold/flu preparations with cardiac stimulant , herbals 
 	- Coronary Ischemia 
-	- 
+	- Atrial and ventricular arrhythmias 
+	- Valvular heart disease
+	- systemic infection 
+	- PTE 
