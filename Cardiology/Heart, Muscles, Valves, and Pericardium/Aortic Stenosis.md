@@ -133,4 +133,14 @@ Epidemiology from book
 	- Hypertrophy without dilation --> rounding of apex in frontal and slight backward displacement in lateral 
 	- dilated proximal ascending aorta in frontal along right heart border  
 	- AV calcification in lateral 
-	- 
+	- late in disease --> LV enlargement, pulmonary congestion, and enlargement of the LA, PA, and right-sided heart chambers. 
+- Catheterization 
+	- may increase risk of cerebral emboli if aortic valve crossed 
+	- used in 
+		- patient with multivalvular disease 
+		- young, asymptomatic with noncalcific congenital AS (as PABV maybe needed if not symptomatic also)
+		- suspected supra- or sub- valvular LVO obstruction 
+	- Coronary angiography if valve intervention planned 
+# Natural History 
+- 7th-8th decade --> death 
+- 
