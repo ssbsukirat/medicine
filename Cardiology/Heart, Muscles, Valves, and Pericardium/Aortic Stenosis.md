@@ -99,4 +99,21 @@ Epidemiology from book
 - S4 at apex --> LVH and elevated LV EDP 
 - S3 late in course -- when systolic function compromised 
 - Murmur 
-	- 
+	- ejection mid systolic murmur shortly after S1 
+	- peak at middle of ejection --> ends before valve closure 
+	- low-pitched, rough, rasping, loudest at base (2nd right ICS)
+	- transmitted upward along carotid 
+	- occasional transmitted downward to apex --> maybe confused with systolic MR murmur (**gallavardin effect**)
+	- grade III/VI 
+	- if low CO (severe with HF) or low obstruction -- soft and brief murmur 
+# LABORATORY 
+- ECG 
+	- LVH 
+	- ST down T wave inversion in I and aVL and left precordial leads 
+	- no correlation with severity 
+	- absence of LVH does not exclude 
+- Echocardiogram 
+	- thickening , calcification , reduced systolic opening of valve leaflet 
+	- LVH 
+	- Eccentric closure in congenital BAV 
+	- TEE et
