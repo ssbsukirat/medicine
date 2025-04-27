@@ -47,4 +47,5 @@ Epidemiology from book
 - Severe LVO obstruction 
 	- Mean systolic pressure gradient >40mmHg 
 	- effective Aortic orific <1cm2 (or <0.6cm2/m2 BSA) ~<1/3 of normal 
-- diminished compliance of hypertrophy LV --> high EDP in severe AS + 
+- diminished compliance of hypertrophy LV --> high EDP in severe AS + preserved EF 
+- 
