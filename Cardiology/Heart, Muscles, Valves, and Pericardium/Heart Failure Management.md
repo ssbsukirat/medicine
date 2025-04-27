@@ -145,4 +145,13 @@
 	- beta adrenergic -- inotropic at moderate 
 	- alpha adrenergic - vasoconstrictor -- at >10ug/kg/min 
 	- low dose dopamine but does not appear to provide incremental advantage over routine therapy with intravenous diuretics (ROSE-AHF)
-- 
+- Milrinone 
+	- greater reduction in systemic and pulmonary vascular resistance than dobutamine
+	- higher risk of hypotension 
+	- dose adjustments in the setting of kidney dysfunction 
+	- action is downstream of beta 1 --> benefit if patient already receiving beta-blocker 
+- long-term inotropic --> higher mortality 
+- routine use of inotropic support in ADHF is discouraged 
+- currently indicated --> short-term use as bridge therapy (to either left ventricular assist device support or to transplant) in cardiogenic shock or as selectively applied palliation in end-stage HF. 
+- Novel Inotropic 
+	- 
