@@ -171,4 +171,13 @@ Epidemiology from book
 	- IE prophylaxis --> only if h/o IE 
 - SURGICAL 
 	- indication 
-		- 
+		- severe (<1cm2 or 0.6cm2/BSA) + symptomatic 
+		- LVEF <50% 
+		- AS with BAV with aortic root aneurysm (>5.5cm in max dimension) 
+		- aneurysm 4.5-5cm if family h/o aortic catastrophe or rapid aneurysm growth (>0.5cm/year)
+		- asymptomatic moderate to severe already going for CABG 
+	- Relative indication 
+		- abnormal treadmill test 
+		- rapid progress of AS 
+		- very severe AS -- jet velocity >5m/s or gradient >60mmHg 
+		- excess LVH without systemic Hypertension 
