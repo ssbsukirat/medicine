@@ -100,4 +100,12 @@
 	- essential when oral drug absorption is impaired 
 	- continuous infusion --> reduce toxicity and maintain stable serum drug levels
 	- if resistant to loops --> thiazide diuretic like chlorothiazide or metolazone --> sequential nephron blockade may enhance natriuresis and facilitate decongestion --> increases the risk of significant hypokalemia
+	- weight loss during hospitalization does not necessarily correlate closely with outcomes 
+	- response --> improvement in clinical symptoms as well as the bedside examination documenting normalization of the jugular venous pressure, clearance of pulmonary rales, suppression of cardiac gallops, and resolution of peripheral edema, hepatomegaly, and abdominal ascites. 
+	- continue diuresis until euvolemia has been achieved
+	- predischarge NT-proBNP correlate with risk of mortality and readmission 
+- Cardiorenal Syndrome 
+	- deteriorating function of one organ while therapy is administered to preserve the other.
+	- most patients with cardiorenal syndrome demonstrate a preserved cardiac output 
+	- exacerbated by “backward failure” resulting from increased intraabdominal pressure and impairment in return of renal venous blood flow
 	- 
