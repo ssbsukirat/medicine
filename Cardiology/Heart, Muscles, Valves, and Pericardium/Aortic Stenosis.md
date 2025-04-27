@@ -30,4 +30,16 @@ Epidemiology from book
 - 2-4:1 male:female 
 - AD with incomplete penetrance 
 - maybe X linked...in turners 
-- 
+- mutations in the NOTCH1, GATA5, and GATA4 genes 
+- NKX2.5 -- NO synthase mutation 
+- Medial degeneration with ascending aortic aneurysm formation occurs commonly >> Aortic cooarctation 
+- BAV have larger aortas -- directional shear forces dictated by the anatomic configuration of the valve
+- Ascending aorta enlargement --> a/w right-left cup fusion (mc variant) 
+# LVO Obstrucion 
+- valvular AS 
+- HOCM 
+- discrete fibromuscular/membranous subaortic stenosis 
+- suprvalvular AS 
+## Pathophysiology 
+- systolic pressure gradient b/w LV and Aorta 
+- slow obstruction --> LV performance maintained by concentric Hypertrophy 
