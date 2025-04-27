@@ -124,4 +124,13 @@ Epidemiology from book
 	- Aortic valve sclerosis, conversely, is accompanied by a jet velocity of <2.5 m/s (peak gradient <25 mmHg) 
 	- impaired diastolic function on doppler indices 
 	- in AS with severe LV dysfunction --> low flow, low gradient --> dobutamine stress echocardiogram 
-	- severe AS (i.e., valve area <1cm2) with a relatively low mean gradient (<40 mmHg) despite a normal EF (low-flow, low-gradient, severe AS with normal EF) are often hypertensive --> correct BP before repeat do
+	- severe AS (i.e., valve area <1cm2) with a relatively low mean gradient (<40 mmHg) despite a normal EF (low-flow, low-gradient, severe AS with normal EF) are often hypertensive --> correct BP before repeat doppler echo 
+	- if CO reduced with doubtful severity --> CT Chest for aortic valve calcium level 
+	- CT angiography --> IOC for planning transcatheter aortic valve implant (TAVI) 
+	- Cardiac MRI 
+- Chest Xray 
+	- no changes for long 
+	- Hypertrophy without dilation --> rounding of apex in frontal and slight backward displacement in lateral 
+	- dilated proximal ascending aorta in frontal along right heart border  
+	- AV calcification in lateral 
+	- 
