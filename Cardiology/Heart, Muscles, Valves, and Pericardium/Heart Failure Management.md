@@ -165,4 +165,5 @@
 - focused on decongestion to relieve symptoms, investigation and suppression of triggers for recurrent decompensation, and careful transition to longitudinal HF management 
 - all patients should receive education regarding HF self-management prior to discharge
 - institution of appropriate guideline-directed medical therapy prior to hospital discharge 
-- 
+- predischarge initiation of sacubitril-valsartan compared with enalapril was associated with greater reductions in natriuretic peptides as well as lower rates of composite death and HF readmission at 8 weeks 
+# HFrEF 
