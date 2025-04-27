@@ -116,4 +116,12 @@ Epidemiology from book
 	- thickening , calcification , reduced systolic opening of valve leaflet 
 	- LVH 
 	- Eccentric closure in congenital BAV 
-	- TEE et
+	- TEE better but not needed 
+	- Doppler - valve gradient , aortic valve area 
+	- Severe AS --> area <1cm2 
+	- Moderate --> 1-1.5cm2 
+	- Mild - 1.5-2cm2 
+	- Aortic valve sclerosis, conversely, is accompanied by a jet velocity of <2.5 m/s (peak gradient <25 mmHg) 
+	- impaired diastolic function on doppler indices 
+	- in AS with severe LV dysfunction --> low flow, low gradient --> dobutamine stress echocardiogram 
+	- severe AS (i.e., valve area <1cm2) with a relatively low mean gradient (<40 mmHg) despite a normal EF (low-flow, low-gradient, severe AS with normal EF) are often hypertensive --> correct BP before repeat do
