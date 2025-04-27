@@ -183,4 +183,24 @@ Epidemiology from book
 		- excess LVH without systemic Hypertension 
 	- Long-term postoperative survival correlates with preoperative LV function
 	- adequacy of hepatic, renal, and pulmonary function before AVR is recommended 
+	- Biological valve 
+		- in >65years 
+		- limited durability 
+		- needs re-replacement 
+	- Mechanical 
+		- younger 
+		- more PTE and bleeding risk 
+	- Homograft AVR -- IE patients 
+	- Ross procedure 
+		- replacement of the diseased aortic valve with the autologous pulmonic valve and implantation of a homograft in the native pulmonic position 
+		- young or middle aged 
+		- aortic root dilation , AR and pulmonary homograft stenosis are complication 
+- PAVR - PERCUTANEOUS AORTIC BALLOON VALVULOPLASTY
+	- in children and young adult 
+	- congenital noncalcific AS 
+	- high restenosis rate in severe calcific AS 
+	- maybe used to bridge to operation or TAVI in LV dysfunction or shock 
+- TAVI - TRANSCATHETER AORTIC VALVE IMPLANTATION 
+	- across full spectrum of patient 
+	- balloon- expandable valve or a self-expanding valve, both of which incorporate a **pericardial bioprosthesis**
 	- 
