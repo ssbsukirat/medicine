@@ -98,4 +98,5 @@ Epidemiology from book
 - as AS severity increases --> LV systole prolonged --> reduced S2 split and later Paradoxical split 
 - S4 at apex --> LVH and elevated LV EDP 
 - S3 late in course -- when systolic function compromised 
-- 
+- Murmur 
+	- 
