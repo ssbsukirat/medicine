@@ -94,4 +94,6 @@
 	- LAD 
 	- QRS prolongation 
 - Echocardiogram 
+	- LV size is increased in chronic AR, 
+	- systolic function is normal or even supernormal until myocardial contractility declines, as signaled by a decrease in EF or increase in the end- systolic dimension 
 	- 
