@@ -25,4 +25,7 @@
 - Laplace law -- LV dilation means need for higher LV systolic tension --> so **chronic AR has both high preload and afterload** 
 - as disease progress --> rising EDV, stroke volume and EF decline 
 - thickening of LV wall --> high weight heart in AR 
-- 
+- reverse diastolic pressure gradient --> falls in diastole --> typical **decrescendo nature of AR diastolic murmur** . 
+- in CHRONIC AR -- aortic = LV pressure at end of diastole 
+- in acute severe AR --> LV unprepared --> rapid rise in LV diastole pressure --> >40mmHg sometimes --> premature closure of Mitral valve 
+- CO --> normal or slightly reduced, but fails to rise with exercise 
