@@ -28,4 +28,15 @@
 - reverse diastolic pressure gradient --> falls in diastole --> typical **decrescendo nature of AR diastolic murmur** . 
 - in CHRONIC AR -- aortic = LV pressure at end of diastole 
 - in acute severe AR --> LV unprepared --> rapid rise in LV diastole pressure --> >40mmHg sometimes --> premature closure of Mitral valve 
-- CO --> normal or slightly reduced, but fails to rise with exercise 
+- CO --> normal or slightly reduced, but fails to rise with exercise , in ADVANCE --> elevation of the LA, pulmonary artery (PA) wedge, PA, and right ventricular (RV) pressures and lowering of the forward CO at rest 
+- Myocardial ischemia maybe present 
+# History 
+- 3/4 men 
+- women more in PRIMARY valvular AR with associated rheumatic valve disease 
+- acute severe AR --> IE, aortic dissection , trauma --> rapid rise in LVDP, LA, PA wedge pressure --> cardiogenic shock or pulmonary edema 
+- Chronic Severe AR 
+	- long latent 
+	- 10-15y asymptomatic 
+	- awareness of heartbeat on lying down 
+	- sinus tachycardia-induced or VPCs --> palpitations , head pounding 
+	- exertional dyspnea --> 1st symptom of reduced cardiac reserve 
