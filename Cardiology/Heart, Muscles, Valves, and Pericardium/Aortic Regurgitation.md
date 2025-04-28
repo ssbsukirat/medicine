@@ -58,4 +58,15 @@
 ## Palpation 
 - Impulse ---> heaving, displaced lateral and down 
 - systolic expansion + diastolic retraction of apex prominent 
-- diastolic thrill --> L 
+- diastolic thrill --> L sternal border 
+- Systolic thrill --> suprasternal notch and transmitted along carotids 
+- AR or AS+AR --> Bisfiriens pulse --> 2 systolic waves separated by trough 
+## Auscultation 
+- A2 absent 
+- BAV -- systolic ejection sound 
+- S4 occasional 
+- murmur 
+	- high-pitched blowing 
+	- decrescendo 
+	- diastolic 
+	- 3rd ICS along left sternal border 
