@@ -22,4 +22,7 @@
 - in severe AR -- regurgitant flow = effective stroke volume 
 - stroke volume has to go to high pressure aorta --> **increase in the LV end-diastolic volume (increased preload)** constitutes the major hemodynamic compensation for AR --> done by dilation and eccentric hypertrophy 
 - severe AR may have normal effective forward flow, normal LVEF, **elevated LVEDP and volume** 
+- Laplace law -- LV dilation means need for higher LV systolic tension --> so **chronic AR has both high preload and afterload** 
+- as disease progress --> rising EDV, stroke volume and EF decline 
+- thickening of LV wall --> high weight heart in AR 
 - 
