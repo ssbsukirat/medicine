@@ -53,4 +53,9 @@
 - Quincke's Pulse --> alternate flushing and paling of skin at root of nails when pressure at tip of nail 
 - Traube's sign -- Pistol-shot sound heard over femoral arteries 
 - Duroziez's Sign --> to-and-fro murmur on light compression of femoral artery 
-- wide PP 
+- wide PP --> d/t systemic HTN + lowering of diastolic BP 
+- Tachycardia to preserve CO 
+## Palpation 
+- Impulse ---> heaving, displaced lateral and down 
+- systolic expansion + diastolic retraction of apex prominent 
+- diastolic thrill --> L 
