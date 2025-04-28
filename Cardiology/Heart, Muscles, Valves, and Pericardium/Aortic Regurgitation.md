@@ -70,3 +70,16 @@
 	- decrescendo 
 	- diastolic 
 	- 3rd ICS along left sternal border 
+	- with severity --> louder and longer, indeed holodiastolic 
+	- soft, it can be heard best with the diaphragm of the stethoscope and with the patient sitting up, leaning forward, and with the breath held in forced expiration 
+	- louder along L>R sternal border 
+	- if R>L --> maybe d/t aneurysm dilation of aortic root 
+	- Cooing --> musical, s/o eversion of aortic cusp 
+- Mid-systolic ejection murmur 
+	- isolated AR 
+	- base of heart 
+	- transmitted along carotid 
+	- maybe loud even without obstruction 
+- Austin Flint Murmur 
+	- severe AR 
+	- soft, low-pitched
