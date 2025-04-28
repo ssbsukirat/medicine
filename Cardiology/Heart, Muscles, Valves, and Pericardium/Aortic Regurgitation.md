@@ -43,3 +43,14 @@
 	- f/b orthopnea, paroxysmal nocturnal dyspnea, and excessive diaphoresis 
 	- Angina in absence of CAD in young also 
 	- Nocturnal angina a/w diaphoresis 
+	- systemic fluid accumulation late in course 
+# Physical 
+- jarring of the entire body and the bobbing motion of the head with each systole can be appreciated 
+- abrupt distention and collapse of the larger arteries are easily visible 
+- try to detect predisposing condition --> BA, IE, Marfan, ANKYLOSING SPONDOLYITIS 
+## Arterial Pulse 
+- **Corrigans Pulse** --> rapidly rising **water hammer pulse** with sudden collapse 
+- Quincke's Pulse --> alternate flushing and paling of skin at root of nails when pressure at tip of nail 
+- Traube's sign -- Pistol-shot sound heard over femoral arteries 
+- Duroziez's Sign --> to-and-fro murmur on light compression of femoral artery 
+- wide PP 
