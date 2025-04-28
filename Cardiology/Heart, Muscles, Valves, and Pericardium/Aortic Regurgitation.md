@@ -40,3 +40,6 @@
 	- awareness of heartbeat on lying down 
 	- sinus tachycardia-induced or VPCs --> palpitations , head pounding 
 	- exertional dyspnea --> 1st symptom of reduced cardiac reserve 
+	- f/b orthopnea, paroxysmal nocturnal dyspnea, and excessive diaphoresis 
+	- Angina in absence of CAD in young also 
+	- Nocturnal angina a/w diaphoresis 
