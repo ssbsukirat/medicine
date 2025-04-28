@@ -15,4 +15,7 @@
 	- osteogenesis imperfecta 
 	- severe chronic HTN 
 	- retrograde dissection of aorta 
-	- Syphilis and ankylosing spondylitis --
+	- Syphilis and ankylosing spondylitis --> aortic dilation , aneurysm formation and severe AR 
+	- Takayasu Arteritis 
+# Pathophysiology 
+- 
