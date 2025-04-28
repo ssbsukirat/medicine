@@ -18,4 +18,8 @@
 	- Syphilis and ankylosing spondylitis --> aortic dilation , aneurysm formation and severe AR 
 	- Takayasu Arteritis 
 # Pathophysiology 
-- total strok
+- total stroke volume raised --> LVEF + regurgitant volume in AR 
+- in severe AR -- regurgitant flow = effective stroke volume 
+- stroke volume has to go to high pressure aorta --> **increase in the LV end-diastolic volume (increased preload)** constitutes the major hemodynamic compensation for AR --> done by dilation and eccentric hypertrophy 
+- severe AR may have normal effective forward flow, normal LVEF, **elevated LVEDP and volume** 
+- 
