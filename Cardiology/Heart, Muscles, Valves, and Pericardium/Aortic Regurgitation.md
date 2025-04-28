@@ -18,4 +18,4 @@
 	- Syphilis and ankylosing spondylitis --> aortic dilation , aneurysm formation and severe AR 
 	- Takayasu Arteritis 
 # Pathophysiology 
-- 
+- total strok
