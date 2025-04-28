@@ -82,4 +82,16 @@
 	- maybe loud even without obstruction 
 - Austin Flint Murmur 
 	- severe AR 
-	- soft, low-pitched
+	- soft, low-pitched 
+	- rumbling 
+	- mid-to-late diastolic 
+	- diastolic displacement of the anterior leaflet of the mitral valve by the AR stream
+- intensified by handgrip (higher SVR and LV afterload ) 
+# LABORATORY 
+- ECG 
+	- LVH 
+	- ST down, T inversion in I, aVL, V5,V6 --> LV strain 
+	- LAD 
+	- QRS prolongation 
+- Echocardiogram 
+	- 
