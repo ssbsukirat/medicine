@@ -102,4 +102,4 @@
 		- the regurgitant volume is ≥60 mL/beat, 
 		- the regurgitant fraction is ≥50%, and 
 		- there is diastolic flow reversal in the proximal portion of the descending thoracic aorta
-	- 
+	- longitudinal TTE for long-term followup 
