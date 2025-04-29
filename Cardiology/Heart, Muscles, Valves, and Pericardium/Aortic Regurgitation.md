@@ -96,4 +96,10 @@
 - Echocardiogram 
 	- LV size is increased in chronic AR, 
 	- systolic function is normal or even supernormal until myocardial contractility declines, as signaled by a decrease in EF or increase in the end- systolic dimension 
+	- rapid, high-frequency diastolic fluttering of the anterior mitral leaflet produced by the impact of the regurgitant jet is a characteristic 
+	- Severe AR if 
+		- central jet width assessed by color flow Doppler imaging exceeds 65% of the width of the LV outflow tract, 
+		- the regurgitant volume is ≥60 mL/beat, 
+		- the regurgitant fraction is ≥50%, and 
+		- there is diastolic flow reversal in the proximal portion of the descending thoracic aorta
 	- 
