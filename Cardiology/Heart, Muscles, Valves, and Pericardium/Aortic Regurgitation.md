@@ -145,4 +145,8 @@
 		- LVEF <55% 
 		- LV end systolic dimension >50mm 
 		- LV diastolic dimension >65mm 
-	- 
+- Severe AR without indication of procedure --> follow y 6-12 month echocardiogram 
+- TAVI not recommended in severe AR 
+- AVR with a suitable mechanical or tissue (biological) prosthesis is generally necessary in patients with rheumatic AR and in many patients with other causes of valvular AR 
+- in IE/ trauma --> torn leaflet --> PRIMARY SURGICAL repair maybe possible 
+- AR is due to aneurysmal dilation of the root or proximal ascending aorta rather than to primary valve involvement, it may be possible to reduce or eliminate the regurgitation by narrowing the annulus or by excising a portion of the aortic root without replacing the valve 
