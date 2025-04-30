@@ -125,4 +125,9 @@
 ## Chronic AR 
 - surgery if --> LV dysfunction or symptoms 
 - temporarily --> diuretic , vasodilator (ACE, ARB, CCBs, hydralazine) --> surgery when stable 
-- in asymptomatic patient --> vasodilator for bp control but no role in preventing LV dysfunction 
+- in asymptomatic patient --> vasodilator for bp control but no role in preventing LV dysfunction or preventing onset of symptoms 
+- BP control is difficult 
+- arrhythmia and systemic infections --> poorly tolerated --> so treat promptly 
+- nitroglycerin and long acting nitrates --> +/- role, not as useful as in CAD 
+- Syphilitic aortitis --> full penicillin course 
+- 
