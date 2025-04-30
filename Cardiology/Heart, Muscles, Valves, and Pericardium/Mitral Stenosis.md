@@ -25,4 +25,12 @@
 - MS + sinus rhythm --> high LA and PA wedge pressure --> **prominent a wave and gradual pressure decline after the v wave and mitral valve opening (y descent)** 
 - severe MS --> PA pressure elevation at rest and exercise --> secondary RVEDP elevation 
 - Cardiac Output 
-	- 
+	- normal at rest even in severe MS 
+	- subnormal rise on exercise 
+	- very severe --> <1cm2 --> subnormal at rest, may fall during activity 
+- Pulmonary Hypertension 
+	- d/t 
+		- passive backward transmission of LA pressure 
+		- Pulmonary arteriolar constriction --> **second stenosis** 
+		- interstitial edema in walls of small pulmonary vessels 
+		- organic obliterative changes in pulmonary vascular bed 
