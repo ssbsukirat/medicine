@@ -137,4 +137,12 @@
 	- symptoms start after LV dysfunction has happened 
 	- if surgery >1year after symptom onset or LV dysfunction --> does not restore normal LV size and function 
 - therefore --> 6-12 month Echocardiogram --> surgery **after LV dysfunction but before severe symptoms** 
-- 
+- Exercise testing may be helpful to assess effort tolerance 
+- Procedure can be deferred till --> asymptomatic and retains normal LV function without severe or progressive chamber dilation.
+- AVR --> Aortic Valve Replacement 
+	- severe AR irrespective of LV function 
+	- LV dysfunction is 
+		- LVEF <55% 
+		- LV end systolic dimension >50mm 
+		- LV diastolic dimension >65mm 
+	- 
