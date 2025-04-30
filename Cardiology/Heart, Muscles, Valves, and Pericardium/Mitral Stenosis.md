@@ -18,4 +18,11 @@
 - severe MS --> <1.5cm2 --> LA pressure ~25mmhg needed to maintain CO 
 - elevated pulmonary venous and pulmonary arterial (PA) wedge pressures --> reduce pulmonary compliance --> **exertional dyspnea** 
 - dyspnea initially precipitate by events that increase rate of flow across mitral orifice --> further LA pressure elevation 
-- to assess severity --> bo
+- to assess severity --> both gradient and flow rate to be measured --> flow rate CO and HR dependent 
+- higher HR --> diastolic prolongation > systolic --> reduced time for flow across MV
+- at a given CO --> higher HR --> higher transvalvular gradient and LA pressure 
+- LVDP and EF normal in isolated MS 
+- MS + sinus rhythm --> high LA and PA wedge pressure --> **prominent a wave and gradual pressure decline after the v wave and mitral valve opening (y descent)** 
+- severe MS --> PA pressure elevation at rest and exercise --> secondary RVEDP elevation 
+- Cardiac Output 
+	- 
