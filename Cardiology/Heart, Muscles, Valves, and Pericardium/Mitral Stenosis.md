@@ -1,5 +1,7 @@
 # ETIOLOGY and Pathology 
 - Rheumatic fever mc cause --> 40% of all patient with RHD 
+	- diffuse thickening of valve leaflet secondary to chronic inflammation & formation of fibrous tissue 
+	- mitral commisures fuse --> cusps rigid --> narrowing at ape
 - Others 
 	- congenital stenosis 
 	- cor triatriatum 
@@ -8,3 +10,5 @@
 	- RA 
 	- LA myxoma 
 	- IE with large vegetation 
+- ![[MSetiology.png]]
+- 
