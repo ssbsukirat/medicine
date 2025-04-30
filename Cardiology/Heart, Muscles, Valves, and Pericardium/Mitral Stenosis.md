@@ -34,3 +34,20 @@
 		- Pulmonary arteriolar constriction --> **second stenosis** 
 		- interstitial edema in walls of small pulmonary vessels 
 		- organic obliterative changes in pulmonary vascular bed 
+# Symptoms 
+- rheumatic carditis --> symptoms of MS --> ~2 decades 
+- mostly disability in 4th decade of life 
+- MS became seriously symptomatic, the disease progressed inexorably to death within 2–5 years. 
+- if orifice large to maintain flow with mild elevation of LA pressure --> high pressure causes dyspnea and cough --> precipitate by 
+	- sudden changes in the heart rate,
+	- volume status, or CO, 
+	- as, for example, with severe exertion, 
+	- excitement, 
+	- fever, 
+	- severe anemia, 
+	- paroxysmal AF and other tachycardias, 
+	- sexual intercourse, 
+	- pregnancy, and 
+	- thyrotoxicosis
+- with progressive --> lesser degrees of stress precipitate dyspnea, the patient becomes limited in daily activities, and orthopnea and paroxysmal nocturnal dyspnea develop
+- persistent AF --> accelerated rate of symptoms progre
