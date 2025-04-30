@@ -116,3 +116,6 @@
 	- can also be gained with coronary CT angiographic techniques. 
 # Treatment 
 - ![[ARtreatment.png]]
+## Acute Severe AR 
+- respond to intravenous diuretics and vasodilators (such as sodium nitroprusside), but 
+- stabilization is usually short-lived and operation is indicated urgently
