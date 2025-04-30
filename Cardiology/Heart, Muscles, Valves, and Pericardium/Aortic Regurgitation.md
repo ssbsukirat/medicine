@@ -124,4 +124,4 @@
 - Surgery is the treatment of choice and is usually necessary within 24 h of diagnosis. 
 ## Chronic AR 
 - surgery if --> LV dysfunction or symptoms 
-- temporarily --> diuretic , vasodilator (ACE, ARB, CCBs)
+- temporarily --> diuretic , vasodilator (ACE, ARB, CCBs, hydralazine) 
