@@ -13,4 +13,6 @@
 	- IE with large vegetation 
 - ![[MSetiology.png]]
 # Pathophysiology 
-- 
+- normal mitral orifice -- 4-6cm2 
+- significant obstruction --> <~2cm2 --> LA to LV needs **abnormal high left atrioventricular gradient**  
+- severe MS --> <1.5cm2 --> LA pressure ~25mmhg needed to main
