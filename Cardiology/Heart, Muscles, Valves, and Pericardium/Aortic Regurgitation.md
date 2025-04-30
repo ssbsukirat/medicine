@@ -151,4 +151,5 @@
 - in IE/ trauma --> torn leaflet --> **PRIMARY SURGICAL repair** maybe possible 
 - AR is due to aneurysmal dilation of the root or proximal ascending aorta rather than to primary valve involvement, it may be possible to reduce or eliminate the regurgitation by **narrowing the annulus or by excising a portion of the aortic root without replacing the valve** 
 - Resuspension of aortic valve in ~50% acute AR d/t type A aortic dissection 
-- 
+- AR, marked cardiac enlargement, and established LV dysfunction experience an operative mortality rate of ∼10% and a late mortality rate of ∼5% per year due to LV failure despite a technically satisfactory operation 
+- ![[ARprocedure.png]]
