@@ -102,4 +102,14 @@
 		- the regurgitant volume is ≥60 mL/beat, 
 		- the regurgitant fraction is ≥50%, and 
 		- there is diastolic flow reversal in the proximal portion of the descending thoracic aorta
-	- longitudinal TTE for long-term followup 
+	- Surveillance TTE for long-term followup 
+	- Cardiac MRI 
+	- Cardiac CT 
+	- TEE 
+	- 3D Echocardiogram 
+- Chest Xray 
+	- apex down and left 
+	- left anterior oblique and lateral view --> LV posterior displacement and encroach on spine 
+	- Aneurysm dilatation of aorta maybe seen 
+- Cardiac Catheterization and Angiography 
+	- 
