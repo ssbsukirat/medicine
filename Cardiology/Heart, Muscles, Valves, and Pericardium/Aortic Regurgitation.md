@@ -119,3 +119,9 @@
 ## Acute Severe AR 
 - respond to intravenous diuretics and vasodilators (such as sodium nitroprusside), but 
 - stabilization is usually short-lived and operation is indicated urgently
+- Intra-aortic balloon counterpulsation is contraindicated
+- beta-blocker --> avoid to not reduce CO 
+- Surgery is the treatment of choice and is usually necessary within 24 h of diagnosis. 
+## Chronic AR 
+- surgery if --> LV dysfunction or symptoms 
+- temporarily --> diuretic , vasodilator (ACE, ARB, CCBs)
