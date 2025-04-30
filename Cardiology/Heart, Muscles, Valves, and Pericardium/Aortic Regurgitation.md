@@ -112,4 +112,7 @@
 	- left anterior oblique and lateral view --> LV posterior displacement and encroach on spine 
 	- Aneurysm dilatation of aorta maybe seen 
 - Cardiac Catheterization and Angiography 
-	- 
+	- confirmation of the magnitude of regurgitation and the status of LV function 
+	- can also be gained with coronary CT angiographic techniques. 
+# Treatment 
+- ![[ARtreatment.png]]
