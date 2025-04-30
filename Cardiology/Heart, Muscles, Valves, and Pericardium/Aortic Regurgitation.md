@@ -130,4 +130,11 @@
 - arrhythmia and systemic infections --> poorly tolerated --> so treat promptly 
 - nitroglycerin and long acting nitrates --> +/- role, not as useful as in CAD 
 - Syphilitic aortitis --> full penicillin course 
+- Beta blockers & ARB losartan --> retard the rate of aortic root enlargement in young patients with Marfan’s syndrome and aortic root dilation
+- Beta-blocker for some functional benefit , BP control 
+## Surgical Treatment 
+- timing 
+	- symptoms start after LV dysfunction has happened 
+	- if surgery >1year after symptom onset or LV dysfunction --> does not restore normal LV size and function 
+- therefore --> 6-12 month Echocardiogram --> surgery **after LV dysfunction but before severe symptoms** 
 - 
