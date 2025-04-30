@@ -17,4 +17,5 @@
 - significant obstruction --> <~2cm2 --> LA to LV needs **abnormal high left atrioventricular gradient**  
 - severe MS --> <1.5cm2 --> LA pressure ~25mmhg needed to maintain CO 
 - elevated pulmonary venous and pulmonary arterial (PA) wedge pressures --> reduce pulmonary compliance --> **exertional dyspnea** 
+- dyspnea initially precipitate by events that increase rate of flow across mitral orifice --> further LA pressure elevation 
 - 
