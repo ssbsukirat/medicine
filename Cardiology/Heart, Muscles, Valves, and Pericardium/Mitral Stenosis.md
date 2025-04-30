@@ -50,4 +50,15 @@
 	- pregnancy, and 
 	- thyrotoxicosis
 - with progressive --> lesser degrees of stress precipitate dyspnea, the patient becomes limited in daily activities, and orthopnea and paroxysmal nocturnal dyspnea develop
-- persistent AF --> accelerated rate of symptoms progre
+- persistent AF --> accelerated rate of symptoms progress 
+- Hemoptysis --> rupture of pulmonary-bronchial venous connections secondary to pulmonary venous hypertension 
+	- more in patient with high LA pressure but normal pulmonary vascular resistance 
+	- rarely fatal 
+- Recurrent Pulmonary emboli +/- infarcts --> late in course, cause mortality and morbidity 
+- Pulmonary infection in winters in untreated MS 
+	- bronchitis 
+	- Bronchopneumonia 
+	- lobar pneumonia 
+# Pulmonary Changes 
+- fibrous thickening of walls of alveoli and pulmonary capillaries 
+- VC, Total lung capacity , maximal breathing capacity and O2 uptake per unit ventilation all reduce
