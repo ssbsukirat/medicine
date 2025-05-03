@@ -158,4 +158,8 @@
 # Mitral Commissurotomy 
 - symptomatic (New York Heart Association [NYHA] Functional Class II–IV) patients with isolated severe MS, whose effective orifice (valve area) is <∼1 cm2/m2 body surface area, or <1.5 cm2 in normal-sized adults.
 - PMBC --> catheter into LA --> single balloon is directed across the valve and inflated in the valvular orifice
+	- subvalvular structures should not be significantly scarred or thickened, and there should be no LA thrombus 
+	- associated MR should be of ≤2+/4+ severity 
+	- procedure of choice for young (<45) patients with pliable valves patients when it can be performed by a skilled operator in a high-volume center.
+	- “echo score” has been developed to help guide decision-making. The score accounts for the degree of leaflet thickening, calcification, and mobility, and for the extent of subvalvular thickening. A lower score predicts a higher likelihood of successful PMBC.
 - 
