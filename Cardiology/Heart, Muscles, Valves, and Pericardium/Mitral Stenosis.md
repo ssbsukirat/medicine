@@ -126,3 +126,4 @@
 	- but in isolated MR --> starts later than MS murmur and have evidence of LVH 
 	- OS and increased P2 absent 
 	- S1 soft or absent 
+	- apical pansystolic murmur of at least grade III/VI intensity as well as an S3 suggests significant MR.
