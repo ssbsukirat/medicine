@@ -147,4 +147,10 @@
 - helpful in assessing associated lesions, such as AS and AR, and in patients with recurring or worsening symptoms later after mitral valve intervention. 
 - CT angiography maybe used 
 # Treatment 
+- ![[MStreatment.png]]
+- in rheumatic --> Penicllin prophylaxis for gpA beta-hemolytic streptococci 
+- IE prophylaxis --> patients at high risk for complications from infection, including patients with a history of endocarditis
+- symptomatic --> restriction of sodium intake and small doses of oral diuretics
+- Beta blockers, nondihydropyridine calcium channel blockers (e.g., verapamil or diltiazem), and digitalis glycosides are useful in slowing the ventricular rate of patients with AF. 
+- MS + AF/ thromboembolism or LA thrombus --> vit K antagonist like warfarin --> INR 2-3 lifelong 
 - 
