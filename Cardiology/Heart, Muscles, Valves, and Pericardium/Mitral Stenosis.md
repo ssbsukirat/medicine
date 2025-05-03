@@ -59,11 +59,11 @@
 	- bronchitis 
 	- Bronchopneumonia 
 	- lobar pneumonia 
-# Pulmonary Changes 
+## Pulmonary Changes 
 - fibrous thickening of walls of alveoli and pulmonary capillaries 
 - VC, Total lung capacity , maximal breathing capacity and O2 uptake per unit ventilation all reduced 
 - in exercise --> pulmonary capillary pressure increase --> compliance falls 
-# Thrombi and Emboli 
+## Thrombi and Emboli 
 - in LA , especially enlarged atrial appendages 
 - systemic embolisation 10-20%, more in 
 	- AF , 
@@ -71,4 +71,5 @@
 	- reduced CO
 - maybe presenting feature in mild MS 
 # Physical Finding 
-- 
+- Inspection / Palpation 
+	- 
