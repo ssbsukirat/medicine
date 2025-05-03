@@ -127,3 +127,10 @@
 	- OS and increased P2 absent 
 	- S1 soft or absent 
 	- apical pansystolic murmur of at least grade III/VI intensity as well as an S3 suggests significant MR.
+- severe AR 
+	- apical mid-diastolic murmur associated with severe AR (Austin Flint murmur) may be mistaken for MS 
+	- differentiated from it because it is not intensified in pre-systole and becomes softer with administration of amyl nitrite or other arterial vasodilators
+- TS masks MS finding 
+- ASD 
+	- clinical, ECG, and chest x-ray evidence of RV enlargement and accentuation of pulmonary vascularity 
+	- 
