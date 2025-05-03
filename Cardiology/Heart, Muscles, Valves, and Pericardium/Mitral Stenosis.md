@@ -115,4 +115,9 @@
 	- TEE if TTE in inadequate 
 	- TEE to exclude LA thrombus before PMBC
 - Chest Xray 
-	- straightening of upper left border of cardiac silhouette, prominent PAs, dilation of upper lobe pulmonary veins, posterior displacement of esopa
+	- early 
+		- straightening of upper left border of cardiac silhouette, 
+		- prominent PAs,
+		- dilation of upper lobe pulmonary veins, 
+		- posterior displacement of esophagus by enlarged LA
+	- Kerley B lines --> fine, dense, opaque, horizontal lines 
