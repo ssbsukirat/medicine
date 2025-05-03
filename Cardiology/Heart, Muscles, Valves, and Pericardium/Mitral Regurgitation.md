@@ -10,4 +10,6 @@
 	- Primary --> d/t leaflet +/- chordae tendineae involvement 
 	- Secondary --> Functional --> d/t LV remodeling , annular dilation, papillary muscle displacement , dyssynchrony , posterior leaflet tethering 
 - Rheumatic MR 
-	- rigidity , deformity and retraction of valve cusps and commissural fu
+	- rigidity , deformity and retraction of valve cusps and 
+	- commissural fusion 
+	- shortening , contraction and fusion of chordae tendineae 
