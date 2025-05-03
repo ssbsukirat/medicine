@@ -23,4 +23,5 @@
 - MR d/t annular calcification --> encroaches on leaflet or reduces sphincter function --> in advanced renal disease, women >65y, HTN, DM 
 - Chronic MR --> enlarged LA --> posterior mitral leaflet tension --> pulled further from orifice --> progressive MR + LV dilation --> increases regurgitation --> enlarges LA/ LV --> vicious cycle --> **MR begets MR** 
 # Pathophysiology 
+- resistance to LV emptying (**LV afterload) is reduced** in patients with MR
 - 
