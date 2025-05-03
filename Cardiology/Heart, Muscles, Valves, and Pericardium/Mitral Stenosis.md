@@ -133,4 +133,18 @@
 - TS masks MS finding 
 - ASD 
 	- clinical, ECG, and chest x-ray evidence of RV enlargement and accentuation of pulmonary vascularity 
-	- 
+	- absence of LA enlargement and of Kerley B lines and the demonstration of fixed splitting of S2 with a grade II or III mid-systolic murmur at the mid to upper left sternal border all favor atrial septal defect over MS
+- LA Myxoma 
+	- obstruct LA emptying , dyspnea , diastolic murmur and hemodynamic changes similar to MS 
+	- f/s/o systemic disease 
+		- weight loss 
+		- fever 
+		- anemia 
+		- systemic emboli 
+		- high IgG, IL-6 levels 
+# CardiaC Catheterization 
+- discrepancy between the clinical and noninvasive findings, including those from TEE and exercise echocardiographic testing when appropriate.
+- helpful in assessing associated lesions, such as AS and AR, and in patients with recurring or worsening symptoms later after mitral valve intervention. 
+- CT angiography maybe used 
+# Treatment 
+- 
