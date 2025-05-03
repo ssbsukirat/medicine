@@ -153,4 +153,9 @@
 - symptomatic --> restriction of sodium intake and small doses of oral diuretics
 - Beta blockers, nondihydropyridine calcium channel blockers (e.g., verapamil or diltiazem), and digitalis glycosides are useful in slowing the ventricular rate of patients with AF. 
 - MS + AF/ thromboembolism or LA thrombus --> vit K antagonist like warfarin --> INR 2-3 lifelong 
+- recent AF + non-severe MS (no intervention indicated) --> reversion to sinus rhythm pharmacologically or by means of electrical countershock is indicated 
+	- after 3 weeks of anticoagulant at therapeutic INR 
+# Mitral Commissurotomy 
+- symptomatic (New York Heart Association [NYHA] Functional Class II–IV) patients with isolated severe MS, whose effective orifice (valve area) is <∼1 cm2/m2 body surface area, or <1.5 cm2 in normal-sized adults.
+- PMBC --> catheter into LA --> single balloon is directed across the valve and inflated in the valvular orifice
 - 
