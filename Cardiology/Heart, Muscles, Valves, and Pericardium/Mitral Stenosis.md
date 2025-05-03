@@ -92,4 +92,17 @@
 	- severe PH --> pansystolic murmur of functional TR in left sternal border 
 		- louder during inspiration 
 		- diminished during forced expiration --> **Carvallos Sign**
+	- in reduced CO state --> murmur may not be appreciable --> silent MS 
+	- Graham Steell murmur of PR,
+		- high-pitched, diastolic, decrescendo blowing murmur along the left sternal border, 
+		- d/t dilation of the pulmonary valve ring in mitral valve disease and severe pulmonary hypertension. 
+		- may be indistinguishable from the more common murmur produced by aortic regurgitation (AR) 
+		- it may increase in intensity with inspiration and is accompanied by a loud and often palpable P2.
+# LABORATORY 
+- ECG 
+	- P wave s/o LA enlargement 
+		- tall and peaked in lead II and upright in lead V1 when severe pulmonary hypertension or TS complicates MS and right atrial (RA) enlargement develops
+	- QRS normal 
+	- RAD and RVH in severe PH 
+- Echocardiogram 
 	- 
