@@ -85,4 +85,11 @@
 	- OS after A2 0.05-0.12s 
 	- OS f/b rumbling diastolic murmur at apex in left lateral recumbent --> accentuated by exercise just before auscultation 
 		- intensity of MS related to duration of murmur 
-		- 
+		- in sinus rhythm --> presystolic accentuation (louder during atrial systole)
+	- Soft, grade I or II/VI systolic murmurs --> at or medial to the apex --> s/o mitral valve disease with regurgitation
+	- hepatomegaly , ankle edema, ascites, pleural effusion in MS + RV failure 
+- Associated Lesions 
+	- severe PH --> pansystolic murmur of functional TR in left sternal border 
+		- louder during inspiration 
+		- diminished during forced expiration --> **Carvallos Sign**
+	- 
