@@ -19,4 +19,6 @@
 - in DCM --> once LV end diastolic dimension is 6cm 
 - HOCM --> dynamic MR --> D/t systolic anterior motion of anterior leaflet in narrow LVOT 
 - AF --> atrial functional MR --> atrial remodeling and annular dilation with inadequate leaflet lengthening and MR 
-- 
+- secondary MR d/t LV remodeling > AF 
+- MR d/t annular calcification --> encroaches on leaflet or reduces sphincter function --> in advanced renal disease, women >65y, HTN, DM 
+- Chronic MR --> 
