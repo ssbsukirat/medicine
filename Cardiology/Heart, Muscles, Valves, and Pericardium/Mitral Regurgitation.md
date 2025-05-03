@@ -4,5 +4,10 @@
 	- annulus, 
 	- chordae tendineae --> acute on chronic MR in myxomatous degeneration 
 	- papillary muscles -- acute MI may cause rupture (posteromedial > anterolateral)
-	- subjacent myocardium 
+	- subjacent myocardium  --> transient MR in ischemia, angina pectoris 
 - ![[MRcauses.png]]
+- Chronic MR 
+	- Primary --> d/t leaflet +/- chordae tendineae involvement 
+	- Secondary --> Functional --> d/t LV remodeling , annular dilation, papillary muscle displacement , dyssynchrony , posterior leaflet tethering 
+- Rheumatic MR 
+	- rigidity , deformity and retraction of valve cusps and commissural fu
