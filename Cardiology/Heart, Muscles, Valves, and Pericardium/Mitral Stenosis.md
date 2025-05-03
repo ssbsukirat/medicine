@@ -162,4 +162,24 @@
 	- associated MR should be of ≤2+/4+ severity 
 	- procedure of choice for young (<45) patients with pliable valves patients when it can be performed by a skilled operator in a high-volume center.
 	- “echo score” has been developed to help guide decision-making. The score accounts for the degree of leaflet thickening, calcification, and mobility, and for the extent of subvalvular thickening. A lower score predicts a higher likelihood of successful PMBC.
-- 
+- Open Commissurotomy 
+	- in 
+		- PMBC not possible / unsuccessful 
+		- restenosis after previous surgery 
+	- important to 
+		- loosen any subvalvular fusion of papillary muscles and chordae tendineae; 
+		- to remove large deposits of calcium, thereby improving valvular function; and 
+		- to remove atrial thrombi
+- Successful Commissurotomy 
+	- 50% reduction in the mean mitral valve gradient and a doubling of the mitral valve area 
+	- results in striking symptomatic and hemodynamic improvement and prolongs survival
+	- unless recurrent systemic embolization or severe pulmonary hypertension has occurred (PA systolic pressures >50 mmHg at rest or >60 mmHg with exercise), commissurotomy is not recommended for patients who are asymptomatic and/or who have mild or moderate stenosis (mitral valve area >1.5 cm2)
+# MVR 
+- MV replacement 
+- in 
+	- MS + significant MR 
+	- whom the valve has been severely distorted by previous transcatheter or operative manipulation, or 
+	- those in whom the surgeon does not find it possible to improve valve function significantly with commissurotomy.
+- routinely performed with preservation of the chordal attachments 
+- severe MS—i.e., an orifice area ≤1.5 cm2—and are in NYHA Class III, i.e., symptomatic with ordinary activity despite optimal medical therapy. 
+- worse prognosis in >65y and marked disability or marked reduced CO 
