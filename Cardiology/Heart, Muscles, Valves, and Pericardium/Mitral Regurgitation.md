@@ -13,3 +13,10 @@
 	- rigidity , deformity and retraction of valve cusps and 
 	- commissural fusion 
 	- shortening , contraction and fusion of chordae tendineae 
+- Congenital --> AV endocardial cushion defect 
+- cleft anterior mitral valve leaflet a/w ostium primum atrial septal defect 
+- Radiation MS --> leaflet thickening, retraction, and calcification, often in association with annular and chordal involvement 
+- in DCM --> once LV end diastolic dimension is 6cm 
+- HOCM --> dynamic MR --> D/t systolic anterior motion of anterior leaflet in narrow LVOT 
+- AF --> atrial functional MR --> atrial remodeling and annular dilation with inadequate leaflet lengthening and MR 
+- 
