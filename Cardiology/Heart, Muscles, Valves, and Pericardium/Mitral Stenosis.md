@@ -73,4 +73,16 @@
 # Physical Finding 
 - Inspection / Palpation 
 	- Severe MS -- malar flush with pinched and blue facies 
-	- sinus rhythm 
+	- sinus rhythm + severe PAH/ TS --> prominent a wave in JVP 
+	- BP normal or slightly low 
+	- parasternal life --> enlarged RV 
+	- Diastolic thrill in cardiac apex -- in left lateral recumbent 
+- Auscultation 
+	- S1 accentuated and delayed in early disease 
+	- P2 accentuated in high PAPs 
+	- S2 narrow split 
+	- Opening Snap -- audible in expiration at, or just medial to, the cardiac apex 
+	- OS after A2 0.05-0.12s 
+	- OS f/b rumbling diastolic murmur at apex in left lateral recumbent --> accentuated by exercise just before auscultation 
+		- intensity of MS related to duration of murmur 
+		- 
