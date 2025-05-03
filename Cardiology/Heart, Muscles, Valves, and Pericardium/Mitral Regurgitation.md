@@ -24,4 +24,6 @@
 - Chronic MR --> enlarged LA --> posterior mitral leaflet tension --> pulled further from orifice --> progressive MR + LV dilation --> increases regurgitation --> enlarges LA/ LV --> vicious cycle --> **MR begets MR** 
 # Pathophysiology 
 - resistance to LV emptying (**LV afterload) is reduced** in patients with MR
-- 
+- LV decompress into LA --> reduced LV size in systole --> rapid decline in LV tension 
+- initial compensation --> more complete LV emptying 
+- as regurgitation increase --> increased LV volume 
