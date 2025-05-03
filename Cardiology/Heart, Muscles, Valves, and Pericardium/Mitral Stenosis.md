@@ -72,4 +72,5 @@
 - maybe presenting feature in mild MS 
 # Physical Finding 
 - Inspection / Palpation 
-	- 
+	- Severe MS -- malar flush with pinched and blue facies 
+	- sinus rhythm 
