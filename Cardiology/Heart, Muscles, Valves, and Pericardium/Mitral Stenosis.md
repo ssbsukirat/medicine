@@ -120,4 +120,9 @@
 		- prominent PAs,
 		- dilation of upper lobe pulmonary veins, 
 		- posterior displacement of esophagus by enlarged LA
-	- Kerley B lines --> fine, dense, opaque, horizontal lines 
+	- Kerley B lines --> fine, dense, opaque, horizontal lines in lower, mid-lung fields --> d/t distension of interlobular septae and lymphatics with edema ---> when LA pressure >20mmHg 
+# DIFFERENTIAL 
+- significant MR may have diastolic murmur 
+	- but in isolated MR --> starts later than MS murmur and have evidence of LVH 
+	- OS and increased P2 absent 
+	- S1 soft or absent 
