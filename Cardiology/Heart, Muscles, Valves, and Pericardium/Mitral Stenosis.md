@@ -105,4 +105,14 @@
 	- QRS normal 
 	- RAD and RVH in severe PH 
 - Echocardiogram 
-	- 
+	- Provides 
+		- measurements of mitral inflow velocity during early (E wave) and late (A wave in patients in sinus rhythm) diastolic filling, 
+		- transvalvular peak and mean gradients and mitral orifice area, 
+		- presence and severity of any associated MR,
+		- extent of leaflet calcification and restriction, 
+		- the degree of distortion of the subvalvular apparatus 
+		- anatomic suitability for percutaneous mitral balloon commissurotomy
+	- TEE if TTE in inadequate 
+	- TEE to exclude LA thrombus before PMBC
+- Chest Xray 
+	- straightening of upper left border of cardiac silhouette, prominent PAs, dilation of upper lobe pulmonary veins, posterior displacement of esopa
