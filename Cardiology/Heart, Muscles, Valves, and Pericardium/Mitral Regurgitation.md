@@ -30,4 +30,7 @@
 - increased LV compliance --> diastolic pressure not increased until late 
 - Regurgitant Volume depends on 
 	- LV systolic pressure 
-	- 
+	- size of regurgitant orifice 
+		- depends on LV and mitral annular dilatation 
+- EF rises in severe MR + normal LV systolic function --> even modest reduction <60% suggests contractile dysfunction 
+- in Diastole -> rapid y descent if no MS , early diastolic LA-LV gradient (leading to S3, MDM masquerading as MS) d/t rapid flow across orifice 
