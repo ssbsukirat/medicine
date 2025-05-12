@@ -26,4 +26,6 @@
 - resistance to LV emptying (**LV afterload) is reduced** in patients with MR
 - LV decompress into LA --> reduced LV size in systole --> rapid decline in LV tension 
 - initial compensation --> more complete LV emptying 
-- as regurgitation increase --> increased LV volume 
+- as regurgitation increase --> increased LV volume --> reduced forward CO 
+- increased LV compliance --> diastolic pressure not increased until late 
+- 
