@@ -28,4 +28,6 @@
 - initial compensation --> more complete LV emptying 
 - as regurgitation increase --> increased LV volume --> reduced forward CO 
 - increased LV compliance --> diastolic pressure not increased until late 
-- 
+- Regurgitant Volume depends on 
+	- LV systolic pressure 
+	- 
