@@ -61,4 +61,6 @@
 - Late onset right sided HF - hepatic congestion , ankle edema, distended neck veins, ascites, secondary TR 
 - acute severe MR -- acute pulmonary edema 
 # Physical Findings 
+- normal BP 
+- carotid pulse -- sharp, low- volume upstroke owing to the reduced forward CO
 - 
