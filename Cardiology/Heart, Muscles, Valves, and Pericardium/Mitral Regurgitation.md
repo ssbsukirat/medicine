@@ -38,4 +38,6 @@
 	- regurgitant volume ≥60 mL/beat 
 	- regurgitant fraction (RF) ≥50%
 	- effective regurgitant orifice area ≥0.40 cm2
+## LA compliance 
+- acute severe MR --> normal size LA with normal or reduced compliance 
 - 
