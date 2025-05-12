@@ -49,4 +49,16 @@
 	- marked LA enlargement 
 	- increase LA compliance 
 	- little if any increase in LA and pulmonary venous pressures for any increase in LA volume. 
-	- 
+	- less prominent w wave 
+	- holosystolic murmur with plateau configuration 
+	- severe fatigue and exhaustion secondary to a low forward CO, whereas symptoms resulting from pulmonary congestion are less prominent initially
+	- AF develop once LA dilates significant 
+# Symptoms 
+- chronic mild-to-moderate isolated MR asymptomatic 
+- Severe, chronic 
+	- Fatigue , exertional dyspnea , orthopnea 
+	- palpitations a/w AF 
+- Late onset right sided HF - hepatic congestion , ankle edema, distended neck veins, ascites, secondary TR 
+- acute severe MR -- acute pulmonary edema 
+# Physical Findings 
+- 
