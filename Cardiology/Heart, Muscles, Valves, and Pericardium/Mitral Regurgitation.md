@@ -39,5 +39,14 @@
 	- regurgitant fraction (RF) ≥50%
 	- effective regurgitant orifice area ≥0.40 cm2
 ## LA compliance 
-- acute severe MR --> normal size LA with normal or reduced compliance 
-- 
+- acute severe MR --> normal size LA with normal or reduced compliance --> high pressures at any volume 
+- v wave of LA pressure pulse prominent 
+- LA, Pulmonary venous pressure elevated 
+- Murmur in acute MR 
+	- early in timing and decrescendo in configuration ending well before S2, as a reflection of the progressive diminution in the LV-LA pressure gradient. 
+- LV systolic function -> normal, hyperdynamic , reduced in acute MR 
+- Chronic MR 
+	- marked LA enlargement 
+	- increase LA compliance 
+	- little if any increase in LA and pulmonary venous pressures for any increase in LA volume. 
+	- 
