@@ -34,3 +34,8 @@
 		- depends on LV and mitral annular dilatation 
 - EF rises in severe MR + normal LV systolic function --> even modest reduction <60% suggests contractile dysfunction 
 - in Diastole -> rapid y descent if no MS , early diastolic LA-LV gradient (leading to S3, MDM masquerading as MS) d/t rapid flow across orifice 
+- Chronic, severe MR is
+	- regurgitant volume ≥60 mL/beat 
+	- regurgitant fraction (RF) ≥50%
+	- effective regurgitant orifice area ≥0.40 cm2
+- 
