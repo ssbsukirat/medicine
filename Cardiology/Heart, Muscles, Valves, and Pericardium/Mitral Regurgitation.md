@@ -92,3 +92,10 @@
 	- LA enlargement 
 	- RA enlargement if severe PH 
 	- AF in chronic 
+	- some have eccentric LV hypertrophy 
+- Echocardiogram 
+	- mechanism of the MR and its hemodynamic severity 
+	- LV end-diastolic and end-systolic volumes and EF 
+	- leaflet structure and function, chordal integrity, LA and LV size, annular calcification, and regional and global LV systolic function 
+	- indicated to follow the course of patients with chronic MR and to provide rapid assessment for any clinical change
+	- 
