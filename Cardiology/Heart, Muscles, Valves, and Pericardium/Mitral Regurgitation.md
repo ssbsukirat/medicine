@@ -63,4 +63,5 @@
 # Physical Findings 
 - normal BP 
 - carotid pulse -- sharp, low- volume upstroke owing to the reduced forward CO
-- 
+- systolic thrill at apex + apex displaced laterally
+- hyperdynamic LV , S3 
