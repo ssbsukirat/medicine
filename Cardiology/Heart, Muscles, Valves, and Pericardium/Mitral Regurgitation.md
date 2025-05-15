@@ -82,4 +82,7 @@
 	- III/VI 
 	- holosystolic 
 	- decrescendo 
-	- ceases in mid-to-late systole in acue
+	- ceases in mid-to-late systole in acute severe MR 
+	- prominent at apex and radiates to axilla 
+	- ruptured chordae tendineae or primary involvement of the posterior mitral leaflet with prolapse or flail --> regurgitant jet is eccentric, directed anteriorly, and strikes the LA wall adjacent to the aortic root --> transmitted to base of heart --> maybe confused with AS 
+	- ruptured chordae tendineae --> cooing or "seagull" quality 
