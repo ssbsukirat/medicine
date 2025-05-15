@@ -107,4 +107,7 @@
 	- Calcification of the mitral annulus may be visualized, particularly on the lateral view 
 	- in acute --> asymmetric pulmonary edema if the regurgitant jet is directed predominantly to the orifice of an upper lobe pulmonary vein.
 # Treatment 
-- ![[MRtreat.png]]
+- ![[MRtreat.png]] Primary MR 
+- Secondary MR - ![[MRsecondarytreat.png]]
+## Medical Treatment 
+- 
