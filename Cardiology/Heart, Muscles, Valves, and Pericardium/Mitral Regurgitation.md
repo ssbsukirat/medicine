@@ -98,4 +98,13 @@
 	- LV end-diastolic and end-systolic volumes and EF 
 	- leaflet structure and function, chordal integrity, LA and LV size, annular calcification, and regional and global LV systolic function 
 	- indicated to follow the course of patients with chronic MR and to provide rapid assessment for any clinical change
-	- 
+	- Exercise testing with TTE can be useful to assess exercise capacity as well as any dynamic change in MR severity, PA systolic pressures, and biventricular function 
+- CXRAY 
+	- LA LV dominant 
+	- late course --> LA massive, enlarged and forms right border of heart 
+	- Pulmonary venous congestion, interstitial edema, and Kerley B lines 
+	- calcification of the mitral leaflets 
+	- Calcification of the mitral annulus may be visualized, particularly on the lateral view 
+	- in acute --> asymmetric pulmonary edema if the regurgitant jet is directed predominantly to the orifice of an upper lobe pulmonary vein.
+# Treatment 
+- ![[MRtreat.png]]
