@@ -134,4 +134,5 @@
 ## SURGICAL 
 - risks are significantly lower for primary valve repair than for valve replacement 
 - Repair usually consists of valve reconstruction using a variety of valvuloplasty techniques and insertion of an annuloplasty ring 
+- repair avoids long-term adverse consequences of valve replacement, including thromboembolic and hemorrhagic complications in the case of mechanical prostheses and late valve failure necessitating repeat valve replacement in the case of bioprostheses 
 - 
