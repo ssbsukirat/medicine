@@ -86,3 +86,9 @@
 	- prominent at apex and radiates to axilla 
 	- ruptured chordae tendineae or primary involvement of the posterior mitral leaflet with prolapse or flail --> regurgitant jet is eccentric, directed anteriorly, and strikes the LA wall adjacent to the aortic root --> transmitted to base of heart --> maybe confused with AS 
 	- ruptured chordae tendineae --> cooing or "seagull" quality 
+	- intensified by isometric exercise (handgrip) but is reduced during the strain phase of the Valsalva maneuver because of the associated decrease in LV preload --> if not d/t MVP 
+# LABORATORY 
+- ECG 
+	- LA enlargement 
+	- RA enlargement if severe PH 
+	- AF in chronic 
