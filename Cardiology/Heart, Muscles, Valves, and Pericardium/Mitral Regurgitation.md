@@ -110,4 +110,6 @@
 - ![[MRtreat.png]] Primary MR 
 - Secondary MR - ![[MRsecondarytreat.png]]
 ## Medical Treatment 
-- 
+- depends on cause 
+- Anticoagulation with warfarin or DOAC if AF 
+- DOACs c/i if --> + rheumatic MS / 
