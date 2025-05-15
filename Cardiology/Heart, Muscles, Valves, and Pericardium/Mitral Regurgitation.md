@@ -112,4 +112,17 @@
 ## Medical Treatment 
 - depends on cause 
 - Anticoagulation with warfarin or DOAC if AF 
-- DOACs c/i if --> + rheumatic MS / 
+- DOACs c/i if --> + moderate-severe rheumatic MS / mechanical prosthetic valves
+- Cardioversion maybe used 
+- in chronic MR - no use of vasodilators for the treatment of chronic, isolated severe MR with preserved LV systolic function in the absence of systemic hypertension
+- secondary MR d/t ischemic or DCM 
+	- GDMT 
+	- diuretic 
+	- beta blockers 
+	- ACE inhibitors /ARBs 
+	- ARNIs 
+	- MRAs 
+	- SGLT2 inhibitors 
+	- CRT therapy 
+- Antibiotic prophylaxis for IE if h/o IE 
+- avoid isometric exercise 
