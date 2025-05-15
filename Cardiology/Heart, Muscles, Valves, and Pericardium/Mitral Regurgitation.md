@@ -126,3 +126,12 @@
 	- CRT therapy 
 - Antibiotic prophylaxis for IE if h/o IE 
 - avoid isometric exercise 
+- severe Acute MR 
+	- urgent stabilisation and surgery 
+	- diuretic 
+	- IV vasodilator 
+	- mechanical support 
+## SURGICAL 
+- risks are significantly lower for primary valve repair than for valve replacement 
+- Repair usually consists of valve reconstruction using a variety of valvuloplasty techniques and insertion of an annuloplasty ring 
+- 
