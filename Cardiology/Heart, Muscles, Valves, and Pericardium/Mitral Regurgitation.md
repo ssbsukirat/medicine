@@ -76,4 +76,10 @@
 - S2 --> wide physiology closing d/t earlier closure of aortic valve 
 - S3 low-pitched --> d/t sudden tensing of papillary muscles, chordae tendineae and valve leaflet 
 - maybe f/b short rumbling MDM even without MS 
-- S4 in acute severe MR with sinus r
+- S4 in acute severe MR with sinus rhythm 
+- Systolic Murmur 
+	- chronic severe MR 
+	- III/VI 
+	- holosystolic 
+	- decrescendo 
+	- ceases in mid-to-late systole in acue
