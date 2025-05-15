@@ -65,3 +65,11 @@
 - carotid pulse -- sharp, low- volume upstroke owing to the reduced forward CO
 - systolic thrill at apex + apex displaced laterally
 - hyperdynamic LV , S3 
+- acute severe MR 
+	- low arterial pressure , 
+	- narrow PP 
+	- JVP normal or exaggerated 
+	- apex normal 
+	- signs of pulmonary congestion prominent 
+## Auscultation 
+- S1 --> absent , soft or buried in holosystolic murmur of chronic 
