@@ -146,4 +146,6 @@
 	- creation of neochords, 
 	- limited leaflet resection, and 
 	- insertion of an annuloplasty band
-- 
+	- with AF --> left or biatrial maze surgery, or radiofrequency isolation of the pulmonary veins, along with left atrial appendage amputation
+- secondary MR 
+	- 
