@@ -135,4 +135,15 @@
 - risks are significantly lower for primary valve repair than for valve replacement 
 - Repair usually consists of valve reconstruction using a variety of valvuloplasty techniques and insertion of an annuloplasty ring 
 - repair avoids long-term adverse consequences of valve replacement, including thromboembolic and hemorrhagic complications in the case of mechanical prostheses and late valve failure necessitating repeat valve replacement in the case of bioprostheses 
+- Indication in chronic severe MR 
+	- once symptomatic 
+	- asymptomatic + 
+		- LV dysfunction (EF<60%, LV ESD >40mm) 
+		- progressive decrease in LVEF or increase in LV ESD on serial imaging 
+		- MV anatomy that would predict a >95% of a successful and durable repair in a low surgical risk
+- Repair Technique 
+	- chordal transfer, 
+	- creation of neochords, 
+	- limited leaflet resection, and 
+	- insertion of an annuloplasty band
 - 
