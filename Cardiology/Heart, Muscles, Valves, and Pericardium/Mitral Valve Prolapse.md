@@ -1,0 +1,6 @@
+- aka **Systolic Click syndrome , Barlows syndrome , billowing mitral leaflet syndrome** 
+- mc abnormality causing PRIMARY MR 
+- pathology 
+	- excessive or redundant mitral leaflet tissue, which is commonly associated with myxomatous degeneration and 
+	- greatly increased concentrations of certain glycosaminoglycans
+- 
