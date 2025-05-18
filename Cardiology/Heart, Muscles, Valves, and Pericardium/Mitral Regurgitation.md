@@ -152,4 +152,5 @@
 	- annuloplasty repair with an undersized, rigid ring or chord-sparing valve replacement for patients with moderate or greater degrees of MR 
 	- in DCM -- survival benefit of surgery not much 
 ## TRANSCATHETER MR repair and Replacement 
-- 
+- deployment of a clip delivered via transseptal puncture that grasps the leading edges of the mitral leaflets in their mid-portion (anterior scallop to posterior scallop or A2-P2
+- clip device for transcatheter edge-to-edge repair (TEER) is commercially available for treatment of both primary and secondary MR in appropriately selected patients
