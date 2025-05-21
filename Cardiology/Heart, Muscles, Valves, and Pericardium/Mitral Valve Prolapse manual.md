@@ -1,0 +1,27 @@
+- aka **Systolic Click syndrome , Barlows syndrome , billowing mitral leaflet syndrome** 
+- mc abnormality causing PRIMARY MR 
+- pathology 
+	- excessive or redundant mitral leaflet tissue, which is commonly associated with myxomatous degeneration and 
+	- greatly increased concentrations of certain glycosaminoglycans
+	- exact cause unknown --> reduced type 3 collagen implicated 
+- seen in connective tissue disease 
+	- Marfan 
+	- osteogenesis imperfecta 
+	- Ehlers-Danlos Syndrome 
+- associated with 
+	- high arched palate 
+	- chest and thoracic spine defects 
+	- straight back syndrome 
+	- h/o inguinal hernia 
+	- joint dislocations 
+	- meniscal tears 
+	- easy bruisability 
+- usually limited to MV, but sometime Tricuspid and aortic maybe involved 
+- posterior leaflet > anterior 
+- mitral valve annulus dilated 
+- other cardiac disease association 
+	- acute rheumatic fever 
+	- ischemic heart disease 
+	- cardiomyopathy 
+	- ostium secondum ASD 
+	- 
