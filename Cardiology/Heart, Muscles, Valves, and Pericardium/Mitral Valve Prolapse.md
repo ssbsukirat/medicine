@@ -57,18 +57,17 @@
 - Most patients are asymptomatic and remain so for their entire lives.
 - However, in North America, **MVP is now the most common cause of isolated severe MR requiring surgical treatment**.
 - Arrhythmias have been reported and may cause palpitations, light-headedness, and syncope. These include:
-    - Ventricular premature contractions
+    - Ventricular premature contractions - mc
     - Paroxysmal supraventricular tachycardia
     - Paroxysmal ventricular tachycardia
     - Atrial fibrillation (AF)
-- Sudden death is a **very rare complication**.
-- Sudden death occurs most often in patients with severe MR and depressed left ventricle (LV) systolic function.
+- Sudden death is a **very rare complication** -- in severe MR and depressed left ventricle (LV) systolic function 
 - Sudden death can occur in individuals with normal LV size and function.
 - A small subset of MVP patients with high-grade ventricular ectopy has specific features:
     - Electrocardiographic inferior-apical T-wave abnormalities
     - High-density premature ventricular complexes at rest
     - Mitral annular disjunction (abnormal atrial displacement of leaflet hinge point)
-    - Papillary muscle fibrosis on cardiac magnetic resonance imaging with late gadolinium enhancement
+    - Papillary muscle fibrosis on cardiac MRI with late gadolinium enhancement
 - There may be an excess risk of sudden death among patients with a flail leaflet.
 - Many patients have chest pain that is difficult to evaluate. It is often substernal, prolonged, and not related to exertion. Rarely, it may resemble angina pectoris.
 - Transient cerebral ischemic attacks have been reported secondary to emboli from the mitral valve due to endothelial disruption.
@@ -80,8 +79,7 @@
 - It occurs most frequently between the ages of 15 and 30 years.
 - MVP may also be observed in older (>50 years) patients, often men.
 - In older patients, MR is often more severe because of chordal rupture and requires surgical treatment.
-- There is an increased familial incidence for some patients.
-- This suggests an autosomal dominant form of inheritance with incomplete penetrance.
+- There is an increased familial incidence for some patients --> s/o AD inheritance with incomplete penetrance
 
 # Clinical Features: Auscultation
 
