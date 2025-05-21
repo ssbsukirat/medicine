@@ -69,7 +69,7 @@
     - Mitral annular disjunction (abnormal atrial displacement of leaflet hinge point)
     - Papillary muscle fibrosis on cardiac MRI with late gadolinium enhancement
 - There may be an excess risk of sudden death among patients with a flail leaflet.
-- Many patients have chest pain that is difficult to evaluate. It is often substernal, prolonged, and not related to exertion. Rarely, it may resemble angina pectoris.
+- Many patients have chest pain that is difficult to evaluate. It is often substernal, prolonged, and **not related to exertion**. Rarely, it may resemble angina pectoris.
 - Transient cerebral ischemic attacks have been reported secondary to emboli from the mitral valve due to endothelial disruption.
 - Infective endocarditis may occur in patients with MR and/or leaflet thickening.
 
