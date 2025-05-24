@@ -33,8 +33,7 @@
 ## PHYSICAL FINDINGS
 
 - Diagnosis may be missed unless considered due to presence of other obvious valvular disease.
-- Severe TS is associated with **marked hepatic congestion**.
-- Hepatic congestion often results in cirrhosis, jaundice, serious malnutrition, anasarca, and ascites.
+- Severe TS is associated with **marked hepatic congestion** often results in cirrhosis, jaundice, serious malnutrition, anasarca, and ascites.
 - **Congestive hepatomegaly** is present.
 - Splenomegaly may be present in cases of severe tricuspid valve disease.
 - The **jugular veins are distended**.
