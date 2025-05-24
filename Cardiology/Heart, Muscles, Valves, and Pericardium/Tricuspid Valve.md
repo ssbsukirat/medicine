@@ -43,11 +43,11 @@
 - In patients with sinus rhythm, there may be **prominent presystolic pulsations of the enlarged liver**.
 - On auscultation, a tricuspid valve opening snap (OS) may rarely be heard **∼0.06 s after pulmonic valve closure**.
 - The diastolic murmur of TS has qualities similar to the MS murmur.
-- The murmur may be missed as TS almost always occurs with MS.
-- Heard best along the **left lower sternal border and over the xiphoid process**.
-- Most prominent during **presystole** in patients with sinus rhythm.
-- The murmur of TS is **augmented during inspiration**.
-- Murmur is **reduced during expiration** and particularly during the strain phase of the Valsalva maneuver.
+	- may be missed as TS almost always occurs with MS.
+	- Heard best along the **left lower sternal border and over the xiphoid process**.
+	- Most prominent during **presystole** in patients with sinus rhythm.
+	- **augmented during inspiration**.
+	- **reduced during expiration** and particularly during the strain phase of the Valsalva maneuver.
 
 ## LABORATORY EXAMINATION
 
