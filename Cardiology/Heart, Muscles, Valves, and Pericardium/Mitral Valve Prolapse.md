@@ -94,9 +94,11 @@
     - With posterior leaflet prolapse, the MR jet is directed anteriorly, and the murmur radiates to the base of the heart.
     - With anterior leaflet involvement, the MR jet is directed posteriorly, and the murmur radiates to the axilla and back.
 - Maneuvers and interventions affect the click and murmur:
-    - The click and murmur occur earlier with standing.
-    - They occur earlier during the strain phase of the Valsalva maneuver.
-    - They occur earlier with any intervention that decreases LV volume (preload). These actions exaggerate the propensity of the leaflet to prolapse.
+    - The click and murmur occur earlier with 
+	    - standing.
+	    - strain phase of the Valsalva maneuver.
+	    - any intervention that decreases LV volume (preload). 
+	    - These actions exaggerate the propensity of the leaflet to prolapse.
     - Squatting and isometric exercises, which increase LV volume, diminish MVP.
     - These actions delay the click-murmur complex, move it away from S1, and may even cause it to disappear.
 - Some patients have a mid-systolic click without a murmur.
