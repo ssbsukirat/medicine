@@ -40,7 +40,7 @@
 - Neutralizing antibodies to HCV exist but tend to be short-lived; infection does not induce lasting immunity against reinfection with different or same isolates.
 - Neither heterologous nor homologous immunity appears to develop commonly after acute HCV infection.
 - Some genotypes are worldwide, others geographically confined.
-- Differences exist among genotypes in responsiveness to antiviral therapy.
+- Differences exist among genotypes in responsiveness to antiviral therapy, but same pathogenesis and symptoms 
 - Genotype 3 is linked to hepatic steatosis and clinical progression.
 - Worldwide, genotype 1 is the most common.
 - In the United States, genotype 1 accounts for 70% of infections; genotypes 2 and 3 account for the remaining 30%.
