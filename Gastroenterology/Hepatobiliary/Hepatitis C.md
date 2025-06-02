@@ -11,7 +11,7 @@
 
 - HCV is a linear, single-strand, positive-sense, 9600-nucleotide RNA virus.
 - Its genome organization is similar to that of flaviviruses and pestiviruses.
-- HCV is the only member of the genus _Hepacivirus_ in the family _Flaviviridae_.
+- HCV is the only member of the genus **_Hepacivirus_ in the family _Flaviviridae_**.
 - The HCV genome contains a single, large open reading frame (ORF) (gene) that codes for a virus polyprotein of ~3000 amino acids, which is cleaved after translation to yield 10 viral proteins.
 - The 5′ end of the genome consists of an untranslated region (containing an internal ribosomal entry site [IRES]) adjacent to the genes for three structural proteins: the nucleocapsid core protein (C) and two envelope glycoproteins (E1 and E2).
 - The 5′ untranslated region and core gene are highly conserved among genotypes.
@@ -130,7 +130,7 @@
 - Household contact is rare.
 - Groups at increased risk for HCV infection are listed in Table 339-4 and include those with prior transfusion/organ transplant (before 1992), history of injection/illicit drug use, chronic hemodialysis, clotting disorders with pre-1987 factors, elevated aminotransferases, health workers with exposure, recipients from HCV+ donors, HIV infection, and children born to HCV+ mothers.
 
-## Clinical Features
+# Clinical Features
 
 - Acute viral hepatitis produces clinically similar illnesses regardless of the agent.
 - Acute hepatitis C is less severe during the acute phase than hepatitis B.
@@ -153,7 +153,7 @@
 - Most cases are identified initially in asymptomatic patients who have no history of acute hepatitis C.
 - Approximately one-third of patients with chronic hepatitis C have normal or near-normal aminotransferase activity.
 
-## Laboratory Features
+# Laboratory Features
 
 - Aminotransferases (AST and ALT) increase variably during the prodromal phase and precede bilirubin rise. Levels don't correlate well with liver cell damage.
 - Diagnosis of anicteric hepatitis based on clinical features and aminotransferase elevations.
@@ -186,7 +186,7 @@
 - Hypergammaglobulinemia is common in autoimmune hepatitis but distinctly absent in chronic hepatitis B. In autoimmune hepatitis, high globulin levels can cause false-positive immunoassays for anti-HCV.
 - Some chronic hepatitis C patients have circulating anti-LKM1, same as in autoimmune hepatitis type 2, directed against cytochrome P450 2D6.
 
-## Diagnosis
+# Diagnosis
 
 - The most accurate means to distinguish viral hepatitis types involves specific serologic testing.
 - A diagnostic algorithm for acute viral hepatitis includes anti-HCV testing. The presence of anti-HCV supports a diagnosis of acute hepatitis C.
@@ -195,7 +195,7 @@
 - Anti-HCV supports and HCV RNA testing establishes the diagnosis of chronic hepatitis C.
 - In immunosuppressed individuals, anti-HCV may be undetectable; diagnosis may require HCV RNA testing.
 
-## Disease Progression and Complications
+# Disease Progression and Complications
 
 - Chronic hepatitis C occurs in 50-70% of cases after acute infection, with an overall likelihood of chronic infection after acute HCV of up to 85-90%.
 - Progression to cirrhosis occurs in ~20-25% of patients over 20 years. Some referral centers report up to 50% progression to cirrhosis.
@@ -221,7 +221,7 @@
 - Fulminant hepatitis is hardly ever seen in hepatitis C.
 - Rarely, autoimmune hepatitis can be triggered by an otherwise self-limited bout of acute hepatitis A, B, or C.
 
-## Treatment
+# Treatment
 
 - Therapy for chronic hepatitis C has evolved substantially since IFN-α was introduced in 1991.
 - **IFN-based therapy** (1991–2011):
@@ -275,7 +275,7 @@
     - Retreatment options after failure exist (with additional drugs or extended duration).
     - **Contraindicated in decompensated cirrhosis**. SVR12 98% stage 4/5 renal disease. Preferred treatment for severe renal impairment. Take with food. Check interactions. Simple, broadly effective. Recommended as preferred, simplified treatment algorithm (AASLD, EASL).
 
-## Treatment Recommendations
+# Treatment Recommendations
 
 - Refer to www.hcvguidelines.org (AASLD/IDSA) and www.easl.eu (EASL) for updated recommendations. Divergences exist (Table 341-6).
 - Determine HCV genotype before therapy.
@@ -298,7 +298,7 @@
 - **Sofosbuvir-containing regimens are not recommended with amiodarone**.
 - Sofosbuvir-containing DAA combinations are approved for advanced renal failure (Nov 2019).
 
-## Treatment in Special Populations
+# Treatment in Special Populations
 
 - **Acute Hepatitis C**: Candidates for DAA therapy, using the same pangenotypic combo agents and duration as chronic hepatitis C. Delaying therapy for spontaneous recovery is not recommended. EASL recommends an 8-week DAA regimen.
 - **Compensated Cirrhosis**: Respond to DAA, comparable SVR to noncirrhotics.
@@ -314,7 +314,7 @@
 - Sofosbuvir-velpatasvir-voxilaprevir is limited in naive patients, reserved for cirrhotic genotype 3.
 - **PI-containing regimens are contraindicated in decompensated cirrhosis**.
 
-## Prevention
+# Prevention
 
 - Immunoglobulin (IG) is ineffective in preventing hepatitis C and is no longer recommended for postexposure prophylaxis.
 - Hepatitis C vaccination is not practically feasible currently due to viral heterogeneity, high mutation rate, and rapid evasion of neutralizing antibodies.
