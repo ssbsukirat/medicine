@@ -100,7 +100,7 @@
 - Modes of transmission overlap among hepatitis viruses.
 - HCV is primarily transmitted by **percutaneous inoculation**.
 - Historically, transfusion-associated hepatitis C was common, classified as "non-A, non-B" hepatitis.
-- Before sensitive screening, the risk of acquiring hepatitis C from a transfusion was significant (e.g., 10% per patient, 0.9% per unit in 1970s). Pooled products carried higher risk.
+- Before sensitive screening, the risk of acquiring hepatitis C from a transfusion was significant (e.g., 10% per patient, 0.9% per unit in 1970s). Pooled products carried higher risk 20-30%
 - Progressive screening measures have reduced the risk of transfusion-associated hepatitis C to almost imperceptible levels (1 in 2.3 million to 1 in 4.7 million transfusions). These measures included excluding commercial donors, relying on volunteer blood, surrogate markers (ALT, anti-HBc, no longer recommended), screening for anti-HIV, and progressively sensitive anti-HCV immunoassays and PCR testing.
 - Other percutaneous routes include **injection drug use**, which accounts for most of the HCV reservoir.
 - Occupational exposure to blood is a route of transmission, with likelihood increased in hemodialysis units.
