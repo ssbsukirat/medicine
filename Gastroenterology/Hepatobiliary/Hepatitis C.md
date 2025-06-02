@@ -24,7 +24,7 @@
 - HCV does not replicate via a DNA intermediate; therefore, it does not integrate into the host genome.
 - HCV tends to circulate in relatively low titer (10^3−10^7 virions/mL), making visualization of the 50- to 80-nm virus particles difficult.
 - The replication rate of HCV is very high (10^12 virions per day), and its half-life is 2.7 h.
-- HCV entry into the hepatocyte occurs via the non-liver-specific CD81 receptor and the liver-specific tight junction protein claudin-1.
+- HCV entry into the hepatocyte occurs via the **non-liver-specific CD81** receptor and the **liver-specific tight junction protein claudin-1.**
 - Additional host receptors for HCV entry include occludin, low-density lipoprotein receptors, glycosaminoglycans, scavenger receptor B1, and epidermal growth factor receptor, among others.
 - Relying on the same assembly and secretion pathway as low-density and very-low-density lipoproteins, HCV is a lipoviroparticle and masquerades as a lipoprotein. This may limit its visibility to the adaptive immune system and explain its ability to evade immune containment and clearance.
 - After viral entry and uncoating, translation is initiated by the IRES on the endoplasmic reticulum membrane.
