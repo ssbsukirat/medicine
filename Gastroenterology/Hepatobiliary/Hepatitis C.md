@@ -13,10 +13,10 @@
 - Its genome organization is similar to that of flaviviruses and pestiviruses.
 - HCV is the only member of the genus **_Hepacivirus_ in the family _Flaviviridae_**.
 - The HCV genome contains a single, large open reading frame (ORF) (gene) that codes for a virus polyprotein of ~3000 amino acids, which is cleaved after translation to yield 10 viral proteins.
-- The 5′ end of the genome consists of an untranslated region (containing an internal ribosomal entry site [IRES]) adjacent to the genes for three structural proteins: the nucleocapsid core protein (C) and two envelope glycoproteins (E1 and E2).
+- The 5′ end of the genome consists of an untranslated region (containing an internal ribosomal entry site [IRES]) adjacent to the genes for **three structural proteins: the nucleocapsid core protein (C) and two envelope glycoproteins (E1 and E2).**
 - The 5′ untranslated region and core gene are highly conserved among genotypes.
 - The envelope proteins are coded for by the **hypervariable region**, which varies from isolate to isolate and may allow the virus to evade host immunologic containment.
-- The 3′ end of the genome includes an untranslated region and contains the genes for seven nonstructural (NS) proteins: p7, NS2, NS3, NS4A, NS4B, NS5A, and NS5B.
+- The 3′ end of the genome includes an untranslated region and contains the genes for **seven nonstructural (NS) proteins: p7, NS2, NS3, NS4A, NS4B, NS5A, and NS5B.**
 - p7 is a membrane ion channel protein necessary for efficient assembly and release of HCV.
 - NS2 is a cysteine protease that cleaves NS3 from NS2.
 - NS3-4A is a serine protease that cleaves all downstream proteins from the polyprotein.
