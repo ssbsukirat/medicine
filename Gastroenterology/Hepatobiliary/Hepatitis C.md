@@ -53,11 +53,14 @@
 - Clinical manifestations and outcomes are determined by the immunologic responses of the host.
 - The immunopathogenesis of hepatitis C has been studied extensively.
 - HCV is very efficient in evading host immune mechanisms, disrupting host immune responses at multiple levels.
-- After exposure, host cells identify viral product motifs (pattern recognition receptors), leading to interferon and other cytokine elaboration, activating innate and adaptive immune responses.
+- exposure --> host cells identify viral product motifs (pattern recognition receptors)-->  interferon and other cytokine elaboration, activating innate and adaptive immune responses.
 - Intrahepatic human leukocyte antigen (HLA) class 1–restricted cytolytic T cells directed at nucleocapsid, envelope, and nonstructural viral protein antigens have been demonstrated in chronic hepatitis C. However, these don't correlate well with liver injury or recovery.
 - A consensus supports the role of virus-activated CD4+ helper T cells stimulating HCV-specific CD8+ cytotoxic T cells in the pathogenesis of liver injury.
 - These T-cell responses appear **more robust** (higher number, diverse specificity, functionally effective, longer lasting) in those who recover than in those with chronic infection.
-- Factors contributing to chronic infection include: a CD4+ proliferative defect leading to rapid contraction of responses, mutations in CD8+ T cell–targeted viral epitopes allowing evasion of immune clearance, and upregulation of inhibitory receptors on functionally impaired, exhausted T cells.
+- Factors contributing to chronic infection include: 
+	- a CD4+ proliferative defect leading to rapid contraction of responses, 
+	- mutations in CD8+ T cell–targeted viral epitopes allowing evasion of immune clearance, and 
+	- upregulation of inhibitory receptors on functionally impaired, exhausted T cells.
 - HCV proteins have been shown to interfere with innate immunity by blocking type 1 interferon responses and inhibiting interferon signaling and effector molecules.
 - Several HLA alleles have been linked with self-limited hepatitis C, most convincingly the CC haplotype of the IL28B gene (coding for interferon λ3).
 - The IL28B association is even stronger when combined with HLA class II DQB1*03:01.
