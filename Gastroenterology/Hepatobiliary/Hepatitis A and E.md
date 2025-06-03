@@ -1,4 +1,3 @@
-
 # Hepatitis A
 
 - **Virology and Etiology**
