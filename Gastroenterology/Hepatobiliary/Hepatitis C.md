@@ -244,6 +244,7 @@
     - IFN gene variants (IL28B/IFNL3 C/C) correlated significantly with higher SVR to PEG IFN+ribavirin (genotype 1).
     - Side effects of IFN: flu-like, marrow suppression, emotional lability, autoimmune reactions (thyroiditis), alopecia, rashes, diarrhea, numbness/tingling. Reversible.
     - Side effects of ribavirin: nasal/chest congestion, pruritus, gout, **hemolysis** (requires monitoring, dose reduction, sometimes erythropoietin).
+	    - avoided in patients with anemia, hemoglobinopathies, coronary artery disease or cerebrovascular disease, or renal insufficiency (the drug is excreted renally) and in pregnancy
     - **Ribavirin is teratogenic**; contraception required during and for several months after therapy in women of child-bearing age.
     - IFNs also contraindicated in pregnancy (antiproliferative).
     - Combination IFN-ribavirin more difficult to tolerate than IFN monotherapy, more dose reductions/discontinuations.
