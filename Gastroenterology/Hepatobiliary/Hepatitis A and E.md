@@ -1,0 +1,340 @@
+
+# Hepatitis A
+
+- **Virology and Etiology**
+    
+    - Caused by Hepatitis A virus (HAV).
+    - Nonenveloped, 27-nm, heat-, acid-, and ether-resistant, single-stranded, positive-sense RNA virus.
+    - Belongs to the Hepatovirus genus of the picornavirus family.
+    - Quasi-enveloped particles encased in host plasma membrane–derived vesicles circulate in the bloodstream.
+    - Virion contains four structural capsid polypeptides (VP1–VP4) and six nonstructural proteins.
+    - Genome is 7500-nucleotide.
+    - Inactivated by boiling for 1 min, formaldehyde, chlorine, or ultraviolet irradiation.
+    - All strains belong to one serotype despite up to 20% nucleotide sequence variation and six genotypes (three affect humans).
+    - Human HAV can infect chimpanzees, tamarins, and several monkey species.
+    - HAV-like hepatoviruses found in harbor seals (without liver injury), bats, and rodents.
+    - Replication limited to the liver.
+    - Present in the liver, bile, stools, and blood during the late incubation and acute preicteric/presymptomatic phases.
+    - Fecal shedding, viremia, and infectivity diminish rapidly once jaundice appears.
+    - HAV RNA detection by RT-PCR can persist at low levels in stool, liver, and serum for up to several months after acute illness, but this doesn't correlate with persistent infectivity, probably due to neutralizing antibody.
+    - Can be cultivated reproducibly in vitro and in primate models.
+    - Resembles Hepatitis E virus but is slightly smaller (27 nm vs 32–34 nm).
+- **Incubation Period**
+    
+    - Approximately **3–4 weeks**.
+- **Serologic and Virologic Markers**
+    
+    - Antibodies to HAV (anti-HAV) detected during acute illness when serum aminotransferase is elevated and fecal shedding is occurring.
+    - Early antibody response is predominantly **IgM anti-HAV**.
+    - IgM anti-HAV persists for several (∼3) months, rarely 6–12 months.
+    - Diagnosis of acute hepatitis A is made by demonstrating IgM anti-HAV.
+    - During convalescence, IgG anti-HAV becomes predominant.
+    - IgG anti-HAV remains detectable **indefinitely** after acute illness.
+    - Patients with serum anti-HAV are immune to reinfection.
+    - Neutralizing antibody activity parallels anti-HAV appearance.
+    - IgG anti-HAV in immune globulin provides protection against HAV infection.
+    - Tests for fecal or serum HAV are not routinely available.
+    - Rheumatoid factor can give false-positive IgM anti-HAV results.
+    - Viral shedding and viremia are brief.
+    - Early IgM anti-HEV response predominates for approximately the first 3 months, then is eclipsed by long-lasting IgG anti-HEV.
+- **Pathogenesis**
+    
+    - Not known to be directly cytopathic to hepatocytes under ordinary circumstances.
+    - Clinical manifestations and outcomes are determined by host immunologic responses.
+    - Experimental evidence supports a **cytolytic CD8+ T-cell response** as the instrument of liver cell injury.
+    - This is in concert with or dwarfed by CD4+ helper T cells or CD4+ interferon γ–secreting cells.
+    - Demonstration of an activated innate immune response argues for a multitude of immunologic mechanisms.
+    - Viral shedding predates clinical evidence of liver injury.
+- **Extrahepatic Manifestations**
+    
+    - Immune-complex disorders have been linked, albeit rarely, with hepatitis A.
+- **Pathology**
+    
+    - Typical lesions similar to other types: panlobular infiltration with mononuclear cells, hepatic cell necrosis, Kupffer cell hyperplasia, variable cholestasis.
+    - Hepatic cell regeneration present.
+    - Mononuclear infiltration is primarily small lymphocytes, occasionally plasma cells and eosinophils.
+    - Liver cell damage: degeneration, necrosis, dropout, ballooning, acidophilic degeneration (Councilman or apoptotic bodies).
+    - Reticulin framework preserved in uncomplicated cases.
+    - A cholestatic variant of slowly resolving acute hepatitis A has been described, characterized by marked cholestasis histologically.
+- **Epidemiology and Global Features**
+    
+    - Transmitted almost exclusively by the **fecal-oral route**.
+    - Person-to-person spread enhanced by poor hygiene and overcrowding.
+    - Outbreaks and sporadic cases linked to contaminated food (raspberries, strawberries, green onions, shellfish), water, and milk.
+    - Intrafamily and intrainstitutional spreads are common.
+    - Historically, predilection for late fall and early winter.
+    - In temperate zones, epidemic waves every 5–20 years due to new nonimmune populations; declining incidence in developed countries due to improved sanitation means cyclic patterns are no longer observed.
+    - **No HAV carrier state** identified after acute hepatitis A.
+    - Perpetuation depends on nonepidemic, inapparent subclinical infection, contaminated food/water from/imported from endemic areas, environmental reservoirs.
+    - Anti-HAV prevalence increases with age and decreasing socioeconomic status.
+    - In developing countries, exposure, infection, and immunity almost universal in childhood.
+    - As subclinical infections decline in developed countries, susceptible adults emerge; hepatitis A is more symptomatic in adults, increasing the likelihood of clinically apparent, even severe, illness.
+    - Travel to endemic areas is a common source for adults from nonendemic areas.
+    - High-risk foci: childcare centers, neonatal ICUs, promiscuous men who have sex with men, injection drug users, unvaccinated close contacts of newly arrived international adopted children from endemic countries.
+    - Rarely bloodborne, but outbreaks recognized in recipients of clotting-factor concentrates.
+    - US vaccination programs in high-incidence states reduced annual incidence by >70%, shifting burden from children to adults.
+    - Prevalence of anti-HAV declined in US adults aged ≥20 years from the 1970s (∼40%) to 2007–2012 (24.2%) and 1999–2006 (29.5%).
+    - Lowest age-specific prevalence in US adults aged 30–49 years (16.1–17.6%) in 2007–2012, a susceptible subgroup.
+    - Widespread person-to-person outbreaks linked to fecally contaminated environments occurred among homeless persons and injection drug users in the US starting in 2016.
+    - These outbreaks involved an older population (mean age 36–42 years), born before universal childhood vaccination, resulting in increased clinical severity, hospitalization (61%), and death (1%).
+    - Affected populations often have comorbidities and disparities in healthcare access.
+    - Addressing outbreaks requires vaccination, environmental sanitation/hygiene, and education.
+- **Clinical and Laboratory Features**
+    
+    - Incubation period: **15–45 days** (mean, 4 weeks).
+    - Prodromal symptoms (1–2 weeks before jaundice): anorexia, nausea/vomiting, fatigue, malaise, arthralgias, myalgias, headache, photophobia, pharyngitis, cough, coryza.
+    - Alterations in olfaction and taste common with nausea/vomiting/anorexia.
+    - Low-grade fever (38°–39°C) more often present than in hepatitis B or C, rarely 39.5°–40°C.
+    - Dark urine and clay-colored stools 1–5 days before jaundice.
+    - With jaundice, prodromal symptoms usually diminish.
+    - Mild weight loss (2.5–5 kg) common, may continue during icteric phase.
+    - Liver enlarged and tender, may cause right upper quadrant pain.
+    - Infrequently presents with a cholestatic picture suggesting obstruction.
+    - Splenomegaly and cervical adenopathy in 10–20%.
+    - Rarely, spider angiomas appear during icteric phase and disappear during convalescence.
+    - In recovery, symptoms disappear, but liver enlargement and abnormal biochemical tests persist.
+    - Posticteric phase duration: 2–12 weeks.
+    - **Complete clinical and biochemical recovery** expected 1–2 months after all cases.
+    - Substantial proportion of patients never become icteric (anicteric hepatitis).
+    - Diagnosis of anicteric hepatitis based on clinical features and aminotransferase elevations.
+    - Serum aminotransferases (AST, ALT) increase during prodromal phase, precede bilirubin rise.
+    - Enzyme levels don't correlate well with liver cell damage.
+    - Peak levels (400–4000 IU+) usually reached at clinical icterus, diminish progressively in recovery.
+    - Jaundice visible when bilirubin >43 μmol/L (2.5 mg/dL).
+    - With jaundice, bilirubin typically rises to 85–340 μmol/L (5–20 mg/dL).
+    - Bilirubin may rise despite falling aminotransferases.
+    - Total bilirubin usually equally divided between conjugated/unconjugated.
+    - Bilirubin >340 μmol/L persisting late suggests severe disease.
+    - Neutropenia and lymphopenia are transient, followed by relative lymphocytosis.
+    - Atypical lymphocytes (2–20%) common in acute phase.
+    - PT measurement important; prolonged PT may reflect severe synthetic defect and worse prognosis.
+    - Mild and transient steatorrhea, slight microscopic hematuria, minimal proteinuria noted occasionally.
+    - Mild diffuse elevation of γ globulin common.
+    - Serum IgG and IgM elevated in about one-third, IgM more characteristically elevated during acute hepatitis A.
+    - Nonspecific autoantibodies may be present.
+    - Virus-specific antibodies are diagnostic markers.
+- **Prognosis**
+    
+    - Virtually all previously healthy patients recover completely with **no clinical sequelae**.
+    - Case-fatality rate is **very low (∼0.1%)** but increased by advanced age and underlying debilitating disorders.
+- **Complications and Sequelae**
+    
+    - Small proportion experience **relapsing hepatitis** weeks to months after apparent recovery.
+    - Relapses: recurrence of symptoms, aminotransferase elevations, occasional jaundice, fecal HAV excretion.
+    - Unusual variant: **cholestatic hepatitis**, characterized by protracted cholestatic jaundice and pruritus.
+    - Rarely, liver test abnormalities persist for many months, up to 1 year.
+    - Even with complications, hepatitis A remains self-limited and does **not progress to chronic liver disease**.
+    - Immune-complex disorders have been linked, albeit rarely.
+- **Differential Diagnosis**
+    
+    - Viral diseases (infectious mononucleosis, CMV, herpes simplex, coxsackieviruses) and toxoplasmosis can share features and cause aminotransferase/bilirubin elevations.
+    - Aminotransferase elevations can accompany almost any systemic viral infection, including SARS-CoV-2 (∼10% of cases, up to half severe).
+    - Rare causes confused with viral hepatitis: _Leptospira_, _Candida_, _Brucella_, _Mycobacteria_, _Pneumocystis_.
+- **Treatment**
+    
+    - Most patients recover spontaneously and do **not require specific antiviral therapy**.
+    - Hospitalization may be required for clinically severe illness, but most don't need it.
+    - Forced bed rest not essential, but restricted activity may make patients feel better.
+    - High-calorie diet desirable; major intake best tolerated in morning due to nausea.
+    - Intravenous feeding necessary for persistent vomiting preventing oral intake.
+    - Avoid drugs causing cholestasis or metabolized by liver.
+    - Cholestyramine helpful for severe pruritus.
+    - **Glucocorticoid therapy has no value** in acute viral hepatitis, may be deleterious.
+    - Physical isolation rarely necessary except for fecal incontinence.
+    - Likelihood of HAV transmission from hospitalized patients is low as most excrete little HAV.
+    - Burdensome enteric precautions are no longer recommended.
+    - Gloves for handling bed pans/fecal material are sensible procedure and universal precautions.
+    - Importance of simple hygienic precautions like hand washing cannot be overemphasized.
+    - Discharge possible after substantial symptomatic improvement, downward trend in aminotransferases/bilirubin, and normal PT.
+    - Mild aminotransferase elevations are not contraindications to resuming normal activity.
+    - Fulminant hepatitis is rare, seen primarily in B, D, and E, but rare fulminant cases of A occur, primarily in older adults and those with underlying chronic liver disease (including B and C).
+    - Meticulous intensive care and prophylactic antibiotics appear to improve survival in fulminant hepatitis.
+    - Liver transplantation may be lifesaving in fulminant hepatitis.
+- **Prophylaxis**
+    
+    - Prevention through immunization emphasized.
+    - Both passive immunization with immunoglobulin (IG) and active immunization with killed vaccines are available.
+    - All IG preparations contain sufficient anti-HAV for protection.
+    - Plasma-derived globulin is safe (viral inactivation steps, free of HCV RNA by PCR).
+    - IM IG administration not associated with transmission of HBV, HCV, or HIV.
+    - IG administered before or in early incubation effective in preventing clinically apparent hepatitis A.
+    - Postexposure prophylaxis for intimate contacts (household, sexual, institutional): 0.02 mL/kg IG ASAP (may be effective up to 2 weeks).
+    - Prophylaxis unnecessary for previously vaccinated, casual contacts, most elderly (likely immune), or those with known anti-HAV.
+    - Too late for IG in most common-source outbreaks once recognized, but may limit secondary cases.
+    - IG prophylaxis recommended for travelers before vaccine availability.
+    - **Current recommendations (updated 2018): Hepatitis A vaccine, not IG, is recommended** for all persons aged ≥12 months for postexposure prophylaxis and preexposure prophylaxis for international travel to endemic areas.
+    - Adults >40: IG (0.1 mg/kg) may be added to postexposure vaccination depending on risk.
+    - Infants 6–11 months traveling internationally: receive vaccine for preexposure prophylaxis (dose doesn't count toward universal childhood series).
+    - Postexposure prophylaxis for persons with contraindications to vaccination and infants <12 months: IG (0.1 mL/kg).
+    - Postexposure prophylaxis for immunocompromised adults and persons with chronic liver disease: hepatitis A vaccination and IG (0.1 mL/kg) at different IM sites.
+    - Preexposure prophylaxis for infants <6 months and persons with contraindications to vaccination: IG at 0.1 mg/kg (up to 1 month travel), 0.2 mg/kg (up to 2 months), repeat 0.2 mg/kg every 2 months.
+    - Hepatitis A vaccine supplanted IG for almost all pre/postexposure cases except limited situations.
+    - Vaccine protection is durable and simpler than IG.
+    - Formalin-inactivated vaccines from attenuated strains are safe, immunogenic, effective.
+    - Approved for persons at least 1 year old.
+    - Adequate protection begins 4 weeks after primary inoculation.
+    - Preferred for preexposure prophylaxis for travel to endemic areas.
+    - Provides long-lasting protection (at least 20 years after vaccination).
+    - Routine vaccination of all children recommended since 2006.
+    - Other candidates for vaccination: military personnel, populations with cyclic outbreaks, day-care center/developmentally delayed facility employees, primate handlers, lab workers exposed to HAV/fecal specimens, patients with chronic liver disease (including aminotransferase ≥2x ULN, chronic hepatitis C, chronic hepatitis B, nonalcoholic liver disease), men who have sex with men, injection/noninjection drug users, homeless persons, persons with clotting disorders requiring frequent clotting factor concentrates, persons traveling to high/intermediate endemicity countries, postexposure contacts of cases, household/close contacts of adopted children from high/moderate endemicity countries, pregnant women at risk.
+    - Dose and frequency differ for approved vaccines and combination vaccines. All IM injections.
+    - Effective in preventing secondary household and day-care cases.
+    - Reported mortality from hepatitis A declined in parallel with vaccine-associated incidence reductions in the US.
+
+# Hepatitis E
+
+- **Virology and Etiology**
+    
+    - Caused by Hepatitis E virus (HEV).
+    - Enterically transmitted virus.
+    - Resembles hepatitis A epidemiologically.
+    - 27- to 34-nm, nonenveloped, heat-stable, HAV-like virus.
+    - 7200-nucleotide, single-strand, positive-sense RNA genome.
+    - Exists in a quasi-enveloped form enclosed within host-cell-derived membranes.
+    - Three overlapping ORFs (genes): ORF1 (nonstructural proteins, viral replicase), ORF2 (nucleocapsid protein, major structural protein), ORF3 (small structural phosphoprotein involved in virus particle secretion).
+    - All isolates appear to belong to a single serotype despite genomic heterogeneity (up to 25%) and eight genotypes within four species (A-D).
+    - Four human genotypes (all in species A): Genotypes 1 and 2 (developing countries, more virulent), Genotypes 3 and 4 (endemic in animals, more attenuated, account for subclinical infections, zoonotic reservoir, can cause chronic infection in immunocompromised hosts).
+    - No genomic or antigenic homology with HAV or other picornaviruses.
+    - Sufficiently distinct from caliciviruses to merit own classification as Orthohepevirus within Hepeviridae.
+    - Detected in stool, bile, and liver; excreted in stool during late incubation period.
+- **Incubation Period**
+    
+    - Approximately **14–60 days** (mean, 5–6 weeks).
+- **Serologic and Virologic Markers**
+    
+    - Both IgM anti-HEV (early acute infection) and IgG anti-HEV (predominating after 3 months) can be detected.
+    - HEV RNA in serum and stool accompanies acute infection.
+    - Viremia resolves with clinical-biochemical recovery.
+    - HEV RNA in stool may outlast viremia by several weeks.
+    - Serologic/virologic testing not FDA approved/licensed in the US, done in specialized labs (CDC) and some commercial labs.
+    - Serologic/virologic course entirely analogous to acute hepatitis A.
+    - IgM anti-HEV response predominates during approximately the first 3 months, then is eclipsed by long-lasting IgG anti-HEV.
+    - Diagnostic tests of varying reliability commercially available outside the US.
+    - Reliable assays available at CDC or other US labs.
+- **Pathogenesis**
+    
+    - Not known to be directly cytopathic to hepatocytes under ordinary circumstances.
+    - Clinical manifestations and outcomes are determined by host immunologic responses.
+    - Experimental evidence supports a **cytolytic CD8+ T-cell response** as the instrument of liver cell injury.
+    - This is in concert with or dwarfed by CD4+ helper T cells or CD4+ interferon γ–secreting cells.
+    - HEV has been shown to interfere with host antiviral defenses (interferon signaling/effector function, downregulating interferon-stimulated genes).
+    - Demonstration of an activated innate immune response argues for a multitude of immunologic mechanisms.
+    - Viral shedding predates clinical evidence of liver injury.
+- **Extrahepatic Manifestations**
+    
+    - Rare neurologic (Guillain-Barré syndrome), renal, pancreatic, and hematologic complications postulated to result from immunologic mechanisms and/or direct extrahepatic-site infection.
+    - Immune-complex disorders have been linked, albeit rarely.
+- **Pathology**
+    
+    - Typical lesions similar to other types: panlobular infiltration with mononuclear cells, hepatic cell necrosis, Kupffer cell hyperplasia, variable cholestasis.
+    - Hepatic cell regeneration present.
+    - Mononuclear infiltration is primarily small lymphocytes, occasionally plasma cells and eosinophils.
+    - Liver cell damage: degeneration, necrosis, dropout, ballooning, acidophilic degeneration (Councilman or apoptotic bodies).
+    - Reticulin framework preserved in uncomplicated cases.
+    - A common histologic feature is **marked cholestasis**.
+    - ORF-2 protein staining distributed in both cytoplasmic and nuclear patterns.
+- **Epidemiology and Global Features**
+    
+    - Primarily enteric mode of spread.
+    - Commonly recognized cases occur after contamination of water supplies (e.g., monsoon flooding).
+    - Sporadic, isolated cases also occur.
+    - Distinguished by rarity of secondary person-to-person spread to close contacts.
+    - Large waterborne outbreaks (genotypes 1 and 2) in endemic areas linked to populations immune to HAV, favoring young adults.
+    - Antibody prevalences of 30–80% in endemic areas.
+    - Worldwide annual incidence estimated at least **20 million** (3.3 million symptomatic), making HEV the most common cause of acute viral hepatitis.
+    - Endemic areas: India, Asia, Africa, the Middle East, Central America.
+    - In nonendemic areas (US), clinically apparent acute hepatitis E is extremely rare.
+    - US NHANES 1988–1994: anti-HEV prevalence 21% (reflecting subclinical infections, genotypes 3 and 4, primarily older males >60).
+    - US NHANES 2009–2010: anti-HEV prevalence 6% (more consistent with rarity of acute disease, perhaps due to more specific assay).
+    - Older age associated with anti-HEV seropositivity in nonendemic areas.
+    - Accounts for only a small proportion of sporadic ("autochthonous"/indigenous) hepatitis in nonendemic areas.
+    - Cases imported from endemic areas found in the US.
+    - **Zoonotic reservoir**: primarily swine, but also camels, deer, rats, rabbits, among others.
+    - Animal reservoir accounts for mostly subclinical infections (genotypes 3 and 4) in nonendemic areas.
+    - High distribution discovered in western Europe linked to uncooked/undercooked pork-product ingestion (e.g., Germany, France).
+- **Clinical and Laboratory Features**
+    
+    - Incubation period: **14–60 days** (mean, 5–6 weeks).
+    - Prodromal symptoms (1–2 weeks before jaundice): anorexia, nausea/vomiting, fatigue, malaise, arthralgias, myalgias, headache, photophobia, pharyngitis, cough, coryza.
+    - Alterations in olfaction and taste common with nausea/vomiting/anorexia.
+    - Low-grade fever (38°–39°C) more often present than in hepatitis B or C, rarely 39.5°–40°C.
+    - Dark urine and clay-colored stools 1–5 days before jaundice.
+    - With jaundice, prodromal symptoms usually diminish.
+    - Mild weight loss (2.5–5 kg) common, may continue during the entire icteric phase.
+    - Liver enlarged and tender, may cause right upper quadrant pain.
+    - Infrequently presents with a cholestatic picture suggesting obstruction.
+    - Splenomegaly and cervical adenopathy in 10–20%.
+    - Rarely, spider angiomas appear during icteric phase and disappear during convalescence.
+    - In recovery, symptoms disappear, but liver enlargement and abnormal biochemical tests persist.
+    - Posticteric phase duration: 2–12 weeks.
+    - **Complete clinical and biochemical recovery** expected 1–2 months after all cases.
+    - Substantial proportion of patients never become icteric (anicteric hepatitis).
+    - Diagnosis of anicteric hepatitis based on clinical features and aminotransferase elevations.
+    - Serum aminotransferases (AST, ALT) increase during prodromal phase, precede bilirubin rise.
+    - Enzyme levels don't correlate well with liver cell damage.
+    - Peak levels (400–4000 IU+) usually reached at clinical icterus, diminish progressively in recovery.
+    - Jaundice visible when bilirubin >43 μmol/L (2.5 mg/dL).
+    - With jaundice, bilirubin typically rises to 85–340 μmol/L (5–20 mg/dL).
+    - Bilirubin may rise despite falling aminotransferases.
+    - Total bilirubin usually equally divided between conjugated/unconjugated.
+    - Bilirubin >340 μmol/L persisting late suggests severe disease.
+    - Neutropenia and lymphopenia are transient, followed by relative lymphocytosis.
+    - Atypical lymphocytes (2–20%) common in acute phase.
+    - PT measurement important; prolonged PT may reflect severe synthetic defect and worse prognosis.
+    - Mild and transient steatorrhea, slight microscopic hematuria, minimal proteinuria noted occasionally.
+    - Mild diffuse elevation of γ globulin common.
+    - Serum IgG and IgM elevated in about one-third, IgM more characteristically elevated during acute hepatitis A.
+    - Nonspecific autoantibodies may be present.
+    - Virus-specific antibodies are diagnostic markers.
+- **Prognosis**
+    
+    - In outbreaks of waterborne hepatitis E in India and Asia, case-fatality rate is **1–2%**.
+    - Case-fatality rate is up to **10–20% in pregnant women**.
+    - Fulminant hepatitis E in endemic countries (but rarely/not at all in nonendemic) is contributed to by acute hepatitis E superimposed on underlying chronic liver disease ("acute-on-chronic").
+- **Complications and Sequelae**
+    
+    - Fulminant hepatitis is seen primarily in hepatitis B, D, and E.
+    - Hepatitis E can be complicated by fatal fulminant hepatitis in 1–2% of cases and up to 20% in pregnant women.
+    - HEV does **not cause chronic liver disease in immunocompetent hosts**.
+    - Cases of **chronic hepatitis E** (including cirrhosis and end-stage liver disease and even HCC) observed in **immunosuppressed** organ-transplant recipients, persons receiving cytotoxic chemotherapy, and persons with HIV infection.
+    - In patients with chronic hepatitis (other causes) in endemic countries, hepatitis E reported as cause of acute-on-chronic liver failure.
+    - In nonendemic countries, HEV has not been found to commonly contribute to hepatic decompensation in patients with chronic hepatitis.
+    - Immune-complex disorders have been linked, albeit rarely.
+    - Rare neurologic (including Guillain-Barré syndrome), renal, pancreatic, and hematologic complications have been postulated.
+- **Differential Diagnosis**
+    
+    - Viral diseases (infectious mononucleosis, CMV, herpes simplex, coxsackieviruses) and toxoplasmosis can share features and cause aminotransferase/bilirubin elevations.
+    - Aminotransferase elevations can accompany almost any systemic viral infection, including SARS-CoV-2 (∼10% of cases, up to half severe).
+    - Rare causes confused with viral hepatitis: _Leptospira_, _Candida_, _Brucella_, _Mycobacteria_, _Pneumocystis_.
+- **Treatment**
+    
+    - Most patients recover spontaneously and do **not require specific antiviral therapy**.
+    - Hospitalization may be required for clinically severe illness, but most don't need it.
+    - Forced bed rest not essential, but restricted activity may make patients feel better.
+    - High-calorie diet desirable; major intake best tolerated in morning due to nausea.
+    - Intravenous feeding necessary for persistent vomiting preventing oral intake.
+    - Avoid drugs causing cholestasis or metabolized by liver.
+    - Cholestyramine helpful for severe pruritus.
+    - **Glucocorticoid therapy has no value** in acute viral hepatitis, may be deleterious.
+    - Physical isolation rarely necessary except for fecal incontinence.
+    - Burdensome enteric precautions are no longer recommended.
+    - Gloves for handling bed pans/fecal material are sensible procedure and universal precautions.
+    - Importance of simple hygienic precautions like hand washing cannot be overemphasized.
+    - Discharge possible after substantial symptomatic improvement, downward trend in aminotransferases/bilirubin, and normal PT.
+    - Mild aminotransferase elevations are not contraindications to resuming normal activity.
+    - Fulminant hepatitis is seen primarily in hepatitis B, D, and E.
+    - Meticulous intensive care and prophylactic antibiotics appear to improve survival in fulminant hepatitis.
+    - Liver transplantation may be lifesaving in fulminant hepatitis.
+    - In clinically severe acute hepatitis E or acute-on-chronic liver failure, successful therapy with **ribavirin** (600 mg twice daily, 15 mg/kg) has been reported anecdotally.
+    - Ribavirin is **teratogenic** and contraindicated in pregnant women with fulminant hepatitis E.
+    - In hepatitis E in organ-transplant recipients, reducing overall immunosuppressive drug doses and switching from tacrolimus to cyclosporine A effective, often without antiviral therapy.
+    - If change in immunosuppression is inadequate, ribavirin treatment for 3 months achieved sustained virologic response in 78% (dose/duration not optimal).
+- **Prophylaxis**
+    
+    - Prevention through immunization emphasized.
+    - IG derived from HEV-endemic populations does not appear effective.
+    - Two safe and effective three-dose (0, 1, 6 months), recombinant genotype 1 capsid protein vaccines shown to be **highly protective against symptomatic acute hepatitis E** (protects against other genotypes).
+    - Chinese vaccine (Hecolin) achieved 100% 12-month efficacy, licensed in China 2011.
+    - Long-lasting protection (87% efficacy) documented for up to 4.5 years for Hecolin.
+    - Second vaccine (GlaxoSmithKline/US Army) achieved 96% 12-month efficacy, not developed commercially.
+    - Chinese vaccine available in China, but **not FDA approved or available in the US**.
