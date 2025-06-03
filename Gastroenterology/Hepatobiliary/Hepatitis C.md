@@ -159,9 +159,11 @@
 - Aminotransferases (AST and ALT) increase variably during the prodromal phase and precede bilirubin rise. Levels don't correlate well with liver cell damage.
 - Diagnosis of anicteric hepatitis based on clinical features and aminotransferase elevations.
 - Jaundice visible when serum bilirubin >43 μmol/L (2.5 mg/dL). Bilirubin typically 85-340 μmol/L (5–20 mg/dL) with jaundice.
+- almost equal conjugate and unconjugated fractions 
 - Bilirubin >340 μmol/L (>20 mg/dL) persisting late suggests severe disease.
 - Neutropenia and lymphopenia are transient, followed by relative lymphocytosis. Atypical lymphocytes common in acute phase.
 - Prolonged prothrombin time (PT) may reflect severe hepatic synthetic defect, extensive necrosis, and indicate worse prognosis.
+- Hypoglycemia  -- d/t Prolonged nausea and vomiting, inadequate carbohydrate intake, and poor hepatic glycogen reserves
 - Hypoalbuminemia uncommon in uncomplicated acute viral hepatitis. Mild transient steatorrhea, slight microscopic hematuria/proteinuria occasionally noted.
 - Mild elevation of γ globulin common in acute viral hepatitis. IgG and IgM elevated in about one-third of acute cases.
 - Antibodies to smooth muscle and other cell constituents, low titers of rheumatoid factor, nuclear antibody, heterophile antibody can be found occasionally in acute viral hepatitis.
