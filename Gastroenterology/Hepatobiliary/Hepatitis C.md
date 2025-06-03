@@ -150,6 +150,7 @@
 - The likelihood of remaining chronically infected after acute HCV infection approaches 85–90%.
 - Chronic hepatitis follows acute hepatitis C in 50-70% of cases; chronic infection is common even in those with normal ALT levels after acute infection, totaling an 85% likelihood of chronic infection after acute hepatitis C.
 - Many patients with chronic hepatitis C have no symptoms.
+- fatigue is the most common symptom; jaundice is rare
 - Chronic hepatitis C tends to be very slowly and insidiously progressive, if at all, in most patients.
 - Most cases are identified initially in asymptomatic patients who have no history of acute hepatitis C.
 - Approximately one-third of patients with chronic hepatitis C have normal or near-normal aminotransferase activity.
