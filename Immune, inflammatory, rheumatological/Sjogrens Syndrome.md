@@ -1,0 +1,191 @@
+
+
+# Definition, Incidence, and Prevalence
+
+- **Sjögren’s syndrome is a prototype autoimmune disease**.
+- Characterized by **lymphocytic infiltration of exocrine glands**.
+- Results in **xerostomia (dry mouth)** and **dry eyes (keratoconjunctivitis sicca)**.
+- Also characterized by **profound B-cell hyperactivity**.
+- Presents with a **wide clinical spectrum** from organ-specific to systemic disease.
+- Can occur **alone or in association with other systemic rheumatic diseases**.
+- Common associated diseases include **rheumatoid arthritis, limited scleroderma, and systemic lupus erythematosus**.
+- Displays a **high probability of lymphoma development**.
+- Primarily affects **middle-aged women** (female-to-male ratio 10-20:1).
+- May occur at **any age, including childhood**.
+- Patients with **earlier disease onset** express a **more aggressive disease phenotype**.
+- Aggressive phenotype manifested by a **high occurrence of systemic manifestations and serum autoantibodies**.
+- Prevalence is **∼0.5–1%**.
+- **5–20% of patients with other autoimmune diseases** can express **sicca manifestations**.
+
+# Pathogenesis
+
+- Autoimmune phenomena include **lymphocytic infiltration of exocrine glands** (primarily salivary and lachrymal).
+- Autoimmune phenomena include **B lymphocyte hyperreactivity**.
+- B lymphocyte hyperreactivity is mainly manifested by **hypergammaglobulinemia**.
+- B lymphocyte hyperreactivity is mainly manifested by the presence of **serum autoantibodies toward non-organ-specific antigens**.
+- Autoantibodies include those toward **immunoglobulins (rheumatoid factors)**.
+- Autoantibodies include those toward **extractable cellular antigens (Ro52, Ro60, and La)**.
+- Major infiltrating cells in affected exocrine glands are **activated T lymphocytes**.
+- In labial minor salivary gland tissues with extensive lymphocytic infiltrations, **B-cell populations prevail**.
+- Other cellular subsets detected in labial minor salivary gland histopathology include **follicular, myeloid, and plasmacytoid dendritic cells**.
+- Other cellular subsets detected include **macrophages**.
+- **Inflammasome activation** in the salivary gland lesion has been associated with **adverse predictors for lymphoma development**.
+- **Macrophages positive for interleukin (IL) 18** in the salivary gland lesion have been associated with **adverse predictors for lymphoma development**.
+- The interplay of **endogenous triggers** (e.g., intracellular stress, inappropriate overexpression of endogenous nucleic acids) and **exogenous triggers** (e.g., viruses, hormonal triggers, stressful life events) seems crucial.
+- This interplay occurs in a background of a **genetically determined hyperactive immune response**.
+- **Ductal and acinar epithelial cells** appear to play a **significant role** in the initiation and perpetuation of autoimmune injury.
+- These epithelial cells inappropriately express **costimulatory molecules and intracellular autoantigens (Ro and La)** on their cell surfaces.
+- This allows epithelial cells to provide **signals essential for lymphocytic activation**.
+- Epithelial cells produce **proinflammatory cytokines and lymphocyte-attracting chemokines** necessary for sustaining the autoimmune lesion.
+- These substances allow the formation of **ectopic germinal centers**.
+- Epithelial cells express functional receptors of innate immunity, particularly **Toll-like receptors (TLRs) 3, 7, and 9**molecules.
+- TLRs may account for the **initiation of autoimmune reactivity**.
+- Epithelial cells display immunoregulatory molecules such as **ICAM and CD40**.
+- Glandular epithelial cells have an active role in the production of **B cell–activating factor (BAFF)**.
+- BAFF is induced after stimulation with **type I and II interferons**.
+- **Circulating BAFF** is elevated in serum of Sjögren’s patients, especially those with hypergammaglobulinemia and serum autoantibodies.
+- Elevated BAFF probably accounts for the **antiapoptotic effect on B lymphocytes**.
+- In contrast to B and T lymphocytes, glandular epithelial cells display **increased rates of apoptotic death**.
+- Established risk genetic loci implicated include the **human leukocyte antigen DQA1*0501 allele**.
+- Established risk genetic loci include **variants involved in the interferon/BAFF axis (IRF 5, STAT 4, BAFF)**.
+- Established risk genetic loci include **variants involved in B-cell function (EBF1, BLK)**.
+- Established risk genetic loci include **variants involved in chronic inflammation (TNFAIP3)**.
+
+# Clinical Manifestations
+
+- Majority of patients have symptoms related to **impaired exocrine gland function**.
+- Primarily affects **lacrimal and salivary gland function**.
+- Disease evolution is **slow**.
+- In the majority of patients, the course is **benign**.
+- Prior to disease onset, patients often experience **major stressful life events** with which they cannot cope adequately.
+- Principal **oral symptom is dryness (xerostomia)**.
+- Patients report **difficulty in swallowing dry food**.
+- Patients report a **burning mouth sensation**.
+- Patients report an **increase in dental caries**.
+- Patients report **problems in wearing complete dentures**.
+- Physical examination shows a **dry, erythematous, sticky oral mucosa**.
+- There is **atrophy of filiform papillae** on the dorsum of the tongue.
+- Saliva from major glands is **either not expressible or cloudy**.
+- **Intermittent or persistent enlargement of parotid or other major salivary glands** occurs in two-thirds of patients.
+- **Ocular involvement is the other major manifestation**.
+- Patients usually report a **sandy or gritty feeling under the eyelids**.
+- Other ocular symptoms include **burning**.
+- Other ocular symptoms include **accumulation of secretions in thick strands at the inner canthi**.
+- Other ocular symptoms include **decreased tearing**.
+- Other ocular symptoms include **redness**.
+- Other ocular symptoms include **itching**.
+- Other ocular symptoms include **eye fatigue**.
+- Other ocular symptoms include **increased photosensitivity**.
+- These ocular symptoms are attributed to **destruction of corneal and bulbar conjunctival epithelium**.
+- This pathology is termed **keratoconjunctivitis sicca**.
+- Involvement of **other exocrine glands occurs less frequently**.
+- Decreased mucous gland secretions of the **upper and lower respiratory tree** result in **dry nose, throat, and trachea (xerotrachea)**.
+- Diminished secretion of **gastrointestinal tract exocrine glands** leads to **esophageal mucosal dysmotility**.
+- Diminished secretion of gastrointestinal tract exocrine glands leads to **atrophic gastritis**.
+- **Dyspareunia** in premenopausal women may occur due to dryness of external genitalia.
+- **Dry skin** may also occur.
+- **Extraglandular (systemic) manifestations** are seen in **one-third of patients**.
+- Extraglandular manifestations can be classified as: **nonspecific, periepithelial, immune complex–mediated, and lymphoma**.
+- **Nonspecific manifestations** include **fatigability, low-grade fever, Raynaud’s phenomenon, myalgias, arthralgias, and arthritis**.
+- **Arthritis** in primary Sjögren’s syndrome is **nonerosive**.
+- **Periepithelial pathology** is due to periepithelial accumulation of lymphocytes.
+- Periepithelial pathology results from **involvement of parenchymal organs** such as lungs, kidneys, and liver.
+- The term **autoimmune epithelitis** has been coined based on this observation.
+- **Lung involvement** is usually manifested with **dry cough**.
+- Lung involvement rarely manifests with **dyspnea**.
+- Underlying lung pathology includes **peribronchial infiltrates (bronchitis sicca)**.
+- Underlying lung pathology includes **interstitial pneumonitis**.
+- **Renal involvement** includes **interstitial nephritis**.
+- Interstitial nephritis is clinically manifested by **hyposthenuria**.
+- Interstitial nephritis includes **renal tubular dysfunction with or without acidosis**.
+- **Untreated acidosis** may lead to **nephrocalcinosis**.
+- **Immune complex–mediated disease** is expressed with **vasculitis** affecting primarily **small-sized vessels**.
+- Vasculitis is mainly manifested with **purpura**.
+- Vasculitis rarely manifests with **urticarial rash**.
+- Vasculitis rarely manifests with **skin ulcerations**.
+- Vasculitis rarely manifests with **mononeuritis multiplex**.
+- Vasculitis rarely manifests with **membranoproliferative glomerulonephritis associated with mixed type II or III cryoglobulinemia**.
+- **Central nervous system involvement** is **rarely recognized**.
+- A few cases of **myelitis associated with antibodies to aquaporin 4** have been described.
+- **Sjögren’s syndrome has the highest risk for lymphoma development among all autoimmune diseases**.
+- Main features predicting lymphoma development include **tongue atrophy**.
+- Main features predicting lymphoma development include **persistent parotid gland enlargement**.
+- Main features predicting lymphoma development include **purpura**.
+- Main features predicting lymphoma development include **mixed type II cryoglobulinemia**.
+- Main features predicting lymphoma development include **low serum C4 complement levels**.
+- Main features predicting lymphoma development include **autoantibodies (rheumatoid factor, anti-Ro52, anti-Ro60, anti-La)**.
+- Main features predicting lymphoma development include **extensive lymphocytic infiltration in minor salivary glands**.
+- Most lymphomas are **extranodal, low-grade, marginal zone B cell**.
+- Lymphomas are usually detected incidentally during evaluation of labial minor salivary gland biopsy.
+- Affected lymph nodes are usually peripheral.
+- **Survival rates are decreased** in patients with **B symptoms**.
+- Survival rates are decreased in patients with **lymph node mass >7 cm in diameter**.
+- Survival rates are decreased in patients with **high or intermediate histologic grade**.
+- Pathogenesis of lymphoma in Sjögren's syndrome remains to be elucidated.
+- Genetic alterations in chronic inflammatory, B-cell activation, and type I interferon pathways are significant contributors.
+- Epigenetic abnormalities are significant contributors.
+- Recent data reveal an **increased risk for multiple myeloma** for patients with **anti-Ro52, anti-Ro60, or anti-La autoantibodies**.
+- Patients also display an **increased risk of cardiovascular disease**.
+
+# Routine Laboratory Tests
+
+- Routine tests can reveal **leukopenia**.
+- Routine tests infrequently reveal **lymphopenia**.
+- In two-thirds of patients, **elevated erythrocyte sedimentation rate** is detected.
+- In two-thirds of patients, **hypergammaglobulinemia** is detected.
+- In two-thirds of patients, **antinuclear antibodies** are detected.
+- In two-thirds of patients, **rheumatoid factors** are detected.
+- In two-thirds of patients, **antibodies against Ro52/Ro60 and La autoantigens** are detected.
+- **Anticentromere autoantibodies** are present in patients with a clinical picture similar to **limited scleroderma**.
+- Presence of **antimitochondrial antibodies** may connote **liver involvement** in the form of **autoimmune cholangitis**.
+- **Autoantibodies to 21-hydroxylase** are found in patients with a **blunted adrenal response**.
+- **Autoantibodies to citrullinated peptides** are seen in patients with **arthritis**.
+- **Anticalponin-3 antibodies** have been recently associated with the occurrence of **peripheral neuropathies**.
+
+# Diagnosis and Differential Diagnosis
+
+- Sjögren’s syndrome should be suspected if a patient presents with **eye and/or mouth dryness**.
+- Suspicion cues include **major salivary gland enlargement**.
+- Suspicion cues include **systemic manifestations** such as Raynaud’s phenomenon, palpable purpura, or symptomatology of renal tubular acidosis.
+- A careful history of **medications causing dryness** should be obtained.
+- Cases of Sjögren’s syndrome were recently **triggered by PD-1/PD-L1 checkpoint inhibitors**.
+- Workup should include **eye tests** that might reveal keratoconjunctivitis sicca.
+- Workup should include **salivary flow tests** or **ultrasonography**.
+- Workup should include **serum evaluation for specific autoantibodies**.
+- Testing for **chronic viral infections (hepatitis C virus, HIV)** can be offered.
+- **Chest x-ray to rule out sarcoidosis** can be offered.
+- **Protein electrophoresis** can be offered.
+- **IgG4 serum levels** can be offered.
+- **Autoantibodies to thyroid antigens** can be offered.
+- **Labial biopsy** is valuable to rule out conditions that may cause dry mouth, dry eyes, or parotid gland enlargement.
+- Classification criteria are **not valuable for everyday practice** but are of **paramount importance for research**.
+- A diagnostic algorithm based on recent classification criteria is presented (Fig. 361-1).
+- Classification criteria involve defined questions about dry eyes/mouth symptoms.
+- Classification criteria involve ocular staining score.
+- Classification criteria involve focus score count ≥1 in salivary gland tissue.
+
+# Treatment
+
+- Treatment aims to **relieve symptoms**.
+- Treatment aims to **limit damage** from chronic xerostomia and keratoconjunctivitis sicca.
+- This is done through **substitution or stimulation of impaired secretions**.
+- To replace deficient tears, **several ophthalmic preparations** are available (hydroxypropyl methylcellulose; polyvinyl alcohol; 0.5% methylcellulose; Hypo Tears).
+- If corneal ulcerations are present, **eye patching** is recommended.
+- If corneal ulcerations are present, **boric acid ointments** are recommended.
+- If corneal ulcerations are present, **cyclosporine eye drops** are recommended.
+- Certain drugs that may decrease secretions should be avoided, such as **diuretics**.
+- Drugs to avoid include **antihypertensive drugs**.
+- Drugs to avoid include **anticholinergics**.
+- Drugs to avoid include **antidepressants**.
+- For xerostomia, the best replacement is **water**.
+- **Propionic acid gels** may be used to treat vaginal dryness.
+- To stimulate secretions, **orally administered pilocarpine (5 mg thrice daily)** appears to improve sicca manifestations.
+- To stimulate secretions, **orally administered cevimeline (30 mg thrice daily)** appears to improve sicca manifestations.
+- Both pilocarpine and cevimeline are **well tolerated**.
+- **Hydroxychloroquine (200 mg daily)** is helpful for **arthralgias and mild arthritis**.
+- Patients with renal tubular acidosis should receive **sodium bicarbonate by mouth** (0.5–2 mmol/kg in four divided doses).
+- **Glucocorticoids** appear effective in patients with **systemic disease**, particularly with purpura and arthritis.
+- **Monoclonal antibody to CD20 (rituximab)** appears effective in patients with **system disease**, particularly with purpura and arthritis.
+- **Novel monoclonal antibodies targeting CD40L/CD40 costimulatory pathway** seem promising therapeutic strategies for systemic manifestations.
+- **Novel monoclonal antibodies targeting BAFF receptor** seem promising therapeutic strategies for systemic manifestations.
+- Treatment of lymphoma in the setting of Sjögren’s syndrome follows **general guidelines for lymphoma management**.
