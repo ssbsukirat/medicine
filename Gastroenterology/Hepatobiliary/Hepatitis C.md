@@ -258,7 +258,7 @@
 - **First-generation Protease Inhibitors** (2011–2013):
     - Telaprevir and boceprevir (NS3/4A inhibitors) approved 2011 for genotype 1 only.
     - Required combination with PEG IFN+ribavirin. Ribavirin reduced relapse rates.
-    - Triple therapy (PI+PEG IFN+ribavirin) and dual therapy phases, response-guided duration.
+    - Triple therapy -- 12 weeks  (PI+PEG IFN+ribavirin) and dual therapy phases, response-guided (response at 4,12 weeks) duration.
     - Improved SVR rates compared to PEG IFN+ribavirin alone for genotype 1 (66-79% vs 38-44%).
     - Substantial toxicities: Telaprevir (severe rash, anemia, pruritus, GI symptoms), Boceprevir (anemia, neutropenia, thrombocytopenia, GI symptoms).
     - High pill burden, frequent dosing with food. Numerous drug-drug interactions (CYP3A4). Consult www.hep-druginteractions.org.
