@@ -129,7 +129,7 @@
 - Breast-feeding does not increase risk for infants.
 - Household contact is rare.
 - Groups at increased risk for HCV infection are listed in Table 339-4 and include those with prior transfusion/organ transplant (before 1992), history of injection/illicit drug use, chronic hemodialysis, clotting disorders with pre-1987 factors, elevated aminotransferases, health workers with exposure, recipients from HCV+ donors, HIV infection, and children born to HCV+ mothers.
-
+- ![[HCVscreening.png]]
 # Clinical Features
 
 - Acute viral hepatitis produces clinically similar illnesses regardless of the agent.
