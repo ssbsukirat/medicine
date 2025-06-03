@@ -137,11 +137,12 @@
 - It is more likely to be anicteric (without jaundice).
 - Fatalities are rare in acute hepatitis C, but the precise case-fatality rate is unknown.
 - The incubation period for hepatitis C ranges from 15 to 160 days (mean, 7 weeks).
-- Prodromal symptoms are systemic and variable (anorexia, nausea/vomiting, fatigue, malaise, arthralgias, myalgias, etc.). Nausea, vomiting, and anorexia are often associated with altered smell/taste.
-- A low-grade fever is less often present than in hepatitis A or E.
+- Prodromal symptoms -- precede jaundice by 1-2 weeks -- are systemic and variable (anorexia, nausea/vomiting, fatigue, malaise, arthralgias, myalgias, etc.). Nausea, vomiting, and anorexia are often associated with altered smell/taste.
+- A low-grade fever is less often present than in hepatitis A or E, very rarely high grade fever 
 - Dark urine and clay-colored stools may precede jaundice by 1–5 days.
 - With jaundice onset, prodromal symptoms usually diminish, but mild weight loss is common.
 - The liver becomes enlarged and tender, sometimes with right upper quadrant pain.
+- patients present with a cholestatic picture, suggesting extrahepatic biliary obstruction rarely 
 - Splenomegaly and cervical adenopathy occur in 10–20% of acute hepatitis patients.
 - Complete clinical and biochemical recovery is expected in 3–4 months after onset of jaundice in three-quarters of uncomplicated, self-limited cases.
 - A substantial proportion of patients with viral hepatitis never become icteric.
