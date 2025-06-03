@@ -109,18 +109,15 @@
 - Serologic evidence of HCV infection is common in patients with a history of transfusion-associated hepatitis (before 1992), hemophiliacs, and injection drug users.
 - Many patients with sporadic "non-A, non-B" hepatitis without identifiable risk factors do have anti-HCV.
 - 0.5% of volunteer blood donors had anti-HCV in 1999-2002 NHANES.
-- The 1999-2002 NHANES survey estimated 1.6% prevalence (4.1 million persons, 3.2 million with viremia) in the general US population, many unaware of infection. Prevalence is higher including excluded high-risk groups (incarcerated, homeless, active IDUs).
-- High prevalences occur in certain countries like Egypt (>20%) due to historical contaminated medical equipment/unsafe injection practices. Egypt initiated a large screening/treatment program (2018-2019) achieving near elimination.
+- Prevalence is higher including excluded high-risk groups (incarcerated, homeless, active IDUs).
+- High prevalences occur in certain countries like Egypt (>20%) due to historical contaminated medical equipment/unsafe injection practices.
 - In the US, African Americans and Mexican Americans have higher frequencies than whites.
 - Peak age prevalence shifted from 30-40 years (1988-1994) to 40-49 years (1999-2002 NHANES).
 - Hepatitis C–related mortality increased since 1995, predominantly in the 45-65 age group.
 - Prevalence in the population was sustained by an aging cohort infected decades earlier, predominantly by self-inoculation with recreational drugs.
 - Phylogenetic mapping suggests the genotype 1a epidemic emerged in the US 1940-1965, peaking 1950, aligning with post-WWII medical procedures (including syringe reuse). HCV was amplified iatrogenically in both Egypt and the US.
-- US prevalence (HCV RNA) fell from 1.3% (1999-2002) to 1% (2003-2010) and 0.65% (2010-2014) due to deaths and DAA introduction.
 - HCV mortality surpassed HIV mortality in 2007 and deaths from all other notifiable infectious diseases by 2012.
 - > 70% of HCV-associated deaths occur in the "baby boomer" cohort born 1945-1965. This cohort had a 3.2% prevalence (1999-2002 NHANES), representing three-quarters of all infected persons.
-    
-- CDC (2012) and USPSTF (2013) recommended screening all born 1945-1965. This was predicted to identify 800k, avert complications, and prevent deaths with DAA availability.
 - As of 2020, screening recommendations expanded to all adults aged 18–79 and pregnant women. This is due to DAA efficacy, reduced cost, cost-effectiveness of screening all adults, and shifting demographics towards younger IDUs.
 - The annual incidence of new HCV infections has been increasing since 2002, accelerated since 2010 (tripling 2009-2018).
 - This increase is amplified by the opioid epidemic in young injection drug users (20-39), accounting for >2/3 acute cases (3.8-fold increase 2010-2017).
