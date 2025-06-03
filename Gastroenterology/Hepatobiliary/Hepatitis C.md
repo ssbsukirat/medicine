@@ -267,6 +267,10 @@
 - **Direct-Acting Antiviral (DAA) Combinations** (since 2014):
     - As of 2020, five all-oral, IFN-free, highly effective (>95% SVR), well tolerated, low resistance, pangenotypic (mostly), short duration (8-12 wks) combination regimens are recommended.
     - DAA classes: NS3/4 protease inhibitors (-previr), NS5B polymerase inhibitors (-buvir), NS5A inhibitors (-asvir).
+    - Simeprevir 
+	    - 2nd gen protease inhibitor 
+	    - OD dose 
+	    - hampered by many drug-drug interactions and side effects (including photosensitivity, rash, and mild hyperbilirubinemia); 
     - **Sofosbuvir** (polymerase inhibitor): pangenotypic, high potency, high barrier to resistance, well tolerated, once daily oral, few major drug-drug interactions. Used in combinations.
     - **Sofosbuvir-ledipasvir** (polymerase + NS5A): Fixed-dose single pill. Approved Oct 2014 (genotype 1), Nov 2015 (4, 5, 6). 12 wks achieved 97-99% SVR12 in naive noncirrhotics. 8 wks effective for naive noncirrhotic genotype 1 with low RNA. Highly effective in compensated/decompensated cirrhosis, post-transplant. Approved for advanced renal failure Nov 2019.
     - **Severe bradycardia with amiodarone** (esp. with beta blockers), contraindicated with sofosbuvir-containing combos.
