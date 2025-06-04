@@ -147,8 +147,9 @@
 - All patients receiving daily glucocorticoids + another immunosuppressive agent should receive **TMP-SMX or other prophylaxis for _P. jirovecii_ infection**.
 - National/regional guidelines exist but each patient is unique.
 - Use guidelines and chapter info as a framework for evidence-based approaches, practice flexibility.
+- ![[immunosuppressantSE.png]]
 
-# GRANULOMATOSIS WITH POLYANGIITIS
+# GRANULOMATOSIS WITH POLYANGIITIS -- small vessel 
 
 ## DEFINITION
 
