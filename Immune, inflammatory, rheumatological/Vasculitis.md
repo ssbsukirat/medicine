@@ -14,6 +14,7 @@
 
 - Vasculitic syndromes have great heterogeneity and considerable overlap.
 - Table 363-1 lists the major vasculitis syndromes.
+- ![[vasculitis.png]]
 
 ## PATHOPHYSIOLOGY AND PATHOGENESIS
 
@@ -27,6 +28,12 @@
 ### PATHOGENIC IMMUNE-COMPLEX FORMATION
 
 - Deposition of immune complexes was an early and widely accepted pathogenic mechanism.
+- in 
+	- IgA vascultis 
+	- Lupus vascultis 
+	- serum sickness and cutaneous [[Vasculitis]] 
+	- HCV related cryoglobulinemic 
+	- HBV related vascultis 
 - A causal role has not been clearly established in most syndromes.
 - Circulating immune complexes do not necessarily result in deposition and vasculitis.
 - Many patients with active vasculitis do not have demonstrable circulating or deposited immune complexes.
