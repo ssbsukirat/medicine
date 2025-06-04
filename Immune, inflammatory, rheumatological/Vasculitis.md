@@ -258,7 +258,7 @@
     - Daily dose: 2 mg/kg/d orally; reduce dose in renal insufficiency (renally eliminated).
     - Daily cyclophosphamide is favored by the authors.
     - Some reports indicate success with IV cyclophosphamide.
-    - Randomized trial comparing IV (15 mg/kg every 2/3 weeks) vs. daily oral cyclophosphamide: IV comparable remission rate with lower cumulative dose/leukopenia, but relapse higher (19% vs 9%).
+    - Randomized trial comparing IV (15 mg/kg * 3 infusions every 2/3 weeks) vs. daily oral cyclophosphamide: IV comparable remission rate with lower cumulative dose/leukopenia, but relapse higher (19% vs 9%).
 - **RITUXIMAB INDUCTION FOR SEVERE DISEASE**:
     - Chimeric monoclonal antibody against CD20 on B lymphocytes.
     - **FDA approved for granulomatosis with polyangiitis and microscopic polyangiitis**.
