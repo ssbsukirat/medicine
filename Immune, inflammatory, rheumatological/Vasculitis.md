@@ -65,13 +65,13 @@
 - Two major categories of ANCA based on antibody targets:
     - **Cytoplasmic ANCA (cANCA)**: Diffuse, granular cytoplasmic staining pattern by immunofluorescence.
         - Major antigen: **Proteinase-3** (a 29-kDa neutral serine proteinase in neutrophil azurophilic granules).
-        - > 90% of patients with active granulomatosis with polyangiitis have antibodies to proteinase-3.
+        - **> 90% of patients with active granulomatosis with polyangiitis have antibodies to proteinase-3.**
             
     - **Perinuclear ANCA (pANCA)**: More localized perinuclear or nuclear staining pattern.
         - Major target: **Myeloperoxidase**.
         - Other targets producing pANCA pattern: elastase, cathepsin G, lactoferrin, lysozyme, bactericidal/permeability-increasing protein.
         - **Only antibodies to myeloperoxidase** have been convincingly associated with vasculitis.
-        - Antimyeloperoxidase antibodies reported in variable percentages of patients with microscopic polyangiitis, eosinophilic granulomatosis with polyangiitis (Churg-Strauss), isolated necrotizing crescentic glomerulonephritis, and granulomatosis with polyangiitis.
+        - Antimyeloperoxidase antibodies reported in variable percentages of patients with **microscopic polyangiitis, eosinophilic granulomatosis with polyangiitis (Churg-Strauss), isolated necrotizing crescentic glomerulonephritis, and granulomatosis with polyangiitis.**
         - pANCA pattern not due to antimyeloperoxidase antibodies is associated with nonvasculitic entities (rheumatic/nonrheumatic autoimmune diseases, inflammatory bowel disease, certain drugs, infections like endocarditis and bacterial airway infections in cystic fibrosis).
 - It is unclear why patients develop antibodies to myeloperoxidase or proteinase-3 or their exact role in pathogenesis.
 - _In vitro_ observations suggesting ANCA contribution to pathogenesis:
