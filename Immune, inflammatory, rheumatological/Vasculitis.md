@@ -168,6 +168,7 @@
 ## PATHOLOGY AND PATHOGENESIS
 
 - Histopathologic hallmarks: **necrotizing vasculitis of small arteries and veins** and **granuloma formation**(intravascular or extravascular) (Fig. 363-2).
+- Triad --> upper + lower respiratory + renal 
 - Lung involvement: typically multiple, bilateral, nodular cavitary infiltrates (Fig. 363-3). Biopsy reveals necrotizing granulomatous vasculitis.
 - Upper airway lesions (sinuses, nasopharynx): inflammation, necrosis, granuloma formation, with or without vasculitis.
 - Renal involvement (earliest form): focal and segmental glomerulitis evolving into rapidly progressive crescentic glomerulonephritis.
