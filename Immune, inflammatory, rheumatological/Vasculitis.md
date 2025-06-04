@@ -98,9 +98,16 @@
 ### General Principles of Diagnosis
 
 - Vasculitis should be considered in any patient with unexplained systemic illness.
-- Clinical abnormalities suggesting vasculitis: palpable purpura, pulmonary infiltrates + microscopic hematuria, chronic inflammatory sinusitis, mononeuritis multiplex, unexplained ischemic events, glomerulonephritis with multisystem disease.
+- Clinical abnormalities suggesting vasculitis:
+	- palpable purpura, 
+	- pulmonary infiltrates + microscopic hematuria, 
+	- chronic inflammatory sinusitis, 
+	- mononeuritis multiplex, 
+	- unexplained ischemic events, 
+	- glomerulonephritis with multisystem disease.
 - Many nonvasculitic diseases can mimic these abnormalities.
 - First step: **exclude other diseases that mimic vasculitis** (Table 363-3).
+	- ![[vasculitismimic.png]]
 - Crucial to exclude infectious diseases, especially if the patient is deteriorating rapidly and empirical immunosuppression is considered.
 - After excluding mimics, the workup establishes the diagnosis and categorizes the syndrome (Fig. 363-1).
 - This approach is important because some syndromes need aggressive therapy (glucocorticoids, immunosuppressives), while others resolve spontaneously needing only symptomatic treatment.
