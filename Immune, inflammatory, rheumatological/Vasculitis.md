@@ -606,7 +606,13 @@
 	- Common carotid -- visual, syncope, TIAs, stroke 
 	- Abdominal aorta -- pain, nausea, vomiting 
 	- renal - HTN. renal failure 
-	- aortic arch or root --
+	- aortic arch or root -- aortic insufficiency , CCF 
+	- vertebral - visual, diziness 
+	- Coeliac -- pain, nausea , vomiting 
+	- superior mesenteric 
+	- Iliac -- leg claudication 
+	- pulmonary -- atypical chest pain, dyspnea 
+	- Coronary -- chest pain, MI 
 - Major branches of aorta involved much more markedly at their origin.
 - Disease is a **panarteritis with inflammatory mononuclear cell infiltrates and occasionally giant cells**.
 - Marked intimal proliferation, fibrosis, scarring/vascularization of media, disruption/degeneration of elastic lamina.
