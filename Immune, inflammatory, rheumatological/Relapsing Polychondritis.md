@@ -1,6 +1,6 @@
-# Relapsing Polychondritis
 
-## General Information
+
+# General Information
 
 - Relapsing polychondritis is an uncommon disorder of unknown cause.
 - Characterized by inflammation of cartilage predominantly affecting the ears, nose, and laryngotracheobronchial tree.
@@ -13,7 +13,7 @@
 - Associated disorders usually antedate relapsing polychondritis by months or years.
 - Onset of relapsing polychondritis can sometimes accompany the presentation of associated disorders.
 
-## Pathology and Pathophysiology
+# Pathology and Pathophysiology
 
 - Earliest abnormality in hyaline and elastic cartilage is focal or diffuse loss of basophilic staining.
     - Indicates depletion of proteoglycan from the cartilage matrix.
