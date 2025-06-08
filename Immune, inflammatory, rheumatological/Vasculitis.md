@@ -564,7 +564,7 @@
 - Approach for cranial and large-vessel disease is currently the same.
 - Giant cell arteritis and associated symptoms responsive to **glucocorticoid therapy**.
 - Start with **prednisone 40–60 mg/d for ~1 month, then gradual tapering**.
-- If ocular signs/symptoms: consider methylprednisolone 1000 mg daily for 3 days to protect remaining vision.
+- **If ocular signs/symptoms: consider methylprednisolone 1000 mg daily for 3 days to protect remaining vision.**
 - Optimal duration uncertain; most series require treatment for ≥2 years.
 - Symptom recurrence during prednisone tapering in 60–85%, requiring dose increase.
 - ESR and/or CRP useful indicators of inflammatory activity for monitoring/tapering.
