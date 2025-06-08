@@ -770,10 +770,9 @@
 ## DEFINITION
 
 - Broadly defined as inflammation of blood vessels of the dermis.
-- Also called hypersensitivity vasculitis, cutaneous leukocytoclastic angiitis.
+- Also called ***hypersensitivity vasculitis, cutaneous leukocytoclastic angiitis.***
 - Not one specific disease but a manifestation seen in various settings.
 - > 70% occurs as part of primary systemic vasculitis or secondary to inciting agent/underlying disease.
-    
 - In remaining 30%, occurs **idiopathically**.
 
 ## INCIDENCE AND PREVALENCE
