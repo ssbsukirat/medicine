@@ -867,7 +867,7 @@
 - Typical intimal proliferation, infiltration of vessel wall with mononuclear cells. Beadlike aneurysms and thromboses seen along artery.
 - Other manifestations: pericarditis, myocarditis, myocardial ischemia/infarction, cardiomegaly.
 - Prognosis for uneventful recovery is excellent, apart from fatal complications.
-- **High-dose IV γ-globulin + aspirin** effective in reducing coronary artery abnormalities when administered early.
+- **High-dose IV γ-globulin (2g/kg over 10h) + aspirin** effective in reducing coronary artery abnormalities when administered early.
 - Surgery may be necessary for giant coronary aneurysms or other complications (thromboendarterectomy, thrombus clearing, aneurysmal reconstruction, coronary artery bypass grafting).
 - **Multisystem inflammatory syndrome in children (MIS-C)** observed with SARS-CoV-2 infection may resemble Kawasaki’s disease.
 - MIS-C patients can have atypical features: GI symptoms, myocarditis, neurocognitive symptoms, shock.
