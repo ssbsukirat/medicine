@@ -301,7 +301,7 @@
     - Sinus disease can disrupt mucociliary barrier; patients should use local care (moisturization, humidification).
     - Subglottic stenosis often scars; responds optimally to nonmedical intervention (dilation, glucocorticoid injection).
 
-# MICROSCOPIC POLYANGIITIS
+# MICROSCOPIC POLYANGIITIS -- small and medium 
 
 ## DEFINITION
 
