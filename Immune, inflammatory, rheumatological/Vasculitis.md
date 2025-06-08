@@ -409,7 +409,7 @@
 - Mepolizumab is **FDA approved for eosinophilic granulomatosis with polyangiitis** and severe eosinophilic asthma. May be beneficial for relapsing/resistant asthma needing glucocorticoids.
 - Rituximab: examined in retrospective series, may have role in active/relapsing vasculitis despite conventional agents or intolerance.
 
-# POLYARTERITIS NODOSA
+# POLYARTERITIS NODOSA - small and medium 
 
 ## DEFINITION
 
