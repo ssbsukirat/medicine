@@ -350,7 +350,7 @@
 - Disease relapse observed in at least 34%.
 - Treatment for relapses based on site and severity.
 
-# EOSINOPHILIC GRANULOMATOSIS WITH POLYANGIITIS (CHURG-STRAUSS)
+# EOSINOPHILIC GRANULOMATOSIS WITH POLYANGIITIS (CHURG-STRAUSS) -- small and medium 
 
 ## DEFINITION
 
