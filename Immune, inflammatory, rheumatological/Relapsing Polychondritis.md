@@ -45,7 +45,7 @@
 - Genetic background may play a role.
     - Significantly higher frequency of HLA-DR4 found in patients than healthy individuals, but no predominant subtype allele(s) found.
 
-## Clinical Manifestations
+# Clinical Manifestations
 
 - Onset is frequently abrupt, with one or two sites of cartilaginous inflammation.
 - Pattern of cartilaginous involvement and frequency of episodes vary widely.
@@ -118,7 +118,7 @@
     - Strongly suggested by clinical features and vacuoles within bone marrow precursor cells.
     - Proven by genetic testing for myeloid-restricted somatic missense mutations in UBA1 (major E1 enzyme initiating ubiquitylation).
 
-## Laboratory Findings and Diagnostic Imaging
+# Laboratory Findings and Diagnostic Imaging
 
 - **No diagnostic laboratory features** for relapsing polychondritis.
 - Mild leukocytosis and normocytic, normochromic anemia are often present.
@@ -141,7 +141,7 @@
 - Electrocardiography and echocardiography useful for evaluating cardiac features.
 - Use of positron emission tomography reported, but unclear if useful and for what features.
 
-## Diagnosis
+# Diagnosis
 
 - Diagnosis is based on recognition of the **typical clinical features**.
 - Biopsies of involved cartilage (ear, nose, respiratory tract) can confirm diagnosis.
@@ -160,7 +160,7 @@
     - Two or more separate sites of cartilage inflammation were present that responded to treatment.
     - Three or more of the above features were present.
 
-## Differential Diagnosis
+# Differential Diagnosis
 
 - Centered around sites of clinical involvement.
 - **Granulomatosis with polyangiitis**: may have saddle nose and tracheal involvement.
@@ -179,7 +179,7 @@
 - **Cocaine use adulterated with levamisole**: can cause nasal destructive disease and auricular abnormalities.
     - Ear involvement differs from relapsing polychondritis by typically manifesting as purpuric plaques with necrosis extending to the earlobe (which lacks cartilage).
 
-## Treatment
+# Treatment
 
 - For active chondritis, **prednisone 40–60 mg/d** is often effective.
     - Tapered gradually once disease is controlled.
@@ -197,7 +197,7 @@
 - When airway obstruction is severe, **tracheostomy is required**.
 - Stents may be necessary in patients with tracheobronchial collapse.
 
-## Patient Outcome, Prognosis, and Survival
+# Patient Outcome, Prognosis, and Survival
 
 - Course is **highly variable**.
 - Some experience inflammatory episodes lasting days to weeks, subsiding spontaneously or with treatment.
