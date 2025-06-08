@@ -602,6 +602,11 @@
 - Involves medium- and large-sized arteries, strong predilection for aortic arch/branches.
 - Pulmonary artery may also be involved.
 - Most commonly affected arteries by arteriography listed in Table 363-7.
+	- Subclavian -- arm claudication , raynauds 
+	- Common carotid -- visual, syncope, TIAs, stroke 
+	- Abdominal aorta -- pain, nausea, vomiting 
+	- renal - HTN. renal failure 
+	- aortic arch or root --
 - Major branches of aorta involved much more markedly at their origin.
 - Disease is a **panarteritis with inflammatory mononuclear cell infiltrates and occasionally giant cells**.
 - Marked intimal proliferation, fibrosis, scarring/vascularization of media, disruption/degeneration of elastic lamina.
