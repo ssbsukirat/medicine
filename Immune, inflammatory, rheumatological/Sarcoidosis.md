@@ -19,7 +19,7 @@ Here are notes on Sarcoidosis based on the provided text excerpts:
 - The cause of sarcoidosis remains unknown despite multiple investigations.
 - The most likely etiology is an **infectious or noninfectious environmental agent triggering an inflammatory response in a genetically susceptible host**.
 - **Infectious agents:**
-    - _Propionibacterium acnes_ is found at a much higher incidence in lymph nodes of sarcoidosis patients compared to controls. An animal model showed _P. acnes_ can induce a granulomatous response similar to sarcoidosis.
+    - **_Propionibacterium acnes_** is found at a much higher incidence in lymph nodes of sarcoidosis patients compared to controls. An animal model showed _P. acnes_ can induce a granulomatous response similar to sarcoidosis.
     - A **mycobacterial protein (Mycobacterium tuberculosis catalase-peroxidase [mKatG])** has been demonstrated in granulomas of some patients. This protein is resistant to degradation and may represent a persistent antigen. Immune response to this and other mycobacterial proteins has been documented. These studies suggest a _Mycobacterium_ similar to _M. tuberculosis_ could be responsible.
 - **Environmental exposures:**
     - Exposure to insecticides and mold has been associated with increased risk.
