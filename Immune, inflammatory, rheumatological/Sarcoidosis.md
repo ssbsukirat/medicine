@@ -112,7 +112,8 @@
     - Standard scoring system described by Scadding (1961) remains preferred for characterizing chest involvement.
         - **Stage 1:** Hilar adenopathy alone, often with right paratracheal involvement.
         - **Stage 2:** Combination of adenopathy plus infiltrates.
-        - **Stage 3:** Infiltrates alone.
+        - **Stage 3:** Infiltrates alone. -- predominant upper lobe 
+	        - differential of upper lobe disease --> HSP, silicosis , Langerhans cell histiocytosis , TB, pneumocystis pneumonia 
         - **Stage 4:** Fibrosis.
 - **CT scan** has changed the diagnostic approach to interstitial lung disease.
     - Not usually considered a monitoring tool except for pulmonary fibrosis.
