@@ -1,8 +1,5 @@
-Here are notes on Sarcoidosis based on the provided text excerpts:
 
-# Sarcoidosis
-
-## DEFINITION
+# DEFINITION
 
 - **Sarcoidosis is an inflammatory disease characterized by the presence of noncaseating granulomas**.
 - It is often multisystemic, requiring involvement in **two or more organs for a specific diagnosis**.
@@ -14,7 +11,7 @@ Here are notes on Sarcoidosis based on the provided text excerpts:
     - **Remission occurs in over one-half of patients within a few years** of diagnosis.
     - Remaining patients may develop chronic disease lasting for decades.
 
-## ETIOLOGY
+# ETIOLOGY
 
 - The cause of sarcoidosis remains unknown despite multiple investigations.
 - The most likely etiology is an **infectious or noninfectious environmental agent triggering an inflammatory response in a genetically susceptible host**.
@@ -28,7 +25,7 @@ Here are notes on Sarcoidosis based on the provided text excerpts:
 - Some authors suggest sarcoidosis is not due to a single agent but represents a particular host response to multiple agents.
 - Studies have correlated environmental exposures to genetic markers, supporting the hypothesis that a **genetically susceptible host is a key factor**.
 
-## INCIDENCE, PREVALENCE, AND GLOBAL IMPACT
+# INCIDENCE, PREVALENCE, AND GLOBAL IMPACT
 
 - Sarcoidosis is seen worldwide.
 - Highest prevalence is reported in the **Nordic population**.
@@ -46,7 +43,7 @@ Here are notes on Sarcoidosis based on the provided text excerpts:
     - At least **5% of patients have a family member** with sarcoidosis.
     - Irish or African American patients seem to have a two to three times higher rate of familial disease.
 
-## PATHOPHYSIOLOGY AND IMMUNOPATHOGENESIS
+# PATHOPHYSIOLOGY AND IMMUNOPATHOGENESIS
 
 - The **granuloma is the pathologic hallmark** of sarcoidosis.
 - A distinct feature is the **local accumulation of inflammatory cells**.
@@ -69,7 +66,7 @@ Here are notes on Sarcoidosis based on the provided text excerpts:
 - Chronic disease patients release excessive amounts of TNF in inflamed areas.
 - Specific gene signatures are associated with more severe disease (cardiac, neurologic, fibrotic pulmonary).
 
-## CLINICAL MANIFESTATIONS
+# CLINICAL MANIFESTATIONS
 
 - Presentation ranges from asymptomatic to organ failure.
 - Unclear how often it's asymptomatic.
@@ -297,7 +294,7 @@ Here are notes on Sarcoidosis based on the provided text excerpts:
 - Lung complications include **infections such as mycetoma**, which can lead to massive bleeding.
 - Use of immunosuppressive agents can increase the incidence of serious infections.
 
-## LABORATORY FINDINGS
+# LABORATORY FINDINGS
 
 - **Chest roentgenogram** remains the most commonly used tool for lung involvement.
     - Classifies involvement into four stages (1 and 2 have hilar and paratracheal adenopathy).
@@ -326,7 +323,7 @@ Here are notes on Sarcoidosis based on the provided text excerpts:
     - A ratio of **>3.5 is strongly supportive** but less sensitive than lymphocyte increase alone.
     - Other conditions must be considered despite increased BAL lymphocytes.
 
-## DIAGNOSIS
+# DIAGNOSIS
 
 - Requires both **compatible clinical features and pathologic findings**.
 - Diagnosis cannot be made with 100% certainty.
@@ -360,7 +357,7 @@ Here are notes on Sarcoidosis based on the provided text excerpts:
     - A sarcoidosis diagnostic score exists to quantitate likelihood.
 - Diagnosis is never certain. Other features may lead to alternative diagnosis over time. Evidence of new organ involvement may eventually confirm diagnosis.
 
-## PROGNOSIS
+# PROGNOSIS
 
 - Risk of death or organ function loss remains low.
 - Poor outcomes usually occur in patients presenting with **advanced disease** where treatment has little impact.
@@ -382,7 +379,7 @@ Here are notes on Sarcoidosis based on the provided text excerpts:
 - Patients requiring glucocorticoids for any manifestation in the first 6 months have >50% chance of chronic disease.
 - <10% of patients requiring no systemic therapy in the first 6 months required chronic therapy.
 
-## TREATMENT
+# TREATMENT
 
 - Decision to treat is based on two indications: **avoid danger or improve quality of life**.
 - Dangerous outcome: organ- or life-threatening disease (eye, heart, nervous system).
