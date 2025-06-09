@@ -80,7 +80,15 @@
     - Skin lesions are often nonspecific but readily observed, leading to diagnosis. Patients with skin lesions are more likely diagnosed within 6 months of symptoms.
 - Nonspecific constitutional symptoms include fatigue, fever, night sweats, and weight loss.
     - **Fatigue is perhaps the most common constitutional symptom**. It's often insidious, recognized as associated with sarcoidosis only upon resolution.
-- Overall incidence at diagnosis and common organ involvement are summarized (Table 367-1).
+- Overall incidence at diagnosis and common organ involvement most to least --> 
+	- Lung 
+	- Skin 
+	- Eye 
+	- Extrathoracic LN 
+	- Liver 
+	- Spleen 
+	- Neurology 
+	- Cardiac 
 - Over time, skin, eye, and neurologic involvement seem more apparent.
 - Frequency of specific organ involvement in the U.S. is affected by age, race, and gender.
     - **Eye disease is more common among African Americans**.
