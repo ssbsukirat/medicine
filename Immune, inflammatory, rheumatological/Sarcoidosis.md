@@ -324,7 +324,12 @@
     - Low sensitivity and specificity.
     - Elevated in 60% of acute disease, 20% of chronic disease.
     - Mild elevation has several causes (including diabetes).
-    - **Elevations >50% of upper limit of normal seen in few conditions**: sarcoidosis, leprosy, Gaucher’s disease, hyperthyroidism, disseminated granulomatous infections (miliary tuberculosis).
+    - **Elevations >50% of upper limit of normal seen in few conditions**: 
+	    - sarcoidosis, 
+	    - leprosy,
+	    - Gaucher’s disease, 
+	    - hyperthyroidism, 
+	    - disseminated granulomatous infections (miliary tuberculosis) 
     - Concurrent ACE inhibitor use (e.g., lisinopril) leads to very low ACE level.
 - **Bronchoalveolar lavage (BAL)** often performed during bronchoscopy.
     - **Increase in percentage of lymphocytes supports diagnosis**.
