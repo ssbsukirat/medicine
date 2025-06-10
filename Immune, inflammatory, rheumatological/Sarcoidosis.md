@@ -344,7 +344,7 @@
 - Made with reasonable certainty based on history, physical features, laboratory, and pathologic findings.
 - Evaluated based on two scenarios (Figure 367-8):
     - **Scenario 1:** Patient undergoes biopsy revealing noncaseating granuloma (pulmonary or extrapulmonary). If clinical presentation is consistent and no alternative cause identified, sarcoidosis is likely.
-    - **Scenario 2:** Signs or symptoms suggest sarcoidosis (e.g., bilateral adenopathy in asymptomatic patient, uveitis, rash). A diagnostic procedure should be performed.
+    - **Scenario 2:** Signs or symptoms suggest sarcoidosis (e.g., bilateral adenopathy in asymptomatic patient, uveitis, rash) --> A diagnostic procedure should be performed (biopsy , bronchoscopy , FNAC etc)
 - **Biopsy considerations:**
     - Compatible skin lesion: skin biopsy.
     - Other possible biopsies: liver, extrathoracic lymph node, muscle.
