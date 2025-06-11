@@ -1,5 +1,3 @@
-Here are notes created from the provided chapter excerpts, formatted according to your instructions:
-
 # Spondyloarthritis
 
 - Spondyloarthritis (SpA) refers to a group of overlapping disorders.
@@ -15,6 +13,7 @@ Here are notes created from the provided chapter excerpts, formatted according t
 - AxSpA also includes patients with a similar clinical presentation but lacking significant radiographic sacroiliitis.
 - Some patients without significant radiographic sacroiliitis eventually develop it, but many do not.
 - The concept of axSpA is supported by classification criteria formulated in 2009 (Table 362-1).
+	- ![[ASdiagnostic.png]]
 - AxSpA patients with sacroiliitis on MRI but without significant damage on x-ray are categorized as having **nonradiographic axial spondyloarthritis (nr-axSpA)**.
 
 ## TABLE 362-1 ASAS Criteria for Classification of Axial Spondyloarthritis
