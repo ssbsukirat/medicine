@@ -57,11 +57,11 @@
 - Central cartilaginous erosions from proliferation of subchondral granulation tissue are common.
 - Characteristics of peripheral arthritis in AS are shared by other SpA forms and distinct from RA.
 - The **enthesis** (fibrocartilaginous region where tendon, ligament, or joint capsule attaches to bone) is implicated as a primary site of pathology in AS and other SpAs.
-- Entheses transduce mechanical forces and are widely distributed.
-- Enthesitis is associated with prominent edema of adjacent bone marrow.
-- It is often characterized by erosive lesions that eventually undergo ossification.
+	- Entheses transduce mechanical forces and are widely distributed.
+	- Enthesitis is associated with prominent edema of adjacent bone marrow.
+	- It is often characterized by erosive lesions that eventually undergo ossification.
 - Subclinical intestinal inflammation is found in the colon or distal ileum in most SpA patients.
-- Histology resembles IBD-associated arthritis.
+	- Histology resembles IBD-associated arthritis.
 
 ## PATHOGENESIS
 
