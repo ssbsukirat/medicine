@@ -96,13 +96,11 @@
 - Overlapping features with ReA and IBD and involvement of the IL-23/IL-17 pathway support microbiome importance.
 - Hypothesized amplification loop: systemic inflammation, dysbiosis, increased intestinal permeability drive sustained inflammation.
 - **HLA-B27** plays a direct role, precise molecular role unresolved.
-- B27 transgenic rats develop arthritis/spondylitis, unaffected by CD8 absence.
 - Classical peptide antigen presentation to CD8+ T cells may not be primary mechanism.
 - Association with ERAP1/ERAP2 suggests peptide binding to B27 is important.
-- CD8+ T cells decreased in peripheral blood, increased in synovial fluid in AS; role unclear.
+- **CD8+ T cells decreased in peripheral blood, increased in synovial fluid in AS; role unclear.**
 - B27 heavy chain has unusual tendency to misfold, which can be proinflammatory.
 - Genetic/functional studies suggest a role for natural killer (NK) cells, possibly via B27 heavy chain homodimers.
-- SpA-prone B27 rats show defective dendritic cell function.
 - They share a characteristic “reverse interferon” gene expression signature in antigen-presenting cells with AS patients.
 - Recent study found evidence for interaction between HLA-B27 and activin receptor-like kinase-2 (ALK2).
 - ALK2 mutations associated with fibrodysplasia ossificans progressiva (uncontrolled bone formation).
