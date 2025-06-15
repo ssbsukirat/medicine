@@ -74,8 +74,6 @@
 - 11 of these 12 genes are also associated with IBD.
 - 6 are also associated with psoriasis.
 - Serum levels of IL-23 and IL-17 are elevated in AS patients.
-- In mice, tissue-resident γ/δ T cells expressing IL-23 receptors are found at entheses, aortic root, and near ciliary body in the eye.
-- These cells express abundant IL-17 and IL-22 upon exposure to systemic IL-23.
 - This suggests site-specific innate immune cells play a critical role in anatomic specificity.
 - IL-23 signals through Janus kinase (Jak) TYK2.
 - TYK2 loss of function SNPs are protective against AS.
