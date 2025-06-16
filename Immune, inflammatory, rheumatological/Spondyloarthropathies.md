@@ -105,7 +105,7 @@
 - Recent study found evidence for interaction between HLA-B27 and activin receptor-like kinase-2 (ALK2).
 - ALK2 mutations associated with fibrodysplasia ossificans progressiva (uncontrolled bone formation).
 - Enthesitis can arise in healthy individuals from repetitive mechanical strain.
-- In SpA, the threshold for strain-induced entheseal inflammation is thought to be lowered by genetic factors and/or microbial products.
+- **In SpA, the threshold for strain-induced entheseal inflammation is thought to be lowered by genetic factors and/or microbial products.**
 - This results in widespread, chronic lesions at entheseal sites subjected to normal use.
 - TNF transgenic mice develop peripheral enthesitis/arthritis mediated by innate immunity.
 - Nonweightbearing reduces inflammation/new bone formation at these sites in mice.
