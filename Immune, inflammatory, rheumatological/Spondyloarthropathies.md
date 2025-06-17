@@ -140,7 +140,7 @@
 - **Chest pain** is common at any stage of ax-SpA, can be confused with cardiovascular disease.
 - In juvenile spondyloarthritis, peripheral arthritis and enthesitis predominate.
 - Axial symptoms supervene in late adolescence.
-- Initially, axial physical findings mirror inflammation.
+	- Initially, axial physical findings mirror inflammation.
 - Most specific findings involve **loss of spinal mobility** (lumbar flexion/lateral flexion/extension, chest expansion).
 - Limitation often out of proportion to bony ankylosis, may reflect muscle spasm.
 - Sacroiliac joint pain elicited by direct pressure or stress.
