@@ -130,11 +130,11 @@
 - Within months, pain usually becomes persistent and bilateral.
 - Nocturnal exacerbation often forces patient to rise and move around.
 - **Bony tenderness** (enthesitis/osteitis) may accompany back pain/stiffness or be predominant.
-- Common sites: costosternal junctions, spinous processes, iliac crests, greater trochanters, ischial tuberosities, tibial tubercles, heels.
+	- Common sites: costosternal junctions, spinous processes, iliac crests, greater trochanters, ischial tuberosities, tibial tubercles, heels.
 - **Hip and shoulder** (“root” joint) arthritis is part of axial disease.
-- Hip arthritis occurs in 25–35%.
-- Severe isolated hip arthritis or bony chest pain may be presenting complaint.
-- Symptomatic hip disease can dominate, especially in juvenile-onset disease.
+	- Hip arthritis occurs in 25–35%.
+	- Severe isolated hip arthritis or bony chest pain may be presenting complaint.
+	- Symptomatic hip disease can dominate, especially in juvenile-onset disease.
 - **Peripheral arthritis** is usually asymmetric and can occur any point in course.
 - Neck pain and stiffness (cervical spine) may be later manifestations, occasionally dominant.
 - **Chest pain** is common at any stage of ax-SpA, can be confused with cardiovascular disease.
