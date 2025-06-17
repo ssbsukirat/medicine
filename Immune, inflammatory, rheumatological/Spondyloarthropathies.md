@@ -235,11 +235,11 @@
 - **MRI is much more useful for timely diagnosis of ax-SpA**.
 - Requires appropriate protocol and expertise.
 - Routine low back pain MRI protocols have low sensitivity, often false-negative.
-- Active sacroiliitis best visualized by dynamic MRI on semicoronal slices with fat saturation (T2-weighted turbo spin-echo or STIR) with high resolution, or T1-weighted with contrast.
+- **Active sacroiliitis best visualized by dynamic MRI on semicoronal slices with fat saturation (T2-weighted turbo spin-echo or STIR) with high resolution, or T1-weighted with contrast.**
 - These techniques identify early intraarticular inflammation, cartilage changes, bone marrow edema in sacroiliitis (Fig. 362-1).
 - Protocols also sensitive for acute/chronic spinal changes.
 - Bone marrow edema alone is not specific for spondyloarthritis.
-- Presence of erosions enhances specificity, best detected on conventional T1-weighted images.
+- Presence of **erosions enhances specificity, best detected on conventional T1-weighted images**.
 - Optimal MRI results require high index of suspicion, appropriate protocol, experienced radiologist, close communication.
 - Reduced bone mineral density detected by dual-energy x-ray absorptiometry of femoral neck/lumbar spine.
 - Lateral projection of L3 vertebral body prevents falsely elevated readings from spinal ossification.
@@ -257,10 +257,11 @@
 - AxSpA must be differentiated from numerous other causes of low-back pain, some more common.
 - Increased specificity when considering pain nature/pattern and patient age.
 - Most typical symptom: **inflammatory back pain (IBP)**, present in 70–80% of axSpA patients.
-- IBP features in chronic (≥3 months) back pain: age of onset <40 years.
-- Insidious onset.
-- Improvement with exercise.
-- No improvement with rest.
+	- IBP features in chronic (≥3 months) back pain: 
+	- age of onset <40 years.
+	- Insidious onset.
+	- Improvement with exercise.
+	- No improvement with rest.
 - Pain at night with improvement upon getting up.
 - Morning stiffness >30 min.
 - Awakening from back pain during only the second half of the night.
