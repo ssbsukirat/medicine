@@ -141,16 +141,16 @@
 - In juvenile spondyloarthritis, peripheral arthritis and enthesitis predominate.
 - Axial symptoms supervene in late adolescence.
 	- Initially, axial physical findings mirror inflammation.
-- Most specific findings involve **loss of spinal mobility** (lumbar flexion/lateral flexion/extension, chest expansion).
-- Limitation often out of proportion to bony ankylosis, may reflect muscle spasm.
+	- Most specific findings involve **loss of spinal mobility** (lumbar flexion/lateral flexion/extension, chest expansion).
+	- Limitation often out of proportion to bony ankylosis, may reflect muscle spasm.
 - Sacroiliac joint pain elicited by direct pressure or stress.
 - Tenderness common upon palpation of posterior spinous processes and other bony tender sites.
 - **Modified Schober test** measures lumbar spine flexion.
-- Normal mobility shows ≥2 cm increase.
+	- Normal mobility shows ≥2 cm increase.
 - **Chest expansion** measured at 4th intercostal space or xiphisternum.
-- Normal is ≥2.5 cm.
+	- Normal is ≥2.5 cm.
 - Lateral bending measures middle finger travel down leg.
-- Normal is >10 cm.
+	- Normal is >10 cm.
 - Limitation/pain with motion of hips/shoulders if involved.
 - In early, mild, atypical cases, symptoms/physical findings may be subtle/nonspecific.
 - Course of ax-SpA is extremely variable.
@@ -161,31 +161,31 @@
 - Severe untreated case with progression to syndesmophyte formation shows characteristic posture changes.
 - Posture changes: obliterated lumbar lordosis, buttock atrophy, accentuated thoracic kyphosis.
 - May have forward stoop of neck or hip flexion contractures, compensated by knee flexion.
-- Disease progression estimated clinically: loss of height, limitation of chest expansion/spinal flexion, increasing occiput-to-wall distance.
+- Disease progression estimated clinically: **loss of height, limitation of chest expansion/spinal flexion, increasing occiput-to-wall distance.**
 - Occasional individuals with advanced deformities deny significant symptoms.
 - Factors most predictive of radiographic progression: presence of existing syndesmophytes, high inflammatory markers, smoking.
 - Some studies correlate adolescent onset and early hip involvement with worse prognosis.
 - In women, AS tends to progress less frequently to total spinal ankylosis.
-- Women may have increased prevalence of peripheral arthritis.
-- Peripheral arthritis occurs in up to 30%.
-- Pregnancy has no consistent effect on AS.
-- Those requiring biologic therapy before pregnancy are likely to flare if medication is discontinued in 2nd/3rd trimester.
+	- Women may have increased prevalence of peripheral arthritis.
+	- Peripheral arthritis occurs in up to 30%.
+	- Pregnancy has no consistent effect on AS.
+	- Those requiring biologic therapy before pregnancy are likely to flare if medication is discontinued in 2nd/3rd trimester.
 - Most serious complication of advanced spinal disease: **spinal fracture**.
-- Fractures can occur with minor trauma to rigid, osteoporotic spine.
-- Lower cervical spine most commonly involved.
-- Fractures are often displaced, causing spinal cord injury.
-- Lifetime risk of fracture suggested to be >10%.
-- Fracture through a diskovertebral junction/adjacent neural arch (pseudoarthrosis) is rare.
-- Pseudoarthrosis is most common in thoracolumbar spine.
-- Can be unrecognized source of persistent localized pain/neurologic dysfunction.
-- Wedging of thoracic vertebrae can lead to accentuated kyphosis.
+	- Fractures can occur with minor trauma to rigid, osteoporotic spine.
+	- Lower cervical spine most commonly involved.
+	- Fractures are often displaced, causing spinal cord injury.
+	- Lifetime risk of fracture suggested to be >10%.
+	- Fracture through a diskovertebral junction/adjacent neural arch (pseudoarthrosis) is rare.
+	- Pseudoarthrosis is most common in thoracolumbar spine.
+	- Can be unrecognized source of persistent localized pain/neurologic dysfunction.
+	- Wedging of thoracic vertebrae can lead to accentuated kyphosis.
 - Most common extraarticular manifestation: **acute anterior uveitis**.
-- Uveitis occurs in up to 50%, can antedate spondylitis.
-- Attacks typically unilateral, causing pain, photophobia, pain with accommodation.
-- May recur, often in the opposite eye.
-- Cataracts and secondary glaucoma may ensue.
+	- Uveitis occurs in up to 50%, can antedate spondylitis.
+	- Attacks typically unilateral, causing pain, photophobia, pain with accommodation.
+	- May recur, often in the opposite eye.
+	- Cataracts and secondary glaucoma may ensue.
 - Up to 60% of AS patients have inflammation in colon or ileum.
-- Usually asymptomatic, but overt IBD occurs in 5–10% of AS patients.
+	- Usually asymptomatic, but overt IBD occurs in 5–10% of AS patients.
 - About 10% of patients meeting AS criteria have psoriasis.
 - Occasional patients with AS associated with skin manifestations seen in SAPHO syndrome (acne fulminans, hidradenitis suppurativa).
 - Apparently increased risk of ischemic heart disease.
