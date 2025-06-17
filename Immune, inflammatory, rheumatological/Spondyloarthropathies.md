@@ -188,15 +188,16 @@
 	- Usually asymptomatic, but overt IBD occurs in 5–10% of AS patients.
 - About 10% of patients meeting AS criteria have psoriasis.
 - Occasional patients with AS associated with skin manifestations seen in SAPHO syndrome (acne fulminans, hidradenitis suppurativa).
-- Apparently increased risk of ischemic heart disease.
-- Aortic insufficiency occurs in small percentage, usually after longstanding disease.
-- Third-degree heart block may occur alone or with aortic insufficiency.
-- Association with lesser degrees of heart block described.
+- Cardiac 
+	- Apparently increased risk of ischemic heart disease.
+	- Aortic insufficiency occurs in small percentage, usually after longstanding disease.
+	- Third-degree heart block may occur alone or with aortic insufficiency.
+	- Association with lesser degrees of heart block described.
 - Cauda equina syndrome and upper pulmonary lobe fibrosis are rare late complications.
 - Prostatitis reported to have increased prevalence.
 - Amyloidosis is rare.
-- Validated measures of disease activity/functional outcome used: Bath Ankylosing Spondylitis Disease Activity Index (BASDAI), Ankylosing Spondylitis Disease Activity Score (ASDAS), Bath Ankylosing Spondylitis Functional Index (BASFI).
-- Assessment of Spondyloarthritis international Society (ASAS) Health Index is SpA-specific tool for assessing function/health impairment.
+- **Validated measures of disease activity/functional outcome used: Bath Ankylosing Spondylitis Disease Activity Index (BASDAI), Ankylosing Spondylitis Disease Activity Score (ASDAS), Bath Ankylosing Spondylitis Functional Index (BASFI).**
+- **Assessment of Spondyloarthritis international Society (ASAS) Health Index is SpA-specific tool for assessing function/health impairment.**
 - Despite disease persistence, most patients remain gainfully employed.
 - Some studies suggest AS shortens life span.
 - Mortality largely results from spinal trauma, aortic insufficiency, respiratory failure, amyloid nephropathy, complications of therapy (e.g., upper GI hemorrhage).
