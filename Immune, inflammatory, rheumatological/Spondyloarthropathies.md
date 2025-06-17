@@ -262,10 +262,10 @@
 	- Insidious onset.
 	- Improvement with exercise.
 	- No improvement with rest.
-- Pain at night with improvement upon getting up.
-- Morning stiffness >30 min.
-- Awakening from back pain during only the second half of the night.
-- Alternating buttock pain.
+	- Pain at night with improvement upon getting up.
+	- Morning stiffness >30 min.
+	- Awakening from back pain during only the second half of the night.
+	- Alternating buttock pain.
 - Two or more features should arouse suspicion for IBP; four or more are presumptively diagnostic.
 - Most common back pain causes other than SpA are mechanical or degenerative.
 - These are less likely to show clustering of SpA features.
