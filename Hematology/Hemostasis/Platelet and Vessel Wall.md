@@ -49,8 +49,8 @@
     - This promotes coagulation, inhibits fibrinolysis, and activates platelets.
 - In many cases, endothelium-derived vasodilators are also platelet inhibitors (e.g., nitric oxide).
 - Conversely, endothelium-derived vasoconstrictors (e.g., endothelin) can also be platelet activators.
-- The net effect of vasodilation and inhibition of platelet function is to promote blood fluidity.
-- The net effect of vasoconstriction and platelet activation is to promote thrombosis.
+- **The net effect of vasodilation and inhibition of platelet function is to promote blood fluidity.**
+- **The net effect of vasoconstriction and platelet activation is to promote thrombosis.**
 - Thus, blood fluidity and hemostasis are regulated by the balance of antithrombotic/prothrombotic and vasodilatory/vasoconstrictor properties of endothelial cells.
 
 # DISORDERS OF PLATELETS
@@ -67,7 +67,7 @@
     - It results from platelet agglutination via antibodies (usually IgG, but also IgM and IgA).
     - This occurs when calcium content is decreased by blood collection in ethylenediamine tetraacetic (EDTA), the anticoagulant present in tubes used for complete blood counts (CBCs).
     - If a low platelet count is obtained in EDTA-anticoagulated blood, a blood smear should be evaluated.
-    - A platelet count should be determined in blood collected into sodium citrate or heparin.
+    - A **platelet count should be determined in blood collected into sodium citrate or heparin.**
     - Alternatively, a smear of freshly obtained unanticoagulated blood, such as from a finger stick, can be examined.
 
 ### Approach to the Patient: Thrombocytopenia
