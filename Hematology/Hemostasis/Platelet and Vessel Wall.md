@@ -119,7 +119,7 @@
 
 - Drug-induced thrombocytopenia due to heparin differs from that seen with other drugs in two major ways:
     1. The thrombocytopenia is not usually severe, with nadir counts rarely <20,000/μL.
-    2. HIT is not associated with bleeding and, in fact, markedly increases the risk of thrombosis.
+    2. HIT is not associated with bleeding and, in fact, **markedly increases the risk of thrombosis.**
 - The pathogenesis of HIT is complex.
     - It results from antibody formation to a complex of the platelet-specific protein platelet factor 4 (PF4) and heparin or other glycosaminoglycans.
     - The anti-heparin/PF4 antibody can activate platelets through the FcγRIIa receptor and also activate monocytes, endothelial cells, and coagulation proteins.
@@ -127,8 +127,8 @@
 - A fraction of those who develop antibodies will develop HIT, and a portion of those (up to 50%) will develop thrombosis (HITT).
 - HIT can occur after exposure to low-molecular-weight heparin (LMWH) as well as unfractionated heparin (UFH), although it is more common with UFH.
 - Most patients develop HIT after exposure to heparin for 5–14 days.
-- It occurs before 5 days in those who were exposed to heparin in the prior few weeks or months (<∼100 days) and have circulating anti-heparin/PF4 antibodies.
-- Rarely, thrombocytopenia and thrombosis begin several days after all heparin has been stopped (termed delayed-onset HIT).
+- It occurs **before 5 days in those who were exposed to heparin in the prior few weeks or months (<∼100 days)** and have circulating anti-heparin/PF4 antibodies.
+- Rarely, thrombocytopenia and thrombosis begin **several days after all heparin has been stopped (termed delayed-onset HIT).**
 - More rarely, spontaneous HIT, or autoimmune HIT syndrome, occurs where there is no history of heparin exposure and is termed vaccine-induced immune thrombocytopenia and thrombosis (VITT).
     - A syndrome similar to spontaneous HIT has been described rarely post-COVID-19 vaccination, mainly with the ChAdOx1-S/nCoV-19 vaccine.
 - The “4T’s” have been recommended for use in a diagnostic algorithm for HIT:
