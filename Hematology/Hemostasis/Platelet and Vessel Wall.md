@@ -341,7 +341,7 @@
 
 # QUALITATIVE DISORDERS OF PLATELET FUNCTION
 
-### Inherited Disorders of Platelet Function
+## Inherited Disorders of Platelet Function
 
 - Inherited platelet function disorders are thought to be relatively rare.
     - The prevalence of mild disorders is unclear, partly because testing for such disorders is suboptimal.
@@ -356,7 +356,7 @@
 - The most common inherited disorders of platelet function prevent normal secretion of granule content and are termed secretion defects.
     - An increasing number of genetic variants are being found in patients with these disorders, although assigning pathogenicity remains challenging.
 
-##### TREATMENT: Inherited Disorders of Platelet Dysfunction
+## TREATMENT: Inherited Disorders of Platelet Dysfunction
 
 - Bleeding symptoms or prevention of bleeding in patients with severe platelet dysfunction frequently requires platelet transfusion.
     - Care must be taken to limit the risk of alloimmunization by limiting exposure and using HLA-matched single donor platelets for transfusion when needed.
@@ -368,7 +368,7 @@
 - Particularly for mucosal bleeding symptoms, antifibrinolytic therapy (tranexamic acid or ε-aminocaproic acid) is used.
     - Used alone or in conjunction with DDAVP or platelet therapy.
 
-### Acquired Disorders of Platelet Function
+## Acquired Disorders of Platelet Function
 
 - Acquired platelet dysfunction is common, usually due to medications.
     - Either intentionally (as with antiplatelet therapy) or unintentionally (as with high-dose penicillins).
@@ -433,7 +433,7 @@
         - The shear stress on blood passing through the stenotic aortic valve appears to unfold VWF, making it susceptible to proteolysis.
         - Consequently, large multimer forms are lost, leading to an acquired type 2 VWD, but they return when the stenotic valve is replaced.
 
-##### TREATMENT: Von Willebrand Disease
+### TREATMENT: Von Willebrand Disease
 
 - The mainstay of treatment for type 1 VWD is DDAVP (desmopressin).
     - DDAVP results in release of VWF and FVIII from endothelial stores.
@@ -456,13 +456,13 @@
     - Also used as prophylaxis for dental procedures, and with DDAVP or factor concentrate for dental extractions, tonsillectomies, and prostate procedures.
     - Antifibrinolytic agents are contraindicated in the setting of upper urinary tract bleeding due to the risk of ureteral obstruction.
 
-## DISORDERS OF THE VESSEL WALL
+# DISORDERS OF THE VESSEL WALL
 
 - The vessel wall is an integral part of hemostasis.
     - Separation of a fluid phase is artificial, particularly in disorders such as TTP or HIT that clearly involve the endothelium as well.
 - Inflammation localized to the vessel wall (such as vasculitis) and inherited connective tissue disorders are abnormalities inherent to the vessel wall.
 
-### Metabolic and Inflammatory Disorders
+## Metabolic and Inflammatory Disorders
 
 - Acute febrile illnesses may result in vascular damage.
     - This can result from immune complexes containing viral antigens or the viruses themselves.
@@ -487,7 +487,7 @@
     - Renal impairment may occur.
     - Glucocorticoids can provide symptomatic relief but do not alter the course of the illness.
 
-### Inherited Disorders of the Vessel Wall
+## Inherited Disorders of the Vessel Wall
 
 - Patients with inherited disorders of the connective tissue matrix, such as Marfan’s syndrome, Ehlers-Danlos syndrome, and pseudoxanthoma elasticum, frequently report easy bruising.
 - Inherited vascular abnormalities can result in increased bleeding.
