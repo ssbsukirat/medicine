@@ -129,7 +129,7 @@
 - Most patients develop HIT after exposure to heparin for 5–14 days.
 - It occurs **before 5 days in those who were exposed to heparin in the prior few weeks or months (<∼100 days)** and have circulating anti-heparin/PF4 antibodies.
 - Rarely, thrombocytopenia and thrombosis begin **several days after all heparin has been stopped (termed delayed-onset HIT).**
-- More rarely, spontaneous HIT, or autoimmune HIT syndrome, occurs where there is no history of heparin exposure and is termed vaccine-induced immune thrombocytopenia and thrombosis (VITT).
+- More rarely, spontaneous HIT, or autoimmune HIT syndrome, occurs where there is no history of heparin exposure and is termed **vaccine-induced immune thrombocytopenia and thrombosis (VITT).**
     - A syndrome similar to spontaneous HIT has been described rarely post-COVID-19 vaccination, mainly with the ChAdOx1-S/nCoV-19 vaccine.
 - The “4T’s” have been recommended for use in a diagnostic algorithm for HIT:
     - Thrombocytopenia.
