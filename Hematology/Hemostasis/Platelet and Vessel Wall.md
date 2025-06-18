@@ -265,7 +265,7 @@
 - They also include syndromes complicating bone marrow transplantation, certain medications and infections, pregnancy, and vasculitis.
 - In DIC, although thrombocytopenia and microangiopathy are seen, a coagulopathy predominates.
     - This involves consumption of clotting factors and fibrinogen, resulting in an elevated prothrombin time (PT) and often activated partial thromboplastin time (aPTT).
-- The PT and aPTT are characteristically normal in TTP or HUS.
+- **The PT and aPTT are characteristically normal in TTP or HUS.**
 
 ### Thrombotic Thrombocytopenic Purpura (TTP)
 
