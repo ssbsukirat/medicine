@@ -159,9 +159,9 @@
 - Early recognition is key in treatment of HIT.
 - Prompt discontinuation of heparin and use of alternative anticoagulants if bleeding risk does not outweigh thrombotic risk.
 - Thrombosis is a common complication of HIT, even after heparin discontinuation, and can occur in both the venous and arterial systems.
-- In patients diagnosed with HIT, imaging studies to evaluate for thrombosis (at least lower extremity duplex Doppler imaging) are recommended.
+- In patients diagnosed with HIT, imaging studies to **evaluate for thrombosis (at least lower extremity duplex Doppler imaging) are recommended.**
 - Patients requiring anticoagulation should be switched from heparin to an alternative anticoagulant.
-    - The direct thrombin inhibitor (DTI) argatroban is effective in HITT.
+    - The direct thrombin inhibitor (DTI) **argatroban** is effective in HITT.
     - The DTI bivalirudin and the antithrombin-binding pentasaccharide fondaparinux are also effective but not approved by the U.S. Food and Drug Administration (FDA) for this indication.
     - Direct oral anticoagulants (DOACs) are being used for treatment, although they are not FDA approved for this indication; studies in small numbers of patients suggest their use may be a viable option.
 - HIT antibodies cross-react with LMWH, and these drugs should not be used in the treatment of HIT.
