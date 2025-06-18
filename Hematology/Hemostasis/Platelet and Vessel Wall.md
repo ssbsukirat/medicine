@@ -76,7 +76,7 @@
 - The patient's overall health and whether they are receiving drug treatment will influence the differential diagnosis.
 - A healthy young adult with thrombocytopenia will have a much more limited differential diagnosis than an ill hospitalized patient receiving multiple medications.
 - Except in unusual inherited disorders, decreased platelet production usually results from bone marrow disorders that also affect red blood cell (RBC) and/or white blood cell (WBC) production.
-- Because myelodysplasia can present with isolated thrombocytopenia, the bone marrow should be examined in patients presenting with isolated thrombocytopenia who are older than 60 years or who do not respond to initial therapy.
+- Because myelodysplasia can present with isolated thrombocytopenia, the **bone marrow should be examined in patients presenting with isolated thrombocytopenia who are older than 60 years or who do not respond to initial therapy.**
 - While inherited thrombocytopenia is rare, any prior platelet counts should be retrieved and a family history regarding thrombocytopenia obtained.
 - A careful history of drug ingestion, including nonprescription and herbal remedies, should be obtained, as drugs are the most common cause of thrombocytopenia.
 - The physical examination can document an enlarged spleen, evidence of chronic liver disease, and other underlying disorders.
