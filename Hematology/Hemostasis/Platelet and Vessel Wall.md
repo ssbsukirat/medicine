@@ -187,7 +187,7 @@
 - In adults, it is a more chronic disease, although in some adults, spontaneous remission occurs, usually within months of diagnosis.
 - ITP is termed secondary if it is associated with an underlying disorder.
     - Autoimmune disorders (particularly systemic lupus erythematosus, SLE) and infections (such as HIV and hepatitis C) are common causes.
-- The association of ITP with _Helicobacter pylori_ infection is unclear but appears to have a geographic distribution.
+	- The association of ITP with _Helicobacter pylori_ infection is unclear but appears to have a geographic distribution.
 - ITP is characterized by mucocutaneous bleeding and a low, often very low, platelet count.
 - Patients usually present either with ecchymoses and petechiae or with thrombocytopenia incidentally found on a routine CBC.
 - Otherwise normal peripheral blood cells and smear are present.
@@ -207,7 +207,7 @@
     - Serum protein electrophoresis, immunoglobulin levels (to potentially detect hypogammaglobulinemia).
     - Selective testing for IgA deficiency or monoclonal gammopathies.
     - Testing for _H. pylori_ infection (depending on clinical circumstance).
-- If anemia is present, direct antiglobulin testing (Coombs’ test) should be performed to rule out combined autoimmune hemolytic anemia with ITP (Evans’ syndrome).
+	- If anemia is present, direct antiglobulin testing (Coombs’ test) should be performed to rule out combined autoimmune hemolytic anemia with ITP (Evans’ syndrome).
 
 ### TREATMENT: Immune Thrombocytopenic Purpura
 
@@ -217,7 +217,7 @@
     - And/or increase platelet production.
 - The diagnosis of ITP does not necessarily mean that treatment must be instituted.
 - Patients with platelet counts >30,000/μL appear not to have increased mortality related to the thrombocytopenia.
-- Initial treatment for patients without significant bleeding symptoms, severe thrombocytopenia (<5000/μL), or signs of impending bleeding (e.g., retinal hemorrhage or large oral mucosal hemorrhages) can be instituted as an outpatient using single agents.
+- Initial treatment for patients without significant bleeding symptoms, severe thrombocytopenia (<5000/μL), or **signs of impending bleeding (e.g., retinal hemorrhage or large oral mucosal hemorrhages)** can be instituted as an outpatient using single agents.
     - Traditionally, this has been prednisone at 1 mg/kg or a 4-day course of dexamethasone, 40 mg/d.
     - Rh0(D) immune globulin therapy (WinRho SDF), at 50–75 μg/kg, is also being used.
         - Must be used only in Rh-positive patients.
