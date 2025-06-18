@@ -83,10 +83,10 @@
 - Mild to moderate splenomegaly may be difficult to appreciate in many individuals but can be easily assessed by abdominal ultrasound.
 - A platelet count of approximately 5000–10,000/μL is required to maintain vascular integrity in the microcirculation.
 - When the count is markedly decreased:
-    - Petechiae first appear in areas of increased venous pressure, such as the ankles and feet in an ambulatory patient.
-    - Petechiae are pinpoint, nonblanching hemorrhages and are usually a sign of a decreased platelet number and not platelet dysfunction.
-    - Wet purpura (blood blisters that form on the oral mucosa) are thought to denote an increased risk of life-threatening hemorrhage.
-    - Excessive bruising is seen in disorders of both platelet number and function.
+    - Petechiae first appear in areas of increased venous pressure, such **as the ankles and feet in an ambulatory patient.**
+    - **Petechiae are pinpoint, nonblanching hemorrhages and are usually a sign of a decreased platelet number and not platelet dysfunction.**
+    - **Wet purpura (blood blisters that form on the oral mucosa) are thought to denote an increased risk of life-threatening hemorrhage.**
+    - **Excessive bruising is seen in disorders of both platelet number and function.**
 
 ### Infection-Induced Thrombocytopenia
 
@@ -107,11 +107,11 @@
 - Drugs that cause isolated thrombocytopenia and have been confirmed with positive laboratory testing are listed in Table 115-1.
     - All drugs should be suspect in a patient with thrombocytopenia without an apparent cause and should be stopped, or substituted, if possible.
 - Herbal and over-the-counter preparations may also result in thrombocytopenia and should be discontinued in patients who are thrombocytopenic.
-- Classic drug-dependent antibodies are antibodies that react with specific platelet surface antigens and result in thrombocytopenia only when the drug is present.
-    - Many drugs are capable of inducing these antibodies, but they are more common with quinine and sulfonamides.
+- **Classic drug-dependent antibodies** are antibodies that **react with specific platelet surface antigens and result in thrombocytopenia only when the drug is present.**
+    - Many drugs are capable of inducing these antibodies, but they are more common with **quinine and sulfonamides.**
     - Drug-dependent antibody binding can be demonstrated by laboratory assays, showing antibody binding in the presence of, but not without, the drug present in the assay.
-    - The thrombocytopenia typically occurs after a period of initial exposure (median length 21 days), or upon reexposure.
-    - It usually resolves in 7–10 days after drug withdrawal.
+    - The thrombocytopenia typically occurs after a period of initial exposure (**median length 21 days),** or upon reexposure.
+    - It usually **resolves in 7–10 days after drug withdrawal.**
 - The thrombocytopenia caused by platelet Gp IIb/IIIa inhibitory drugs, such as abciximab, differs in that it may occur within 24 hours of initial exposure.
     - This appears to be due to the presence of naturally occurring antibodies that cross-react with the drug bound to the platelet.
 
