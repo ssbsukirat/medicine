@@ -9,6 +9,7 @@
 - Disease phenotype often correlates with the level of factor activity.
 - FXII deficiency is not accompanied by a bleeding phenotype, despite prolonged aPTT.
 - Advances in molecular basis have led to targeted therapeutic approaches, including small molecules, recombinant proteins, or cell- and gene-based therapies.
+- ![[coagpathway.png]]
 
 # Laboratory Assessment of Clotting Factor Deficiency
 
