@@ -358,15 +358,6 @@
     - Lab diagnosis should prompt a search for the underlying disease.
     - In critically ill patients, these tests should be repeated over 6–8 h due to rapid deterioration.
 
-| ISTH Criteria for Overt DIC | Score |
-| --------------------------- | ----- |
-| Platelet Count >1L          | 0     |
-| Fibrinogen Level            |       |
-|                             |       |
-|                             |       |
-| D-dimer Level               |       |
-| Prothrombin Time (PT)       |       |
-
 ## Chronic DIC
 
 - Low-grade, compensated DIC.
