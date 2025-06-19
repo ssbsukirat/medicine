@@ -311,6 +311,7 @@
 ## Definition and Causes
 
 - **Definition (ISTH 2001)**: An acquired syndrome characterized by intravascular activation of coagulation with loss of localization arising from different causes that can originate from and cause damage to the microvasculature, potentially leading to organ dysfunction.
+- ![[DICcauses.png]]
 - **Common Clinical Causes**:
     - Bacterial sepsis (also viral and fungal sepsis).
     - Trauma.
