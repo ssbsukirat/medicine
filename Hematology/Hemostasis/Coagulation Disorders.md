@@ -229,7 +229,7 @@
 
 # Factor XI Deficiency
 
-### Characteristics and Clinical Manifestations
+## Characteristics and Clinical Manifestations
 
 - Also known as hemophilia C.
 - **Nature**: Rare autosomal bleeding disorder.
@@ -243,7 +243,7 @@
     - Suggests tissues rich in fibrinolytic activity are more susceptible.
     - Postoperative bleeding is common but not always present, even among patients with very low FXI levels.
 
-### Treatment
+## Treatment
 
 - FXI replacement is indicated in patients with severe disease for major surgical procedures.
 - A negative history of bleeding complications following invasive procedures does not exclude increased hemorrhage risk.
@@ -258,9 +258,9 @@
     - Bleeding with surgery or trauma can be severe.
     - Treatment: PCC/aPCC or recombinant activated FVII is effective.
 
-## Rare Bleeding Disorders
+# Rare Bleeding Disorders
 
-### Overview
+## Overview
 
 - Inherited disorders resulting from deficiencies of clotting factors other than FVIII, FIX, and FXI occur infrequently.
 - **Bleeding Manifestations**: Vary.
@@ -271,16 +271,16 @@
 - Individuals heterozygous for plasma coagulation deficiencies are often asymptomatic.
 - **Diagnosis**: Laboratory assessment for the specific deficient factor following screening with general coagulation tests.
 
-### Treatment
+## Treatment
 
 - Replacement therapy using FFP or PCCs provides adequate hemostasis for bleeds or prophylactic treatment.
 - **Specific Concentrates**: Available for FX and fibrinogen.
 - **FXIII Deficiency**: Requires Cryoprecipitate or FXIII concentrate.
 - **FVII Deficiency**: Like FXI, has increased prevalence in the Ashkenazi Jewish population. Best treated with rVIIa rather than FFP or PCCs depending on severity/type of surgery.
 
-## Familial Multiple Coagulation Deficiencies
+# Familial Multiple Coagulation Deficiencies
 
-### Combined Deficiency of FV and FVIII
+## Combined Deficiency of FV and FVIII
 
 - Patients exhibit ∼5% residual clotting activity of each factor.
 - Associated with a mild bleeding tendency, often following trauma.
@@ -292,7 +292,7 @@
     - DDAVP or FVIII concentrate to achieve FVIII levels of 20–40%.
     - Alternatively, platelets (which contain FV) can be used.
 
-### Multiple Deficiencies of Vitamin K–Dependent Coagulation Factors
+## Multiple Deficiencies of Vitamin K–Dependent Coagulation Factors
 
 - **Nature**: Combined deficiency of all vitamin K-dependent proteins (procoagulant proteins prothrombin (II), VII, IX, X and anticoagulant proteins C and S).
 - **Cause**: Associated with defects in two enzymes involved in vitamin K metabolism.
@@ -304,9 +304,9 @@
     - Some patients respond to oral vitamin K1 (5–20 mg/d) or parenteral vitamin K1 (5–20 mg/week).
     - For severe bleeding, replacement therapy with PCC may be necessary.
 
-## Disseminated Intravascular Coagulation (DIC)
+# Disseminated Intravascular Coagulation (DIC)
 
-### Definition and Causes
+## Definition and Causes
 
 - **Definition (ISTH 2001)**: An acquired syndrome characterized by intravascular activation of coagulation with loss of localization arising from different causes that can originate from and cause damage to the microvasculature, potentially leading to organ dysfunction.
 - **Common Clinical Causes**:
@@ -322,7 +322,7 @@
     - Especially those with inherited or acquired hypercoagulability due to deficiencies of protein C pathway components.
     - Neonates homozygous for protein C deficiency can develop neonatal purpura fulminans.
 
-### Pathophysiology
+## Pathophysiology
 
 - **Central Mechanism**: Uncontrolled generation of thrombin by multiple mechanisms.
 - Simultaneous disruption of physiologic anticoagulant mechanisms and abnormal fibrinolysis further accelerate the process.
@@ -332,7 +332,7 @@
     - Sustained activation of coagulation and fibrin formation consumes clotting factors and platelets, leading to systemic bleeding.
     - Secondary hyperfibrinolysis occurs in late stages of DIC, aggravating bleeding.
 
-### Clinical Manifestations
+## Clinical Manifestations
 
 - Related to the magnitude of hemostasis imbalance, underlying disease, or both.
 - **Common Findings**: Petechiae, ecchymoses, and bleeding (from oozing at venipuncture sites to severe hemorrhage from GI tract, lung, or into CNS).
@@ -342,7 +342,7 @@
 - **Hemodynamic Complications**: Shock common among patients with acute DIC due to underlying disease.
 - **Mortality**: Ranges from 30 to >80%.
 
-### Diagnosis
+## Diagnosis
 
 - Can be difficult.
 - **ISTH Scoring Tool for Overt DIC**:
@@ -361,7 +361,7 @@
 |Prothrombin Time (PT)||
 |Fibrinogen Level||
 
-### Chronic DIC
+## Chronic DIC
 
 - Low-grade, compensated DIC.
 - Can occur in clinical situations including giant hemangioma, metastatic carcinoma, or dead fetus syndrome.
@@ -371,7 +371,7 @@
     - Mild thrombocytopenia or normal platelet counts are common.
     - Red cell fragmentation is often detected but at a lower degree than in acute DIC.
 
-### Differential Diagnosis
+## Differential Diagnosis
 
 - **Distinguishing between DIC and severe liver disease**: Challenging, requires serial measurements of DIC laboratory parameters.
     - **Severe Liver Disease Features**: Thrombocytopenia (platelet sequestration, portal hypertension, hypersplenism), decreased synthesis of coagulation factors and natural anticoagulants, and elevated D-dimer.
@@ -380,14 +380,14 @@
     - Present with acute onset accompanied by thrombocytopenia, red cell fragmentation, and multiorgan failure.
     - Clinical presentation and laboratory findings (e.g., inhibitor to ADAMTS13 levels) assist in diagnosis.
 
-### Treatment
+## Treatment
 
 - Morbidity and mortality associated with DIC are primarily related to the underlying disease.
 - Management of the underlying disease is required to control and eliminate DIC.
 - Support with platelets and coagulation factors may be needed until the inciting cause is under control.
 - Most patients with overt DIC are critically ill, requiring intensive care unit management for shock physiology and other manifestations.
 
-#### Management of Hemorrhagic Symptoms
+### Management of Hemorrhagic Symptoms
 
 - **Transfusion Support**: Required for active bleeding or high risk during invasive procedures or after chemotherapy.
     - Not indicated solely to correct mildly to moderately abnormal coagulation parameters.
@@ -400,7 +400,7 @@
 - **Vitamin K**: Should be given.
 - Patients should be frequently monitored, and transfusion support adjusted.
 
-#### Replacement of Coagulation or Fibrinolysis Inhibitors
+### Replacement of Coagulation or Fibrinolysis Inhibitors
 
 - Anticoagulants (heparin, antithrombin III [ATIII], thrombomodulin concentrates) and antifibrinolytic drugs have been tried.
 - **Heparin**:
@@ -417,9 +417,9 @@
     - Concern for increasing thrombosis risk has led to consideration of concomitant heparin use.
     - Patients with acute promyelocytic leukemia or chronic DIC associated with giant hemangiomas may benefit from this therapy.
 
-## Vitamin K Deficiency
+# Vitamin K Deficiency
 
-### Pathogenesis and Causes
+## Pathogenesis and Causes
 
 - Vitamin K-dependent proteins include clotting factor proteins and proteins in bone, lung, kidney, and placenta.
 - **Vitamin K Function**: Mediates posttranslational modification of glutamate residues to γ-carboxylglutamate, critical for activity of vitamin K-dependent proteins for calcium binding and proper assembly on phospholipid membranes.
@@ -431,11 +431,11 @@
     - Chronic liver diseases (e.g., primary biliary cirrhosis) deplete vitamin K stores.
 - **Neonatal Vitamin K Deficiency (hemorrhagic disease of the newborn)**: Almost entirely eliminated by routine vitamin K administration to all neonates.
 
-### Clinical Manifestations
+## Clinical Manifestations
 
 - **Lab Findings**: Prolongation of PT values is the most common and earliest finding due to short FVII half-life, occurring before aPTT prolongation.
 
-### Treatment
+## Treatment
 
 - **Parenteral Vitamin K**: 10 mg is sufficient to restore normal clotting factor levels within 8–10 h.
 - **Rapid Correction**: Requires replacement with FFP or PCC, choice depending on intravascular volume status and need for rapidity of correction.
@@ -444,9 +444,9 @@
     - **Emergent reversal (life-threatening bleeding or emergency surgery)**: Use of 4F-PPC is the standard of care.
 - Re-initiation of anticoagulation needs careful consideration in patients with underlying vascular disease, vascular trauma, atrial fibrillation, and other comorbidities to prevent thromboembolic complications.
 
-## Coagulation Disorders Associated with Liver Failure
+# Coagulation Disorders Associated with Liver Failure
 
-### Pathogenesis and Clinical Features
+## Pathogenesis and Clinical Features
 
 - The liver is the site of synthesis and clearance of most procoagulant and natural anticoagulant proteins and fibrinolytic system components.
 - **Bleeding Risk**: High risk due to deficient synthesis of procoagulant factors and enhanced fibrinolysis (referred to as accelerated intravascular coagulation and fibrinolysis [AICF]).
@@ -465,7 +465,7 @@
 - **Vitamin K Levels**: May be reduced due to compromised storage, changes in bile acids, or cholestasis (diminishing absorption).
     - IV vitamin K may improve hemostasis.
 
-### Treatment
+## Treatment
 
 - Treatment of bleeding with FFP was standard, but 4F-PCC is now favored.
     - **4F-PCC advantages**: Lower volume, less increase in portal pressure, reduced risk of circulatory overload and other FFP complications.
@@ -474,7 +474,7 @@
 - **Cryoprecipitate**: Indicated only when fibrinogen levels are <100–150 mg/mL, unless the patient is bleeding (then higher target).
 - **Antifibrinolytic drugs**: As adjuncts to control bleeding, not thought to increase thrombosis risk; impact on acute thrombosis propagation not well studied.
 
-### Liver Disease and Thromboembolism
+## Liver Disease and Thromboembolism
 
 - Bleeding in patients with stable liver disease is often mild or even asymptomatic.
 - As disease progresses, hemostatic balance is precarious and easily disturbed by comorbid complications (e.g., infections, renal failure).
@@ -487,9 +487,9 @@
     - Compensated cirrhosis patients do not appear to have increased bleeding with VTE prophylaxis or therapeutic dose heparin for acute portal vein thrombosis when carefully managed.
     - In outpatient setting, warfarin is avoided, but low-molecular-weight heparin and direct oral anticoagulants have been safely used to treat thrombosis.
 
-## Acquired Inhibitors of Coagulation Factors
+# Acquired Inhibitors of Coagulation Factors
 
-### Pathogenesis and Clinical Manifestations
+## Pathogenesis and Clinical Manifestations
 
 - **Nature**: Immune-mediated disease characterized by the presence of an autoantibody against a specific clotting factor.
 - **Underlying Conditions**: Almost half of patients have an underlying autoimmune or immunoproliferative disorder, malignancy, or are peripartum.
@@ -504,13 +504,13 @@
     - Retroperitoneal hemorrhages and other life-threatening bleeding may appear suddenly.
 - **Mortality**: 8–22% in untreated patients; most deaths occur within the first few weeks after presentation.
 
-### Diagnosis
+## Diagnosis
 
 - Based on prolonged aPTT with normal PT and TT.
 - A mixing study that does not correct with normal pooled plasma.
 - The Bethesda assay (using factor specific-deficient plasma) confirms the diagnosis.
 
-### Treatment
+## Treatment
 
 - **Goals**: Control of bleeding and eradication of the inhibitor.
 - Many patients can have life-threatening bleeding.
@@ -523,7 +523,7 @@
     - No firm evidence confirms superiority of these alternatives over first-line immunosuppressive drugs (glucocorticoids and cyclophosphamide), which are effective in 70% of patients.
     - Relapse of FVIII inhibitor is relatively common (up to 20%) within the first 6 months following immunosuppression withdrawal; patients should be followed regularly.
 
-#### Antibodies to Topical Thrombin Preparations
+### Antibodies to Topical Thrombin Preparations
 
 - **Use**: Topical plasma-derived bovine and human thrombin commonly used in major surgeries (cardiovascular, thoracic, neurologic, pelvic) and in trauma patients with extensive burns.
 - **Antibody Formation**:
@@ -546,7 +546,7 @@
     - Specific treatments to eradicate antibodies (immunosuppression with glucocorticoids, intravenous immunoglobulin, or serial plasmapheresis) have been sporadically reported.
 - **Patient Advice**: Avoid any topical thrombin sealant in the future.
 
-#### Lupus Anticoagulant
+### Lupus Anticoagulant
 
 - Can be associated with venous or arterial thrombotic disease.
 - **Bleeding**: Reported rarely due to antibodies to prothrombin, resulting in hypoprothrombinemia.
