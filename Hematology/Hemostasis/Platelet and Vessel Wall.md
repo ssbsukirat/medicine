@@ -392,6 +392,7 @@
 - Most of the symptoms of VWD are “platelet-like”.
     - However, in more severe VWD, the FVIII is low enough to produce symptoms similar to those found in FVIII deficiency (hemophilia A).
 - VWD has been classified into three major types, with four subtypes of type 2 (Table 115-2).
+- ![[plateletsVWD.png]]
 - **Type 1 VWD:**
     - By far the most common type, accounting for at least 80% of cases.
     - Features a parallel decrease in VWF protein, VWF function, and FVIII levels.
