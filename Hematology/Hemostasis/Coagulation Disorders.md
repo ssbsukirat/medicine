@@ -22,9 +22,8 @@
 |Prolonged PT and aPTT|FV, FX, FII, or fibrinogen abnormalities||
 
 - A mixing study, adding normal pooled plasma to patient’s plasma, is the next step.
-    - If the clotting time corrects, it suggests a coagulation factor deficiency.
-    - If the clotting time does not correct, it suggests the presence of an inhibitor (antibody to a specific factor) or anticoagulants.
-    - If the mixing study corrects, individual factor activity assays are performed to determine the deficient factor.
+    - clotting time corrects --> coagulation factor deficiency + individual factor activity assays are performed to determine the deficient factor.
+    - clotting time does not correct --> presence of an inhibitor (antibody to a specific factor) or anticoagulants
 
 # Acquired Deficiencies of Plasma Coagulation Factors
 
@@ -36,7 +35,7 @@
 # Inhibitors
 
 - Development of alloantibodies to coagulation plasma proteins, clinically termed inhibitors, is a relatively rare disease.
-- Often affects hemophilia A or B and FXI-deficient patients on repetitive exposure to the missing protein.
+- Often affects **hemophilia A or B and FXI-deficient patients on repetitive exposure to the missing protein.**
 - Inhibitory autoantibodies can occur in subjects without genetic deficiency, sometimes postpartum, as a manifestation of autoimmune/neoplastic disease, or idiopathically.
 - Rare cases of acquired inhibitors to thrombin or FV reported in patients receiving topical bovine thrombin preparations.
 - **Detection**: A mixing study that does not correct with the addition of normal plasma indicates the presence of an inhibitor.
