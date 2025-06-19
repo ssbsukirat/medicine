@@ -112,8 +112,10 @@
     - Dosed in units (U): 1 U is amount of FVIII (100 ng/mL) or FIX (5 μg/mL) in 1 mL of normal plasma.
     - **FVIII**: 1 U/kg body weight increases plasma FVIII level by 2%. (e.g., 3500 U for 70-kg patient to reach 100%).
         - Half-life: 8–12 h, requiring twice-daily injections.
+        - ![[hemophiliadosing.png]]
     - **FIX**: Doses differ as recovery is usually 50% of predicted.
         - Half-life: ∼24 h, allowing once-a-day injection.
+        - ![[f9dosing.png]]
     - **Continuous infusion**: May be desirable after surgery for sustained factor levels at lower cost.
 - **Cryoprecipitate**:
     - Enriched with FVIII protein bound to VWF (∼80 IU FVIII/bag).
