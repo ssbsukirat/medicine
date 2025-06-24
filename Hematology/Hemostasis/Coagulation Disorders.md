@@ -461,6 +461,7 @@
     - **Normal FV + Low FVII**: Suggests vitamin K deficiency.
 - **Vitamin K Levels**: May be reduced due to compromised storage, changes in bile acids, or cholestasis (diminishing absorption).
     - IV vitamin K may improve hemostasis.
+- ![[coagulationliverdisease.png]]
 
 ## Treatment
 
@@ -497,7 +498,7 @@
     - Occasionally in pregnant or postpartum women with no previous bleeding history.
 - **Bleeding Episodes**:
     - Commonly in soft tissues, gastrointestinal or urinary tracts, and skin.
-    - Hemarthrosis is rare (in contrast to hemophilia).
+    - **Hemarthrosis is rare (in contrast to hemophilia).**
     - Retroperitoneal hemorrhages and other life-threatening bleeding may appear suddenly.
 - **Mortality**: 8–22% in untreated patients; most deaths occur within the first few weeks after presentation.
 
@@ -516,8 +517,8 @@
 - Emicizumab use to treat acquired FVIII inhibitors has been reported, with trials underway in this population in Europe.
 - **Eradication of Inhibitor**:
     - Unlike hemophilia, inhibitors in nonhemophilic patients are typically responsive to immune suppression. Therapy should be initiated early in most cases.
-    - High-dose intravenous γ-globulin and anti-CD20 monoclonal antibody are reported effective for FVIII autoantibodies.
-    - No firm evidence confirms superiority of these alternatives over first-line immunosuppressive drugs (glucocorticoids and cyclophosphamide), which are effective in 70% of patients.
+    - **High-dose intravenous γ-globulin and anti-CD20 monoclonal antibody** are reported effective for FVIII autoantibodies.
+    - No firm evidence confirms superiority of these alternatives over **first-line immunosuppressive drugs (glucocorticoids and cyclophosphamide),** which are effective in 70% of patients.
     - Relapse of FVIII inhibitor is relatively common (up to 20%) within the first 6 months following immunosuppression withdrawal; patients should be followed regularly.
 
 ### Antibodies to Topical Thrombin Preparations
