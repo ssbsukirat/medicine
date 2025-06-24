@@ -35,13 +35,7 @@
 
 ## ARTERIAL THROMBOSIS AND VASCULAR DISEASE
 
-- Arterial thrombosis is a **major cause of morbidity and mortality** both in the United States and worldwide.
-- Although rates have declined in the U.S., the overall burden remains high.
-- In 2020, heart disease was estimated to cause about **1 of every 4 deaths in the United States**.
-- An additional **200,000 myocardial infarctions occur annually** in those with previous heart attacks, in addition to **605,000 new coronary events**.
-- About **795,000 people experience a new or recurrent ischemic stroke each year**.
-- In 2018, about **1 in 6 deaths from cardiovascular disease were due to stroke** in the United States.
-
+- Arterial thrombosis is a **major cause of morbidity and mortality** both in the United States and worldwide 
 ## THE PLATELET
 
 - Many processes in platelets have parallels with other cell types (e.g., specific receptors, signaling pathways).
