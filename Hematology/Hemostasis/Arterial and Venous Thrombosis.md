@@ -184,6 +184,7 @@
 - DVT and PE are referred to together as **venous thromboembolic disease (VTE)**.
 - Although the majority of venous thromboembolic events occur as PE or DVT of the lower extremities, up to **10% of events may occur in other vascular locations**.
 - Venous thrombosis occurs due to **heritable causes** and **acquired causes**.
+- ACQUIRED ![[venousembolismcauses.png]]
 
 ## DEEP-VENOUS THROMBOSIS AND PULMONARY EMBOLISM
 
