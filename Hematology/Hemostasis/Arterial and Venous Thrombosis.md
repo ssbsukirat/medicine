@@ -5,14 +5,8 @@
 ## GENERAL OVERVIEW
 
 - **Thrombosis** is the **obstruction of blood flow due to the formation of clot**.
-- It may result in **tissue anoxia and damage**.
-- It is a **major cause of morbidity and mortality** in arterial and venous diseases and patient populations.
-- In 2020, **655,000 Americans died from heart disease**, accounting for about 1 in 4 deaths.
-- In 2017, **coronary disease killed 365,914 people** in the United States.
-- Approximately **805,000 people experienced a heart attack** and **795,000 had a stroke**.
-- As many as **600,000 people each year have a pulmonary embolism or deep-venous thrombotic event**.
-- **60,000–80,000 Americans die** of these conditions annually.
-- In the nondiseased state, **physiologic hemostasis** reflects a delicate interplay between factors that promote and inhibit blood clotting, favoring the former. This response prevents uncontrolled hemorrhage.
+- It may result in **tissue anoxia and damage** 
+- In the nondiseased state, **physiologic hemostasis** reflects a delicate interplay between factors that promote and inhibit blood clotting, favoring the former. This response prevents uncontrolled hemorrhage.
 - The same processes regulating normal hemostasis can cause **pathologic thrombosis**, leading to arterial or venous occlusion.
 - Many commonly used therapeutic interventions may adversely alter the thrombotic–hemostatic balance.
 - **Hemostasis and thrombosis primarily involve the interplay among three factors**:
