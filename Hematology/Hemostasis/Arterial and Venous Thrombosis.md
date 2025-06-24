@@ -189,7 +189,6 @@
 ## DEEP-VENOUS THROMBOSIS AND PULMONARY EMBOLISM
 
 - It is estimated that DVT or PE occurs in **∼1–2 individuals per 1000 each year**, resulting in **300,000–600,000 new cases of VTE annually** in the United States.
-- Approximately **60,000–80,000 deaths are attributed to DVT or PE annually**.
 - Of new cases:
     - Up to **30% of patients die within 30 days**.
     - **One-fifth suffer sudden death due to PE**.
