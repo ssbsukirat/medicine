@@ -22,7 +22,12 @@
 - **Self-Renewal Process**: Assures the **sustenance of a stem cell population over time**. Without it, the stem cell pool would be exhausted, preventing tissue maintenance.
 - **Differentiation Process**: Leads to the **production of mature cells**, which are the effectors of tissue function. Without proper differentiation, tissue function integrity would be compromised, potentially leading to organ failure or neoplasia.
 - **Molecular Factors Associated with Stem Cells**:
-- |Category | Factors/Molecules | Source | | :--------------------- | :--------------------------------------------------------------------------------------------------------------------- | :----- | | Intrinsic (Self-renewal) | Bmi-1, Gfi-1, PTEN, STAT5, Tel/Atv6, p21, p18, MCL-1, Mel-18, RAE28, HoxB4 | | | Extrinsic (Self-renewal) | Notch, Wnt, SHH, angiogenin, Tie2/Ang-1 | | | Cell Surface (Murine) | CD34, Thy-1 (CD90), c-Kit receptor (CD117), CD133, CD164, c-Mpl (CD110, thrombopoietin receptor) | |
+ |Category | Factors/Molecules || --------------------- | --------------------------------------------------------------------------------------------------------------------- || Intrinsic (Self-renewal) | Bmi-1, Gfi-1, PTEN, STAT5, Tel/Atv6, p21, p18, MCL-1, Mel-18, RAE28, HoxB4 | | | Extrinsic (Self-renewal) | Notch, Wnt, SHH, angiogenin, Tie2/Ang-1 | | | Cell Surface (Murine) | CD34, Thy-1 (CD90), c-Kit receptor (CD117), CD133, CD164, c-Mpl (CD110, thrombopoietin receptor) |
+ - ```
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 - **Mature Blood Cell Life Spans**:
     - Mature neutrophils: Hours.
     - Red blood cells: A few months.
