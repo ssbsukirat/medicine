@@ -14,7 +14,7 @@
     - Their behavior is assessed mainly in **experimental animal models** involving hematopoiesis reconstitution.
     - Much knowledge is **imprecise** and based on inferences from genetically manipulated animals.
 
-### Cardinal Functions of Hematopoietic Stem Cells
+# Cardinal Functions of Hematopoietic Stem Cells
 
 - **Two Essential Features**: All stem cell types possess **self-renewal** and **differentiation** capacities.
 - **Purpose**: Stem cells exist to **generate, maintain, and repair tissues**.
@@ -33,7 +33,7 @@
     - **One stem cell and one differentiating cell** (asymmetric cell division).
     - The balance of these outcomes can change during development and under specific demands on the stem cell pool.
 
-### Developmental Biology of Hematopoietic Stem Cells
+# Developmental Biology of Hematopoietic Stem Cells
 
 - **Changing Production Sites**: During development, blood cells are produced at different sites sequentially.
     - **Initial Site (Yolk Sac)**: Provides oxygen-carrying red blood cells and many tissue-resident macrophage-like cells (e.g., microglia in the brain). Yolk sac red cells express embryonic hemoglobins.
@@ -49,7 +49,7 @@
     - **Functionality**: Circulating HSCs are functional and can be used for transplantation.
     - **Mobilization**: The number of circulating stem cells can be increased to facilitate harvest and transfer.
 
-### Mobility of Hematopoietic Stem Cells
+# Mobility of Hematopoietic Stem Cells
 
 - **Entry/Exit from Bone Marrow**: Cells move through a series of molecular interactions.
 - **Molecular Interactions for Engraftment**:
@@ -72,7 +72,7 @@
         - **Plerixafor** (a macrocyclic compound that blocks CXCR4).
 - **Future Implications**: Refining knowledge of how stem cells enter and exit the bone marrow may improve acquisition of stem cells and their efficiency in finding specific blood cell production sites (the stem cell niche).
 
-### Hematopoietic Stem Cell Microenvironment
+# Hematopoietic Stem Cell Microenvironment
 
 - **Concept (Stem Cell Niche)**:
     - First proposed to explain why cells from a donor's bone marrow could be transplanted and found again in the recipient's bone marrow.
@@ -93,7 +93,7 @@
     - An active area of study explores whether the niche is altered in disease, as experimental models show niche cell mutations can lead to myeloid malignancies.
     - **Targeting niche functions** is a potential therapeutic strategy for both malignant and normal hematopoiesis.
 
-### Excess Capacity of Hematopoietic Stem Cells
+# Excess Capacity of Hematopoietic Stem Cells
 
 - **Abundance**: In the absence of disease, an individual **never runs out of hematopoietic stem cells**.
     - **Evidence**: Serial transplantation studies in mice suggest enough stem cells are present to reconstitute several animals successively with normal blood cell production. Allogeneic stem cell transplant recipients also never run out of blood cells over their lifespan (which can extend for decades), indicating even limited numbers of provided stem cells are sufficient.
@@ -107,7 +107,7 @@
     - Molecules important for altering the proliferation, self-renewal, or survival of stem cells (e.g., cyclin-dependent kinase inhibitors, transcription factors like Bmi-1, microRNA-processing enzymes like Dicer, or metabolic regulators like pyruvate kinase isoforms) have little or different effects on progenitor cells.
 - **Conclusion**: Hematopoietic stem cells have **governing mechanisms that are distinct** from the cells they generate.
 
-### Hematopoietic Stem Cell Differentiation
+# Hematopoietic Stem Cell Differentiation
 
 - **Hierarchy**: Hematopoietic stem cells (HSCs) are at the **base of a branching hierarchy** that culminates in the many mature cell types forming the blood and immune system.
 - **Maturation Process**: Steps leading to terminally differentiated, functional blood cells occur due to intrinsic gene expression changes, and niche-directed and cytokine-directed changes. Detailed knowledge is incomplete.
@@ -131,7 +131,7 @@
     - The concept of a binary choice (lymphoid or myeloid differentiation) is not entirely accurate.
     - New commitment steps include cell populations with limited megakaryocytic/erythroid or myeloid (monocyte/granulocyte)/lymphoid potential.
 
-### Self-Renewal
+# Self-Renewal
 
 - **Balance of Fates**: The hematopoietic stem cell must balance its three potential fates: **apoptosis, self-renewal, and differentiation**.
 - **Proliferation and Self-Renewal**:
@@ -184,7 +184,7 @@
             - **Dioxygenase Tet2** (involved in DNA demethylation).
             - **Mutations** in DNMT3a, Tet2 (and Asxl1): Associated with clonal outgrowth of stem cells bearing the mutations. These mutations are **not sufficient for malignancy** but enable clones to gain dominance and predispose cells to malignant transformation. They are often referred to as **"founder mutations"** because myelodysplastic and leukemic cells appear to evolve from them.
 
-### Cancer is Similar to an Organ with Self-Renewing Capacity
+# Cancer is Similar to an Organ with Self-Renewing Capacity
 
 - **Relationship to Cancer**: An important dimension of adult stem cell biology.
 - **Cancer Organization**: May share organizational principles with normal tissues.
@@ -209,7 +209,7 @@
         - Finding: The cell with the **greatest potential to produce malignancy was dependent on the transforming gene**. In some cases, it was the stem cell; in others, the progenitor cell initiated and perpetuated the cancer.
     - **Conclusion**: This demonstrates that cells can **acquire stem cell-like properties in malignancy**.
 
-### What Else Can Hematopoietic Stem Cells Do?
+# What Else Can Hematopoietic Stem Cells Do?
 
 - **Potential in Non-Hematopoietic Healing**:
     - Some experimental data suggest HSCs or other bone marrow cells may play a role in **healing vascular and tissue damage** associated with stroke and myocardial infarction.
@@ -219,7 +219,7 @@
         - Using reprogrammed cells to generate **mature lymphoid cells for immuno-oncology applications**.
         - Using reprogrammed cells to generate **red cells and platelets** to overcome dependency on blood donors.
 
-### Stem Cells as Targets of Gene Therapy
+# Stem Cells as Targets of Gene Therapy
 
 - **Feasibility**: Tools to alter gene sequence, expression, and regulation are becoming increasingly feasible.
 - **Targeting HSCs**: The hematopoietic stem cell is a target for a wide range of interventions.
@@ -229,7 +229,7 @@
     - **CRISPR/Cas technology**: Applied to **repair abnormal gene sequences**.
 - **Significance**: Precision genetic manipulations are expanding, with the hematopoietic system being central to this advancement.
 
-### Summary
+# Summary
 
 - The stem cell possesses **tremendous healing capacity** and is **essential for life**.
 - However, if **dysregulated**, it can threaten the life it maintains.
