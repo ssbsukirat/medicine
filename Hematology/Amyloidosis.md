@@ -45,7 +45,7 @@
     - Routine lab tests show relatively **nonspecific alterations**.
     - Blood counts are usually normal; erythrocyte sedimentation rate is frequently elevated.
     - Glomerular kidney involvement: **proteinuria** (often nephrotic range), leading to **hypoalbuminemia** (can be severe, <2 g/dL causes pedal edema or anasarca).
-    - Amyloid cardiomyopathy: concentric ventricular hypertrophy and diastolic dysfunction associated with elevation of **brain natriuretic peptide (BNP) or N-terminal pro–brain natriuretic peptide (NT-proBNP**as well as **troponin**.
+    - Amyloid cardiomyopathy: concentric ventricular hypertrophy and diastolic dysfunction associated with elevation of **brain natriuretic peptide (BNP) or N-terminal pro–brain natriuretic peptide (NT-proBNP)c** as well as **troponin**.
         - These cardiac biomarkers are used for disease staging, prognostication, and monitoring in AL amyloidosis. Renal insufficiency can falsely elevate these levels.
         - Biomarkers of cardiac remodeling (matrix metalloproteinases and tissue inhibitors of metalloproteinases) are altered in amyloid cardiomyopathy serum.
     - Liver involvement: usually cholestasis with elevated alkaline phosphatase, minimal alteration of aminotransferases, and preserved synthetic function.
