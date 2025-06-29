@@ -22,7 +22,9 @@
 |**Aβ2M**|β2-microglobulin|Results from misfolded β2-microglobulin; occurs in individuals with long-standing renal disease on dialysis.|
 |**Aβ**|Amyloid precursor protein (APP) polypeptides|Most common form of localized amyloidosis; found in the brain of patients with Alzheimer’s disease.|
 
+- ![[amyloditypes.png]]
 - **Diagnosis**
+    - ![[amyloiddiagnosis.png]]
     - Diagnosis and treatment rely on **histopathologic identification of amyloid deposits** and immunohistochemical, biochemical, or genetic determination of amyloid type.
     - In systemic amyloidoses, clinically involved organs can be biopsied, but deposits may be found in any tissue.
     - **Abdominal fat aspiration** is the most easily accessible tissue for biopsy, positive in >80% of systemic amyloidosis patients. Fat globules are stained for amyloid to avoid surgical procedures.
