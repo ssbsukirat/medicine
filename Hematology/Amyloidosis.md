@@ -74,7 +74,7 @@
         - **Macroglossia**: A **pathognomonic sign**, seen in ~10% of patients.
         - Liver: Causes cholestasis and hepatomegaly.
         - Spleen: Frequently involved; functional hyposplenism may occur without significant splenomegaly.
-        - **"Easy bruising"**: Due to amyloid deposits in capillaries or clotting factor X deficiency. Cutaneous ecchymoses, particularly around the eyes, produce the "**raccoon-eye**" sign (uncommon but pathognomonic).
+        - **"Easy bruising"**: Due to amyloid deposits in **capillaries or clotting factor X deficiency.** Cutaneous ecchymoses, particularly around the eyes, produce the "**raccoon-eye**" sign (uncommon but pathognomonic).
         - Other findings: Nail dystrophy, alopecia, amyloid arthropathy with thickening of synovial membranes.
     - Presence of multisystemic illness or general fatigue with any of these syndromes should prompt a workup.
 - **Diagnosis**
