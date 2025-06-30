@@ -52,6 +52,7 @@
 
 ## Subtypes
 
+- ![[GBStypes.png]]
 - Several subtypes are recognized, primarily by electrodiagnostic (EDx) and pathologic distinctions.
 - **Acute inflammatory demyelinating polyneuropathy (AIDP)** is the most common variant.
 - **Axonal variants**, often clinically severe, include:
