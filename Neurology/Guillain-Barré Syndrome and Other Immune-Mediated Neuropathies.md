@@ -164,6 +164,7 @@
 
 ## Diagnosis
 
+- ![[GBSDIagnosis.png]]
 - GBS is a **descriptive entity**.
 - Diagnosis of AIDP is made by recognizing the pattern of **rapidly evolving paralysis with areflexia, absence of fever or other systemic symptoms, and characteristic antecedent events**.
 - The Brighton Collaboration developed and validated case definitions for GBS, useful for epidemiologic studies.
