@@ -249,7 +249,7 @@
 
 - Onset is usually **gradual over a few months or longer**.
 - In some cases, initial attack is indistinguishable from GBS.
-- An **acute-onset form of CIDP may mimic GBS** but should be considered if it deteriorates >9 weeks after onset or relapses at least three times.
+- An **acute-onset form of CIDP may mimic GBS** but should be considered if it **deteriorates >9 weeks after onset or relapses at least three times.**
 - Symptoms are both **motor and sensory** in most cases.
 - Weakness of limbs is usually **symmetric**.
 - Can be strikingly asymmetric in **multifocal acquired demyelinating sensory and motor (MADSAM) neuropathy variant** (Lewis-Sumner syndrome), where discrete peripheral nerves are involved.
