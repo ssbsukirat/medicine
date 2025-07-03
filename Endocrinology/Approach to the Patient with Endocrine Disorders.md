@@ -48,6 +48,7 @@ Here are notes from the provided chapter, structured as requested:
 ## Pathologic Mechanisms of Endocrine Disease
 
 Endocrine diseases are divided into three major types of conditions:
+![[hormonedisorders.png]]
 
 |Type of Dysfunction|Key Causes|Examples/Details|
 |:--|:--|:--|
