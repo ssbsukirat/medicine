@@ -24,7 +24,7 @@ Here are notes from the provided chapter, structured as requested:
     - Central Nervous System (CNS) exerts major regulatory influence over pituitary hormone secretion via hypothalamic releasing factors.
     - Peripheral nervous system stimulates the adrenal medulla.
 - **Immune and Endocrine Systems**: Intimately intertwined.
-    - Adrenal hormone **cortisol** is a powerful immunosuppressant.
+    - Adrenal hormone **cortisol** is a powerful immunosuppressant 
     - Cytokines and interleukins (ILs) profoundly affect pituitary, adrenal, thyroid, and gonads.
     - **Common endocrine diseases** with immunologic basis: autoimmune thyroid disease, type 1 diabetes mellitus (dysregulation of immune surveillance and tolerance).
     - **Less common diseases** with immunologic basis: polyglandular failure, Addison’s disease, lymphocytic hypophysitis.
