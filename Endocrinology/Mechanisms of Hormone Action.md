@@ -15,6 +15,7 @@ Here are notes from the provided chapter, structured in markdown format:
 
 ## Hormone and Receptor Families
 
+- ![[hormonereceptorfamily.png]]
 - Hormones and receptors can be grouped into families based on **structural similarities** and evolutionary origins.
 - The evolution of these families creates diverse yet highly selective pathways of hormone action.
 - **Glycoprotein Hormone Family**:
