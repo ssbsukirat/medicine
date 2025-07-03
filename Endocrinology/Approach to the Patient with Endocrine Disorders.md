@@ -127,3 +127,4 @@ Endocrine diseases are divided into three major types of conditions:
 - Can be diagnosed and managed by general internists, family practitioners, or other primary health care providers.
 - High prevalence and clinical impact justify **vigilance for features** of these disorders during routine physical examinations.
 - Laboratory screening is indicated in selected high-risk populations.
+- Table from harrison 
