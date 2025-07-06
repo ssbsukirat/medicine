@@ -137,6 +137,7 @@ Here are notes from the provided chapter, structured in markdown format:
         - G proteins interact with other cellular proteins, including kinases, channels, G protein–coupled receptor kinases (GRKs), and arrestins, which mediate signaling as well as receptor desensitization and recycling.
         - **Constitutive activation**: Mutations in Gsα that eliminate GTPase activity result in constitutive activation because GTP-bound Gsα cannot be converted to its inactive GDP-bound state.
     - **Endocrinopathies Resulting from GPCR Mutations**:
+        - ![[gpcrmutation.png]]
         - **Loss-of-function mutations** are generally recessive and inactivate hormone signaling, leading to presentations resembling glandular failure syndromes (e.g., mutations in LH-R, FSH-R, TSH-R).
         - **Gain-of-function (GOF) mutations** induce conformational changes in the GPCR that mimic the activated state induced by hormone binding, resulting in constitutively active G protein coupling to cell signaling pathways (most commonly via cAMP and protein kinase A).
             - **Germline GOF mutations** are heritable and present in early life (e.g., LH-R, TSH-R).
