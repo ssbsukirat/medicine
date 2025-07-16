@@ -16,6 +16,7 @@
     - Hormone deficiency may be inherited or acquired.
     - Efficacious treatments exist for many pituitary hormone excess and deficiency syndromes.
     - Diagnosis can be elusive, highlighting the importance of recognizing subtle clinical manifestations and performing correct laboratory tests.
+![[anteriorpituitary.png]]
 
 ## Anatomy and Development
 
