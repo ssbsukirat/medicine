@@ -94,7 +94,7 @@ Each anterior pituitary hormone is under unique control and exhibits specific no
 - **PRL Receptor**: A member of the **type I cytokine receptor family** (which includes GH and IL-6 receptors).
 - **Signaling**: Ligand binding induces receptor dimerization and intracellular signaling via **Janus kinase (JAK)**, which stimulates translocation of the signal transduction and activators of transcription (STAT) family to activate target genes.
 - **Mutations**: Mutations of the PRL receptor cause PRL insensitivity, hyperprolactinemia, and oligomenorrhea. When homozygous, PRL receptor mutations cause **agalactia**, demonstrating that PRL action is necessary for lactation.
-- **Breast Development**: In the breast, the lobuloalveolar epithelium proliferates in response to PRL, placental lactogens, estrogen, progesterone, and local paracrine growth factors, including insulin-like growth factor 1 (IGF-1).
+- **Breast Development**: In the breast, the lobuloalveolar epithelium proliferates in response to ==PRL, placental lactogens, estrogen, progesterone, and local paracrine growth factors, including insulin-like growth factor 1 (IGF-1).==
 - **Primary Functions**: PRL acts to **induce and maintain lactation** and to **suppress both reproductive function and sexual drive**. These functions are geared toward ensuring sustained maternal lactation without interruption by pregnancy.
 - **Reproductive Inhibition Mechanism**:
     - Suppresses hypothalamic gonadotropin-releasing hormone (GnRH) and pituitary gonadotropin secretion.
