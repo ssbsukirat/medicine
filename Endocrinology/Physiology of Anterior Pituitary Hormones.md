@@ -112,7 +112,7 @@ Each anterior pituitary hormone is under unique control and exhibits specific no
 - **Mammosomatotropes**: These cells coexpress PRL with GH and can be identified by double immunostaining techniques.
 - **Development/Transcription**: Somatotrope development and GH transcription are determined by the expression of the cell-specific **Pit-1 nuclear transcription factor**.
 - **Genes**: Five distinct genes encode GH and related proteins.
-    - The pituitary GH gene (hGH-N) produces two alternatively spliced products: **22-kDa GH** (191 amino acids) and a less abundant 20-kDa GH molecule with similar biologic activity.
+    - The pituitary GH gene (hGH-N) produces two alternatively spliced products: **22-kDa GH** (==191== amino acids) and a less abundant 20-kDa GH molecule with similar biologic activity.
     - Placental syncytiotrophoblast cells express a GH variant (hGH-V) gene; the related hormone human chorionic somatotropin (HCS) is expressed by distinct members of the gene cluster.
 
 #### Secretion
