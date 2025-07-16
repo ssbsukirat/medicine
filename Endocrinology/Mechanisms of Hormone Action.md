@@ -311,7 +311,7 @@ Here are notes from the provided chapter, structured in markdown format:
 ## Hormonal Rhythms
 
 - Feedback regulatory systems are superimposed on **hormonal rhythms** that aid adaptation to the environment.
-- Rhythms are affected by seasonal changes, the daily light-dark cycle, sleep, meals, and stress.
+- > Rhythms are affected by seasonal changes, the daily light-dark cycle, sleep, meals, and stress.
 - The **menstrual cycle** repeats on average every 28 days, reflecting the time needed for follicular maturation, ovulation, and potential implantation.
 - Essentially all **pituitary hormone rhythms** are entrained to sleep and the circadian cycle, generating reproducible patterns that repeat approximately every 24 hours.
     - The **HPA axis**, for example, exhibits characteristic peaks of ACTH and cortisol production in the early morning, with a nadir during the night.
