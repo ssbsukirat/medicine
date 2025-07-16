@@ -81,7 +81,7 @@ Each anterior pituitary hormone is under unique control and exhibits specific no
     - Gene knockout of the murine D2 receptor causes hyperprolactinemia and lactotrope proliferation.
     - **Dopamine agonists** play a central role in managing hyperprolactinemic disorders.
 - **TRH Effect**: Thyrotropin-releasing hormone (TRH) (a hypothalamic tripeptide) elicits PRL release within 15–30 minutes after intravenous injection, though its physiologic relevance for PRL regulation is unclear (it primarily regulates TSH).
-- **Transient Increases**: Serum PRL levels rise transiently after exercise, meals, sexual intercourse, minor surgical procedures, general anesthesia, chest wall injury, acute myocardial infarction, and other forms of acute stress.
+- **Transient Increases**: Serum PRL levels rise transiently after ==exercise, meals, sexual intercourse, minor surgical procedures, general anesthesia, chest wall injury, acute myocardial infarction, and other forms of acute stress.==
 - **Pregnancy and Lactation**:
     - Levels increase markedly (about tenfold) during pregnancy and decline rapidly within 2 weeks of parturition.
     - If breast-feeding is initiated, basal PRL levels remain elevated.
