@@ -97,10 +97,10 @@ Each anterior pituitary hormone is under unique control and exhibits specific no
 - **Breast Development**: In the breast, the lobuloalveolar epithelium proliferates in response to ==PRL, placental lactogens, estrogen, progesterone, and local paracrine growth factors, including insulin-like growth factor 1 (IGF-1).==
 - **Primary Functions**: PRL acts to **induce and maintain lactation** and to **suppress both reproductive function and sexual drive**. These functions are geared toward ensuring sustained maternal lactation without interruption by pregnancy.
 - **Reproductive Inhibition Mechanism**:
-    - Suppresses hypothalamic gonadotropin-releasing hormone (GnRH) and pituitary gonadotropin secretion.
-    - Impairs gonadal steroidogenesis in both women and men.
-    - **In the ovary**: Blocks folliculogenesis and inhibits granulosa cell aromatase activity, leading to hypoestrogenism and anovulation. It also has a luteolytic effect, generating a shortened or inadequate luteal phase of the menstrual cycle.
-    - **In men**: Attenuated LH secretion leads to low testosterone levels and decreased spermatogenesis.
+    - ==Suppresses hypothalamic gonadotropin-releasing hormone (GnRH) and pituitary gonadotropin secretion.==
+    - ==Impairs gonadal steroidogenesis in both women and men.==
+    - **In the ovary**: ==Blocks folliculogenesis and inhibits granulosa cell aromatase activity==, leading to hypoestrogenism and anovulation. It also has a ==luteolytic== effect, generating a shortened or inadequate luteal phase of the menstrual cycle.
+    - **In men**: Attenuated LH secretion leads to l==ow testosterone levels and decreased spermatogenesis.==
     - These hormonal changes decrease libido and reduce fertility in patients with hyperprolactinemia.
 
 ### Growth Hormone (GH)
