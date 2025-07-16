@@ -37,7 +37,7 @@
     - This system allows for **reliable transmission** of hypothalamic peptide pulses without significant systemic dilution.
     - Anterior pituitary cells are exposed to specific releasing or inhibiting factors, and in turn, release their respective hormones as discrete pulses into the systemic circulation.
 - **Posterior Pituitary Blood Supply**: The posterior pituitary is supplied by the inferior hypophyseal arteries.
-- **Posterior Pituitary Innervation**: In contrast to the anterior pituitary, the posterior lobe is directly innervated by hypothalamic neurons (supraopticohypophyseal and tuberohypophyseal nerve tracts) via the pituitary stalk.
+- **Posterior Pituitary Innervation**: In contrast to the anterior pituitary, the posterior lobe is directly innervated by hypothalamic neurons ***(supraopticohypophyseal and tuberohypophyseal nerve tracts)*** via the pituitary stalk.
     - Posterior pituitary production of vasopressin (ADH) and oxytocin is particularly sensitive to neuronal damage affecting the pituitary stalk or hypothalamus.
 
 ### Pituitary Development
