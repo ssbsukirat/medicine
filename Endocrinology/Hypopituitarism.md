@@ -91,7 +91,7 @@ Hypopituitarism can be caused by accidental or neurosurgical trauma, vascular ev
     - Hypophysitis is also reported with **PD-1/PD-L1 inhibitors** (e.g., pembrolizumab and nivolumab) and may show delayed presentation.
     - **Treatment**: Pituitary hormone replacement, with or without high-dose glucocorticoids, may be safely tolerated with continued immunotherapy.
 - **Pituitary Apoplexy**:
-    - **Description**: Acute intrapituitary hemorrhagic vascular events that can cause substantial damage to the pituitary and surrounding sellar structures.
+	- **Description**: Acute intrapituitary hemorrhagic vascular events that can cause substantial damage to the pituitary and surrounding sellar structures.
     - **Occurrence**: May occur spontaneously in a preexisting pituitary adenoma; postpartum (Sheehan’s syndrome); or in association with diabetes, hypertension, sickle cell anemia, or acute shock.
     - **Pregnancy Risk**: The hyperplastic enlargement of the pituitary during pregnancy increases the risk for hemorrhage and infarction.
     - **Emergency**: An **endocrine emergency** that may result in severe hypoglycemia, hypotension and shock, central nervous system (CNS) hemorrhage, and death.
@@ -103,7 +103,7 @@ Hypopituitarism can be caused by accidental or neurosurgical trauma, vascular ev
         - **Visual recovery** after sellar surgery is inversely correlated with the length of time after the acute event, making early surgery indicated for severe ophthalmoplegia or visual deficits.
     - **Post-Apoplexy**: Hypopituitarism is common.
 - **Empty Sella**:
-    - A partial or apparently totally empty sella is often an **incidental MRI finding**.
+    - A partial or apparently totally empty sella is often an **incidental MRI finding**.
     - May sometimes be associated with intracranial hypertension.
     - **Function**: Patients usually have normal pituitary function, implying the surrounding rim of pituitary tissue is fully functional.
     - **Hypopituitarism**: May develop insidiously.
