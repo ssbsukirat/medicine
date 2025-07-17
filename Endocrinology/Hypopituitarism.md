@@ -1,6 +1,7 @@
 ## Hypopituitarism
 
 Hypopituitarism is characterized by the **deficient production of anterior pituitary hormones**. This condition can stem from inherited disorders, but in adults, it is more commonly acquired. Acquired hypopituitarism often results from the compressive mass effects of tumors or local pituitary/hypothalamic damage due to trauma, autoimmune issues, inflammation, or vascular damage. These processes can also impair the synthesis or secretion of hypothalamic hormones, leading to pituitary failure.
+==Table from harrison== 
 
 ### Developmental Causes of Hypopituitarism
 
