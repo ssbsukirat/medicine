@@ -141,6 +141,8 @@ Biochemical diagnosis involves demonstrating **low levels of respective pituita
 ### Tests of Pituitary Sufficiency
 
 The content of Table 379-2, which details "Tests of Pituitary Sufficiency," is not provided in the source text.
+![[pituitaryinsufficiemcytests.png]]
+
 
 ### Treatment
 
