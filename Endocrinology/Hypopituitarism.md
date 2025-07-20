@@ -153,7 +153,7 @@ The content of Table 379-2, which details "Tests of Pituitary Sufficiency," is n
 #### Hormone Replacement Therapy for Adult Hypopituitarism
 
 The content of Table 379-3, outlining "Effective dosage schedules," is not provided in the source text.
-
+![[pituitaryreplacement.png]]
 ### Disorders of Growth and Development
 
 #### Skeletal Maturation and Somatic Growth
