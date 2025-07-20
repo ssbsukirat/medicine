@@ -236,6 +236,7 @@ The content of Table 379-3, outlining "Effective dosage schedules," is not provi
 #### Features of Adult Growth Hormone Deficiency
 
 The content of Table 379-4, detailing "Features of Adult Growth Hormone Deficiency," is not provided in the source text.
+![[GHdeficiency.png]]
 
 #### Laboratory Investigation (AGHD)
 
