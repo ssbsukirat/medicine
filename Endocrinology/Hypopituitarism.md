@@ -166,8 +166,8 @@ The content of Table 379-3, outlining "Effective dosage schedules," is not provi
 - Secondary sexual development is associated with elevated sex steroids, which cause progressive epiphyseal growth plate closure.
 - **Bone age is delayed** in patients with all forms of true GH deficiency or GH receptor defects.
 - **Short stature** can result from constitutive intrinsic growth defects or acquired extrinsic factors.
-    - **Delayed bone age** in a child with short stature suggests a hormonal or systemic disorder.
-    - **Normal bone age** in a short child is more likely caused by a genetic cartilage dysplasia or growth plate disorder.
+    - ==**Delayed bone age** in a child with short stature suggests a hormonal or systemic disorder.==
+    - ==**Normal bone age** in a short child is more likely caused by a genetic cartilage dysplasia or growth plate disorder.==
 - **GH Deficiency in Children**:
     - Characterized by **short stature, micropenis, increased fat, high-pitched voice, and a propensity to hypoglycemia**.
     - Familial modes of inheritance are seen in at least one-third of individuals (autosomal dominant, recessive, or X-linked).
