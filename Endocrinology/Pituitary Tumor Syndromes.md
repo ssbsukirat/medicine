@@ -3,6 +3,7 @@ Here are notes from the provided chapter, structured in markdown format:
 # Sellar Mass Evaluation
 
 ## Local Mass Effects
+![[pituitarytumours.png]]
 
 - Clinical manifestations of sellar lesions vary by anatomic location and extension.
 - Pituitary adenomas frequently extend in a **suprasellar direction** due to the dorsal sellar diaphragm offering the least resistance to soft tissue expansion.
