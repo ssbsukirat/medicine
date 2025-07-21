@@ -60,6 +60,7 @@ Here are notes from the provided chapter, structured in markdown format:
 - Additional hormonal evaluation may be indicated based on results.
 - Pending detailed hypopituitarism assessment, a menstrual history, measurement of testosterone and 8 A.M. cortisol levels, and thyroid function tests usually identify patients needing hormone replacement before further testing or surgery.
 - Note: A table titled "Screening Tests for Functional Pituitary Adenomas" exists.
+- ![[pituitaryfunctionaladenomas.png]]
 
 ## Histologic Evaluation
 
