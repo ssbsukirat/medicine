@@ -99,7 +99,7 @@ Here are notes from the provided chapter, structured in markdown format:
 - **Surgical Strategy**:
     - Whenever possible, the pituitary mass lesion should be **selectively excised**.
     - Normal pituitary tissue should be manipulated or resected only when critical for effective mass dissection.
-    - **Nonselective hemihypophysectomy or total hypophysectomy** may be indicated if no hypersecreting mass lesion is clearly discernible, multifocal lesions are present, or remaining nontumorous pituitary tissue is necrotic. This increases likelihood of postoperative hypopituitarism and lifelong hormone replacement.
+    - **Nonselective hemihypophysectomy or total hypophysectomy** may be indicated if ==no hypersecreting mass lesion is clearly discernible, multifocal lesions are present, or remaining nontumorous pituitary tissue is necrotic.== This increases likelihood of postoperative hypopituitarism and lifelong hormone replacement.
 - **Outcomes**:
     - **Preoperative mass effects**, including visual field defects and compromised pituitary function, may be **reversed by surgery**, particularly when deficits are not long-standing.
     - For large and invasive tumors, balancing maximal tumor resection with preservation of anterior pituitary hormonal function (especially growth and reproductive function in younger patients) is necessary.
