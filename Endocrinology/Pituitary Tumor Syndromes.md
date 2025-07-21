@@ -230,6 +230,7 @@ Here are notes from the provided chapter, structured in markdown format:
 - Population prevalence of ∼80/100,000.
 - At autopsy, up to one-quarter of all pituitary glands harbor an unsuspected microadenoma (<10 mm diameter).
 - Pituitary imaging detects small clinically inapparent lesions in at least 10% of individuals.
+- ![[pitadenomatypes.png]]
 
 ## Pathogenesis
 
