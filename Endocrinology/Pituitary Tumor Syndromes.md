@@ -8,7 +8,7 @@ Here are notes from the provided chapter, structured in markdown format:
 - Clinical manifestations of sellar lesions vary by anatomic location and extension.
 - Pituitary adenomas frequently extend in a **suprasellar direction** due to the dorsal sellar diaphragm offering the least resistance to soft tissue expansion.
 - **Bony invasion** may occur, especially through the sellar floor to the sphenoid sinus.
-- **Headaches** are common even with small intrasellar tumors, due to small changes in intrasellar pressure stretching the dural plate. Severity poorly correlates with adenoma size or extension.
+- **Headaches** are common even with small intrasellar tumors, due to small changes in intrasellar pressure stretching the dural plate. ==Severity poorly correlates with adenoma size or extension.==
 - **Suprasellar extension** can lead to **visual loss**, most commonly by **compression of the optic chiasm**. Rarely, direct invasion of optic nerves or obstruction of cerebrospinal fluid (CSF) flow causing secondary visual disturbances can occur.
 - **Pituitary stalk compression** by a hormonally active or inactive intrasellar mass may disrupt pituitary access to hypothalamic hormones and dopamine, resulting in early **hyperprolactinemia** and later concurrent loss of other pituitary hormones (stalk section phenomenon). This can also be caused by trauma, whiplash injury, or skull base fractures.
 - **Lateral mass invasion** can impinge on the cavernous sinus, compressing neural contents, leading to **cranial nerve III, IV, and VI palsies** and effects on ophthalmic and maxillary branches of the fifth cranial nerve. Patients may present with **diplopia, ptosis, ophthalmoplegia, and decreased facial sensation**.
