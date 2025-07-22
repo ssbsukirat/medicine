@@ -379,12 +379,13 @@ Here are notes from the provided chapter, structured in markdown format:
 - **Symptomatic microadenomas**: Therapeutic goals include **control of hyperprolactinemia, reduction of tumor size, restoration of menses and fertility, and resolution of galactorrhea**.
 - Dopamine agonist doses should be titrated for maximal PRL suppression and reproductive function restoration. A normalized PRL level does not ensure reduced tumor size, but tumor shrinkage usually occurs only in responders.
 - **Macroadenomas**: Formal **visual field testing** should be performed before initiating dopamine agonists. MRI and visual fields assessed at 6- to 12-month intervals until mass shrinks, then annually.
+- ![[prolactinomamanagement.png]]
 
 ### Dopamine Agonists
 
 - **Mainstay of therapy** for micro- or macroprolactinomas.
 - Suppress PRL secretion and synthesis, and lactotrope cell proliferation.
-- May be withdrawn after 2 years in microadenoma patients who achieve normoprolactinemia and significant tumor reduction. Patients should be monitored for recurrence (∼20% recurrence, especially males).
+- May be withdrawn after 2 years in microadenoma patients who achieve normoprolactinemia and significant tumor reduction. Patients should be ==monitored for recurrence (∼20% recurrence, especially males).==
 - **Cabergoline**:
     - Ergoline derivative, **long-acting dopamine agonist with high D2 receptor affinity**.
     - Effectively suppresses PRL for >14 days after a single oral dose and induces prolactinoma shrinkage in most patients.
