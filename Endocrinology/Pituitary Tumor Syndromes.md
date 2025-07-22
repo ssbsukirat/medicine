@@ -283,6 +283,7 @@ Here are notes from the provided chapter, structured in markdown format:
 ## Etiology
 
 - Most common pituitary hormone hypersecretion syndrome in men and women.
+- ![[Screenshot 2025-07-22 at 2.06.25 PM.png]]
 - Note: A table titled "Etiology of Hyperprolactinemia" exists.
 
 |Category|Cause|PRL Levels Typical/Notes|Source|
