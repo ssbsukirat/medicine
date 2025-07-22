@@ -439,19 +439,20 @@ Here are notes from the provided chapter, structured in markdown format:
 - **GH hypersecretion** usually results from a **somatotrope adenoma**.
 - Rarely caused by extrapituitary lesions.
 - Note: A table titled "Causes of Acromegaly" exists.
+- ![[acromegalycauses.png]]
 
-|Category|Cause|Notes|Source|
-|:--|:--|:--|:--|
-|**Pituitary Tumors**|Somatotrope adenoma (most common)|||
-||Mixed mammosomatotrope tumors|Secrete both GH and PRL.||
-||Acidophilic stem cell adenomas|Secrete both GH and PRL; hyperprolactinemia features often predominate over acromegaly signs.||
-||Mixed plurihormonal tumors|May secrete ACTH, glycoprotein hormone α subunit, or TSH in addition to GH.||
-||Small GH-secreting adenoma within the compressed rim of pituitary tissue in patients with partially empty sellae|Some may reflect spontaneous necrosis of previously larger tumors.||
-||Ectopic pituitary tissue remnants (in nasopharynx or midline sinuses)|Rare.||
-|**Ectopic GH Secretion**|Tumors of pancreatic, ovarian, lung, or hematopoietic origin|Case reports.||
-|**Excess GHRH Production**|Chronic stimulation of somatotropes.|Patients present with classic acromegaly features, elevated GH, pituitary enlargement on MRI, and pathological pituitary hyperplasia.||
-||Chest or abdominal carcinoid tumor (most common cause of GHRH-mediated acromegaly)|Usually express positive GHRH immunoreactivity, but clinical features of acromegaly evident in only a minority.||
-||Hypothalamic tumors (usually choristomas or neuromas)|May elaborate excessive GHRH.||
+| Category                   | Cause                                                                                                            | Notes                                                                                                                                 | Source |
+| :------------------------- | :--------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------ | :----- |
+| **Pituitary Tumors**       | Somatotrope adenoma (most common)                                                                                |                                                                                                                                       |        |
+|                            | Mixed mammosomatotrope tumors                                                                                    | Secrete both GH and PRL.                                                                                                              |        |
+|                            | Acidophilic stem cell adenomas                                                                                   | Secrete both GH and PRL; hyperprolactinemia features often predominate over acromegaly signs.                                         |        |
+|                            | Mixed plurihormonal tumors                                                                                       | May secrete ACTH, glycoprotein hormone α subunit, or TSH in addition to GH.                                                           |        |
+|                            | Small GH-secreting adenoma within the compressed rim of pituitary tissue in patients with partially empty sellae | Some may reflect spontaneous necrosis of previously larger tumors.                                                                    |        |
+|                            | Ectopic pituitary tissue remnants (in nasopharynx or midline sinuses)                                            | Rare.                                                                                                                                 |        |
+| **Ectopic GH Secretion**   | Tumors of pancreatic, ovarian, lung, or hematopoietic origin                                                     | Case reports.                                                                                                                         |        |
+| **Excess GHRH Production** | Chronic stimulation of somatotropes.                                                                             | Patients present with classic acromegaly features, elevated GH, pituitary enlargement on MRI, and pathological pituitary hyperplasia. |        |
+|                            | Chest or abdominal carcinoid tumor (most common cause of GHRH-mediated acromegaly)                               | Usually express positive GHRH immunoreactivity, but clinical features of acromegaly evident in only a minority.                       |        |
+|                            | Hypothalamic tumors (usually choristomas or neuromas)                                                            | May elaborate excessive GHRH.                                                                                                         |        |
 
 ## Presentation and Diagnosis
 
