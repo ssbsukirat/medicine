@@ -489,6 +489,7 @@ Here are notes from the provided chapter, structured in markdown format:
     - Stereotactic ablation (Gamma Knife) is promising, but long-term results and side effects appear similar to conventional radiation.
     - SRLs may be needed while awaiting full benefits of radiotherapy.
 - Systemic comorbid sequelae (cardiovascular disease, diabetes, arthritis) should be managed aggressively. Mandibular surgical repair may be indicated.
+- ![[acromegalymanage.png]]
 
 ### Surgery (for Acromegaly)
 
