@@ -578,6 +578,7 @@ Here are notes from the provided chapter, structured in markdown format:
 
 - **Challenges**: (1) distinguishing pathologic cortisol excess from physiologic or other disturbances; (2) determining etiology of pathologic cortisol excess.
 - Note: A table titled "Clinical Features of Cushing's Syndrome (All Ages)" exists.
+- ![[cushingsclinical.png]]
 
 |Category|Feature|Notes|Source|
 |:--|:--|:--|:--|
