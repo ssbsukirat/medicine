@@ -82,6 +82,7 @@
 
 ### Etiology
 
+- harrison table 
 - DI is divided into **four types based on etiology**:
     1. **Primary deficiency of AVP secretion (Neurohypophyseal, Neurogenic, Pituitary, Cranial, or Central DI)**.
         - Can be caused by congenital, acquired, or genetic disorders, but is **often idiopathic**.
