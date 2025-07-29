@@ -225,6 +225,7 @@
 - Gradual/long-standing hyponatremia may be asymptomatic.
 - Severe/acute hyponatremia can cause symptoms ranging from headache, confusion, and anorexia to nausea, vomiting, coma, and convulsions.
 - SIAD occurs in many diverse clinical settings (Table 381-2).
+- ![[Endocrinology/SIADHcauses.png]]
 
 ## Etiology
 
