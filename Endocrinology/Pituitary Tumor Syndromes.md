@@ -715,6 +715,7 @@ Here are notes from the provided chapter, structured in markdown format:
 - Nonfunctioning pituitary tumors **respond poorly to dopamine agonist treatment**.
 - **SRLs are largely ineffective** for shrinking these tumors.
 - The selective GnRH antagonist **Nal-Glu GnRH suppresses FSH hypersecretion** but has no effect on adenoma size.
+- ![[nonfunctionpituitarymanage.png]]
 
 # TSH-Secreting Adenomas
 
