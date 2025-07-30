@@ -138,6 +138,7 @@ Here are notes from the provided chapter, structured as requested:
 - **TTR** carries ~**10% of T4** but little T3.
 - Approximately **99.98% of T4 and 99.7% of T3 are protein-bound**.
 - The **unbound or “free” concentrations** of the hormones are considered **biologically available** to tissues.
+- ![[t3vst4.png]]
 - Homeostatic mechanisms regulate the thyroid axis to maintain **normal concentrations of unbound hormones**.
 
 #### Abnormalities of Thyroid Hormone–Binding Proteins
