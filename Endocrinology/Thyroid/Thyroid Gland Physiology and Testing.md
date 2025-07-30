@@ -147,6 +147,7 @@ Here are notes from the provided chapter, structured as requested:
 - **TBG levels are elevated by estrogen** (e.g., pregnancy, oral contraceptives), increasing total T4 and T3 but with **normal unbound levels**. This explains increased L-thyroxine needs in pregnant/estrogen-treated hypothyroid women.
 - **Mutations in TBG, TTR, and albumin** can increase binding affinity, causing **euthyroid hyperthyroxinemia** or **familial dysalbuminemic hyperthyroxinemia (FDH)**, where total T4/T3 are increased but **unbound hormone levels are normal**.
 - Certain medications (e.g., **salicylates, salsalate**) can **displace thyroid hormones** from binding proteins.
+	- increasing free thyroid hormone levels, TSH is suppressed until a new steady state is reached, thereby restoring euthyroidism. Circulating factors associated with acute illness may also displace thyroid hormone from binding proteins
 
 #### Deiodinases
 
