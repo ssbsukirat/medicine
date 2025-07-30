@@ -1,0 +1,237 @@
+Here are notes from the provided chapter, structured with topic headings as top-level headers:
+
+### Congenital Hypothyroidism
+
+- **Prevalence**:
+    - Occurs in about **1 in 2000–4000 newborns**.
+    - Neonatal screening is performed in most industrialized countries.
+- **Nature**:
+    - May be **transient**, especially if the mother has thyroid-stimulating hormone (TSH) receptor (TSH-R)–blocking antibodies or has received antithyroid drugs.
+    - **Permanent hypothyroidism** occurs in the majority of cases.
+- **Causes of Neonatal Hypothyroidism**:
+    - **Thyroid gland dysgenesis** in 65%.
+    - **Inborn errors of thyroid hormone synthesis** in 30%.
+    - **TSH-R antibody mediated** in 5% of affected newborns.
+    - Developmental abnormalities are **twice as common in girls**.
+    - Mutations causing congenital hypothyroidism are increasingly identified, but most remain idiopathic. These mutations can be broadly categorized as causing:
+        - Central hypothyroidism due to abnormal hypothalamic-pituitary development or loss of specific components of the thyrotropin-releasing hormone (TRH)/TSH hormonal pathways.
+        - Abnormal thyroid gland development or dysgenesis.
+        - Abnormal thyroid hormone synthesis and processing, or dyshormonogenesis.
+    - Transplacental passage of maternal thyroid hormone provides partial hormone support to a fetus with congenital hypothyroidism before the fetal thyroid gland begins to function.
+- **Clinical Manifestations**:
+    - The majority of infants appear normal at birth.
+    - Few cases are now diagnosed based on clinical features due to biochemical screening.
+    - Clinical features include **prolonged jaundice, feeding problems, hypotonia, enlarged tongue, delayed bone maturation, and umbilical hernia**.
+    - **Permanent neurologic damage** results if treatment is delayed.
+    - Typical features of adult hypothyroidism may also be present.
+    - Other congenital malformations, especially cardiac, are **four times more common** in congenital hypothyroidism.
+- **Diagnosis and Treatment**:
+    - Neonatal screening programs are established due to the severe neurologic consequences of untreated congenital hypothyroidism.
+    - Screening is generally based on measurement of **TSH or T4 levels in heel-prick blood specimens**.
+    - When diagnosis is confirmed, **T4 is instituted at a dose of 10–15 μg/kg per d**.
+    - The dose is adjusted by close monitoring of TSH levels.
+    - T4 requirements are relatively great during the first year of life.
+    - A high circulating T4 level is usually needed to normalize TSH.
+    - **Early treatment with T4 results in normal IQ levels**.
+    - Subtle neurodevelopmental abnormalities may occur in those with the most severe hypothyroidism at diagnosis or when treatment is delayed or suboptimal.
+    - If transient hypothyroidism is suspected or the diagnosis is unclear, treatment can be stopped safely after the age of 3 years followed by further evaluation.
+
+### Autoimmune Hypothyroidism
+
+- **Classification**:
+    - May be associated with a goiter (**Hashimoto’s, or goitrous thyroiditis**).
+    - May be associated with minimal residual thyroid tissue (**atrophic thyroiditis**).
+    - The autoimmune process gradually reduces thyroid function.
+    - **Subclinical hypothyroidism**: A phase of compensation where normal thyroid hormone levels are maintained by a rise in TSH, with potential minor symptoms.
+    - **Clinical hypothyroidism (overt hypothyroidism)**: Later stage where unbound T4 levels fall and TSH levels rise further (usually TSH >10 mIU/L), with more apparent symptoms.
+- **Prevalence**:
+    - Mean annual incidence rate is up to **4 per 1000 women and 1 per 1000 men**.
+    - More common in certain populations, such as the Japanese, likely due to genetic factors and chronic exposure to a high-iodine diet.
+    - Mean age at diagnosis is **60 years**.
+    - The prevalence of overt hypothyroidism increases with age.
+    - Subclinical hypothyroidism is found in **6–8% of women** (10% over the age of 60) and **3% of men**.
+    - The annual risk of developing clinical hypothyroidism is **∼4% when subclinical hypothyroidism is associated with positive thyroid peroxidase (TPO) antibodies**.
+- **Pathogenesis**:
+    - **Hashimoto’s thyroiditis**: Marked lymphocytic infiltration of the thyroid with germinal center formation, atrophy of thyroid follicles with oxyphil metaplasia, absence of colloid, and mild to moderate fibrosis.
+    - **Atrophic thyroiditis**: Much more extensive fibrosis, less pronounced lymphocyte infiltration, and almost completely absent thyroid follicles. Usually represents the end stage of Hashimoto’s thyroiditis. A distinct form of marked fibrosis involves IgG4-positive plasma cells.
+    - **Susceptibility**: Determined by a combination of **genetic and environmental factors**.
+        - **Genetic Factors**:
+            - Increased risk of autoimmune hypothyroidism or Graves’ disease among siblings.
+            - **HLA-DR polymorphisms are the best documented genetic risk factors**, especially HLA-DR3, DR4, and DR5 in Caucasians.
+            - A weak association exists with polymorphisms in CTLA-4, a T cell–regulatory gene.
+            - These genetic associations are shared by other autoimmune diseases, explaining relationships with type 1 diabetes mellitus, Addison’s disease, pernicious anemia, and vitiligo.
+            - HLA-DR and CTLA-4 polymorphisms account for approximately half of the genetic susceptibility.
+            - A gene on chromosome 21 may be responsible for the association with Down’s syndrome.
+            - Female preponderance is likely due to sex steroid effects on the immune response; an X chromosome–related genetic factor is also possible, accounting for high frequency in Turner’s syndrome.
+        - **Environmental Susceptibility Factors**:
+            - Poorly defined.
+            - A **high iodine or low selenium intake** and decreased exposure to microorganisms in childhood increase the risk.
+            - Smoking cessation transiently increases incidence.
+            - Alcohol intake seems protective.
+            - These factors may account for the increase in prevalence over the past two to three decades.
+    - **Thyroid Cell Destruction**:
+        - Thyroid lymphocytic infiltrate is composed of activated T cells and B cells.
+        - Primarily mediated by **CD8+ cytotoxic T cells**.
+        - Local production of cytokines (tumor necrosis factor (TNF), interleukin-1 (IL-1), and interferon γ (IFN-γ)) from the inflammatory infiltrate may render thyroid cells more susceptible to apoptosis (via death receptors like Fas) and oxidative stress.
+        - Cytokines also impair thyroid cell function directly and induce expression of other proinflammatory molecules by thyroid cells (cytokines, HLA class I and class II molecules, adhesion molecules, CD40, and nitric oxide).
+        - Administration of high concentrations of cytokines for therapeutic purposes (especially IFN-α) is associated with increased autoimmune thyroid disease.
+        - Novel anticancer and immunomodulatory treatments (tyrosine kinase inhibitors, immune checkpoint inhibitors, and alemtuzumab) can induce thyroiditis via their effects on T-cell regulation.
+    - **Antibodies**:
+        - **Antibodies to TPO and thyroglobulin (Tg) are clinically useful markers of thyroid autoimmunity**, present in >95% of patients.
+        - Any pathogenic effect of TPO and Tg antibodies is restricted to a secondary role in amplifying an ongoing autoimmune response.
+        - TPO antibodies fix complement, and complement membrane-attack complexes are present in the thyroid.
+        - Transplacental passage of Tg or TPO antibodies has no effect on the fetal thyroid, suggesting **T cell–mediated injury is required to initiate autoimmune damage**.
+        - Up to 20% of patients have **antibodies against the TSH-R**.
+            - These TSH-R-blocking antibodies do not stimulate the receptor but prevent TSH binding.
+            - They cause hypothyroidism and, especially in Asian patients, thyroid atrophy.
+            - Their transplacental passage may induce transient neonatal hypothyroidism.
+            - Rarely, patients have a mixture of thyroid-stimulating immunoglobulin (TSI) and TSH-R-blocking antibodies, causing thyroid function to oscillate between hyperthyroidism and hypothyroidism. Such cases require close monitoring.
+            - Bioassays can document TSH-R-blocking antibodies reducing the cyclic AMP–inducing effect of TSH, but are difficult to perform.
+            - Thyrotropin-binding inhibitory immunoglobulin (TBII) assays measure antibody binding to the receptor by competition with labeled TSH, but do not distinguish between TSI and TSH-R-blocking antibodies. A positive result in spontaneous hypothyroidism strongly suggests blocking antibodies. TBII measurement is not routinely needed but may confirm transient neonatal hypothyroidism.
+- **Clinical Manifestations**:
+    - Onset is usually insidious. Patients may become aware of symptoms only when euthyroidism is restored.
+    - Patients with Hashimoto’s thyroiditis may present due to **goiter** rather than symptoms of hypothyroidism. The goiter may not be large but is usually irregular and firm. Rarely, uncomplicated Hashimoto’s thyroiditis is associated with pain.
+    - Patients with atrophic thyroiditis or later stage Hashimoto’s present with symptoms and signs of hypothyroidism.
+    - **Skin**: Dry, decreased sweating, thinning of the epidermis, hyperkeratosis of the stratum corneum.
+    - **Myxedema**: Increased dermal glycosaminoglycan content traps water, leading to **skin thickening without pitting**. Typical features include a **puffy face with edematous eyelids and nonpitting pretibial edema**.
+    - **Appearance**: Pallor, often with a yellow tinge due to carotene accumulation.
+    - **Hair and Nails**: Retarded nail growth. Hair is dry, brittle, difficult to manage, and falls out easily. Diffuse alopecia and thinning of the outer third of the eyebrows (not specific) are seen.
+    - **Gastrointestinal**: **Constipation** and **weight gain** (usually modest and mainly due to fluid retention in myxedematous tissues) despite a poor appetite.
+    - **Reproductive**: Decreased libido in both sexes. Oligomenorrhea or amenorrhea in long-standing disease; menorrhagia may occur early. Reduced fertility and increased miscarriage incidence. Prolactin levels are often modestly increased and may contribute to altered libido/fertility and cause galactorrhea.
+    - **Cardiovascular**: Reduced myocardial contractility and pulse rate, leading to reduced stroke volume and bradycardia. Increased peripheral resistance may be accompanied by hypertension, particularly diastolic. Blood flow is diverted from the skin, producing cool extremities. **Pericardial effusions occur in up to 30%**but rarely compromise cardiac function. Cardiomyopathy is rare.
+    - **Fluid Accumulation**: May also occur in other serous cavities and in the middle ear, leading to conductive deafness; sensorineural deafness may also occur.
+    - **Pulmonary**: Generally normal. Dyspnea may be caused by pleural effusion, impaired respiratory muscle function, diminished ventilatory drive, or sleep apnea.
+    - **Musculoskeletal and Neurological**:
+        - **Carpal tunnel and other entrapment syndromes are common**.
+        - Impairment of muscle function with stiffness, cramps, and pain.
+        - On examination, slow relaxation of tendon reflexes and pseudomyotonia.
+        - **Memory and concentration are impaired**.
+        - PET scans show lower regional activity in the amygdala, hippocampus, and perigenual anterior cingulate cortex, which corrects after thyroxine replacement.
+        - Rare neurologic problems include reversible cerebellar ataxia, dementia, psychosis, and myxedema coma.
+        - Hashimoto’s encephalopathy is a steroid-responsive syndrome associated with TPO antibodies, myoclonus, and slow-wave activity on electroencephalography, but its relationship with thyroid autoimmunity or hypothyroidism is not established. Levothyroxine (LT4) therapy has not been shown to be efficacious if the patient is euthyroid.
+        - The hoarse voice and occasionally clumsy speech reflect fluid accumulation in the vocal cords and tongue.
+- **Associations with Other Autoimmune Diseases**:
+    - Commonly associated with **vitiligo, pernicious anemia, Addison’s disease (Schmidt’s syndrome), alopecia areata, and type 1 diabetes mellitus (T1DM)**.
+    - In the polygenic disorder **autoimmune polyendocrine syndrome type 2**, autoimmune thyroid disease is present in 70–75%, T1DM in 40–60%, and Addison’s disease in 40–50%.
+    - Less common associations include celiac disease, dermatitis herpetiformis, chronic active hepatitis, rheumatoid arthritis, systemic lupus erythematosus (SLE), myasthenia gravis, autoimmune hypoparathyroidism, primary hypogonadism, and Sjögren’s syndrome.
+    - Thyroid-associated ophthalmopathy usually occurs in Graves’ disease, but in ∼5% of patients, it is associated with autoimmune hypothyroidism.
+- **In Children**:
+    - Uncommon.
+    - Usually presents with **slow growth and delayed facial and dental maturation**.
+    - The pituitary may be enlarged due to thyrotroph hyperplasia.
+    - Myopathy, with muscle swelling, is more common in children than in adults.
+    - Puberty is usually delayed, but precocious puberty sometimes occurs.
+    - Intellectual impairment may occur if the onset is before 3 years and the hormone deficiency is severe.
+- **Laboratory Evaluation**:
+    - A **normal TSH level excludes primary (but not secondary) hypothyroidism**.
+    - If TSH is elevated, a **free or unbound T4 level (FT4) is needed to confirm clinical hypothyroidism**.
+    - T4 is inferior to TSH as a screening test because it will not detect subclinical hypothyroidism.
+    - Circulating unbound T3 levels are normal in ∼25% of patients, reflecting adaptive deiodinase responses. T3 measurements are not indicated.
+    - Once clinical or subclinical hypothyroidism is confirmed, the etiology is usually established by demonstrating the presence of **TPO and Tg antibodies, which are present in >95% of patients**.
+    - TBII can be found in 10–20% of patients, but measurement is not needed routinely.
+    - Other abnormal laboratory findings may include increased creatine phosphokinase, elevated cholesterol and triglycerides, and anemia (usually normocytic or macrocytic).
+    - Anemia and other abnormalities gradually resolve with thyroxine replacement, except when accompanied by iron deficiency.
+- **Differential Diagnosis**:
+    - An asymmetric goiter in Hashimoto’s thyroiditis may be confused with a multinodular goiter (MNG) or thyroid carcinoma, where thyroid antibodies may also be present.
+    - Ultrasound can distinguish by showing a solitary lesion or MNG versus the thyroid enlargement with heterogeneous echogenicity typical of Hashimoto’s thyroiditis.
+    - Fine-needle aspiration biopsy is useful in the investigation of focal nodules.
+    - Other causes of hypothyroidism rarely cause diagnostic confusion.
+
+### Other Causes of Hypothyroidism
+
+- **Iatrogenic Hypothyroidism**:
+    - A **common cause** of hypothyroidism, often detectable by screening before symptoms develop.
+    - In the first 3–4 months after radioiodine treatment for Graves’ disease, **transient hypothyroidism** may occur due to reversible radiation damage. Low-dose thyroxine treatment can be withdrawn if recovery occurs. Unbound T4 levels are a better measure of thyroid function than TSH in the months following radioiodine treatment, as TSH levels are suppressed by hyperthyroidism.
+    - Mild hypothyroidism after subtotal thyroidectomy may also resolve after several months as the gland remnant is stimulated by increased TSH levels.
+- **Iodine Deficiency**:
+    - Responsible for endemic goiter and cretinism.
+    - An **uncommon cause of adult hypothyroidism** unless iodine intake is very low or complicating factors exist (e.g., consumption of thiocyanates in cassava or selenium deficiency).
+    - Can be treated with thyroxine.
+    - Public health measures to improve iodine intake (iodized salt/bread, single bolus of oral/intramuscular iodized oil) should be advocated to eliminate this problem.
+- **Iodine Excess**:
+    - Paradoxically, **chronic iodine excess can induce goiter and hypothyroidism**.
+    - Individuals with autoimmune thyroiditis are especially susceptible.
+    - Responsible for hypothyroidism in patients treated with amiodarone.
+- **Other Drugs**:
+    - **Lithium** may also cause hypothyroidism.
+- **Transient Hypothyroidism**:
+    - Caused by thyroiditis.
+- **Secondary or Central Hypothyroidism**:
+    - Usually diagnosed in the context of other anterior pituitary hormone deficiencies.
+    - **Isolated TSH deficiency is very rare**.
+    - TSH levels may be low, normal, or even slightly increased (due to secretion of immunoactive but bioinactive forms of TSH).
+    - Diagnosis is confirmed by detecting a **low unbound T4 level**.
+    - The goal of treatment is to maintain T4 levels in the upper half of the reference interval, as TSH levels cannot be used to monitor therapy.
+
+### Treatment
+
+- **Clinical Hypothyroidism**:
+    - The daily replacement dose of LT4 is usually **1.6 μg/kg body weight** (typically 100–150 μg) if there is no residual thyroid function.
+    - Ideally taken **at least 30 minutes before breakfast**.
+    - Lower doses may suffice initially until residual thyroid tissue is destroyed.
+    - In patients who develop hypothyroidism after Graves’ disease treatment, lower replacement doses (typically 75–125 μg/d) are often needed due to underlying autonomous function.
+    - Adult patients under 60 years old without evidence of heart disease may be started on 50–100 μg of LT4 daily.
+    - The dose is adjusted based on TSH levels, with the goal being a **normal TSH, ideally in the lower half of the reference range**.
+    - TSH responses are gradual and should be measured about 2 months after instituting treatment or after any subsequent change in LT4 dosage.
+    - Clinical effects of LT4 replacement are slow to appear; full symptom relief may take 3–6 months after TSH levels are restored.
+    - Adjustment of LT4 dosage is made in 12.5- or 25-μg increments if TSH is high, and decrements of the same magnitude if TSH is suppressed.
+    - Patients with a suppressed TSH (including from LT4 overtreatment) have an **increased risk of atrial fibrillation and reduced bone density**.
+    - About 10–15% of patients may have persistent symptoms despite euthyroidism with LT4 for unclear reasons.
+    - **Desiccated animal thyroid preparations are not recommended** due to a nonphysiologic T3 to T4 ratio.
+    - The use of LT4 combined with liothyronine (T3) has been investigated, but benefit has not been confirmed.
+    - There is no place for liothyronine alone as long-term replacement, as its short half-life necessitates three or four daily doses and causes fluctuating T3 levels.
+    - Once full replacement is achieved and TSH levels are stable, follow-up measurement of TSH is recommended annually.
+    - Ongoing adherence is important, as patients do not feel a symptomatic difference after missing a few doses, which can lead to self-discontinuation.
+    - In patients of normal body weight taking ≥200 μg of LT4 per day, an elevated TSH level often signifies poor adherence. This is also the likely explanation for fluctuating TSH levels despite a constant LT4 dosage. Such patients often have normal or high unbound T4 levels despite elevated TSH because they take medication for a few days before testing, which normalizes T4 but not TSH.
+    - Because T4 has a long half-life (7 days), patients who miss a dose can be advised to take two doses of the skipped tablets at once.
+    - Other causes of increased LT4 requirements must be excluded, particularly **malabsorption** (e.g., celiac disease, small-bowel surgery, atrophic or _Helicobacter pylori_–related gastritis), **oral estrogen-containing medications or selective estrogen receptor modulator therapy, ingestion with a meal, and drugs that interfere with T4 absorption or metabolism** (e.g., bile acid sequestrants, ferrous sulfate, calcium supplements, sevelamer, sucralfate, proton pump inhibitors, lovastatin, aluminum hydroxide, rifampicin, amiodarone, carbamazepine, phenytoin, and tyrosine kinase inhibitors).
+- **Subclinical Hypothyroidism**:
+    - Defined as biochemical evidence of thyroid hormone deficiency in patients with few or no apparent clinical features.
+    - No universally accepted recommendations for management.
+    - **LT4 is recommended if the patient is a woman who wishes to conceive or is pregnant, or when TSH levels are >10 mIU/L**.
+    - Most other patients can simply be monitored annually.
+    - A trial of treatment may be considered when young or middle-aged patients have symptoms or risk of heart disease.
+    - It is important to confirm that any elevation of TSH is sustained over a 3-month period before treatment is given.
+    - Treatment is administered by starting with a low dose of LT4 (25–50 μg/d) with the goal of normalizing TSH.
+- **Special Treatment Considerations**:
+    - **Pseudotumor Cerebri**:
+        - Rarely associated with LT4 replacement in children.
+        - Presentation appears idiosyncratic and occurs months after treatment initiation.
+    - **Pregnancy**:
+        - Maternal hypothyroidism may adversely affect fetal neural development and is associated with adverse gestational outcomes (miscarriage, preterm delivery).
+        - Thyroid function should be monitored to preserve euthyroidism in women with a history or high risk of hypothyroidism.
+        - Epidemiologic studies show an association of miscarriage and preterm delivery with thyroid autoantibodies, but randomized controlled trials evaluating LT4 therapy in this population have not demonstrated benefit.
+        - LT4 therapy should target a serum TSH in the normal range but **<2.5 mIU/L prior to conception**.
+        - Thyroid function should be evaluated immediately after pregnancy is confirmed and every 4 weeks during the first half of pregnancy, with less frequent testing after 20 weeks’ gestation (every 6–8 weeks).
+        - The increment of LT4 dosage increase depends on the etiology of hypothyroidism; athyreotic women require more (∼45%) than those with Hashimoto’s who may have some residual thyroid function.
+        - Women should increase LT4 from once-daily dosing to **nine doses per week as soon as pregnancy is confirmed** to anticipate this change.
+        - Thereafter, dosage should be closely monitored with a goal TSH in the lower half of the trimester-specific normative range, if available, or <2.5 mIU/L.
+        - The normal TSH range in pregnancy for the second and third trimesters is not significantly different from the nonpregnancy reference range.
+        - Serum TSH decreases in the late first trimester; for 7–12 weeks’ gestation, an appropriate range can be approximated by decreasing the upper limit of the nonpregnant reference range by 0.5 mIU/L (∼4.0 mIU/L) and the lower limit by 0.4 mIU/L (∼0.1 mIU/L).
+        - After delivery, LT4 doses typically return to prepregnancy levels.
+        - Pregnant women should be counseled to **separate ingestion of prenatal vitamins and iron supplements from LT4**.
+    - **Elderly Patients**:
+        - May require **20% less thyroxine** than younger patients.
+        - Starting dose is **12.5–25 μg/d** with similar increments every 2–3 months until TSH is normalized, especially for patients with known coronary artery disease.
+        - In some patients, full replacement may be impossible to achieve despite optimal antianginal treatment.
+    - **Surgery**:
+        - Emergency surgery is generally safe in patients with untreated hypothyroidism.
+        - Routine surgery in a hypothyroid patient should be deferred until euthyroidism is achieved.
+    - **Myxedema Coma**:
+        - Still has a **20–40% mortality rate** despite intensive treatment. Outcomes are independent of T4 and TSH levels.
+        - **Clinical Manifestations**: Reduced level of consciousness (sometimes with seizures), other features of hypothyroidism, and hypothermia (can reach 23°C/74°F).
+        - History: May involve treated hypothyroidism with poor compliance, or the patient may be previously undiagnosed.
+        - Occurrence: Almost always in the elderly.
+        - **Precipitating Factors**: Factors that impair respiration (drugs like sedatives, anesthetics, and antidepressants), pneumonia, congestive heart failure, myocardial infarction, gastrointestinal bleeding, or cerebrovascular accidents. Sepsis should also be suspected. Exposure to cold may also be a risk factor.
+        - **Pathogenesis**: Hypoventilation, leading to hypoxia and hypercapnia, plays a major role. Hypoglycemia and dilutional hyponatremia also contribute.
+        - **Treatment**:
+            - **LT4**: Can initially be administered as a **single IV bolus of 200–400 μg** (loading dose). Followed by a daily oral dose of 1.6 μg/kg per d, reduced by 25% if administered IV. If suitable IV preparation is not available, the same initial dose can be given by nasogastric tube (though absorption may be impaired).
+            - **Liothyronine (T3)**: Rationale for adding intravenously or via nasogastric tube to LT4 treatment due to impaired T4 → T3 conversion. Excess liothyronine has the potential to provoke arrhythmias. An initial loading dose of **5–20 μg** should be followed by **2.5–10 μg every 8 h**, with lower doses for smaller or older patients and those at cardiovascular risk.
+            - **Supportive Therapy**:
+                - Correct any associated metabolic disturbances.
+                - External warming is indicated only if the temperature is <30°C, as it can result in cardiovascular collapse. Space blankets should be used to prevent further heat loss.
+                - **Parenteral hydrocortisone (50 mg every 6 h)** should be administered due to impaired adrenal reserve in profound hypothyroidism.
+                - Any precipitating factors should be treated, including early use of broad-spectrum antibiotics pending exclusion of infection.
+                - Ventilatory support with regular blood gas analysis is usually needed during the first 48 hours.
+                - Hypertonic saline or IV glucose may be needed for severe hyponatremia or hypoglycemia. Hypotonic IV fluids should be avoided as they may exacerbate water retention secondary to reduced renal perfusion and inappropriate vasopressin secretion.
+                - Metabolism of most medications is impaired; sedatives should be avoided if possible or used in reduced doses. Medication blood levels should be monitored, when available, to guide dosage.
