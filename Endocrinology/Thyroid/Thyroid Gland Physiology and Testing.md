@@ -79,6 +79,7 @@ Here are notes from the provided chapter, structured as requested:
 - **Recommended Dietary Allowance (RDA)**: 220 μg/day for pregnant women, 290 μg/day for breastfeeding women.
 - American Thyroid Association recommends all pregnant/breastfeeding US/Canada women take a prenatal multivitamin with **150 μg iodine/day**.
 - Adequate iodine intake in school-age children corresponds to median urinary iodine concentration (UIC) values in the range **100-299 μg/L**.
+- Urinary iodine is >100 μg/L in iodine-sufficient populations.
 
 #### Organification, Coupling, Storage, and Release
 
