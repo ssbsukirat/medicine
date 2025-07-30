@@ -123,7 +123,7 @@ Here are notes from the provided chapter, structured as requested:
 - **Free T4** progressively decreases in the third trimester, often falling below nonpregnant lower reference cutoff.
 - **Subclinical hypothyroidism** occurs in 2% of pregnant women, overt in 1 in 500.
 - **Universal thyroid disease screening** in pregnancy has not shown benefit in trials.
-- **Targeted TSH testing** is recommended for women planning pregnancy with certain risk factors (e.g., family history of autoimmune thyroid disease, other autoimmune disorders, infertility, prior preterm delivery, recurrent miscarriage, age >30 years).
+- **Targeted TSH testing** is recommended for women planning pregnancy with certain risk factors ==(e.g., family history of autoimmune thyroid disease, other autoimmune disorders, infertility, prior preterm delivery, recurrent miscarriage, age >30 years).==
 - Thyroid hormone requirements are **increased by up to 45%** during pregnancy in levothyroxine-treated hypothyroid women.
 
 ### THYROID HORMONE TRANSPORT AND METABOLISM
