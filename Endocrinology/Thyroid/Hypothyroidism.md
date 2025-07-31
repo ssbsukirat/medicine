@@ -1,4 +1,5 @@
 Here are notes from the provided chapter, structured with topic headings as top-level headers:
+![[hypothyroidcauses.png]]
 
 ### Congenital Hypothyroidism
 
