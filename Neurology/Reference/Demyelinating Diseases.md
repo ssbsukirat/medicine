@@ -1,0 +1,707 @@
+Here are concise notes from the provided chapter:
+
+### Demyelinating Diseases Overview
+
+- The term **demyelinating diseases** has a special meaning in neurology, though no disease exclusively involves myelin destruction.
+- **Pathologic criteria** for demyelinating disease are:
+    - **Destruction of myelin sheaths** with relative sparing of axons, neuronal cell bodies, and supporting structures.
+    - **Infiltration of inflammatory cells**, particularly in a perivenous distribution.
+    - **Lesions primarily in white matter**, either disseminated small foci or larger foci spreading from centers.
+- **Multiple sclerosis (MS)** is the most common inflammatory demyelinating disease.
+- Some inflammatory processes, like necrotizing hemorrhagic leukoencephalitis and some MS cases, can be so intense as to **destroy all tissue**, including vessels and axons.
+- Other conditions with prominent demyelination but not classified as primarily demyelinating include:
+    - Anoxic encephalopathy
+    - Vascular occlusion or ischemia (e.g., Binswanger disease)
+    - Subacute combined degeneration (SCD) of the spinal cord
+    - Tropical spastic paraparesis (TSP)
+    - Progressive multifocal leukoencephalopathy (PML)
+    - Osmotic demyelination (central pontine myelinolysis)
+    - Marchiafava-Bignami disease
+- **Chronic progressive leukodystrophies** (e.g., globoid body, metachromatic, adrenal leukodystrophies) are **dysmyelinating** (due to unique genetic/morphologic features) rather than demyelinating, though they are diseases of myelin.
+- Demyelinating lesions associated with **rheumatologic diseases** or **autoantibodies** against DNA/phospholipids occupy an uncertain place in nosology; they can resemble MS on imaging.
+
+### Multiple Sclerosis (MS)
+
+- **History**:
+    - Also known as disseminated sclerosis (British) or sclérose en plaques (French).
+    - Broad dissemination of lesions noted by pathologists in early 19th century (Carswell, Cruveilhier, Frerichs).
+    - **J. M. Charcot** is credited with the first serious clinical and pathologic study, collecting 34 cases.
+    - Along with neurosyphilis, MS formed the basis of early clinicopathologic correlation.
+    - Exact etiology remains elusive, with early theories including suppression of sweat (Cruveilhier, circa 1835).
+- **Introductory Remarks**:
+    - **Chronic condition** characterized by **episodes (attacks)** of focal disorders of optic nerves, spinal cord, and brain.
+    - Attacks remit variably and recur, usually leading to **progressive deficits**.
+    - Neurologic manifestations depend on **varied location and extent of demyelinating foci**.
+    - Lesions have a **predilection for certain CNS parts**, resulting in distinctive symptom complexes and imaging appearances.
+- **Typical Features**:
+    - Acute attacks and static remnants include: **weakness, paraparesis, paresthesias, loss of vision, diplopia, nystagmus, dysarthria, tremor, ataxia, impairment of deep sensation, and bladder dysfunction**.
+    - Diagnosis may be uncertain initially with symptoms in only one locus.
+    - Diagnosis becomes more certain with **recurrence and dissemination** throughout the CNS.
+    - **Long latency** (1-10+ years) possible between minor initial symptom and characteristic symptoms.
+    - Most cases initially have a **relapsing-remitting pattern** (signs/symptoms improve partially/completely, then recur).
+    - Relapsing profile often becomes **steadily progressive** later (secondary progressive MS).
+    - Minority of patients (especially >40 years at onset) have a **steadily progressive course** from initial presentation (primary progressive MS).
+- **Diagnosis Evolution**:
+    - Past criteria required **history of remission and relapse** and evidence of **multiple discrete CNS lesions**("separated in time and space").
+    - **MRI** has replaced exclusive dependence on clinical criteria, identifying clinically inapparent lesions and lesions of different ages.
+- **Pathologic Findings**:
+    - **Macroscopic**: Brain and spinal cord generally normal externally, but spinal cord surface may be uneven. Sectioning reveals numerous **scattered patches**, slightly depressed, pink-gray, from myelin loss. Lesions vary in diameter (sub-mm to several cm), principally affecting **white matter** of brain and spinal cord, not extending beyond root entry zones. Called **plaques** by French pathologists due to sharp delineation.
+    - **Topography**:
+        - Characteristic **periventricular localization**, particularly near subependymal veins.
+        - Favored structures: **optic nerves and chiasm** (rarely tracts), and **spinal cord** (where pial veins lie near/within white matter).
+        - Randomly distributed in brainstem, spinal cord, cerebellar peduncles, not fiber-system specific, but predominantly in white matter.
+        - Acute lesions in cerebral cortex and spinal structures destroy myelin but **mostly spare nerve cells**.
+        - Severe/chronic lesions may destroy axons and neurons, but **demyelination is dominant**.
+    - **Histologic Appearance (Age-Dependent)**:
+        - **Recent lesions**: Partial/complete **myelin destruction/loss** in confluent perivenous foci; axons relatively spared. Variable slight **oligodendroglia degeneration**, astrocytic reaction, perivascular/para-adventitial infiltration with **mononuclear cells and lymphocytes**.
+        - **Later**: Large numbers of **microglial phagocytes (macrophages)** infiltrate; astrocytes increase in number/size.
+        - **Long-standing lesions**: Thickly matted, acellular glial tissue, few perivascular lymphocytes/macrophages; some intact axons present.
+        - Old lesions with axonal interruption show **descending/ascending wallerian degeneration**.
+    - **Remyelination and Oligodendrocytes**:
+        - Partial remyelination on undamaged axons accounts for **"shadow patches"** and **"T1 black holes"** on MRI.
+        - Ineffective remyelination leaves **thinly myelinated axons**.
+        - Some oligodendrocytes are destroyed in active demyelination zones, and remaining ones have **limited proliferation ability**.
+        - Influx of **oligodendroglial precursor cells** mature to provide new myelin.
+        - Astrocytic hyperplasia and persistent inflammation may contribute to inadequate repair.
+    - **Immunopathologic Processes**:
+        - **Antibody and complement-mediated myelin phagocytosis** is dominant mechanism.
+        - Lesions separated into four histologic subgroups (Lucchinetti et al., 2000):
+            - Pattern I: T cells and macrophages alone.
+            - Pattern II: Autoantibody-mediated (immunoglobulin and complement).
+            - Pattern III: Oligodendrocyte apoptosis, no immunoglobulin/complement, partial remyelination.
+            - Pattern IV: Oligodendrocyte dystrophy, no remyelination.
+        - Each case showed **only one pattern**, suggesting different pathophysiologic processes per patient.
+        - Patterns III and IV suggested **primary oligodendroglial cell degeneration**.
+        - Early lesions found to have **cortical demyelination**, often contiguous with meningeal inflammatory infiltrates/lymphoid follicles.
+        - Pathologic characteristics of **progressive MS** may differ from typical **relapsing type**.
+- **Etiology and Epidemiology**:
+    - **Prevalence and Incidence**:
+        - US prevalence: 250,000-350,000 cases in 1992; over 470,000 cases by 2010. Apparent increase possibly due to **increased surveillance**.
+    - **Age and Gender Risk**:
+        - **2-3 times higher in women** than men.
+        - Very low in children (0.3-0.4% of cases in first decade).
+        - Childhood-onset MS patients take longer to reach irreversible disability but do so at a younger age than adult-onset MS.
+        - Risk rises steeply with age, peaking around **30 years**, high in fourth decade, then falling sharply. **Unimodal age-specific onset curve**, similar to infectious/connective tissue diseases.
+        - Some cases develop in late adult life (fifties/sixties), sometimes with forgotten/undeclared early symptoms.
+        - True incidence may be three times higher than stated figures based on pathologic studies.
+    - **Geographic Distribution and Environmental Factors**:
+        - Prevalence varies by latitude:
+            - <1 per 100,000 in equatorial areas.
+            - 6-14 per 100,000 in southern US/Europe.
+            - 30-80 per 100,000 in Canada, northern Europe, northern US.
+        - Olmsted County, Minnesota: Incidence 8, prevalence 177 per 100,000, stable for ~30 years.
+        - Latitudinal gradient exists in southern hemisphere, less defined.
+        - Japan has lower prevalence than comparable latitudes in North America/Europe, but similar gradient.
+        - Risk increases with **higher and lower latitude**.
+        - Black Americans have lower risk than whites but show the **same south-to-north gradient**, suggesting an environmental factor.
+        - "Epidemic" in Faroe Islands (1943-1973) suggested an **unidentified infection** introduced by British troops. Similar postwar epidemic in Iceland.
+        - Cause of geographic distributions reinterpreted as migration/population genetics, but still interesting.
+        - Role of **vitamin D and sun exposure**: Some data suggest lack of exposure increases MS risk, potentially explaining latitudinal gradient. Seasonal fluctuation in MS activity may have similar basis.
+    - **Migration Studies**:
+        - Migrants from high-risk to low-risk zones retain part of origin country's risk and genetic makeup, even if disease appears 20 years later.
+        - Critical age of immigration appears to be about **15 years**; migrating before this age results in risk similar to native-born, after this age similar to birthplace.
+        - Older studies suggested MS associated with localities, implicating environmental factors.
+        - More current studies suggest **genetic factors predominate**.
+    - **Genetic Factors**:
+        - **Familial aggregation** is well-established; ~15% of MS patients have affected relative. Highest risk in siblings.
+        - Full sibs have 2-3 times greater risk than half-sibs, interpreted as clearly **genetic**.
+        - **Twin studies**: Diagnosis verified in 34% of monozygotic (identical) twins vs. 4% of dizygotic (fraternal) twins where one had MS. Clinically normal monozygotic twins had lesions detected by MRI. Dizygotic concordance similar to nontwin siblings.
+        - **No consistent mendelian inheritance pattern**. Familial incidence could reflect common environmental agent exposure (e.g., paralytic poliomyelitis example).
+        - Certain **histocompatibility locus antigens (HLAs)** more frequent in MS patients: **strongest association with DR locus on chromosome 6**. Other overrepresented haplotypes (HLA-DR2, -DR3, -B7, -A3) thought to be markers for MS "susceptibility gene". Presence of these markers increases risk by 3-5x.
+        - Genome-wide association studies identified IL-2R! and IL7R! as heritable risk factors, supporting **dysregulation of immune response** as a risk factor.
+    - **Conjugal Incidence**: Low, indicating any common inciting infection/environmental agent exposure must occur **early in life**. Mean common exposure calculated as before 14 years of age, with ~21 years latency, agreeing with migration studies.
+    - **Rural vs. Urban / Socioeconomic Factors**:
+        - Northern Europe/Canada: Greater likelihood in **rural dwellers**.
+        - American army personnel: Opposite finding.
+        - Great Britain: More frequent in **higher socioeconomic groups**.
+        - US: No clear relationship to socioeconomic status.
+        - Numerous other proposed environmental factors (surgical operations, trauma, anesthesia, pets, cobalamin deficiency, mercury fillings) are unsupported and probably spurious.
+- **Pathogenesis**:
+    - Epidemiologic data suggest **genetic susceptibility** and an **environmental factor** encountered in childhood, leading to latency then disease.
+    - **Infection** has had support, with indirect evidence based on altered immunity to viral agents. **No virus consistently isolated** from MS tissues. No satisfactory viral MS model.
+    - _Chlamydia pneumoniae_, _Borrelia burgdorferi_, and herpesvirus type 6 implicated by genomic material in MS plaques, but evidence for direct participation is **not compelling**.
+    - If obscure infection is initial event, a **secondary factor** may reactivate/cause exacerbations.
+    - One view: Secondary mechanism is an **autoimmune reaction attacking myelin components** (and axons in intense forms).
+    - Analogy drawn to **acute disseminated encephalomyelitis (ADEM)**, an autoimmune disease of delayed hypersensitivity type.
+    - **Antibodies to myelin proteins** (e.g., myelin basic protein (MBP)) and T cells reactive to MBP/other myelin proteolipids found in serum/CSF, increasing with disease activity. MBP cross-reacts with measles virus antibodies.
+    - Arguments for chronic viral infection reactivating/perpetuating disease are less convincing than for initiation.
+    - **Humoral and cellular factors**: Relative roles not fully understood.
+        - Immunoglobulin deposition in acute/relapsing-remitting plaques, but not progressive MS plaques.
+        - **Oligoclonal immune protein antibodies ("bands")** produced by B lymphocytes in CNS found in CSF of most patients.
+        - MS patient sera (with complement) can damage myelin, inhibit remyelination, block axonal conduction in tissue cultures.
+        - Antibodies to oligodendrocytes present in serum (variable frequency).
+        - Inconsistent findings of autoantibodies against myelin oligodendrocyte glycoprotein (MOG) and MBP.
+        - Activated T cells (CD41 Th2) activate B cells, leading to oligoclonal bands, membrane attack complexes, cytokine release (TNF-!, interleukins, IFN-").
+        - Inflammation erodes blood-brain barrier, destroys oligodendroglia and axons. Functional outcome reflects inflammation and axonal damage.
+        - Sometimes oligodendroglial dysfunction and axonal degeneration occur **without prominent inflammation**.
+        - Putative antigenic targets inconsistently replicated across labs. Humoral aspects may shed light on pauci-inflammatory oligodendrocyte degeneration in some lesions.
+    - Most immunologists believe MS is mediated by **T-cell sensitization to myelin components**.
+        - Supported by observation that T cells initiate lesions of **experimental allergic encephalomyelitis (EAE)**, an animal model of MS.
+        - Difficult to produce relapsing EAE.
+        - T-cell entry into CNS causes perivascular inflammation, but relation to MS unclear.
+        - Intense T-cell stimulation may induce demyelination, or T-cell infiltration is reaction to primary myelin sheath/component immune target.
+        - Most believe an **additional insult** is required (EAE requires adjuvant immune stimulus).
+        - EAE is imperfect: not naturally occurring, demyelination induced by autologous myelin antigens in single episode, inducing antigen known (unlike MS).
+    - **Blood-brain barrier alteration** (lymphocyte adhesion to endothelial cells) incorporated into most immune pathogenesis theories; basis for newer treatments.
+    - **Genetic susceptibility** is a background element, predisposing individuals to these immunologic events.
+    - Immune mechanisms not fully specified, **autoimmune hypothesis not beyond challenge**. Prevalence of other autoimmune diseases in MS patients varies across studies.
+- **Physiologic Effects of Demyelination**:
+    - Main effect: **impedes saltatory electrical conduction** of nerve impulses (node of Ranvier to next).
+    - Failure of electrical transmission underlies most functional abnormalities in demyelinating diseases of CNS/PNS.
+    - Example: Delayed electrical conduction in optic nerve (visual stimuli in MS).
+    - Acute, reversible conduction block is physiologic, not pathologic (recovery from edema/inflammation, not remyelination).
+    - Remyelination is slower and partial, long-term effects expressed as **slowing of nerve conduction**.
+    - Many cerebral plaques on MRI are asymptomatic; possibly due to **complete remyelination** or acute stage **edema**.
+    - **Uhthoff phenomenon**: Temporary induction of symptoms (visual blurring, tingling, weakness) by **heat or exercise**.
+    - Represents extreme **sensitivity of conduction in demyelinated fibers to temperature elevation** (rise of 0.5°C can block transmission).
+    - Hyperventilation also slows conduction.
+    - Sensitivity to metabolic/environmental changes explains rapid symptom onset and apparent fluctuations without inflammatory changes.
+    - Smoking, fatigue, hyperventilation, increased temperature can briefly worsen function, confused with relapses.
+- **Clinical Manifestations**:
+    - **Early Symptoms and Signs**:
+        - **Weakness or numbness** (sometimes both) in one/more limbs in ~50% patients.
+        - Tingling, tight band-like sensations common, likely due to **posterior column involvement**.
+        - Symptoms appear over hours/days, from trifling to acute.
+        - Syndromes vary from dragging legs to spastic/ataxic paraparesis.
+        - Tendon reflexes retained, later hyperactive with extensor plantar reflexes.
+        - Varying deep/superficial sensory loss may be associated.
+        - Adage: MS patient presents with **symptoms in one leg but signs in both** (e.g., unilateral complaint, bilateral Babinski signs/corticospinal/posterior column disease).
+    - **Typical Syndromes of Onset ("Clinically Isolated Syndrome," CIS)**:
+        - **Unilateral optic neuritis**.
+        - **Transverse myelitis**.
+        - **Cerebellar ataxia**.
+        - **Brainstem syndromes** (vertigo, facial pain/numbness, dysarthria, diplopia).
+        - Pose diagnostic questions as they occur in other diseases.
+    - **Lhermitte Sign**: Flexion of neck induces tingling, electric-like feeling down shoulders/back/anterior thighs. More a symptom than a sign; described by Babinski, Lhermitte noted frequent occurrence in MS. Attributed to increased sensitivity of demyelinated axons to stretch/pressure on spinal cord. Occurs in other conditions (e.g., cervical spondylosis).
+    - **Mode of Onset and Progression Patterns**:
+        - 20% neurologic symptoms fully developed in minutes, similar number in hours.
+        - ~30% evolved slowly (days), ~20% even slower (weeks to months).
+        - 10% had insidious onset, slow, steady, or intermittent progression (months/years).
+        - **Typical relapsing-remitting pattern** more likely in patients younger than 40.
+        - Inflammatory process of MS affects **only the CNS**.
+    - **Optic Neuritis**:
+        - Initial manifestation in ~25% of all MS patients (possibly higher in children).
+        - Optic nerve is a brain tract, so involvement is consistent with MS lesions confined to CNS.
+        - **Partial/total vision loss in one eye** over several days.
+        - Many patients experience **orbital pain** 1-2 days before visual loss, worsened by eye movement/palpation.
+        - Rarely, visual loss is progressive for weeks, mimicking compressive lesion/tumor.
+        - Commonly: scotoma involving macular area and blind spot (ceco-central), but various field defects can occur, rarely hemianopic.
+        - Both optic nerves involved simultaneously or sequentially in some patients. At least 1 in 8 patients have repeated attacks.
+        - **Papillitis** (swelling/edema of optic nerve head) in ~1/10 to 1/3 patients.
+        - More often: **retrobulbar neuritis** (normal optic nerve head in acute phase). Visible swelling depends on lesion proximity to nerve head.
+        - Papillitis distinguished from papilledema by severe/acute visual loss.
+        - Subtle signs of optic nerve affection: afferent pupillary defect, atrophy of retinal nerve fibers, sheathing of retinal veins, abnormal visual evoked response.
+        - Visual evoked potentials and optical coherence tomography (OCT) useful for detecting prior optic neuritis changes.
+        - ~Half of patients with optic neuritis recover completely; most others improve significantly, even with profound initial loss.
+        - Pain around eye is short-lived; persistent pain prompts local disease evaluation.
+        - Optic Neuritis Treatment Trial (ONTT): 87% returned to 20/25 vision, 94% to 20/40 or better at 5 years, even with recurrences. Treatment mode did not influence final visual outcome.
+        - Dyschromatopsia, impaired contrast sensitivity, Pulfrich effect often persist.
+        - Visual improvement usually begins ~4 weeks, perhaps sooner with corticosteroids; can continue for several months.
+        - > Half of adults with optic neuritis eventually develop other MS signs. Risk much lower if initial attack in childhood (26% developed MS after 40 years).
+            
+        - Most patients develop MS signs within 5 years of original attack.
+        - MRI often shows **asymptomatic cerebral white matter lesions** in clinically isolated optic neuritis, establishing MS diagnosis.
+        - Recurrence of optic neuritis greatly increases chance of developing MS.
+        - Risk of relapsing-remitting MS considerably lower (22% at 10 years) if initial brain MRI shows no other demyelinating lesions.
+        - Isolated optic neuritis not followed by other demyelinating disease: unclear if restricted MS form or other disease (e.g., postinfectious encephalomyelitis).
+        - Most common pathologic basis for optic neuropathy is demyelinating disease. Vascular lesion or compression can mimic.
+        - Chronic relapsing optic neuritis can result from undefined granulomatous process (e.g., sarcoid).
+        - Uveitis and retinal vein sheathing (due to T-cell infiltration, similar to plaques) occur with higher incidence in MS.
+        - Simultaneous/rapidly sequential bilateral optic neuritis is more common in **neuromyelitis optica (Devic disease)**.
+    - **Acute Myelitis (Transverse Myelitis)**:
+        - Acutely evolving inflammatory-demyelinating lesion of spinal cord, often an expression of MS. Analogous to optic neuritis.
+        - "Transverse" imprecise; in MS, spinal cord signs are **asymmetrical and incomplete**, involving only part of tracts. Paraplegia and complete sensory loss are unusual.
+        - Clinically: rapidly evolving (hours/days) symmetrical/asymmetrical **paraparesis or paraplegia, ascending paresthesia, loss of deep sensibility in feet, sensory level on trunk, sphincteric dysfunction, bilateral Babinski signs**.
+        - CSF: modest lymphocytes, increased total protein (can be normal early).
+        - ~1/3 patients report infectious illness weeks before onset; likely monophasic postinfectious demyelinating disease rather than MS.
+        - MRI often shows focal demyelination in spinal cord at appropriate level, possibly with gadolinium enhancement (not invariable). Lesions indistinguishable from postinfectious myelitis.
+        - In MS-associated myelitis, cerebral hemisphere MRI shows demyelination-consistent lesions. Absence of cerebral lesions does not rule out evolution to MS.
+        - Some cases progress to **necrotic myelopathy**, with/without optic neuropathy, an expression of NMO.
+        - <Half of patients have asymptomatic demyelinating lesions elsewhere or develop clinical dissemination within 5 years.
+        - Cumulative probability of MS after 2 years similar after optic neuritis or transverse myelitis.
+        - Problem: recurrent myelitis at one spinal cord level with no other demyelinating disease signs (even with CSF oligoclonal bands). Tentative conclusion: **recurrent form of spinal cord MS** with infrequent cerebral dissemination.
+        - Isolated recurrent myelitis/myelopathy occurs with lupus erythematosus, sarcoidosis, Sjögren syndrome, mixed connective tissue disease, antiphospholipid antibody syndrome, other autoantibodies, dural/cord arteriovenous fistulas/malformations.
+        - Analogous to some optic neuritis cases (repeated attacks confined to optic nerve).
+        - Slowly progressive cervical myelopathy with weakness/ataxia, mainly in older women, difficult to differentiate from cervical spondylosis.
+    - **Other Clinical Features of Acute Attacks**:
+        - Other early manifestations: **unsteadiness in walking, brainstem symptoms (diplopia, vertigo, vomiting), paresthesias/numbness of arm/leg, facial pain (simulating tic douloureux), micturition disorders**.
+        - Vertigo common initial sign, but more often in established cases.
+        - Discrete manifestations like hemiplegia, pain syndromes, facial paralysis, deafness, seizures occur in small number, suggesting alternative disorder.
+        - Often presents with **multiple symptoms simultaneously or in rapid succession**.
+        - **Nystagmus and ataxia** prominent features, with/without limb weakness/spasticity, reflecting cerebellar/corticospinal tract involvement.
+        - **Cerebellar ataxia**: scanning speech, rhythmic head/trunk instability, intention tremor of limbs, incoordination of movements/gait.
+        - **Charcot triad**: Nystagmus, scanning speech, intention tremor. Often seen in advanced stages, not common presentation.
+        - Severe cerebellar ataxia (violent, uncontrollable ataxic tremor) in long-standing MS. Lesion likely in midbrain tegmentum (dentatorubrothalamic tracts).
+        - Cerebellar ataxia combined with sensory ataxia (posterior columns/medial lemnisci involvement).
+        - **Diplopia** common presenting complaint, often due to **medial longitudinal fasciculi involvement**, producing **internuclear ophthalmoplegia (INO)**.
+        - INO signs: medial rectus paresis on attempted lateral gaze, coarse nystagmus in abducting eye. In MS, usually **bilateral**.
+        - **Bilateral INO in young adult is virtually diagnostic of MS**.
+        - "One-and-a-half syndrome" (INO in one direction + horizontal gaze paresis in other) more typical of brainstem infarction.
+        - Other gaze palsies or individual ocular muscle palsies occur less frequently.
+        - Additional brainstem involvement: myokymia/paralysis of facial muscles, deafness, tinnitus, vertigo, vomiting, rarely stupor/coma.
+        - Transient facial hypesthesia/anesthesia or trigeminal neuralgia in young adult suggests MS (intramedullary fibers of fifth cranial nerve).
+        - **Dull, aching low back pain** common, uncertain relation to MS lesions.
+        - Infrequent: sharp, burning, poorly localized, or lancinating radicular pain (limb/trunk), sometimes presenting feature or appearing later. Likely caused by demyelinating foci in **dorsal root entry zones**.
+    - **Symptoms and Signs in the Established Disease**:
+        - **Mixed or generalized picture** in ~50% patients (optic nerves, brainstem, cerebellum, spinal cord—posterior columns and corticospinal tracts).
+        - **Spastic ataxia and deep sensory changes** in extremities (spinal form) in 30-40%.
+        - **Asymmetrical spastic paraparesis** with impaired joint position/vibration sense in legs is most common manifestation of progressive MS.
+        - Predominantly cerebellar or brainstem-cerebellar form in ~5%. Mixed and spinal forms constitute ~80% of clinical material.
+        - **Cognitive impairment** (progressive decline) in ~50% of patients with long-standing MS.
+        - Characterized by: **reduced attention, diminished processing speed, executive skills, memory decline**. Language and other intellectual functions preserved. Subsumed under **"subcortical dementia"**.
+        - Other mental disturbances (memory loss, global dementia, confusional-psychotic state) rare in advanced stages.
+        - Cognitive decline correlates with **MRI measurements** (white matter volume loss, corpus callosum thinning, brain atrophy).
+        - Past descriptions of "abnormal euphoria" or "la belle indifférence" largely dispelled as MS association.
+        - Inappropriate laughing/crying can be part of **pseudobulbar palsy syndrome** from long-standing MS.
+        - Larger number of MS patients are **depressed, irritable, short-tempered** (reaction to disability or primary effect of brain disease). Incidence of depression 25-40%. Higher emotional disturbance in MS patients than traumatic paraplegics, especially during relapse.
+        - **Demyelination in cortical layers** is important basis for dementia in MS. Loss of gray matter volume predictive of dementia, as much as central white matter loss. Can cause global cerebral atrophy.
+        - **Bladder dysfunction** (hesitancy, urgency, frequency, incontinence) common with interruption of descending fibers, especially in spinal cord involvement. Urinary retention less frequent.
+        - Often associated with **erectile dysfunction**.
+        - **Paroxysmal attacks**: infrequent but recognized feature, lasting seconds/minutes, recurring many times daily. Usually in relapsing-remitting phase, rarely initial. Stereotyped in individual patient.
+        - Most common paroxysmal phenomena: **dysarthria, ataxia, paroxysmal pain/dysesthesia in a limb, flashing lights, paroxysmal itching, tonic "seizures"** (flexion spasm of hand/wrist/elbow with lower limb extension).
+        - Triggered by sensory stimuli or hyperventilation. Cause uncertain, attributed to **ephaptic transmission ("cross-talk")** between demyelinated axons.
+        - Transitory symptoms appear suddenly, recur frequently (days/weeks), then remit completely (temporal profile of relapse/exacerbation).
+        - Difficult to determine if new exacerbation or new lesion. New symptoms in only 19% of exacerbations; remainder were recurrence of old symptoms.
+        - Original lesion may have been asymptomatic, emerging with fever or stress. Many patients have impaired visual evoked responses but no visual changes. New symptoms/signs can be manifestations of previously formed asymptomatic plaques.
+        - Symptoms/signs may progress without new plaques.
+        - **Carbamazepine** effective for spontaneous attacks; **acetazolamide** blocks painful tonic spasms from hyperventilation.
+        - **Severe fatigue**: peculiar symptom, often transient, more likely with fever/disease activity, but can be persistent and distressing. Depression may play a role. Antidepressants often don't improve fatigue; fatigue-alleviating drugs (modafinil, amantadine) don't function as antidepressants.
+        - **Other Manifestations**:
+            - **Typical tic douloureux in young patients** (young age, bilaterality, later facial sensory loss/other signs raise suspicion of MS).
+            - **Facial palsy (Bell's palsy type) almost never a sign of MS**.
+            - Brachial, thoracic, lumbosacral pain (thermal/algesic dysesthesias) can be puzzling until other lesions develop.
+            - Acute right hemiplegia and aphasia initially suggest cerebrovascular lesion. Slowly evolving hemiplegia suggests cerebral tumor.
+            - **Coma during relapse** of long-standing MS (including in children) seen, often leading to death (prior to aggressive treatment era).
+            - Increased incidence of **seizures** in MS patients, but frequency varies. Seizures usually related to obvious cerebral lesion and advanced disease. Early stage seizures almost always due to head injury, idiopathic epilepsy, or sleep medication withdrawal, **not MS**.
+- **Precipitating Factors for Acute Attacks**:
+    - **Febrile illness** (e.g., urinary infection) can **exaggerate or unmask** existing MS symptoms.
+    - Debate whether new relapse triggered by infection or trauma.
+    - Incidence of respiratory, urinary, GI viral infections preceding onset/exacerbations varies (5-50%), but **not convincingly related to increased risk of new attacks**.
+    - Swine influenza vaccine caused Guillain-Barré, **not MS**. Recent immunization surveys show similar results.
+    - **Trauma**: More difficult to assess.
+        - Slightly greater incidence of trauma 3 months before MS onset than in controls; reported relationship between injury site and initial symptoms (if symptoms within a week of injury). This evidence is **not convincing**.
+        - Other trauma (lumbar puncture, surgery) after onset not shown to have adverse effect.
+        - No MS cases among penetrating head wound survivors.
+        - Prospective study of trauma/MS (Sibley et al.): No correlation between traumatic episodes and exacerbations, except possibly 1-2 cases of electrical injury.
+        - MS lesions contiguous with cervical spondylosis suggested, but **no causal association established**.
+        - MS patients suffer physical injuries 2-3 times more often than normal persons. Coincidence of trauma and new/exacerbated MS is **incidental**.
+- **Variants of Multiple Sclerosis**:
+    - **Acute and Tumor-Like (Tumefactive) Multiple Sclerosis (Marburg Variant)**:
+        - Rare, rapidly progressive, highly malignant form.
+        - Cerebral, brainstem, spinal manifestations evolve over weeks, leading to stupor, coma, decerebrate state, prominent cranial nerve/corticospinal abnormalities.
+        - Death within weeks/months possible, or partial recovery.
+        - Autopsy: macroscopic, very large acute plaques; many plaques same age, confluence of perivenous demyelination obvious.
+        - CSF usually shows cellular response, **no oligoclonal bands**.
+        - Some astonishing recoveries, remaining well for decades; others relapse with typical MS course.
+        - **Tumefactive MS**: Large acute plaques with **mass effect and enhancement simulating tumor** on imaging. Occurs in 1-2% of MS patients (average age 37), no same gender predilection as MS. Recurrent episodes rare. Often remits.
+    - **Balo and Schilder Diseases**:
+        - **Balo's concentric sclerosis (leukoencephalitis periaxialis concentrica)**: Distinguishing feature is **alternating bands of myelin destruction and preservation** in concentric rings. Suggests centrifugal diffusion of damaging factor. Usually acute, but similar pattern seen in chronic relapsing MS. Affects males/females equally; more cases in China/Philippines.
+        - **Diffuse sclerosis (Schilder disease)**: Confusing entity, diffuse and massive cerebral demyelination, more frequent in childhood/adolescence.
+        - Schilder's original case (1912) described large, well-demarcated demyelination in both cerebral hemispheres and smaller foci resembling MS. Called _encephalitis periaxialis diffusa_ due to similarities to MS pathology (prominent inflammation, relative axonal sparing).
+        - Schilder later applied the term to different conditions (familial leukodystrophy, infiltrative lymphoma), causing confusion.
+        - If hereditary metabolic leukodystrophies are excluded, a characteristic group allied with MS corresponds to Schilder's original description (large tumefactive demyelinating lesions). Most frequent in children/young adults.
+        - May follow MS course (steady/unremitting or episodic worsening). CSF may show MS-like changes. Death in months/years, some survive decades.
+        - Differential diagnosis: diffuse cerebral neoplasm (gliomatosis/lymphoma), adrenoleukodystrophy, progressive multifocal leukoencephalopathy.
+        - Histologically: large single focus and smaller disseminated ones show characteristic **MS features**.
+    - **Multiple Sclerosis in Conjunction With Peripheral Neuropathy**:
+        - Rare coexistence of MS with polyneuropathy or mononeuropathy multiplex. Invites speculation/controversy.
+        - Autopsy cases show demyelinating lesions in CNS white matter and peripheral nerves.
+        - Infrequency suggests **coincidental occurrence**, perhaps with another underlying disease (e.g., Lyme, HIV).
+        - Another view: autoimmune demyelination incited in spinal cord and peripheral nerve (latter as chronic inflammatory polyradiculoneuropathy, CIDP).
+        - Myelination by oligodendrocytes in CNS and Schwann cells in PNS implies **antigen differences typically separating MS and CIDP**.
+        - More commonly in MS, radicular/neuropathic symptoms result from involvement of myelinated fibers in **root entry zone of cord or fibers exiting ventral white matter**.
+- **Laboratory Findings in Typical Multiple Sclerosis**:
+    - **Cerebrospinal Fluid (CSF)**:
+        - **Slight to moderate mononuclear pleocytosis** (6-20, rarely <50 cells/mm3) in ~1/3 of patients, especially acute onset/exacerbation.
+        - Rapidly progressive NMO/severe brainstem demyelination: cell count may reach >100, rarely 1000 cells/mm3.
+        - **Gamma globulin proteins synthesized in CNS**; migrate as **abnormal discrete populations (oligoclonal bands)**.
+        - Oligoclonal bands detected in >90% of MS cases in some populations (lower in Asia).
+        - **Not specific for MS**: also in syphilis, Lyme, subacute sclerosing panencephalitis.
+        - Presence of oligoclonal bands in first MS attack predicts **chronic relapsing course**.
+        - Usually reported if >1 band; single band meaning unclear (treated as negative).
+        - Necrotic myelopathy and Devic disease generally **lack oligoclonal bands**.
+        - **Total protein content increased** in ~40% patients, but slight; >100 mg/dL very unusual, suggests another diagnosis.
+        - **IgG index** (>12% of total protein) also used; positive in same diseases as oligoclonal bands.
+        - **Myelin basic protein (MBP)** in CSF: high during acute exacerbations, lower/normal in slowly progressive MS, normal during remissions. Also increased by other myelin-destroying lesions (e.g., infarction). **Not particularly useful as diagnostic test**; reflects central myelin destruction.
+        - Most patients with established MS have CSF abnormality (cells, total protein, gamma globulin, oligoclonal bands).
+        - **Oligoclonal bands** are most widely used CSF test for MS, especially after acute exacerbation or during chronic progressive phase. More complicated procedures (globulin production, MBP) provide little additional sensitivity.
+    - **Imaging (MRI)**:
+        - **Most helpful ancillary examination** for MS diagnosis. Reveals symptomatic/asymptomatic, acute/chronic plaques in cerebrum, brainstem, optic nerves, spinal cord.
+        - > 90% incidence of MRI lesions in cerebrum/spinal cord in established MS.
+            
+        - Cerebral lesions mostly asymptomatic; brainstem/spinal cord lesions **almost always symptomatic**.
+        - **Characteristic MRI features**:
+            - Plaques are **hyperintense (bright) on T2-weighted images**.
+            - Acute lesions: tissue expansion (edema), T1 hypointensity, T2 hyperintensity.
+            - Chronic lesions: tissue volume loss, still T2 hyperintense.
+            - T1 hypointensity ("black hole") indicates **no or scant remyelination**; inversely proportional to remyelination.
+            - **Multifocal, well-demarcated, oval or linear, radially-oriented lesions adjacent to ventricular surface** are fairly specific for relapsing-remitting MS.
+            - **"Dawson fingers"**: lesions extending from corpus callosum in filiform pattern on sagittal images. Radial orientation corresponds to venules.
+            - Subcortical and infratentorial lesions frequent, often in white matter tracts (e.g., cerebral/cerebellar peduncles, medial longitudinal fasciculi).
+            - Lesions **do not conform to cerebral vascular territories**; lack wedge shape of embolic infarcts. Diffusivity variable, can be feature of larger acute lesions.
+            - Early lesions: **disruption of blood-brain barrier** (inflammation). MRI correlate: **abnormal enhancement after IV gadolinium**. Enhancement can persist for weeks.
+            - Characteristic pattern: **C-shaped partial or "open" rim of abnormal enhancement**, differentiating acute MS plaque from abscess/high-grade neoplasm. Open segment usually medial.
+            - Advanced cases: periventricular lesions may become **confluent**.
+        - **Invaluable for demonstrating asymptomatic lesions** (dissemination in time and space) for diagnosis. Discovery of additional lesions in patient with single clinical episode can establish diagnosis.
+        - Unsuspected MS diagnosis revealed on single MRI by detecting **one or more acute, enhancing lesions with additional nonenhancing ones**. Asymptomatic lesions found in spinal cord.
+        - **Serial MRIs showing accumulating T2 hyperintense lesions over time** consistent with diagnosis.
+        - **Progressive cerebral atrophy** accompanies most cases, less evident than focal lesions. Reflects glial cell loss, wallerian degeneration, axonal loss. Independent marker of disability.
+        - **Spinal lesions**: occupy portion of transverse surface, most commonly subpial white matter tracts. Infrequently extend beyond three contiguous vertebral segments (contrast to NMO). Acute lesions may cause focal cord expansion/enhancement; chronic lesions associated with focal cord atrophy.
+        - **Periventricular T2 hyperintensity foci** occur in various pathologic processes and normal older persons. Unlike MS, these are parallel to ventricular surfaces, smoother, attributed to microvascular changes. Same lack of specificity for spinal cord lesions.
+        - **CT** can show cerebral lesions (less sensitive than MRI). Acute plaques on CT can mimic abscess/tumor; some contrast-enhancing lesions become inapparent after steroid treatment.
+    - **Evoked Potentials and Other Tests**:
+        - Used when clinical/radiographic data point to single lesion. Establish existence of **asymptomatic lesions**.
+        - Include: **visual, auditory, somatosensory-evoked responses; blink reflex electromyographic evaluation; subjective visual flicker fusion measurement**.
+        - Abnormalities:
+            - Visual evoked responses: ~70% definite MS, 60% probable/possible MS.
+            - Somatosensory evoked responses: 60% definite, 40% probable/possible.
+            - Brainstem auditory evoked responses (prolonged interwave latency/decreased wave 5): ~40% definite, 20% probable/possible.
+        - Largely supplanted by **MRI** for detecting dispersed demyelinating lesions.
+        - **Optical coherence tomography (OCT)**: measures back-scattering of near-infrared light for high-resolution images of optic nerve/retina. Automatic segmentation of retinal nerve fiber layer thickness allows quantification of axonal loss/thinning after optic neuritis.
+- **Diagnostic Criteria for Multiple Sclerosis**:
+    - Diagnosis should be made on firmest grounds; MRI and other tests used to establish diagnosis at first symptoms.
+    - Disease likely when usual syndromes (optic neuritis, bilateral brainstem symptoms, transverse myelitis) occur in younger person.
+    - Time-honored "separated in time and space" criteria broadened by ability to detect lesions nonclinically. Approach predicts CIS dissemination.
+    - Thompson et al. (2017) provided updated diagnostic schemes incorporating MRI changes, building on previous consensus. Criteria are often cited but may be unwieldy; continuously updated.
+- **Clinical Course and Prognosis**:
+    - **Intermittency of clinical manifestations** (disease advancing in attacks with remissions) is most important attribute.
+    - Some patients have complete remission after initial attack or series of complete remissions.
+    - Average **relapse rate: 0.3 to 0.4 attacks per year**.
+    - Interval between opening symptom and first relapse highly variable (within 1 year in 30%, 2 years in 20%, 5-9 years in 20%, 10-30 years in 10%). Pathologic process can remain active for long time.
+    - **Predictive features of outcome**: Higher number of attacks, shorter first inter-attack interval, shorter time to moderate disability.
+    - Degree of disability at **5 years from first symptom** is most predictive of long-term disability.
+    - Relapses did not significantly influence progression of irreversible disability in large study.
+    - Many patients develop only **mild disability** after long follow-up ("benign MS"), ~20% of patients are not disabled even after decades. These data inform use of long-term disease-modifying therapies. Reliable criteria for identifying benign MS patients are being sought.
+    - After years, increasing tendency for patient to enter **slow, steady, or fluctuating deterioration** (secondary progressive MS), due to cumulative effect of lesions.
+    - ~10% of cases lack periodic relapses, **evenly progressive from beginning** (primary progressive MS). Usually chronic asymmetrical spastic paraparesis; difficult to diagnose.
+    - Primary progressive MS shows little MRI change over time, negligible response to medical therapy, poor outcome.
+    - **Pregnancy**: Typically associated with **clinical stability or improvement** (like other autoimmune diseases). Average relapse rate declines in each trimester. Increased risk of exacerbations (up to twofold) in first few months postpartum.
+    - **Duration and Survival**: Extremely variable before death. Average duration >30 years. 74% survived 25 years vs. 86% general population in Rochester, MN study. At 25 years, 1/3 surviving patients still working, 2/3 still ambulatory.
+    - No environmental, dietary, or activity-related changes known to alter course.
+- **Differential Diagnosis**:
+    - **General Simulating Conditions**:
+        - Relapsing MS rarely in doubt with relapsing-remitting course and disseminated lesions.
+        - Vascular malformations (cavernous angiomas with bleeding), brain lymphoma, lupus erythematosus, antiphospholipid antibody syndrome, Behçet disease can simulate relapsing MS.
+        - Corticosteroid-responsive intravascular lymphoma, embolic infarcts, PML, migraine-associated white matter lesions, Lyme disease, sarcoidosis, Susac syndrome, tumors can cause multiple white matter abnormalities on MRI.
+        - Difficulties arise when standard criteria lacking (acute initial attack, insidious onset, slow progression).
+        - Features against MS diagnosis: absence of optic neuritis symptoms/signs, widespread amyotrophy, entirely normal eye movements, hemianopic field defect, pain as predominant symptom, progressive non-remitting illness beginning in youth.
+        - Other points against MS: fever, non-neurologic features (joint inflammation, skin rash, sicca syndrome, peripheral neuropathy).
+        - Differentiation from Devic disease discussed later.
+    - **Specific Differentiations**:
+        - Initial MS attack (CIS) may mimic acute labyrinthine vertigo or tic douloureux (trigeminal neuralgia). Neurologic exam often shows other brainstem lesion signs; CSF helpful.
+        - Extensive brainstem demyelination (subacute evolution) can be mistaken for pontine glioma.
+        - Acute onset brainstem symptoms: difficult to distinguish MS plaque from small infarction (basilar branch occlusion).
+        - Recurrent bleeding from cavernous vascular malformations/small brainstem arteriovenous malformations simulated MS clinically. MRI showing blood products clarifies.
+        - **Acute disseminated encephalomyelitis (ADEM)**: acute illness with widely scattered small demyelinating lesions, but self-limited and most often monophasic. Fever, stupor, coma characteristic of ADEM, rarely in MS. ADEM can progress for weeks, making distinction difficult.
+    - **White Matter Lesions Associated With Systemic Autoimmune and Inflammatory (Rheumatologic) Diseases**:
+        - **Systemic lupus erythematosus (SLE)** and other autoimmune diseases (mixed connective tissue disease, Sjögren syndrome, scleroderma) can cause multiple CNS white matter lesions. May parallel underlying immune disease activity or autoantibody levels (anti-DNA, phospholipids). Myelitis/cerebral lesions can precede other organ involvement.
+        - 5-10% of MS patients have antinuclear or anti-double-stranded DNA antibodies without lupus signs (significance unclear). Relatives of MS patients may have higher incidence of autoantibodies.
+        - On MRI, lupus/antiphospholipid antibody syndrome lesions similar to plaques; optic nerve (rarely) and spinal cord can be involved repeatedly, resembling MS.
+        - Some lesions are infarct necrosis (small-vessel occlusion), others inflammatory/demyelinating. Rheumatologic processes mimicking MS remain difficult to understand. Best considered special manifestations of lupus/related diseases.
+        - Caution: Some MS treatments (e.g., #-interferon) may worsen systemic autoimmune illness.
+        - **Periarteritis nodosa or CNS vasculitis** can produce multifocal lesions simulating MS. Difficult distinction in rare cases with relapsing/steroid-responsive myelitis. CSF may have >100 WBC/mm3.
+        - **Lyme disease**: fatigue, vague neurologic symptoms, hyperintense T2-weighted cranial MRI lesions. History (rash, arthritis), serologic findings help distinguish.
+        - **Behçet disease**: recurrent iridocyclitis, meningitis, mucous membrane ulcers, articular/renal/lung/multifocal cerebral disease.
+        - **Chronic brucellosis** (Mediterranean), **Lyme borreliosis** (North America/Europe) can cause myelopathy/encephalopathy with white matter lesions; history/features identify infectious illness.
+        - Rare inflammatory variant of cerebral amyloid deposition can simulate MS but presents with rapid dementia and TIA/stroke-like symptoms, distinct MRI features.
+    - **Spinal Multiple Sclerosis**:
+        - Purely spinal form (progressive spastic paraparesis, hemiparesis, or leg monoparesis with posterior column involvement) can be diagnostically difficult. Tends to affect older women.
+        - Requires evaluation for **spinal cord compression** (neoplasm, cervical spondylosis). Dural arteriovenous fistula also considered.
+        - Radicular pain frequent in these disorders, less frequent in MS.
+        - Pain in neck, restricted cervical spine mobility, severe muscle wasting (spondylosis) almost unknown in MS. Atrophy of first dorsal interosseus muscles seen in both.
+        - General rule: loss of abdominal reflexes, erectile dysfunction, bladder disturbances occur early in demyelinating myelopathy, late/not at all in cervical spondylosis.
+        - CSF protein elevated in cervical spondylosis, but **oligoclonal bands and elevated IgG not found**.
+        - Regional spinal cord swelling on imaging suggests tumor: for subacute, saltatory myelopathy restricted to adjacent levels, look for AVM or dural fistula. Sarcoidosis affecting cord presents similar problems; steroid-responsive granulomatous lesions with venous pattern may cause confusion. Subpial enhancement with gadolinium helpful for sarcoid.
+        - Differentiating from **tropical spastic paraparesis (TSP)** (HTLV-1 myelitis) and **progressive familial spastic paraplegia**.
+        - **Amyotrophic lateral sclerosis (ALS)** and SCD confused with MS: ALS identified by muscle wasting, fasciculations, absence of sensory involvement. SCD by symmetrical involvement of posterior/lateral spinal cord columns.
+        - Reports of marginally low B12 in some MS patients, but not confirmed.
+        - **Platybasia and basilar impression of skull**: differential diagnosis for spinal MS, but patients have characteristic short neck; imaging diagnostic.
+        - Neurologic syndromes from **Chiari malformation, syringomyelia, rheumatoid destruction of upper cervical segments, tumors of foramen magnum/cerebellopontine angle/clivus/posterior fossa**misdiagnosed as MS, clarified by imaging.
+        - **Clinical dictum**: Diagnose MS with caution if all symptoms/signs explained by a **single lesion**.
+        - Chronic progressive MS confused with **hereditary ataxias (spinocerebellar types)**. Distinguished by familial incidence, genetic traits, insidious onset, slow steady progression, relative symmetry, stereotyped pattern. Intact abdominal reflexes, sphincter function, pes cavus, kyphoscoliosis, cardiac disease favor heredodegenerative disorder.
+- **Treatment of MS**:
+    - Historically, major treatments purely addressed symptoms.
+    - **ACTH therapy** (1969) showed faster recovery from acute relapses, later abandoned for glucocorticoids.
+    - **1990s-early 2000s**: Injectable interferon or glatiramer acetate (immunomodulatory polypeptide mixture).
+    - **2006**: IV monoclonal antibody **natalizumab** effective in reducing relapses, but limited by risk of PML.
+    - **2010 onwards**: Oral disease-modifying medications and more monoclonal antibody therapies.
+    - Broad range of options has **transformed clinical course** for most patients: fewer relapses, apparent reduction in chronic disability.
+    - Key: **balancing risks, benefits, adherence, convenience, cost** for individual patient.
+    - Few circumstances mandate immediate disease-modifying treatment; allow time for patient to consider, encourage serial exams/MRI.
+    - Correlation between relapses, ultimate disability, and MRI lesions is not perfect across patients.
+    - National Multiple Sclerosis Society maintains clinical trials list.
+    - **Glucocorticoids**:
+        - Hasten recovery from **acute attack**, including optic neuritis.
+        - Many acute exacerbations fail to respond; benefit not apparent for a month or more after treatment, difficult to distinguish from natural course.
+        - Chronic administration generally **no significant effect on ultimate course or recurrence prevention**.
+        - Study showed monthly IV methylprednisolone over 5 years reduced disability, brain atrophy, and hypodense lesion volume.
+        - Dosage for acute attack: High dose initially more effective (disputed). Randomized trial found no clear advantage of IV vs. oral methylprednisolone for acute relapses (many experts dispute).
+        - ACTH largely abandoned, but newer formulation available.
+        - **Standard acute treatment**: IV methylprednisolone (500-1000 mg daily for 3-5 days) followed by high oral prednisone taper (60-80 mg daily, taper over 12-20 days). Oral methylprednisolone (48mg daily for 1 week, then 24mg, then 12mg) or equivalent prednisone can substitute parenteral.
+        - Brief corticosteroid period has few adverse effects. Patients complain of insomnia, some develop depressive/manic symptoms.
+        - Prolonged oral treatment (>several weeks) carries hypercortisolism risks: Cushing syndrome changes, hypertension, hyperglycemia, osteoporosis, avascular necrosis of femur head, cataracts; less often GI hemorrhage, tuberculosis/pneumocystis activation.
+        - **Plasma exchange** and possibly **immunoglobulin** may have role in fulminant cases. Limited trial showed possible mild benefit of monthly IV immunoglobulin for relapsing-remitting disease.
+        - **Optic Neuritis Treatment Trial cautioned against oral prednisone alone** for acute optic neuritis. IV methylprednisolone followed by oral prednisone hastened visual recovery, but little difference in outcome at 6 months vs. placebo. Oral prednisone alone slightly increased risk of new optic neuritis episodes. Some dispute deleterious effects of oral glucocorticoids, many clinicians consider them equivalent to IV for this disorder.
+    - **Interferon-beta (IFN-#)**:
+        - First main disease-modifying therapies, along with glatiramer. Still used.
+        - Modestly alter natural history of relapsing-remitting MS.
+        - Subcutaneous IFN-#-1b every other day (up to 5 years) decreased frequency/severity of relapses by ~1/3, and number of new/enlarging lesions.
+        - Delayed progression for 9-12 months in secondary progressive MS (European Study Group).
+        - Weekly intramuscular IFN-#-1a similarly effective.
+        - **Antibodies to drug** can develop with longer-term administration. Rate increases with frequency of use (30% daily, 18% alternate-day, <5% weekly). Newer preparations reduce rates. Antibodies may diminish effectiveness.
+        - **Side effects**: modest, mainly flu-like symptoms, sweating, malaise (hours after injection, up to 14h). Reduced by pre-/post-treatment with NSAIDs, abate with continued use. Prednisone can help severe cases. Some patients cannot tolerate.
+        - Migraineurs may complain of headache exacerbation. Tendency to **depression** in susceptible patients; open discussion influenced treatment choice.
+        - Rare: **systemic capillary leak syndrome** in patients with monoclonal gammopathy receiving interferon. Increased liver function enzymes with >weekly use.
+        - CHAMPS study: Weekly interferon in patients with first optic neuritis episode and >=2 MS-compatible MRI lesions showed modest reduction in clinical progression/relapse (37% to 28% over 3 years). Greater difference if further MRI lesions were criterion.
+    - **Glatiramer Copolymer I (glatiramer acetate)**:
+        - Synthesized to mimic MBP (putative autoantigen).
+        - Given daily subcutaneous (20 mg).
+        - **No antibodies develop**, emphasized as advantage.
+        - Patients warned of reaction: flushing, chest tightness, dyspnea, palpitations, severe anxiety.
+        - Injection site reactions occur but rarely troublesome with site rotation.
+        - Trials combining interferon and glatiramer showed no benefit over either alone.
+    - **Monoclonal Antibodies**:
+        - **Natalizumab**: Targets alpha-integrin to block lymphocyte/monocyte adhesion/migration. Used in rheumatoid arthritis, Crohn disease.
+            - Reduced relapses and slowed MRI lesion accumulation.
+            - Double-blind, placebo-controlled study (AFFIRM): 68% reduction in relapses, 80% reduction in new/enlarging T2 lesions, 96% reduction in gadolinium-enhancing lesions on MRI after a year (twofold improvement over interferon/glatiramer). 2% anaphylactic reactions.
+            - Combination with interferon (SENTINEL) suggested better results but terminated early due to **PML cases**.
+            - Advantages: once monthly IV treatment, virtual lack of acute side effects.
+            - **Risk of progressive multifocal leukoencephalopathy (PML)** restricts use. Programs for early PML detection (recovery possible if drug stopped promptly and removed by plasma exchange). Methods to detect infection/predict symptomatic patients imperfect.
+            - Absence of JC virus in urine AND serum antibodies to JC virus makes PML very unlikely (rare cases still possible).
+            - For those with anti-JC virus antibodies, risk depends on **duration of natalizumab use (>24 months)** and **prior/concurrent immunosuppressives** (risk ~11 per 1000 patients with both factors).
+            - Serum JC virus antibody ELISA testing before/during treatment; periodic retesting important.
+            - Plasma exchange to clear natalizumab appeared to reverse PML clinical syndrome and clear JC virus from CSF. Immune reconstitution inflammatory syndrome (IRIS) can occur after plasma exchange, ameliorated by corticosteroids. Survival rate 71% in one series, higher than PML mortality in other circumstances.
+        - **Rituximab**: Murine B-cell-depleting monoclonal antibody targeting CD20 lymphocytes. Effective in reducing relapses and MRI lesion accumulation in relapsing-remitting cases over 4 years. Long-term safety being established.
+        - **Ocrelizumab**: Similar fully humanized anti-CD20 drug, similar effects to rituximab. Indicated for relapsing-remitting MS, tentatively shown some effect on **primary progressive MS**. Risks: opportunistic infection, malignancy.
+        - **Alemtuzumab**: Targets CD-52 antigen on T and B lymphocytes, reducing circulating B cells (and T cells longer). Annual IV administration (5 consecutive days).
+            - Superior to interferon-#-1a in preventing relapses and reducing disability accumulation. Effectiveness confirmed in subsequent trials.
+            - Can produce **idiopathic thrombocytopenic purpura (ITP)** and **autoimmune thyroiditis**(hyper/hypothyroidism). Increased risk of infections and autoimmune conditions.
+    - **Oral Therapies**: Several novel agents available since 2010; many new diagnoses treated with these. Idiosyncratic side effects, but tolerability and ease of adherence are main reasons for preference over injectables.
+        - **Dimethyl fumarate**: Uncertain mode of action, reduces annualized relapse rates by ~1/3 to 1/2. GI side effects, flushing. Effect on MS discovered coincidentally during psoriasis treatment.
+        - **Fingolimod**: Sphingosine-1 phosphate 1 (S1P1) receptor analogue, interferes with lymphocyte egress from lymph nodes.
+            - Significant effect on MRI lesion burden and relapse rate, comparable/superior to injectables.
+            - Approved 0.5 mg daily dose: 54% reduction in relapse rate, 17% reduction in disability progression in 2-year trials.
+            - Systemic side effects relate to S1P1 inactivation in nonneural tissues. Discontinuation required for bradycardia/atrioventricular block, macular edema, herpes infections, melanoma, liver function test elevations (~10%).
+            - Monitored for bradyarrhythmias for 6 hours after first dose. Eye exams for macular edema before and 3 months after initiation.
+        - **Teriflunomide**: Suppresses immune system by inhibiting dihydro-orotate dehydrogenase, suppressing DNA pyrimidine synthesis.
+            - TEMSO trial: 31% reduction in annualized relapse risk, 30% reduction in disability progression.
+            - Serious adverse effects: nasopharyngitis, diarrhea, transaminitis, hair thinning.
+            - **Teratogenic (pregnancy category 4)**, cannot be used in individuals considering pregnancy.
+    - **Other Immunosuppressive Drugs**:
+        - Azathioprine, cyclophosphamide, total lymphoid irradiation, bone marrow transplantation: improved clinical course in small groups.
+        - Risks of prolonged use (neoplastic change, infection) preclude widespread use. British and Dutch Multiple Sclerosis Azathioprine Trial Group found no significant advantage for azathioprine.
+        - For chronic progressive phase: modest delay in disease advance with prednisolone and cyclophosphamide (but serious toxicity). Subsequent studies failed to show benefit for cyclophosphamide in this form, though still used for recalcitrant/severe acute cases.
+        - Weekly low-dose oral methotrexate: slight improvement, some reduction in cerebral lesion volume on MRI. Well tolerated, occasional use.
+        - Mitoxantrone (immunosuppressant/cytotoxic) attracted interest, but limited by cardiotoxicity. Mycophenolate and similar drugs tried with varying success.
+    - **Chronic Cerebrospinal Venous Insufficiency (CCSV)**: Proposed as MS pathogenesis mechanism (impaired drainage leading to venous stasis, perivenular iron deposition, inflammation). Randomized trial of venoplasty for extracranial jugular venous narrowing **failed to yield improvement**.
+    - **General Measures in the Treatment of MS**:
+        - **Fatigue**: Responds to amantadine, modafinil, pemoline, methylphenidate, dextroamphetamine. Donepezil not helpful for cognitive problems.
+        - **4-aminopyridine**: Improves conduction through demyelinated nerve fibers by blocking potassium channels; measurable gait improvements. Pro-convulsant, avoid in seizure risk patients.
+        - **Bladder dysfunction**:
+            - Urinary retention: bethanechol chloride helpful; monitor/reduce residual volume to prevent infection. Intermittent catheterization beneficial for severe dysfunction/retention.
+            - Urinary urgency/frequency (spastic bladder): propantheline, oxybutynin relax detrusor muscle. Best used intermittently.
+        - Severe constipation: stool softeners, enemas.
+        - Sexual dysfunction: sildenafil and similar drugs.
+        - Pain: general pain management principles. Carbamazepine or gabapentin helpful for paroxysmal symptoms (especially truncal extensor spasms).
+        - **Spasticity**: Oral baclofen or tizanidine (dose limited to avoid sedation). Local botulinum toxin injection for severe spastic paralysis/painful flexor spasms. Intrathecal baclofen infusion for severe cases.
+        - **Tremor**: Severe, disabling tremor (unilateral): managed surgically by ventrolateral thalamotomy or implanted stimulator. ~2/3 achieve satisfactory reduction (some series report less reliable results).
+            - Severe postural tremor: improved by isoniazid (300-1200 mg daily) + pyridoxine (100 mg daily). Mechanism unknown; monitor liver tests.
+            - Variable success with carbamazepine or clonazepam.
+        - No valid studies for value of other synthetic polypeptides, hyperbaric oxygen, low-fat/gluten-free diets, linoleate supplementation.
+        - Necessary vaccinations usually not prohibited.
+        - Importance of **understanding and sympathetic physician**. Advances in therapy transformed prognosis. Clinician balances benefits/risks of treatments based on individual course/imaging.
+        - Enlisting **physical/occupational therapists, visiting nurses, social workers** equally important.
+        - Advice needed on daily routine, family, pregnancy, drugs, inoculations.
+        - **Do not introduce "MS" diagnosis until certain**; then qualify with balanced explanation, stressing optimistic aspects. Most patients desire honest appraisal; uncertainty can be worse than actual disability.
+
+### Neuromyelitis Optica (Devic Disease)
+
+- **Characterization**: Simultaneous or successive, usually severe, involvement of **optic nerves and spinal cord**.
+- **Distinction from MS**:
+    - Previously considered MS variant, now distinct clinical, pathologic, immunologic features.
+    - Discovery of **specific circulating autoantibody to aquaporin-4 (AQP4) water channel protein** (Mayo Clinic group) is singular insight.
+    - Anti-AQP4 antibody is **marker for NMO in majority cases**, virtually absent in MS. 76% sensitive, 94% specific. With additional criteria (longitudinally extensive myelopathy, positive antibodies, initial MRI not characteristic of MS): 99% sensitive, 90% specific.
+    - Site of destruction: **astrocyte** rather than oligodendrocyte/myelin extension (as in MS).
+- **Anti-MOG Antibodies**:
+    - Proportion of patients resembling NMO lack AQP4 antibody but have **antibodies to myelin oligodendrocyte glycoprotein (MOG)**.
+    - Anti-MOG antibodies identify native form of MOG glycoprotein (eluded understanding due to denatured form in assays).
+    - Referable mainly to children/young adults, associated with predominantly **monophasic course** or serial monophasic episodes, linking them with ADEM.
+- **Immunological Mechanism**:
+    - Devic process is **humoral**, unlike primarily cellular-immune mechanism proposed for MS.
+    - AQP4 antibody distributed in astrocytic end feet near capillaries, pia, Virchow-Robin spaces in periventricular regions/spinal cord central canal.
+    - NMO-IgG binding to AQP4 causes **astrocytic injury** via antibody-dependent cell-mediated cytotoxicity and complement pathway activation. Attracts inflammatory cells (T/B lymphocytes, macrophages, neutrophils, eosinophils).
+- **Prevalence and Demographics**:
+    - Prevalence: 0.5 to 4.4 cases per 100,000. Relatively rare in US/Europe (50-100 times lower than MS).
+    - In Asian/African descent, prevalence only 2-4 times lower than MS (due to lower MS prevalence).
+    - **3-7 times more common in women** than men.
+    - Male-to-female ratio for anti-MOG disease is approximately equal.
+    - Typical age of onset: ~1 decade later than MS, and later than anti-MOG disease.
+- **Clinical Differences from MS**:
+    - Disease formerly "Asian optic-spinal MS" is almost certainly Devic disease, majority display AQP4 antibody.
+    - Distinctive features from MS:
+        - Predilection for **optic nerves, spinal cord, and particular brain areas** (area postrema, hypothalamus).
+        - **Absence of oligoclonal bands in CSF**.
+        - Tendency to **CSF pleocytosis more so than in MS**.
+        - **Necrotizing and cavitary nature of lesions**, affecting white and gray matter alike, with prominent vessel thickening but minimal inflammatory infiltrates.
+        - **Unusual for MS to involve several contiguous longitudinal spinal cord segments**; frequent in Devic disease.
+    - Clinical effects of severe, destructive lesions in NMO **more likely to be permanent**.
+    - Optic neuritis in NMO: severe vision loss, poor visual recovery, simultaneous/rapidly sequential bilateral involvement, chiasmal lesions, severe retinal nerve fiber layer loss (OCT).
+- **Diagnostic Criteria (NMOSD)**:
+    - Until 2015 revision, definite NMO required optic neuritis and transverse myelitis.
+    - **NMO spectrum disorders (NMOSD)** introduced due to NMO-IgG assay specificity, describing clinically limited forms with NMO-IgG seropositivity.
+    - Updated criteria (2015) reflect NMO-IgG importance.
+    - For **NMO-IgG positivity**: NMO diagnosed with any of six clinical criteria (optic neuritis, transverse myelitis, area postrema syndrome, other brainstem, diencephalic, or large cerebral lesion).
+    - For **not seropositive**: Diagnosis still requires two of three typical features (optic neuritis, extensive transverse myelitis, or area postrema syndrome with vomiting).
+- **Association with Other Diseases**:
+    - Occasionally occurs with **rheumatologic diseases** (Sjögren syndrome, lupus); many have anti-aquaporin antibody (~1/3 in systemic autoimmune disease with Devic features).
+    - Case reports suggest NMOSD may occasionally be a **paraneoplastic immune phenomenon**.
+- **Differential Diagnosis**:
+    - **Progressive and sometimes saltatory subacute necrotic myelopathy without optic neuritis** shares Devic features.
+    - Broader differential: vascular malformations of cord/dura, infarction/neoplasm of cord.
+    - Cord swollen on MRI early, later atrophic (like Devic).
+    - CSF: Up to 50 cells typical, protein elevated (may be normal during stability).
+    - Several, but not all, cases have positive NMO IgG antibodies, supporting alliance with Devic disease.
+- **Treatment**:
+    - No adequate randomized trials, but retrospective/open-label data exist.
+    - Acute exacerbations of confirmed/suspected NMOSD treated promptly with **high-dose intravenous corticosteroids**. Subsequent taper for months considered.
+    - **Plasma exchange (PLEX)** often recommended for severe attacks (concomitantly or immediately after glucocorticoids). Supported by randomized trial and retrospective studies showing better visual outcomes than corticosteroids alone.
+    - **Intravenous immunoglobulin** also appears beneficial (possibly less than PLEX).
+    - **Chronic immunosuppressive treatment** possibly valuable to reduce relapses.
+    - Main agents evaluated: **azathioprine, mycophenolate mofetil, rituximab**. Less common: methotrexate, mitoxantrone, cyclophosphamide.
+    - Accurate NMO diagnosis is important: several MS disease-modifying agents (**interferon-beta, natalizumab, fingolimod**) may have **deleterious effect on relapse rate in NMO patients**.
+    - Course unpredictable; optimal duration of preventative treatment not established.
+
+### Acute Disseminated Encephalomyelitis (ADEM); Postinfectious and Postvaccinal Encephalomyelitis
+
+- **Definition and Pathological Distinction from MS**:
+    - Originally referred to neurologic sequelae of infectious fevers.
+    - Current view: distinguished pathologically by **innumerable foci of demyelination** scattered throughout brain/spinal cord. Lesions vary (miniscule to several mm), invariably **surround small/medium-sized veins**.
+    - Unlike MS (multiple, distinct, well-circumscribed, irregularly distributed, mixed age lesions), ADEM lesions are **diffuse, less distinct margins, generally uniform age**.
+    - Axons and nerve cells remain more or less intact.
+    - Perivenular inflammatory reaction primarily lymphocytes and mononuclear cells; adjacent white matter invaded by monocytes/microglia.
+    - **Multifocal meningeal (pial) infiltration** is a feature of ADEM, not MS.
+    - Except for meningeal infiltration, ADEM histopathologically difficult to distinguish from some acute MS lesions.
+- **Postinfectious Setting and Temporal Course**:
+    - **Main features distinguishing ADEM and MS apart** are postinfectious setting and temporal course.
+    - Monophasic nature questioned: 14 of 40 adults initially diagnosed with ADEM later developed MS (usually within a year).
+    - Larger study (228 patients): 25% had multiphasic course. Relapsing course in adults (especially women) more likely to transition to MS than in children with ADEM. Transition to MS less common in children with typical ADEM.
+- **Incidence and Complications**:
+    - Acute encephalitic, myelitic, or encephalomyelitic process observed in various clinical settings, more common in children.
+    - In children, follows febrile illness by days (infrequently up to 2 weeks); less often in adults.
+    - Originally described: occurred days after measles, rubella, smallpox, chickenpox exanthem.
+    - Prior to widespread measles immunization, clinical neurologic complications in 1 in 800-2,000 cases.
+    - Mortality 10-20%; equal number left with persistent neurologic damage.
+    - Neurologic complications of measles justify immunization. Incidence less after chickenpox/rubella, much less after mumps.
+    - Past: similar illness followed rabies/smallpox vaccination, reportedly tetanus antitoxin.
+    - Now: most cases clinically/pathologically indistinguishable develop after banal respiratory infections, Epstein-Barr, cytomegalovirus, _Mycoplasma pneumoniae_, even HIV. Occasionally no defined preceding illness/inoculation.
+    - Many/most acute transverse myelitis instances may be same postinfectious process.
+    - Neurologic illness may coincide with later stages of infection (parainfectious).
+    - Severe ADEM is grave due to significant neurologic deficits in survivors.
+    - Children: recovery sometimes followed by permanent behavioral disorder, developmental delay, epilepsy (many exceptions in milder disease). Paradoxically, most adults make good recoveries.
+    - Cerebellitis and acute ataxia after chickenpox/other infections are more benign, clearing over months; may be different process.
+- **Pathogenesis**:
+    - Still unclear despite association with preceding viral infections.
+    - Postexanthem cases: interval separates encephalomyelitis onset from rash. Pathologic changes different from viral infections, virus rarely recovered from CSF/brains.
+    - Believed to be **immune-mediated complication of infection**, not direct CNS infection, comparable to Guillain-Barré syndrome.
+    - New molecular techniques detect viral DNA fragments in CSF, so pathogenesis not final. However, pathologic changes in postinfectious demyelination and direct viral infection differ.
+    - **Laboratory model: EAE** (experimental allergic encephalomyelitis) induced by sterile brain tissue + adjuvants. Appears 8-15 days after sensitization. Characterized by same perivenular demyelinating/inflammatory lesions as human disease.
+    - Lesions presumably result of **T-cell-mediated immune reaction** to myelin/oligodendrocyte components.
+    - Evidence of antibody binding, complement activation, eosinophilic infiltration led to notion that **ADEM is a humoral disorder**, in contrast to cellular mechanism proposed for MS (confirmation needed).
+    - Proportion of cases display anti-MOG antibody, but titer drops rapidly after acute attack, making role in pathogenesis uncertain.
+    - EAE and disseminated encephalomyelitis similar pathogenesis: supported by postinfectious encephalomyelitis in measles (Johnson et al.). Early myelin destruction (MBP in CSF), lymphocyte proliferative responses to MBP. Similar responses after rabies vaccine, varicella, rubella infections suggest common immune-mediated pathogenesis.
+    - Postmeasles encephalomyelitis patients lacked intrathecal measles virus antibody synthesis, indicating neurologic disease **not dependent on viral replication in CNS**.
+- **Clinical Features**:
+    - **Encephalitic form**: more fully expressed in children. As acute infection resolves or after latency (days+): abrupt onset (hours/day) of confusion, somnolence, sometimes convulsions with headache, fever, neck stiffness. Ataxia common; myoclonic movements/choreoathetosis less frequent. Severe cases: stupor, coma, decerebrate rigidity rapidly. Milder cases: transient encephalitic illness with headaches, confusion, slight meningeal irritation.
+    - Latency between infection and neurologic symptoms debated (3-4 weeks accepted for postexanthematous, several days more typical). In encephalitic form, new signs may appear for up to 2-3 weeks from onset. Imaging changes may also show delayed/continued evolution. Ataxia most common initial feature in some series.
+    - **Myelitic form (postinfectious myelitis, acute transverse myelitis)**: partial/complete paraplegia or quadriplegia, diminished/lost tendon reflexes, sensory impairment, varying bladder/bowel paralysis. Syndrome simulating anterior spinal artery occlusion (spastic paraplegia, pain sensation loss below trunk level, sparing large-fiber sensibility) not uncommon. Limited sacral form seen. Midline back pain can be prominent at onset.
+    - Both types: slight fever (especially aggressive/younger cases, up to 39.4°C), but peripheral WBC count normal if infection resolved. Some patients had elevated sedimentation rates (unclear if due to precipitating infection). Difficult to separate from MS, especially in children (greater tendency to fever/convulsions with ADEM). Either process can be associated with aseptic meningitis.
+    - **CSF**: slight increase in lymphocytes and protein (variable, can be only protein increase or hundreds of cells).
+    - **MRI**: several bilateral confluent white matter lesions in both cerebral hemispheres early. Large/numerous lesions increase diagnostic certainty. Unclear if single lesion compatible with ADEM.
+    - Delay of several days between clinical manifestations and first MRI changes.
+    - ADEM lesions appear of **similar age**; however, serial MRIs can show new lesion accumulation over several months. New lesions on follow-up imaging correlate with clinical relapse and predict multiphasic ADEM or ultimate MS diagnosis.
+    - **Postexanthem encephalomyelitis**: Syndrome begins 2-4 days after rash appears. Rash fading, other symptoms improving, then sudden recrudescence of fever, convulsions, stupor, coma (typically child). Less commonly: hemiplegia or pure cerebellar syndrome (especially after chickenpox), transverse myelitis, sphincteric disturbance. Choreoathetotic movements infrequent. Optic neuritis uncommon, but occurs.
+    - **Cerebellitis variant**: Possibly related postinfectious encephalomyelitis involving solely/predominantly cerebellum. Mild ataxia with variable corticospinal/other signs appears days after childhood exanthems, or after Epstein-Barr, Mycoplasma, Legionella, cytomegalovirus infections, and some vaccinations/respiratory infections. Close relationship to viruses (especially varicella) suggests some/most cases caused by infectious meningoencephalitis. Others (e.g., after mycoplasmal infection) occur after long latency, show postinfectious demyelination changes. Possible two types of acute cerebellitis: para-/postinfectious and direct infection. Benign nature precludes adequate pathologic examination.
+    - Not all measles/exanthem/acute viral infection complications are postinfectious encephalomyelitis. Difficult to distinguish from viral meningoencephalitis. Infectious mononucleosis, herpes simplex, mycoplasmal infection, other encephalitis forms can mimic postinfectious. Reye syndrome distinguished by normal CSF and high liver enzymes/ammonia.
+    - Large/multifocal white matter damage on MRI also seen in intravascular lymphoma, PML, leukoencephalopathy after heroin vapor inhalation.
+- **Postvaccinal ADEM**:
+    - Severe encephalomyelitis can complicate rabies vaccine injection ("neuroparalytic accident").
+    - Old rabies vaccine (killed virus grown in rabbit brain) caused encephalomyelitis in ~1 in 750 inoculated, ~25% fatal.
+    - Alternative vaccines (duck eggs, human diploid cells) contain little/no nerve tissue, almost free of neurologic complications. Brain-based vaccines still cause neuroparalytic accidents in some countries.
+    - Altered immune mechanism is same as postmeasles encephalomyelitis and EAE.
+    - Old rabies vaccine (neural tissue) induced attacks appearing to be MS: subacute evolution (2-4 weeks), macroscopic demyelinating lesions (1-2 cm), composed of confluent perivenous lesions. Reproducible in dogs, suggesting acute MS form is ADEM variant.
+    - Encephalomyelitis after smallpox vaccination known since 1860 (~1 in 4000 vaccinations); now historical.
+    - Temporal association with vaccination supports diagnosis. Characteristic combination of encephalitic/myelitic features helps distinguish from meningitis, viral encephalitis, poliomyelitis.
+    - Atypical cases may mimic any of these. Occasionally suggests nerve roots/peripheral nerves, resembling acute inflammatory polyneuritis (Guillain-Barré). Rabies vaccine from suckling mouse brain causes peripheral nerve disease more often than encephalomyelitis.
+    - Mundane inoculations (influenza, hepatitis) have very small ADEM rate. No clear connection of MS to vaccination.
+    - Mortality rate of postvaccinal encephalomyelitis historically high (30-50%). Recovery can be surprisingly complete. Significant proportion show residual neurologic signs (seizures, intellectual impairment, behavioral abnormalities).
+- **Treatment**:
+    - **Corticosteroids** given soon after neurologic signs may modify severity of EAE, providing logic for use in humans; no controlled trials. Usually high-dose IV methylprednisolone for 3-5 days.
+    - **Plasma exchange** and **IV immune globulin** apparently successful in some fulminant cases (difficult to affirm).
+
+### Acute Necrotizing Hemorrhagic Encephalomyelitis (Acute Hemorrhagic Leukoencephalitis of Weston Hurst)
+
+- **Description and Severity**: Most fulminant form of demyelinating disease, almost certainly **severe end of ADEM spectrum**. Affects mainly young adults and children.
+- **Clinical Presentation**: Usually preceded by respiratory infection (1-14 days, sometimes _M. pneumoniae_, often mundane/indeterminate cause). Neurologic symptoms abrupt: headache, fever, stiff neck, confusion. Followed rapidly by signs of cerebral hemisphere/brainstem disease: focal seizures, hemi/quadriplegia, pseudobulbar paralysis, deepening coma.
+- **Laboratory and Imaging Findings**:
+    - Peripheral leukocytosis usually present (up to 30,000 cells/mm3); elevated sedimentation rate.
+    - CSF often under increased pressure; cells vary (few lymphocytes to polymorphonuclear pleocytosis up to 3000 cells/mm3); red cells variable; protein increased; glucose normal.
+    - CT/MRI reveal **bilateral but asymmetrical large, confluent, edematous lesions in cerebral white matter**with **myriad punctate hemorrhages** in gray/white matter.
+    - Size, hemorrhagic character, extent of edema distinguish from typical postinfectious ADEM.
+- **Differential Diagnosis**: Brain abscess, subdural empyema, focal embolic encephalomalacia, acute encephalitis (especially HSV-1).
+- **Pathologic Findings**:
+    - Brain sectioning: white matter of one/both hemispheres destroyed (almost liquefaction). Involved tissue pink/yellow-gray, flecked with **multiple petechial hemorrhages**. Similar changes often in brainstem/cerebellar peduncles, likely spinal cord.
+    - Histologic exam: **widespread necrosis of small blood vessels and brain tissue** around vessels, intense cellular infiltration, multiple small hemorrhages, variable meningeal inflammation.
+    - Pathologic picture resembles disseminated encephalomyelitis in perivascular distribution, with added widespread necrosis and large foci.
+    - Vascular lesions result in **fibrin exudation** into vessel wall/tissue.
+    - Possible that severe myelitis cases are this type of necrotizing lesion. Fibrin exudation seen in acute fatal hemorrhagic myelitis.
+- **Etiology and Relation to ADEM**:
+    - Etiology obscure, but resemblance to other inflammatory-demyelinating diseases emphasized.
+    - Similarities of histologic changes to disseminated encephalomyelitis suggest they are related forms of same fundamental process. Cases combining both types described.
+    - Some patients who recovered from typical necrotizing hemorrhagic encephalitis went on to develop typical MS.
+- **Treatment of Hurst Disease**:
+    - **High-dose intravenous corticosteroids** generally used, can produce favorable result.
+    - **Plasma exchange** and **intravenous immunoglobulin** can apparently be successful if instituted early.
+
+### Chronic Lymphocytic Inflammation with Pontine Perivascular Enhancement Responsive to Steroids (CLIPPERS)
+
+- **Description**: Rare neuroinflammatory disorder, **not demyelinative** pathology.
+- **Clinical and Imaging Features**:
+    - First described (2010) in patients with **brainstem dysfunction symptoms/signs**.
+    - Brain MRI showed mostly **symmetrical reticular perivascular contrast enhancement in/around the pons**.
+    - Age range 16-86, 5 women, 3 men.
+    - Evidence of CSF inflammation in all but one case; oligoclonal bands in three.
+- **Pathology**: Brain biopsy in four cases showed **perivascular T cell-predominant lymphocytic infiltrate in white matter**, without demyelination, granulomas, vasculitis, or neoplasia.
+- **Treatment and Pathogenesis**: Corticosteroids and other immunosuppressives resulted in variable responses (resolution to refractory symptoms). Pathogenesis incompletely understood.
+
+### Graft-Versus-Host Disease
+
+- **Neurologic Manifestations**: Brain inflammation relevant to allogeneic bone marrow transplantation. Months or years post-transplant: subacute hemiparesis, seizures, behavioral changes, or ataxia. Can be attributed to PML or other viral processes in immunosuppressed context.
+- **MRI Findings**: White matter lesions conform to **MS-like periventricular orientation** or more confluent leukoencephalopathy. Example: lesions in splenium of corpus callosum extending into centrum semiovale.
+- **Pathologic Features**: Several reports emphasize **mild vasculitis** in white matter lesion territory. Almost all affected patients concurrently have tender erythematous, macular rash typical of acute graft-versus-host disease. Rare neuromuscular complications.
+- **Treatment**:
+    - **Glucocorticoid therapy** is primary treatment. Refractory patients often have poor outcome.
+    - Ruxolitinib (oral JAK1/JAK2 inhibitor) showed improved response, longer duration of response, longer failure-free survival vs. other therapies. Principal adverse effect: thrombocytopenia.
+
+### Autoimmune Encephalitis
+
+- **Description**: Neurologic syndromes from misdirected immune responses to non-tumor-associated and non-infectious antigens.
+- **Incidence and Autoantibodies**:
+    - Overall incidence (paraneoplastic and non-paraneoplastic) similar to infectious encephalitis.
+    - Certain autoantibodies (e.g., NMDA receptor, GABA receptor) found in both paraneoplastic and non-paraneoplastic settings. Others (e.g., LGI1) rarely associated with malignancy.
+    - Can be triggered by immune-modulating therapies (e.g., immune checkpoint inhibitors).
+- **Clinical Presentation**: Subacute onset (<3 months). Wide spectrum of **neuropsychiatric features**: progressive cognitive decline, memory deficits, confusion, behavioral changes.
+- **Associated Symptoms**: Seizures, abnormal movements (orofacial dyskinesias, faciobrachial dystonic seizures, choreoathetosis, myoclonus, exaggerated startle), focal neurologic deficits (aphasia, dysarthria, ataxia), autonomic dysfunction. These have particular antibody associations (e.g., faciobrachial dystonic seizures and LGI1, autonomic dysfunction and NMDA receptor).
+- **Initial Work-up and Diagnosis**:
+    - Exclusion of infectious causes (blood/CSF microbiologic testing) and underlying malignancy (body imaging, CSF cytology/flow cytometry).
+    - Exclusion of other non-autoimmune inflammatory encephalitis causes.
+    - Contrast-enhanced brain MRI to exclude mimics and detect consistent abnormalities.
+    - Determine clinically relevant autoantibodies in serum and CSF (e.g., NMDA receptor, AMPA receptor, GABAA/B receptor, LGI1, GAD, CASPR2, DPPX, IgLON5, mGluR1, glycine receptor, myelin oligodendrocyte glycoprotein).
+    - Test for toxic/metabolic causes of subacute encephalopathy. Consider primary psychiatric etiologies.
+- **Treatment**:
+    - Initiate early due to high morbidity risk.
+    - Expert consensus guidelines available.
+    - For non-infectious/non-paraneoplastic: **trial of high-dose intravenous corticosteroids**. If favorable response, slow taper.
+    - If poor response: **intravenous immunoglobulin or plasma exchange** considered.
+    - If still poor response: **B-cell inactivating agents (e.g., rituximab)** may be helpful.
+    - Refractory cases: monoclonal antibodies targeting IL-6 receptor (e.g., tocilizumab) utilized with promising results.
+- **Prognosis**: Varies widely; early treatment hastens recovery, reduces disability and relapse chance.
