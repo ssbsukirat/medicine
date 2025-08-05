@@ -209,7 +209,7 @@
 - ***“burden of disease”*** --> total volume of T2-weighted signal abnormality shows a significant (albeit weak) ***correlation with clinical disability.***
 - ***Quantitative measures of brain and spinal cord atrophy*** are evidence of diffuse tissue injury and correlate more strongly with measures of disability or progressive MS
 - Approximately one-third of T2-weighted lesions appear as ***hypointense lesions (black holes) on T1-weighted imaging.*** 
-- Black holes may be a marker of irreversible demyelination and axonal loss 
+- Black holes may be a marker of irreversible demyelination and axonal loss
 ## Evoked Potentials 
 - assesses function in afferent (visual, auditory, and somatosensory) or efferent (motor) CNS pathways 
 - use computer averaging to measure CNS electric potentials evoked by repetitive stimulation of selected peripheral nerves or of the brain
