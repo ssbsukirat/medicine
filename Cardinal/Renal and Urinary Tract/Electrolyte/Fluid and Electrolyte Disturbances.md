@@ -389,7 +389,7 @@
     - Reabsorbs filtered K+ in K+-deficient states and secretes K+ in K+-replete states.
     - K+ transported along the entire nephron.
     - **Principal cells of the connecting segment (CNT) and cortical CD play a dominant role in renal K+ secretion**.
-    - Alpha-intercalated cells of the outer medullary CD function in renal tubular reabsorption of filtered K+ in K+-deficient states.
+    - **==Alpha-intercalated cells of the outer medullary CD function in renal tubular reabsorption of filtered K+ in K+-deficient states.==**
     - In principal cells, apical Na+ entry via amiloride-sensitive ENaC generates a lumen-negative potential difference, driving passive K+ exit through apical K+ channels.
     - Two major K+ channels mediate distal tubular K+ secretion: **ROMK** (renal outer medullary K+ channel) mediates bulk of constitutive secretion, while the flow-sensitive **BK (maxi-K) channel** is activated by increased distal flow rate or genetic absence of ROMK.
 - **Relationship between ENaC and Distal K+ Secretion**
