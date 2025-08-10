@@ -177,6 +177,7 @@ Here are notes from the provided chapter, structured with topic headings as top-
     - **Limiting surgery, radioiodine, and subsequent surveillance** for low-risk tumors.
     - **Identifying patients at higher recurrence risk** for more aggressive treatment and monitoring.
 - **Risk Factors**:
+	- ![[riskofmalignancy.png]]
     - **Worse prognosis in older persons (>65 years)**.
     - **Twice as common in women**, but **male gender is associated with a worse prognosis**.
     - Additional important risk factors include: history of **childhood (<18) head or neck irradiation**, evidence for local tumor fixation or gross metastatic lymph node involvement, and presence of distant metastases.
@@ -335,6 +336,7 @@ Here are notes from the provided chapter, structured with topic headings as top-
 
 # Approach to the Patient with Thyroid Nodules
 
+- ![[thyroidnoduleapproach.png]]
 - **Prevalence**: Palpable thyroid nodules found in ~5% of adults; prevalence varies widely.
     - Increased use of diagnostic medical imaging has led to increased incidental nodule detection, accounting for most patients presenting for evaluation.
     - Main goal: Cost-effectively identify the small subgroup of individuals with clinically significant malignant lesions.
@@ -367,7 +369,8 @@ Here are notes from the provided chapter, structured with topic headings as top-
         - **The Bethesda System**: Widely used for uniform terminology in reporting FNA cytology results.
             - Six-tiered classification with estimated malignancy rates.
             - **NIFTP is included in malignancy estimates** as it is diagnosed by surgical pathology.
-            - Indeterminate cytology subcategorized into: atypia or follicular lesion of undetermined significance (**AUS/FLUS**), **follicular neoplasm**, and **suspicious for malignancy**.
+            - Indeterminate cytology subcategorized into: atypia or follicular lesion of undetermined significance (**AUS/FLUS**), **follicular neoplasm**, and **suspicious for malignancy**
+            - ![[fnacclass.png]].
     4. **Post-FNA Management**:
         - **Cytology results indicative of malignancy**: Generally **mandate surgery** after preoperative sonography to evaluate cervical lymph nodes.
         - **Nondiagnostic cytology**: Most often from cystic lesions, fibrous nodules, or very vascular nodules. Ultrasound-guided repeat FNA yields diagnostic cytology in ~50% of cases.
