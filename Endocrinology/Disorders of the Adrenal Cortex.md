@@ -29,7 +29,7 @@ Here are notes from the provided chapter, structured as requested:
 
 - **Glucocorticoid synthesis** is under **inhibitory feedback control** by the hypothalamus and pituitary.
 - **Corticotropin-releasing hormone (CRH)** is released from the hypothalamus in response to stress.
-- CRH stimulates the pituitary to cleave proopiomelanocortin (POMC) by prohormone convertase 1 (PC1), yielding **ACTH**.
+- CRH stimulates the pituitary to cleave proopiomelanocortin (POMC) by prohormone convertase 1 (PC1), yielding **ACTH**.-- 39 AAs 
 - ACTH acts as the **pivotal regulator of adrenal cortisol synthesis**, with additional short-term effects on mineralocorticoid and adrenal androgen synthesis.
 - CRH and ACTH release is **pulsatile** and follows a **circadian rhythm**, controlled by the hypothalamus (specifically the suprachiasmatic nucleus) and cell-specific clock genes.
 - Adrenal cortisol secretion exhibits a distinct circadian rhythm, rising in the early morning, peaking around **8:30 A.M.**, and having low levels in the evening (nadir around midnight).
