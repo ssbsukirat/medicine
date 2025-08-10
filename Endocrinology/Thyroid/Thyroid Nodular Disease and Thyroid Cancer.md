@@ -1,0 +1,387 @@
+Here are notes from the provided chapter, structured with topic headings as top-level headers, subheadings, and bullet points, keeping the information concise and comprehensive, and citing sources appropriately:
+
+# Goiter and Thyroid Nodular Disease
+
+- **Goiter** refers to an **enlarged thyroid gland**.
+    - **Causes**: Biosynthetic defects, iodine deficiency, autoimmune disease, and nodular diseases.
+    - **Mechanisms**:
+        - Biosynthetic defects and iodine deficiency lead to **reduced thyroid hormone synthesis efficiency**, causing **increased TSH** which stimulates thyroid growth.
+        - Graves’ disease goiter results from **TSH-R–mediated effects of thyroid-stimulating immunoglobulins**.
+        - Hashimoto’s thyroiditis goiter occurs due to **acquired defects in hormone synthesis** (leading to elevated TSH) and **lymphocytic infiltration** and immune system–induced growth factors.
+- **Thyroid nodular disease** is characterized by the **disordered growth of thyroid cells** (hyperplastic or neoplastic).
+    - **Multinodular goiter (MNG)**: Thyroid nodules (generally hyperplastic) replace most normal thyroid tissue; more common in areas of borderline iodine deficiency.
+    - Thyroid gland may be normal in size but contain discrete thyroid nodules.
+    - **Management depends on the etiology**, necessitating evaluation to identify the cause of thyroid enlargement.
+    - **Prevalence**: Common, found in about **3–7% of adults by physical examination**; up to **50% of adults by ultrasound** (majority are <1 cm).
+    - Thyroid nodules can be solitary or multiple, and may be functional or nonfunctional.
+
+# Diffuse Nontoxic (Simple) Goiter
+
+- **Definition**: Diffuse enlargement of the thyroid in the **absence of nodules and hyperthyroidism**.
+    - Also called simple goiter (absence of nodules) or colloid goiter (uniform follicles filled with colloid).
+- **Etiology and Pathogenesis**:
+    - **Worldwide**: Most commonly caused by **iodine deficiency**, termed **endemic goiter** if affecting >5% of the population.
+    - **Nonendemic regions**: **Sporadic goiter**, cause usually unknown.
+    - Thyroid enlargement in teenagers is sometimes called **juvenile goiter**.
+    - **More common in women** than men, likely due to higher prevalence of autoimmune disease and increased iodine demands with pregnancy.
+    - In iodine-deficient areas, enlargement is a **compensatory effort to trap iodide** and produce sufficient hormone.
+        - TSH levels are usually normal or slightly increased, suggesting increased sensitivity to TSH or other growth pathways.
+        - Iodide may have direct actions on thyroid vasculature and indirect growth effects through vasoactive substances.
+    - **Environmental goitrogens**: Include cassava root (contains thiocyanate), cruciferous vegetables (e.g., Brussels sprouts, cabbage, cauliflower), and milk from regions with goitrogens in grass.
+    - **Inherited defects in thyroid hormone synthesis** (relatively rare) lead to diffuse nontoxic goiter, affecting steps like iodide transport (NIS), thyroglobulin (Tg) synthesis, organification/coupling (TPO), and iodide regeneration (dehalogenase).
+- **Clinical Manifestations and Diagnosis**:
+    - Most goiters are **asymptomatic if thyroid function is preserved**.
+    - **Examination**: Reveals a **symmetrically enlarged, nontender, generally soft gland without palpable nodules**.
+    - Goiter is defined as a lateral lobe volume greater than the individual's thumb.
+    - **Ultrasound**: Total thyroid volume exceeding 30 mL is considered abnormal.
+    - **Markedly enlarged thyroid**: Can cause **tracheal or esophageal compression**, though unusual without nodular disease and fibrosis.
+    - **Substernal goiter**: May obstruct the thoracic inlet.
+    - **Pemberton’s sign**: Facial and neck congestion due to jugular venous obstruction when arms are raised above the head, indicating thyroid drawn into thoracic inlet.
+    - **Evaluation for obstructive signs**: Respiratory flow measurements, CT or MRI for substernal goiter.
+    - **Thyroid function tests (TFTs)**: Should be performed in all patients to exclude thyrotoxicosis or hypothyroidism.
+        - In iodine deficiency, may find a **low total T4 with normal T3 and TSH** (reflecting enhanced T4 → T3 conversion).
+        - **Subclinical thyrotoxicosis**: Low TSH with normal free T3 and free T4, especially in older patients; suggests thyroid autonomy or undiagnosed Graves’ disease.
+            - Treatment (typically radioiodine) is increasingly recommended in the elderly to reduce risk of atrial fibrillation and bone loss.
+    - **Iodine deficiency diagnosis**: Supported by **low urinary iodine levels (<50 μg/L)**.
+    - **Thyroid scanning**: Generally not necessary, but shows increased uptake in iodine deficiency and most dyshormonogenesis cases.
+- **Treatment**:
+    - **Iodine replacement**: Induces variable regression of goiter in iodine deficiency, depending on duration, hyperplasia, fibrosis, and autonomous function.
+    - **Surgery**: Rarely indicated for diffuse goiter.
+        - **Exceptions**: Documented tracheal compression or obstruction of the thoracic inlet (more likely with substernal MNGs), or cosmetic reasons.
+        - **Procedure**: Subtotal or near-total thyroidectomy, performed by an experienced surgeon.
+        - **Post-surgery**: Followed by **replacement with levothyroxine (LT4)**.
+
+# Nontoxic Multinodular Goiter
+
+- **Etiology and Pathogenesis**:
+    - **Prevalence**: MNG or nodules in a normal-sized thyroid occurs in up to **12% of adults**.
+    - More common in **women** and **increases in prevalence with age**.
+    - More common in **iodine-deficient regions**, but also occurs in iodine-sufficient regions, reflecting multiple genetic, autoimmune, and environmental influences.
+    - **Histology**: Wide variation in nodule size; spectrum from hypercellular/hyperplastic regions to cystic areas filled with colloid; often extensive fibrosis, hemorrhage, or lymphocytic infiltration.
+    - Most nodules within an MNG are **polyclonal in origin** (suggesting a hyperplastic response to locally produced growth factors and cytokines).
+    - TSH, usually not elevated, may play a permissive or contributory role.
+    - Monoclonal neoplastic lesions may also occur due to mutations conferring a selective growth advantage.
+- **Clinical Manifestations**:
+    - Most patients are **asymptomatic and euthyroid**.
+    - Typically develops over many years; detected on routine physical examination, by an individual noticing neck enlargement, or as an incidental imaging finding.
+    - **Compressive symptoms** (difficulty swallowing, respiratory distress/tracheal compression, plethora/venous congestion) are uncommon, usually occurring only with extraordinarily large and/or fibrotic goiters.
+    - **Sudden pain** in an MNG is usually caused by **hemorrhage into a nodule**.
+    - Hoarseness, reflecting laryngeal nerve involvement, may suggest malignancy but is more commonly due to other causes like gastroesophageal reflux.
+- **Diagnosis**:
+    - **Examination**: Thyroid architecture is distorted, with multiple nodules of varying size. Not all nodules may be palpable (deeply embedded, posterior, or substernal).
+    - **Pemberton’s sign**: Suggests increased pressure in the thoracic inlet.
+    - **TSH level**: Should be measured to exclude subclinical hyper- or hypothyroidism, but thyroid function is usually normal.
+    - Tracheal deviation is common, but compression usually must exceed 70% of the tracheal diameter before significant airway compromise.
+    - **Pulmonary function testing**: Can assess functional effects of compression (characteristically causes inspiratory stridor).
+    - **CT or MRI**: Used to evaluate goiter anatomy, substernal extension, or tracheal narrowing.
+    - **Barium swallow**: May reveal extent of esophageal compression.
+    - The **risk of malignancy in MNG is similar to that in solitary nodules**.
+    - **Ultrasonography**: Used to identify which nodules should be biopsied based on a combination of size and sonographic pattern.
+        - **ACR TI-RADS** is a five-tiered system categorizing sonographic appearance of thyroid nodules based on malignancy risk, with recommendations for FNA minimum size cutoffs and follow-up [12, 13A, 13B].
+        - Nodules with **more suspicious sonographic patterns** (e.g., hypoechoic solid nodules with infiltrative borders) are recommended for biopsy at a **lower size cutoff** [11, 13A].
+- **Treatment**:
+    - Most nontoxic MNGs can be managed **conservatively**.
+    - **T4 suppression**: Rarely effective for reducing goiter size and introduces risk of subclinical or overt thyrotoxicosis.
+    - **Avoid contrast agents and other iodine-containing substances** due to risk of inducing Jod-Basedow effect.
+    - **Radioiodine (131I)**: Used when surgery is contraindicated (e.g., in Europe and Brazil where large nodular goiters are prevalent).
+        - Can **decrease MNG volume** and selectively ablate regions of autonomy.
+        - Dosage is about **3.7 MBq (0.1 mCi) per gram of tissue**, corrected for uptake (typical dose 370–1070 MBq [10–29 mCi]).
+        - Repeat treatment may be needed; effectiveness may be increased by concurrent low-dose recombinant TSH.
+        - Can achieve a **40–50% reduction in goiter size** in most patients.
+        - Radiation-induced thyroid swelling and tracheal compression are rare complications. Acute compression may require glucocorticoids or surgery.
+        - Radiation-induced hypothyroidism is less common than after Graves’ disease treatment; post-treatment autoimmune thyrotoxicosis may occur in up to 5%.
+    - **Surgery**: Remains highly effective but carries risks, especially in older patients with underlying cardiopulmonary disease.
+
+# Toxic Multinodular Goiter
+
+- **Pathogenesis**: Similar to nontoxic MNG, but the major difference is the **presence of functional autonomy**.
+    - Molecular basis for autonomy is unknown.
+    - Many nodules are polyclonal, while others are monoclonal.
+    - Activating TSH-R or GSα mutations are **not usually found** in the autonomous regions.
+- **Clinical Presentation**:
+    - Includes features of goiter and **subclinical or mild overt hyperthyroidism**.
+    - Patient is usually **elderly**.
+    - **Symptoms**: Atrial fibrillation or palpitations, tachycardia, nervousness, tremor, or weight loss.
+    - **Recent iodine exposure** (e.g., contrast dyes) may precipitate or exacerbate thyrotoxicosis.
+    - **TSH level is low**.
+    - Uncombined T4 level may be normal or minimally increased; **T3 is often elevated to a greater degree than T4**.
+    - **Thyroid scan**: Shows **heterogeneous uptake** with multiple regions of increased and decreased uptake. 24-h uptake of radioiodine may not be increased but is usually in the upper normal range.
+- **Diagnosis**:
+    - **Ultrasound imaging**: Should be performed prior to definitive treatment to assess for discrete nodules corresponding to areas of decreased uptake ("cold" nodules).
+    - **Fine-needle aspiration (FNA)**: May be indicated for cold nodules based on sonographic patterns and size cutoffs.
+    - Cytology results, if indeterminate or suspicious, may direct therapy to surgery.
+- **Treatment**:
+    - **Antithyroid drugs**: Normalize thyroid function and are particularly useful in elderly or ill patients.
+        - **Spontaneous remission does not occur** (unlike Graves’ disease), so treatment is long term.
+    - **Radioiodine**: Generally the **treatment of choice**; ablates functioning nodules, decreasing goiter mass.
+        - A degree of autonomy may persist, potentially requiring further radioiodine treatment.
+    - **Surgery**: Provides definitive treatment of underlying thyrotoxicosis and goiter.
+        - Patients should be **rendered euthyroid using an antithyroid drug** before operation.
+
+# Hyperfunctioning Solitary Nodule
+
+- **Definition**: A solitary, autonomously functioning thyroid nodule, referred to as **toxic adenoma**.
+- **Pathogenesis**: Most patients have **acquired somatic, activating mutations in the TSH-R** (>90% of cases).
+    - Mutations induce constitutive receptor coupling to GSα, increasing cyclic AMP levels, leading to enhanced thyroid follicular cell proliferation and function.
+    - Less commonly, somatic mutations are identified in GSα, which impair GTP hydrolysis, causing constitutive activation of the cyclic AMP signaling pathway.
+- **Clinical Presentation**:
+    - **Thyrotoxicosis is usually mild**.
+    - Generally detected when a nodule is **>3 cm**.
+    - Suggested by a **subnormal TSH level**, the presence of a palpable thyroid nodule, and absence of clinical features suggesting Graves’ disease or other causes of thyrotoxicosis.
+- **Diagnosis**:
+    - **Thyroid scan**: Provides a **definitive diagnostic test**.
+    - Demonstrates **focal uptake in the hyperfunctioning nodule** and **diminished uptake in the remainder of the gland** (as normal thyroid activity is suppressed).
+- **Treatment**:
+    - **Radioiodine ablation**: Usually the **treatment of choice**.
+        - 131I is concentrated in the hyperfunctioning nodule with minimal uptake and damage to normal thyroid tissue due to suppressed normal thyroid function.
+        - Relatively large doses (370–1110 MBq [10–29.9 mCi] 131I) correct thyrotoxicosis in ~75% of patients within 3 months.
+        - Hypothyroidism occurs in <10% of patients over the next 5 years.
+    - **Surgical resection**: Also effective.
+        - Usually limited to **lobectomy**, preserving thyroid function and minimizing risk of hypoparathyroidism or recurrent laryngeal nerve damage.
+    - **Medical therapy**: Antithyroid drugs and beta blockers can normalize thyroid function but are **not an optimal long-term treatment**.
+    - **Percutaneous radiofrequency ablation**: Successfully used in some centers to ablate hyperfunctioning nodules, and also used to reduce size of nonfunctioning thyroid nodules.
+
+# Benign Lesions
+
+- **Types**: May be **hyperplastic** (mixed macro- and microfollicular architecture) or **neoplastic, encapsulated adenomas** (more monotonous microfollicular pattern).
+    - **Hürthle cell adenoma**: Composed of oncocytic follicular cells in a follicular pattern.
+    - **Hyperplastic nodules**: Generally appear as **mixed cystic/solid or spongiform lesions** on ultrasound.
+        - **Spongiform definition**: Microcystic areas comprising >50% of the nodule volume.
+    - The majority of solid nodules (whether hypo-, iso-, or hyperechoic) are also benign.
+- **Diagnosis**:
+    - **FNA (usually ultrasound-guided)**: The **diagnostic procedure of choice** to evaluate thyroid nodules.
+    - **Pure thyroid cysts**: <1% of all thyroid growths, consist of colloid and are benign.
+        - Frequently recur even after repeated aspiration, and may require surgical excision if large.
+        - **Ethanol ablation**: Successfully used to sclerose symptomatic cysts.
+- **Treatment**:
+    - **TSH suppression with LT4 therapy**: **Does not decrease thyroid nodule size in iodine-sufficient populations**.
+    - If there is relative iodine deficiency, **both iodine and LT4 therapy have been demonstrated to decrease nodule volume**.
+        - If LT4 is administered in this situation, TSH should be maintained at or just below the lower limit of normal, but **not frankly suppressed**.
+        - If the nodule has not decreased in size after 6–12 months, treatment should be discontinued due to unlikely benefit and risk of iatrogenic subclinical thyrotoxicosis.
+
+# Thyroid Cancer
+
+- **General**:
+    - **Most common malignancy of the endocrine system**.
+    - **Differentiated tumors** (papillary thyroid cancer (PTC), follicular thyroid cancer (FTC)): Often **curable**, with good prognosis for early-stage disease.
+    - **Anaplastic thyroid cancer (ATC)**: Aggressive, responds poorly to treatment, associated with a bleak prognosis.
+- **Incidence & Mortality**:
+    - Incidence has **increased significantly** (from 4.9 to >15 cases per 100,000) in the US over 30 years.
+    - **Disease-specific mortality has only minimally increased**.
+    - Increased incidence predominantly attributed to **small T1 papillary cancer tumors (<2 cm)**.
+    - This has led experts to consider **thyroid cancer overdiagnosis**, where cancers unlikely to harm patients are detected.
+    - A **decrease in new thyroid cancer diagnoses** in the US (from 62,450 in 2015 to 52,070 in 2019) correlates with **implementation of evidence-based guidelines recommending higher size thresholds for nodule FNA**.
+    - The 20-year disease-specific mortality for low-risk thyroid cancer is 1%.
+- **Current Trends in Care**:
+    - **Avoiding overdiagnosis** by limiting FNA through sonographic risk stratification with size cutoffs.
+    - **Limiting surgery, radioiodine, and subsequent surveillance** for low-risk tumors.
+    - **Identifying patients at higher recurrence risk** for more aggressive treatment and monitoring.
+- **Risk Factors**:
+    - **Worse prognosis in older persons (>65 years)**.
+    - **Twice as common in women**, but **male gender is associated with a worse prognosis**.
+    - Additional important risk factors include: history of **childhood (<18) head or neck irradiation**, evidence for local tumor fixation or gross metastatic lymph node involvement, and presence of distant metastases.
+- **Unique Management Features**:
+    - Thyroid nodules are **amenable to biopsy by FNA**.
+    - **Iodine radioisotopes** (123I and 131I) can be used to diagnose and potentially treat differentiated thyroid cancer due to the thyroid gland's unique uptake of this anion.
+    - **Serum markers** (Tg levels for PTC and FTC, calcitonin for medullary thyroid cancer (MTC)) allow detection of residual or recurrent disease.
+- **Classification**:
+    - Thyroid neoplasms can arise in follicular cells, calcitonin-producing C cells, lymphocytes, stromal and vascular elements, and from metastases.
+    - The **American Joint Committee on Cancer (AJCC) staging system using the tumor, node, metastasis (TNM) classification** is most commonly used.
+- **Pathogenesis and Genetic Basis**:
+    - **Radiation**: External radiation predisposes to chromosomal breaks, leading to genetic rearrangements and loss of tumor-suppressor genes.
+        - Historically administered to treat conditions like acne and enlarged thymus/tonsils/adenoids.
+        - Increases risk of benign and malignant thyroid nodules, associated with multicentric cancers, and shifts cancer incidence to an earlier age.
+        - Radiation from nuclear fallout also increases risk. Children seem more predisposed to radiation effects than adults.
+    - **TSH and Growth Factors**:
+        - Many differentiated thyroid cancers express TSH receptors and remain responsive to TSH.
+        - **Higher serum TSH levels (even within normal range) are associated with increased thyroid cancer risk** in patients with thyroid nodules, providing rationale for T4 suppression.
+        - Residual TSH receptor expression allows TSH-stimulated uptake of 131I therapy.
+    - **Oncogenes and Tumor-Suppressor Genes**:
+        - Thyroid cancers are **monoclonal in origin**, consistent with originating from mutations that confer a growth advantage to a single cell.
+        - Some cancers exhibit impaired apoptosis and features enhancing invasion, angiogenesis, and metastasis.
+        - **RET/PTC and PAX8-PPARγ1 rearrangements** are relatively specific for thyroid neoplasia.
+        - Activating mutations of TSH-R and GSα subunit are associated with autonomously functioning nodules, which are almost always benign as they drive differentiation pathways.
+        - **Activation of the RET-RAS-BRAF signaling pathway is seen in up to 70% of PTCs**.
+            - **RET rearrangements** (20–40% of PTCs) involve the RET gene coming under control of other promoters, leading to receptor overexpression. Increased frequency seen after Chernobyl.
+            - Rearrangements in TRK1 (another tyrosine kinase gene) also occur.
+            - **BRAF V600E mutations** appear to be the **most common genetic alteration in PTC**, activating the kinase and stimulating the MAPK cascade.
+            - **RAS mutations** (NRAS > HRAS > KRAS) are found in ~20–30% of thyroid neoplasms (including PTC follicular variant and FTC), also stimulating the MAPK cascade.
+            - Simultaneous RET, BRAF, and RAS mutations rarely occur in the same tumor, suggesting MAPK cascade activation is critical regardless of the initiating step.
+        - **Follicular Cancers**: RAS mutations occur, and a rearrangement of PAX8 with PPARγ is identified in a significant fraction of FTCs. Overall, ~70% of follicular cancers have mutations or genetic rearrangements. Loss of heterozygosity of 3p or 11q is also common.
+        - **Anaplastic Thyroid Cancer (ATC)**: Most mutations seen in differentiated thyroid cancers are also detected in ATCs.
+            - **TERT promoter mutations** are more common in ATC than differentiated PTCs.
+            - **BRAF mutations** are seen in up to 50% of ATCs.
+            - **CTNNB1 mutations** (encodes β-catenin) occur in about two-thirds of ATCs, but not PTC or FTC.
+            - **Mutations of the tumor-suppressor P53** play an important role in ATC development, contributing to rapid genetic instability and poor treatment responses.
+        - **Molecular Diagnostics**: Under investigation for clinical management.
+            - Analyses of specific mutations might aid in classification, prognosis, or treatment choice.
+            - BRAF V600E mutations are associated with loss of iodine uptake by tumor cells.
+            - Trials of multikinase pathway inhibitors are ongoing to restore iodine uptake and enhance sensitivity to radioiodine treatment.
+            - Higher recurrence rates have been variably reported in patients with BRAF-positive PTC, but impact on survival is unclear.
+        - **Medullary Thyroid Carcinoma (MTC)**: When associated with multiple endocrine neoplasia (MEN) type 2, MTC harbors an **inherited mutation of the RET gene** (point mutations inducing constitutive tyrosine kinase activity, unlike RET rearrangements in PTC). A subset of sporadic MTC contains somatic activating RET mutations.
+
+# Well-Differentiated Thyroid Cancer
+
+- **Papillary Thyroid Cancer (PTC)**:
+    - The **most common type of thyroid cancer**, accounting for 80–85% of well-differentiated thyroid malignancies.
+    - Microscopic PTC is present in up to 25% of thyroid glands at autopsy, but most are very small and not clinically significant.
+    - **Characteristic cytologic features** for diagnosis by FNA or surgical resection include: **large, clear nuclei with powdery chromatin** ("orphan Annie eye" appearance), **nuclear grooves**, and **prominent nucleoli**.
+    - Histologic types include classic (papillary structures) and follicular (follicles) variants.
+    - **Subtypes**:
+        - **Classic and follicular variants**: Likely to have an indolent course without angioinvasion or metastatic adenopathy.
+        - **Aggressive variants** (tall cell, columnar cell, hobnail, poorly differentiated): Require more intensive therapy and closer follow-up.
+        - **Noninvasive follicular thyroid neoplasm with papillary-like nuclear features (NIFTP)**: Formerly encapsulated PTC follicular variant without invasion, now no longer considered malignant.
+    - **Spread**: May be multifocal, invade locally within the thyroid gland, and through the thyroid capsule into adjacent neck structures.
+        - Has a propensity to spread via the **lymphatic system** but can also metastasize **hematogenously**(particularly to bone and lung).
+        - Slow growth allows significant pulmonary metastases to accumulate with few symptoms.
+    - **Lymph node spread prognostic implication**:
+        - **Micrometastases** (<2 mm cancer in a lymph node) **do not affect prognosis**.
+        - **Gross metastatic involvement** of multiple 2- to 3-cm lymph nodes indicates a 25–30% chance of recurrence and may increase mortality in older patients.
+    - **Staging**: Most papillary cancers are identified in early stages (>95% stages I or II) and have an excellent prognosis. Mortality is markedly increased in stage IV disease (especially with distant metastases, stage IVB), but this group comprises only about 1% of patients.
+- **Follicular Thyroid Cancer (FTC)**:
+    - Incidence varies widely globally; more common in iodine-deficient regions.
+    - Currently accounts for about **5% of all thyroid cancers diagnosed in the United States**.
+    - **Difficult to diagnose by FNA** because distinction between benign and malignant follicular neoplasms requires histology (nuclear features do not differ).
+    - Diagnosed by the **presence of capsular and/or vascular invasion**.
+    - **Prognosis**:
+        - Follicular carcinomas with only capsular invasion have a very low risk of metastasis, and lobectomy alone suffices.
+        - **Angioinvasive FTC**: More aggressive; may metastasize to bone, lung, and the central nervous system.
+        - Mortality rates less favorable than for PTC, partly because a larger proportion of patients present with stage IV disease.
+        - **Poor prognostic features**: Distant metastases, age >55 years, primary tumor size >4 cm, and marked vascular invasion.
+- **Treatment: Surgery for Well-Differentiated Thyroid Cancer**:
+    - All well-differentiated thyroid cancers **>1 cm (T1b or larger) should be surgically excised**.
+    - **Active surveillance** is an option for small intrathyroidal micropapillary thyroid cancers (T1a) without metastases.
+    - Surgery allows accurate histologic diagnosis and staging.
+    - For patients with intrathyroidal cancers >1 cm and <4 cm (T1b and T2 tumors) without metastatic disease, the initial surgical procedure may be either a **unilateral (lobectomy) or bilateral (near-total thyroidectomy)** procedure.
+    - For patients at high risk for recurrence, bilateral surgery allows radioiodine for remnant ablation and treatment of iodine-avid metastases, as well as monitoring of serum Tg levels.
+    - **Near-total thyroidectomy** is appropriate for tumors **>4 cm**, or in the presence of **metastases**, or **clinical evidence of extrathyroidal invasion**.
+    - **Completion surgery** should be performed for patients found to have a high-risk tumor after lobectomy (e.g., vascular invasion or less differentiated subtype).
+    - Surgical complication rates are acceptably low with experienced surgeons.
+    - **Preoperative sonography** should be performed to assess cervical lymph nodes for suspicious adenopathy, which if present, should undergo FNA and be removed at surgery.
+- **TSH Suppression Therapy**:
+    - **LT4 suppression of TSH is a mainstay of thyroid cancer treatment** because most tumors are still TSH-responsive.
+    - The degree of TSH suppression should be **individualized based on a patient’s risk of recurrence** and adjusted over time.
+    - **Target TSH levels**:
+        - **Low-risk recurrence**: Maintained in the **lower normal limit (0.5–2.0 mIU/L)**.
+        - **Intermediate or high risk of recurrence**: Kept to **0.1–0.5 mIU/L** and **<0.1 mIU/L**, respectively (if no strong contraindications to mild thyrotoxicosis).
+        - **Known metastatic disease**: Should be **<0.1 mIU/L**.
+- **Radioiodine Treatment (131I)**:
+    - After near-total thyroidectomy, <1 g of thyroid tissue remains.
+    - **Postsurgical radioablation** eliminates residual normal thyroid, facilitating Tg determinations.
+    - Well-differentiated thyroid cancer often incorporates radioiodine, though less efficiently than normal thyroid follicular cells.
+    - Radioiodine uptake is primarily determined by **NIS expression** and stimulated by **TSH** (requiring TSH-R expression).
+    - For patients at higher risk of recurrence and those with known distant metastatic disease, 131I therapy may provide an adjuvant role and potentially treat residual tumor cells.
+    - **Indications**:
+        - **No improvement in recurrence or survival rates** for stage I patients with T1 tumors (≤2 cm) confined to the thyroid.
+        - **No benefit demonstrated** for larger (>2 cm but <4 cm) low-risk tumors.
+        - **Reduces recurrence and may increase survival for older patients** in higher-risk patients (larger tumors, more aggressive variants, tumor vascular invasion, extrathyroidal invasion, large-volume lymph node metastases).
+    - **131I Thyroid Ablation and Treatment**:
+        - More effective when there is minimal remaining normal thyroid tissue.
+        - Administered after **iodine depletion** (low-iodine diet for 1–2 weeks) and with **elevated serum TSH levels** (>25 mIU/L).
+        - **Two approaches to achieve high TSH**:
+            - **Thyroid hormone withdrawal**: Patient withdrawn from thyroid hormone (e.g., after several weeks of liothyronine) for 2 weeks to allow endogenous TSH secretion.
+            - **Recombinant human TSH (rhTSH)**: Administered as two daily consecutive injections (0.9 mg), with 131I given 24 h after the second injection (patient can continue LT4 and remain euthyroid).
+        - Both approaches are equally successful for remnant ablation.
+        - **Pretreatment scanning**: A scanning dose of 131I (111 MBq [3 mCi]) or 123I (74 MBq [2 mCi]) can reveal residual tissue and guide dose.
+            - Trend to **avoid 131I pretreatment scanning** due to concerns about "radioactive stunning" (impairs subsequent treatment); 123I is preferred or proceed directly to ablation, unless the amount of residual tissue or suspected distant metastatic disease warrants it.
+        - **Administered dose**: Outpatient doses up to 6475 MBq (175 mCi) are possible.
+            - Lower doses (1100 MBq [30 mCi]) for remnant ablation.
+            - Higher doses (up to 5500 MBq [150 mCi]) for adjuvant therapy when residual disease is suspected or present.
+        - **Whole-body scanning (WBS)**: Performed after radioiodine treatment to confirm 131I uptake in the remnant and identify possible metastatic disease.
+- **Surveillance Testing**:
+    - **Serum thyroglobulin (Tg)**: A **sensitive marker of residual/recurrent thyroid cancer** after ablation. Current Tg assays have functional sensitivities as low as 0.1 ng/mL.
+    - **Neck ultrasound**: Should be performed about 6 months after thyroid ablation; shown to be **more sensitive than WBS** for cervical lymph node recurrences.
+    - For **low-risk patients** with no clinical evidence of residual disease after ablation, negative cervical sonography, and a basal Tg <0.2 ng/mL on LT4, the risk of structural recurrence is <3% at 5 years, allowing decreased follow-up frequency (annual TSH and Tg, periodic ultrasound).
+    - **WBS is reserved for patients with known iodine-avid metastases** or those with elevated serum Tg levels but negative imaging from ultrasound, chest CT, neck cross-sectional imaging, and PET CT, who may require additional 131I therapy.
+- **New Potential Therapies**:
+    - **External beam radiotherapy**: Used to treat gross residual neck disease or specific metastatic lesions (especially for bone pain or threatened neurologic injury).
+    - **Kinase inhibitors**: Target pathways active in thyroid cancer (RAS, BRAF, RET, EGFR, VEGFR, angiogenesis).
+        - Shown to **stabilize progressive metastatic disease refractory to radioiodine therapy**.
+        - Only one study has demonstrated improved survival.
+        - Significant associated toxicities and need for ongoing therapy necessitate critical patient selection.
+        - ATA guidelines recommend **active surveillance for asymptomatic metastatic tumors between 1 and 2 cm**, with intervention as tumor growth rate increases.
+        - **Mutation-selective kinase inhibitors** are being used based on genetic analyses of metastases.
+        - Ongoing trials explore **differentiation protocols** (targeting MAPK pathway) to enhance radioiodine uptake and efficacy.
+
+# Anaplastic and Other Forms of Thyroid Cancer
+
+- **Anaplastic Thyroid Cancer (ATC)**:
+    - A **poorly differentiated and aggressive cancer**.
+    - **Prognosis is poor**, most patients die within 6 months of diagnosis.
+    - **Radioiodine uptake is usually negligible** due to the undifferentiated state, but can be used therapeutically if residual uptake.
+    - **Chemotherapy**: Attempted with multiple agents (e.g., anthracyclines, paclitaxel), but usually ineffective.
+    - **External beam radiation therapy**: Can be attempted and continued if tumors are responsive.
+    - Both multitargeted and mutation-directed kinase inhibitors are in clinical trials and may prolong survival by a few months.
+- **Thyroid Lymphoma**:
+    - Often arises in the background of **Hashimoto’s thyroiditis**.
+    - A **rapidly expanding thyroid mass** suggests this diagnosis.
+    - **Diffuse large-cell lymphoma** is the most common type in the thyroid.
+    - Biopsies reveal sheets of lymphoid cells, difficult to distinguish from small-cell lung cancer or ATC.
+    - These tumors are often **highly sensitive to external radiation**.
+    - **Surgical resection should be avoided as initial therapy** as it may spread disease otherwise localized to the thyroid.
+    - If staging indicates disease outside the thyroid, treatment should follow guidelines for other forms of lymphoma.
+
+# Medullary Thyroid Carcinoma
+
+- **Forms**: Can be sporadic or familial, accounting for ~5% of thyroid cancers.
+    - Three familial forms: MEN 2A, MEN 2B, and familial MTC without other MEN features.
+    - Generally, MTC is **more aggressive in MEN 2B than in MEN 2A**, and **familial MTC is more aggressive than sporadic MTC**.
+- **Marker**: **Elevated serum calcitonin** provides a marker of residual or recurrent disease.
+- **Genetics**: All patients with MTC should be **tested for RET mutations** to offer genetic counseling and testing to family members.
+- **Management**: Primarily **surgical**.
+    - Prior to surgery, **pheochromocytoma should be excluded in all patients with a RET mutation**.
+    - Unlike tumors from thyroid follicular cells, MTC **does not take up radioiodine**.
+    - External radiation treatment and targeted kinase inhibitors may provide palliation in patients with advanced disease.
+
+# Approach to the Patient with Thyroid Nodules
+
+- **Prevalence**: Palpable thyroid nodules found in ~5% of adults; prevalence varies widely.
+    - Increased use of diagnostic medical imaging has led to increased incidental nodule detection, accounting for most patients presenting for evaluation.
+    - Main goal: Cost-effectively identify the small subgroup of individuals with clinically significant malignant lesions.
+    - More common in **iodine-deficient areas, in women, and with aging**.
+    - Most palpable nodules are >1 cm; palpability is influenced by location, neck anatomy, and examiner experience.
+    - More sensitive methods (CT, ultrasound, pathologic studies) reveal nodules in up to 50% of glands in individuals >50 years old.
+- **Evaluation (Fig. 385-5)**:
+    1. **Thyroid Function Assessment**:
+        - Most patients have normal thyroid function tests.
+        - **Measure TSH level**. If TSH is suppressed, a **radionuclide scan** is indicated to determine if the nodule is "hot".
+            - **Hot lesions are almost never malignant, and FNA is unnecessary**.
+    2. **Thyroid Ultrasound (if TSH not suppressed)**:
+        - Confirms if a palpable nodule is indeed a nodule (~15% are not confirmed).
+        - Assesses for additional nonpalpable nodules for which FNA may be recommended.
+        - Characterizes the imaging pattern of the nodule, which, combined with size, facilitates FNA decision-making.
+        - **Validated Risk Stratification Systems (RSS)**: Such as ACR TI-RADS (most widely used in the US), ATA, EU-TIRADS, demonstrate consistent risk estimates based on sonographic patterns.
+            - All RSSs provide **size cutoff recommendations for nodule FNA**, with lower cutoffs for more suspicious patterns.
+            - RSSs with lower cutoffs have higher sensitivity and lower specificity for thyroid cancer.
+            - All have been shown to reduce unnecessary FNAs by at least 45%, partly by recommending against FNA for spongiform nodules.
+            - **ACR TI-RADS**: Classifies nodules from TR1 to TR5.
+                - A **spongiform nodule (TR1)** has a **<3% chance of cancer**, and observation is generally recommended [52, 13B].
+                - **Solid hypoechoic nodules with smooth borders (TR4)**: 10–20% are malignant, FNA recommended at 1–1.5 cm.
+                - For the **highest suspicion pattern nodule (TR5)**, all RSSs recommend FNA at 1 cm [52, 13A].
+        - None of the RSSs recommend FNA for any nodule **<1 cm unless metastatic cervical lymph nodes are present**, given the prevalence and indolent behavior of small thyroid cancers.
+    3. **FNA Biopsy**:
+        - Ideally performed with **ultrasound guidance**, is the **best diagnostic test** when performed by experienced physicians and interpreted by experienced cytopathologists.
+        - Particularly useful for detecting PTC.
+        - Distinction between benign and malignant follicular patterned lesions is often not possible by cytology alone due to lack of characteristic nuclear features.
+        - **Cytology diagnoses using current RSS**: 55–60% benign, 5% malignant or suspicious for malignancy, 5–7% nondiagnostic or insufficient, and 25–30% indeterminate.
+        - **The Bethesda System**: Widely used for uniform terminology in reporting FNA cytology results.
+            - Six-tiered classification with estimated malignancy rates.
+            - **NIFTP is included in malignancy estimates** as it is diagnosed by surgical pathology.
+            - Indeterminate cytology subcategorized into: atypia or follicular lesion of undetermined significance (**AUS/FLUS**), **follicular neoplasm**, and **suspicious for malignancy**.
+    4. **Post-FNA Management**:
+        - **Cytology results indicative of malignancy**: Generally **mandate surgery** after preoperative sonography to evaluate cervical lymph nodes.
+        - **Nondiagnostic cytology**: Most often from cystic lesions, fibrous nodules, or very vascular nodules. Ultrasound-guided repeat FNA yields diagnostic cytology in ~50% of cases.
+        - **Benign nodules with low suspicion sonographic pattern (TR2, TR3)** can be followed due to a low false-negative rate (<3%). Those with more worrisome features (especially TR5) should undergo repeat FNA due to higher likelihood of missed malignancy.
+        - **LT4 to suppress serum TSH is not effective in shrinking nodules in iodine-replete populations** and should not be used.
+        - **Indeterminate cytology (AUS/FLUS and follicular neoplasm)**:
+            - Majority are benign; malignancy risk (ROM) varies from 10–40%.
+            - Traditional approach: **Diagnostic lobectomy**.
+            - **Molecular testing**: Developed to better differentiate benign from malignant nodules, aiming to reduce unnecessary surgeries.
+                - Validated tests combine next-generation sequencing and microRNA/gene expression analyses.
+                - Goals: Risk stratification (positive result) and reduction in cancer risk to an acceptable level for nonsurgical surveillance (negative result).
+                - Negative predictive values for validated tests are >95% (assuming 25–30% ROM for indeterminate cytology).
+        - **Nodules with suspicious for malignancy cytology**: **Surgery is recommended** after ultrasound assessment of cervical lymph nodes, with options including lobectomy versus total thyroidectomy.
+- **Patient Communication**:
+    - Evaluation is stressful for patients due to cancer possibility.
+    - Review the diagnostic approach and reassure patients when no malignancy is found.
+    - When a suspicious lesion or thyroid cancer is identified, the generally favorable prognosis and available treatment options can be reassuring.
