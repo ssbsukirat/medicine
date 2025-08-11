@@ -1,75 +1,232 @@
-- Dementia is defined as an acquired d ration in cognitive abilities that impairs the successful performance of activities of daily living
-- Episodic memory, the ability to recall events specific in time and place, is the cognitive function most commonly lost;
-# functional anatomy
-- Behavior, mood, and attention are modulated by ascending noradrenergic, serotonergic, and dopaminergic pathways,
-- cholinergic signaling is critical for attention and memory functions
-- AD typically begins in the entorhinal region of the medial temporal lobe, —> hippocampus and other limbic structures, —> basal temporal areas —> lateral and posterior temporal and parietal neocortex, —> widespread degeneration.
-- AD typically presents with episodic memory loss accompanied later by aphasia, executive dysfunction, or navigational problems 
-- dementias that begin in frontal or subcortical regions, such as FTD or HD, are less likely to begin with memory problems and more likely to present with difficulties with judgment, mood, executive control, movement, and behavior
-- caudate or dorsolateral prefrontal cortex, or their connecting white matter pathways, may result in executive dysfunction, manifesting as poor organization and planning, decreased cognitive flexibility, and impaired working memory.
-- lateral orbital frontal cortex connects with the v dial caudate, and lesions of this system cause impulsiveness, distractibility, and disinhibition
-- anterior cingulate cortex and adjacent medial prefrontal cortex project to the nucleus accumbens, and interruption of this system produces apathy, poverty of speech, emotional blunting, or even akinetic mutism
-# causes of dementia
-- strongest risk factor for dementia is increasing age
-- ![[Dementiadifferentials.png]]
-- Vascular disease is the second most frequent cause for dementia and is particularly common in elderly patients
-- Limbic-predominant aging-related TDP-43 encephalopathy (LATE) is common after age 70 and has been linked to declining episodic memory function.
-- Chronic traumatic encephalopathy (CTE), individuals with a history of repetitive head impacts (e.g., professional athletes in collision or fighting sports, military veterans exposed to multiple blasts), presents with changes in cognition, mood, behavior, or motor function
-- three most common potentially reversible diagnoses were ***depression, normal pressure hydrocephalus (NPH), and alcohol dependence***
-- ***rapidly progressive dementia (RPD)*** is applied to illnesses that progress from initial symptom onset to dementia within a year or less; confusional states related to toxic/metabolic conditions are excluded.
-- Subtle cumulative decline in episodic memory referred to as ***benign forgetfulness of the elderly***
-- subjective cognitive decline describes individuals who experience a subjective decline from their cognitive baseline but perform within normal limits for their age and educational attainment on formal neuropsychological testing
-- Mild cognitive impairment (MCI) is defined as a decline in cognition that is confirmed on objective cognitive testing but ***does not disrupt normal daily activities*** 
-- Predictors of MPI to AD 
-    - prominent memory deficit, 
-    - family history of dementia,
-    - presence of an apolipoprotein ε4 (Apo ε4) allele, 
-    - small hippocampal volumes,
-    - an AD-like signature of cortical atrophy, 
-    - low cerebrospinal fluid Aβ and elevated tau, or 
-    - evidence of brain amyloid and tau deposition on positron emission tomography (PET) imaging
-- degenerative dementias include 
-    - AD, Aβ42 and tau 
-    - DLB, α-synuclein
-    - FTD and related disorders,  accumulate tau, TAR DNA-binding protein of 43 kDa (TDP-43), or the FET family of proteins (fused in sarcoma (FUS), Ewing sarcoma (EWS) and TBP-associated factor 15 (TAF15)
-    - HD huntingtin
-    - prion diseases, including CJD misfolded prion protein (PrPsc) in CJD
-- Modifiable risk factors 
-    - low education, 
-    - hearing loss, 
-    - traumatic brain injury, 
-    - hypertension, 
-    - diabetes mellitus, 
-    - obesity, 
-    - heavy alcohol use, 
-    - smoking, 
-    - depression, 
-    - physical inactivity,
-    - air pollution
-# Approach  to [[Dementia]] 
-- 3 things 
-	- What is the clinical diagnosis? 
-	- What component of the dementia syndrome is treatable or reversible?
-	- Can the physician help to alleviate the burden on caregivers?
-- ![[dementiapproach.png]]
-## History 
-- concentrate on the onset, duration, and tempo of progression 
-- acute or subacute onset of confusion may be due to delirium and should trigger a search for intoxication, infection, or metabolic derangement
-- elderly person with slowly progressive memory loss over several years is likely AD
-- Personality change, disinhibition, and weight gain or compulsive eating suggest FTD, not AD 
-- DLB is suggested by early visual hallucinations; parkinsonism; proneness to delirium or sensitivity to psychoactive medications; rapid eye movement (REM) behavior disorder (RBD; dramatic, sometimes violent, limb movements during dreaming); or Capgras syndrome, the delusion that a familiar person has been replaced by an impostor.
-- stroke with irregular stepwise progression suggests vascular dementia
-- Vascular dementia is also commonly seen in the setting of hypertension, atrial fibrillation, peripheral vascular disease, smoking, and diabetes
-- Rapid progression with motor rigidity and myoclonus suggests CJD 
-- ![[dementiadifferences.png]]
-- Autoimmune [[Dementia]] includes 
-	- leucine-rich glioma-inactivated 1 (LGI1; faciobrachial dystonic seizures); 
-	- contactin-associated protein-like 2 (Caspr2; insomnia, ataxia, myotonia);
-	- N-methyl-d-aspartate (NMDA)-receptor (psychosis, insomnia, dyskinesias)
-	- α-amino-3-hydroxy-5- methylisoxazole-4-propionic acid (AMPA)-receptor (limbic enceph- alitis with relapses)
-## Physical and Neurological examination 
-- AD spares motor systems until late in the course. 
-- FTD often develop axial rigidity, supranuclear gaze palsy, or a motor neuron disease reminiscent of amyotrophic lateral sclerosis (ALS).
-- In DLB, the initial symptoms may include a parkinsonian syndrome (resting tremor, cogwheel rigidity, bradykinesia, festinating gait), but DLB often starts with visual hallucinations or cognitive impairment, and symptoms referable to the lower brainstem (RBD, gastrointestinal, or autonomic problems) may arise years or even decades before parkinsonism or dementia
-## Cognitive and neuropsychiatric examn 
-- 
+Here are notes from the provided chapter:
+Dementia is defined as an acquired deterioration in cognitive abilities that impairs the successful performance of activities of daily living
+
+Episodic memory, the ability to recall events specific in time and place, is the cognitive function most commonly lost; 10% of persons age >70 years and 20–40% of individuals age >85 years have clinically identifiable memory loss. In addition to memory, dementia may erode other mental faculties, including language, visuospatial, praxis, calculation, judgment, and problem-solving abilities. Neuropsychiatric and social deficits also arise in many dementia syndromes, manifesting as depression, apathy, anxiety, hallucinations, delusions, agitation, insomnia, sleep disturbances, compulsions, or disinhibition
+
+
+# FUNCTIONAL ANATOMY OF THE DEMENTIAS
+
+- Dementia syndromes result from the **disruption of specific large-scale neuronal networks**.
+- The clinical features are produced by the **location and severity of synaptic and neuronal loss**.
+- **Neurotransmitter pathways modulate**:
+    - **Behavior, mood, and attention** by ascending noradrenergic, serotonergic, and dopaminergic pathways.
+    - **Attention and memory functions** by cholinergic signaling.
+- Differences in neurotransmitter deficit profiles among dementias guide pharmacologic therapy.
+- **Anatomical progression and presentation of specific dementias**:
+    - **Alzheimer's Disease (AD)**:
+        - Typically begins in the **entorhinal region of the medial temporal lobe**.
+        - Spreads to the **hippocampus, other limbic structures, basal temporal areas, lateral and posterior temporal and parietal neocortex**, eventually causing widespread degeneration.
+        - Presents with **episodic memory loss**, later accompanied by aphasia, executive dysfunction, or navigational problems.
+    - **Vascular dementia**: Associated with **focal damage in cortical and subcortical regions or white matter tracts** that disconnect nodes within networks.
+    - **Frontotemporal Dementia (FTD) or Huntington's Disease (HD)**:
+        - Begin in **frontal or subcortical regions**.
+        - Less likely to begin with memory problems.
+        - More likely to present with **difficulties with judgment, mood, executive control, movement, and behavior**.
+- **Lesions of frontal-striatal pathways** (striatum includes caudate, putamen, nucleus accumbens):
+    - **Dorsolateral prefrontal cortex** (or connections to central caudate nucleus): May result in **executive dysfunction**, manifesting as **poor organization and planning, decreased cognitive flexibility, and impaired working memory**.
+    - **Lateral orbital frontal cortex** (or connections to ventromedial caudate): Causes **impulsiveness, distractibility, and disinhibition**.
+    - **Anterior cingulate cortex and adjacent medial prefrontal cortex** (or projections to nucleus accumbens): Interruption produces **apathy, poverty of speech, emotional blunting, or akinetic mutism**.
+- Damage to **globus pallidus and thalamus** (nodes in corticostriatal systems) can reproduce associated clinical syndromes.
+- Involvement of **brainstem nuclei and cerebellar structures** can contribute to cognitive, behavioral, and motor manifestations.
+
+# CAUSES OF DEMENTIA
+
+- The **single strongest risk factor** for dementia is **increasing age**.
+    - Prevalence of disabling memory loss increases with each decade over age 50.
+    - Usually associated with microscopic changes of AD at autopsy.
+    - Whether dementia is an inevitable consequence of normal human aging remains controversial.
+- **Common Causes**:
+    - **AD**: Most common cause in Western countries, accounting for >50% of patients.
+    - **Vascular disease**: Second most frequent, common in elderly or populations with limited medical care. Often mixed with neurodegenerative disorders.
+    - **Dementias associated with Parkinson's disease (PD)**: Common.
+        - **PD-related dementia (PDD)** develops years after onset of parkinsonian disorder.
+        - **Dementia with Lewy bodies (DLB)** can occur concurrently with or preceding motor syndrome.
+    - **Limbic-predominant aging-related TDP-43 encephalopathy (LATE)**: Common after age 70, linked to declining episodic memory.
+    - **Chronic traumatic encephalopathy (CTE)**: Found in individuals with repetitive head impacts, presenting with changes in cognition, mood, behavior, or motor function.
+    - **Mixed pathology**: Common, especially in older individuals.
+    - **Frontotemporal Dementia (FTD)**: Rivals AD as the most common cause of dementia in patients **under age 65**.
+    - **Chronic intoxications**: Including alcohol and prescription drugs, are important and often treatable causes.
+- **Potentially Reversible Causes**:
+    - In a study of memory disorders clinic patients, 19% had a potentially reversible cause and 23% had a potentially reversible concomitant condition.
+    - Most common potentially reversible diagnoses: **depression, normal pressure hydrocephalus (NPH), and alcohol dependence**.
+    - **Medication side effects** are also common.
+    - Many other uncommon disorders are reversible.
+- **Rapidly Progressive Dementia (RPD)**:
+    - Illnesses progressing from initial symptom onset to dementia within a year or less, excluding toxic/metabolic confusional states.
+    - **Classic cause**: **Prion proteinopathy Creutzfeldt-Jakob disease (CJD)**, especially when associated with myoclonus.
+    - More often due to AD, other neurodegenerative disorders, or autoimmune encephalitis.
+- **Cognitive Changes with Aging**:
+    - **Subtle cumulative decline in episodic memory** is a common part of aging, historically called "benign forgetfulness of the elderly".
+    - At age 85, average person recalls ~half of items compared to age 18.
+    - **Subjective cognitive decline**: Individuals experience subjective decline but perform within normal limits on formal neuropsychological testing.
+    - **Mild cognitive impairment (MCI)**: Decline in cognition confirmed on objective testing, but **does not disrupt normal daily activities**.
+        - Can be subcategorized (e.g., amnestic MCI, executive MCI).
+        - **Factors predicting progression from MCI to AD dementia**: prominent memory deficit, family history of dementia, presence of an **apolipoprotein ε4 (Apo ε4) allele**, small hippocampal volumes, AD-like cortical atrophy, low CSF Aβ and elevated tau, or evidence of brain amyloid and tau deposition on PET imaging.
+- **Molecular Basis for Degenerative Dementia**: All are associated with the **abnormal aggregation of a specific protein**.
+    - **AD**: **Aβ42 and tau**.
+    - **DLB**: **α-synuclein**.
+    - **FTD**: **tau, TAR DNA-binding protein of 43 kDa (TDP-43), or the FET family of proteins** (fused in sarcoma [FUS], Ewing sarcoma [EWS], and TBP-associated factor 15 [TAF15]).
+    - **HD**: **huntingtin**.
+    - **CJD**: **misfolded prion protein (PrPsc)**.
+- **Modifiable Risk Factors for Dementia**: Low education, hearing loss, traumatic brain injury, hypertension, diabetes mellitus, obesity, heavy alcohol use, smoking, depression, physical inactivity, and air pollution.
+    - Improved management of midlife vascular risk factors has been credited with a **decreasing incidence of dementia** in North America and Western Europe.
+- **Global Considerations**:
+    - **Vascular dementia** is more common in **Asia** due to higher prevalence of intracranial atherosclerosis.
+    - Rates are rising in developing countries due to widespread vascular risk factors.
+    - **CNS infections** (HIV, syphilis, cysticercosis, tuberculosis) are major contributors to dementia in the developing world.
+    - **SARS-CoV-2** may have lasting cognitive effects in some individuals due to brain microvasculature involvement or immunologically mediated white matter injury; long-term prognosis is unknown.
+    - **Isolated populations** have contributed to understanding neurodegenerative dementia, such as Kuru (prion disease) and the Amyotrophic lateral sclerosis-parkinsonism-dementia complex of Guam (poly-proteinopathy whose incidence has declined).
+
+# APPROACH TO THE PATIENT
+
+- **Three major issues**:
+    1. What is the **clinical diagnosis**?
+    2. What component of the dementia syndrome is **treatable or reversible**?
+    3. Can the physician help to **alleviate the burden on caregivers**?
+- Major degenerative dementias are usually distinguished by initial symptoms, neuropsychological, neuropsychiatric, and neurologic findings, and neuroimaging features.
+- **History**:
+    - Concentrate on **onset, duration, and tempo of progression**.
+    - **Acute or subacute confusion**: May be delirium, prompts search for intoxication, infection, or metabolic derangement.
+    - **Slowly progressive memory loss over several years in elderly**: Likely **AD**.
+        - ~75% of AD patients begin with memory symptoms.
+        - Other early symptoms: anxiety or depression, difficulty managing money, driving, shopping, following instructions, finding words, or navigating.
+    - **Personality change, disinhibition, weight gain, or compulsive eating**: Suggests **FTD**, not AD.
+    - **Prominent apathy, compulsivity, loss of empathy, or progressive loss of speech fluency or single-word comprehension (with relative sparing of memory and visuospatial abilities)**: Also suggests **FTD**.
+    - **Early visual hallucinations, parkinsonism, proneness to delirium or psychoactive medication sensitivity, rapid eye movement (REM) behavior disorder (RBD), or Capgras syndrome**: Suggests **DLB**.
+    - **History of stroke with irregular stepwise progression**: Suggests **vascular dementia**.
+        - Commonly seen with hypertension, atrial fibrillation, peripheral vascular disease, smoking, and diabetes.
+        - Can be difficult to determine if dementia is due to AD, vascular disease, or mixture.
+    - **Rapid progression with motor rigidity and myoclonus**: Suggests **CJD**.
+    - **Seizures**: May indicate strokes or neoplasm, but also occur in AD (particularly early-age-of-onset).
+    - **Gait disturbance**: Common in vascular dementia, PD/DLB, or NPH.
+    - **High-risk sexual behaviors or intravenous drug use**: Triggers search for **CNS infection** (HIV, syphilis).
+    - **Recurrent head trauma**: Could indicate chronic subdural hematoma, CTE, intracranial hypotension, or NPH.
+    - **Subacute onset of severe amnesia and psychosis with mesial temporal T2/FLAIR hyperintensities on MRI**: Raises concern for **autoimmune (paraneoplastic) encephalitis**.
+        - Expanding spectrum of autoimmune etiologies (e.g., LGI1, Caspr2, NMDA-receptor, AMPA-receptor antibodies).
+    - **Alcohol abuse**: Creates risk for malnutrition and thiamine deficiency.
+    - **Veganism, bowel irradiation, autoimmune diathesis, gastric surgery, chronic H2-receptor antagonists**: Predispose to B12 deficiency.
+    - **Certain occupations (e.g., battery or chemical factory)**: Might indicate heavy metal intoxication.
+    - **Careful review of medication intake** (especially sedatives and analgesics): May raise issue of chronic drug intoxication.
+    - **Autosomal dominant family history**: Found in HD and familial forms of AD, FTD, DLB, or prion disorders.
+    - **History of mood disorder, recent death, or depressive signs (insomnia/weight loss)**: Raise possibility of depression-related cognitive impairment.
+- **Physical and Neurologic Examination**:
+    - Essential to identify signs of nervous system involvement and clues suggesting systemic disease.
+    - **Typical AD**: Spares motor systems until late in the course.
+    - **FTD**: Often develops **axial rigidity, supranuclear gaze palsy, or a motor neuron disease** reminiscent of amyotrophic lateral sclerosis (ALS).
+    - **DLB**: Initial symptoms may include a **parkinsonian syndrome** (resting tremor, cogwheel rigidity, bradykinesia, festinating gait), but often starts with visual hallucinations or cognitive impairment. Lower brainstem symptoms (RBD, gastrointestinal, or autonomic problems) may arise years or decades before parkinsonism or dementia.
+    - **Corticobasal Syndrome (CBS)**: Features **asymmetric akinesia and rigidity, dystonia, myoclonus, alien limb phenomena, pyramidal signs, and prefrontal deficits** (nonfluent aphasia, executive dysfunction, apraxia, behavioral disorder).
+    - **Progressive Supranuclear Palsy (PSP)**: Associated with **unexplained falls, axial rigidity, dysphagia, and vertical gaze deficits**.
+    - **CJD**: Suggested by **diffuse rigidity, an akinetic mute state, and prominent, often startle-sensitive, myoclonus**.
+    - **Hemiparesis or other focal neurologic deficits**: Suggests vascular dementia or brain tumor.
+    - **Dementia with a myelopathy and peripheral neuropathy**: Suggests vitamin B12 deficiency.
+    - **Peripheral neuropathy**: Could also indicate other vitamin deficiency, heavy metal intoxication, thyroid dysfunction, Lyme disease, or vasculitis.
+    - **Dry cool skin, hair loss, and bradycardia**: Suggest hypothyroidism.
+    - **Fluctuating confusion associated with repetitive stereotyped movements**: May indicate ongoing limbic, temporal, or frontal seizures.
+    - **Elderly hearing impairment or visual loss**: May produce confusion and disorientation misinterpreted as dementia.
+    - **Profound bilateral sensorineural hearing loss in a younger patient with short stature or myopathy**: Raises concern for a mitochondrial disorder.
+- **Cognitive and Neuropsychiatric Examination**:
+    - **Brief screening tools** (e.g., Mini-Mental State Examination [MMSE], Montreal Cognitive Assessment [MOCA]): Can capture dementia and follow progression, but **not highly sensitive to early-stage dementia or reliable in discriminating syndromes**.
+    - **MMSE**: 30-point test of cognitive function, includes orientation, registration, recall, and language.
+    - In MCI and some AD patients, bedside screening tests may be normal, requiring **more challenging and comprehensive neuropsychological tests**.
+    - When etiology is doubtful, a tailored evaluation should include tasks of **working and episodic memory, executive function, language, and visuospatial and perceptual abilities**.
+    - **AD**: Early deficits involve **episodic memory, category generation, and visuoconstructive ability**. Verbal or visual episodic memory deficits are usually the first neuropsychological abnormalities.
+    - **FTD**: Earliest deficits involve **executive control or language (speech or naming) functions**, though some patients lack these findings despite profound social-emotional deficits.
+    - **PDD or DLB**: More severe deficits in **executive and visuospatial function**, but better on episodic memory tasks than AD patients.
+    - **Vascular dementia**: Often demonstrates a mixture of **executive and visuospatial deficits, with prominent psychomotor slowing**.
+    - **Delirium**: Most prominent deficits involve **attention, working memory, and executive function**.
+    - **Functional assessment**: Determines day-to-day impact on memory, community affairs, hobbies, judgment, dressing, and eating, helping organize therapeutic approach.
+    - **Neuropsychiatric assessment**: Important for diagnosis, prognosis, and treatment.
+        - **Early AD**: Mild depressive features, social withdrawal, irritability or anxiety are prominent. Delusions, agitation, and sleep disturbance may emerge later.
+        - **FTD**: **Dramatic personality change with apathy, overeating, compulsions, disinhibition, and loss of empathy** are early and common.
+        - **DLB**: Associated with **visual hallucinations, delusions related to person or place identity, RBD, and excessive daytime sleepiness**. Dramatic fluctuations occur in cognition and arousal.
+        - **Vascular dementia**: Can present with psychiatric symptoms such as **depression, anxiety, delusions, disinhibition, or apathy**.
+- **Laboratory Tests**:
+    - Choice is complex and tailored to the individual patient.
+    - Physician must avoid missing reversible/treatable causes; a screen often uses multiple tests, each with low yield.
+    - **American Academy of Neurology recommendations** for routine measurement:
+        - **Complete blood count (CBC)**.
+        - **Electrolytes**.
+        - **Glucose**.
+        - **Renal, liver, and thyroid functions**.
+        - **Vitamin B12 level**.
+        - **Structural neuroimaging study (MRI or CT)**.
+    - **Neuroimaging (especially MRI)**: Helps rule out primary/metastatic neoplasms, locate infarction/inflammation, detect subdural hematomas, and suggest NPH or diffuse white matter disease.
+        - Establishes regional atrophy patterns.
+        - **AD diagnosis support**: **Hippocampal atrophy and posterior-predominant cortical atrophy**.
+        - **FTD suggestion**: **Focal frontal, insular, and/or anterior temporal atrophy**.
+        - **DLB**: Less prominent atrophy, with greater amygdala than hippocampal involvement.
+        - **CJD**: MR diffusion-weighted imaging reveals **restricted diffusion within cortical ribbon and/or basal ganglia**.
+        - **Vascular etiology**: **Extensive multifocal white matter abnormalities**.
+        - **NPH suggestion**: Communicating hydrocephalus with vertex effacement, gaping Sylvian fissures despite minimal cortical atrophy, and dilated lateral, third, and fourth ventricles with a patent aqueduct.
+    - **SPECT and fluoro-deoxyglucose PET scanning**: Show temporal-parietal hypoperfusion or hypometabolism in AD and frontotemporal deficits in FTD, but abnormalities can often be detected with MRI alone.
+    - **Amyloid- and tau-PET imaging**: Promising for AD diagnosis.
+        - Amyloid PET ligands bind to diffuse/neuritic amyloid plaques and vascular amyloid deposits.
+        - Tau PET ligands bind to paired helical filaments of tau characteristic of neurofibrillary tangles in AD.
+        - Main clinical value of **amyloid imaging** is to **exclude AD** as likely cause in patients with negative scans.
+        - **Tau spread** is more tightly linked to cognitive state, potentially more useful for **"ruling in" AD and disease staging**.
+        - Likely used to identify treatment candidates when disease-modifying therapies become available.
+        - Prognostic value of detecting brain amyloid in asymptomatic elders is under investigation.
+    - **Lumbar puncture (LP)**:
+        - **Not done routinely**, but indicated when CNS infection or inflammation are credible diagnostic possibilities.
+        - **Cerebrospinal fluid (CSF) levels of Aβ42 and tau proteins**: **Low Aβ42 (or low Aβ42/Aβ40 ratio), mild-moderately elevated CSF total tau, and elevated CSF phosphorylated tau** are highly suggestive of **AD**.
+        - Novel automated CSF assays perform comparably to PET, but routine use is debated.
+    - **Blood-based biomarkers for AD**: Show promise as a less invasive screening tool, but remain under development.
+    - **Formal psychometric testing**: Helps document severity, suggests psychogenic causes, and provides a formal method for following disease course.
+    - **Electroencephalogram (EEG)**: Not routinely used, but can suggest **CJD** (repetitive bursts of diffuse high-amplitude sharp waves) or an underlying nonconvulsive seizure disorder.
+    - **Brain biopsy**: Not advised except to diagnose vasculitis, neoplasms, or unusual infections when diagnosis is uncertain. Systemic disorders like sarcoidosis can often be confirmed by biopsy of lymph node or solid organ rather than brain.
+    - **MR angiography**: Should be considered when cerebral vasculitis or cerebral venous thrombosis is a possible cause.
+
+# TREATMENT
+
+- **Major goals of dementia management**:
+    1. **Treat reversible causes**.
+    2. **Provide comfort and support** to the patient and caregivers.
+- **Treatment of Underlying Causes**:
+    - Thyroid replacement for hypothyroidism.
+    - Vitamin therapy for thiamine or B12 deficiency or elevated serum homocysteine.
+    - Antimicrobials for opportunistic infections or antiretrovirals for HIV.
+    - Ventricular shunting for NPH.
+    - Surgical, radiation, and/or chemotherapeutic treatment for CNS neoplasms.
+    - **Removal of cognition-impairing drugs or medications** when appropriate.
+    - Vigorous treatment of psychiatric disorders if cognitive complaints stem from them.
+- **Pharmacologic Therapy (Symptomatic or Disease-Specific)**:
+    - **Antidepressants** (e.g., selective serotonin reuptake inhibitors [SSRIs], serotonin-norepinephrine reuptake inhibitors [SNRIs]): Mainstay for depression/anxiety in degenerative diseases, with anxiolytic properties and few cognitive side effects.
+    - **Anticonvulsants**: Used to control **AD-associated seizures**.
+    - **Agitation, hallucinations, delusions, and confusion**:
+        - Before medication, aggressively seek out **modifiable environmental or metabolic factors** (hunger, lack of exercise, toothache, constipation, urinary tract/respiratory infection, electrolyte imbalance, drug toxicity).
+        - Phenothiazines and benzodiazepines may ameliorate behaviors but have untoward side effects (sedation, rigidity, dyskinesia); benzodiazepines can cause paradoxical disinhibition.
+        - **Second-generation antipsychotics** (e.g., quetiapine) can be used for agitation, aggression, and psychosis, but have a **significant risk profile including increased mortality in dementia patients**.
+        - Avoid advancing to higher doses or using anticholinergic drugs (like diphenhydramine) or sedatives (such as barbiturates or benzodiazepines) if patients do not respond.
+        - Depression should be recognized and treated; start with low-dose SSRI.
+        - Apathy, visual hallucinations, depression, and other psychiatric symptoms may respond to **cholinesterase inhibitors**, especially in DLB, potentially obviating other toxic therapies.
+    - **Cholinesterase inhibitors** (donepezil, rivastigmine, galantamine): Used to treat **AD**. Rivastigmine is also used for **PDD**.
+    - **Memantine**: Useful for some patients with **moderate to severe AD**.
+        - Major benefit relates to **decreasing caregiver burden** (likely by decreasing resistance to dressing and grooming support).
+        - Combination of memantine and a cholinesterase inhibitor for moderate to severe AD delayed nursing home placement in some studies.
+        - **Use with great caution, or not at all, in patients with DLB** due to risk of worsening agitation and confusion.
+    - **Newer Therapies under Development**:
+        - Target production, aggregation, and spread of misfolded proteins.
+        - **Aducanumab** (amyloid-beta targeting monoclonal antibody) was approved by the US FDA for **Alzheimer's disease treatment**.
+        - Other drugs target disease-associated neuroinflammation, metabolic changes, synaptic loss, and neurotransmitter changes.
+- **Nondrug Behavior Therapy and Patient Support**:
+    - **Proactive approaches reduce delirium in hospitalized patients**: Frequent orientation, cognitive activities, sleep-enhancement measures, vision and hearing aids, and correction of dehydration.
+    - Primary goals are to make the patient's life comfortable, uncomplicated, and safe.
+    - In early stages, preparing **lists, schedules, calendars, and labels** can be helpful.
+    - Stress **familiar routines, walks, and simple physical exercises**.
+    - Many demented patients can still take part in favorite hobbies, sports, and social activities.
+    - When patients object to losing control over familiar tasks (driving, cooking, finances):
+        - Attempts to help may be met with complaints, depression, or anger.
+        - Hostile responses from caregivers are counterproductive.
+        - **Reassurance, distraction, and calm positive statements** are more productive.
+        - Eventually, tasks must be assumed by others, and the patient will conform.
+    - **Safety** is important, including driving, kitchen, bathroom, sleeping area environments, and stairways, which need monitoring, supervision, and safety measures.
+    - **Move to a new living environment** (retirement complex, assisted-living, nursing home) can initially increase confusion and agitation.
+        - **Repeated reassurance, reorientation, and careful introduction to new personnel** help smooth the process.
+        - Providing enjoyable activities helps.
+- **Caregiver Support**:
+    - Clinicians must pay special attention to **frustration and depression among family members and caregivers**.
+    - **Caregiver guilt and burnout are common**.
+    - Family members may feel overwhelmed and helpless, and may vent frustrations.
+    - Caregivers should be encouraged to use **day-care facilities and respite services**.
+    - **Education and counseling** about dementia are important.
+    - Local and national support groups (e.g., Alzheimer's Association) can provide considerable help.
