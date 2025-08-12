@@ -539,7 +539,7 @@ Here are notes from the provided chapter:
     1. experiences, personal habits/hygiene, memory, and judgment.
 - Mental status examination should include general categories with examples, considering the patient's circumstances.
 - The mode of answering and solving problems provides invaluable information.
-- Many practitioners favor **Mini-Mental State Examination (MMSE)** or **Montreal Cognitive Assessment (MoCA)**for their speed and quantified serial measurement.
+- Many practitioners favor **Mini-Mental State Examination (MMSE)** or **Montreal Cognitive Assessment (MoCA)** for their speed and quantified serial measurement.
 - A perplexed or slowed individual may perform adequately but still have flawed cortical/subcortical function.
 - The patient must have normal or near-normal attentiveness to perform these tasks, as deficiency in one can disrupt others.
 - **Mental Status Examination Categories and Examples:**
