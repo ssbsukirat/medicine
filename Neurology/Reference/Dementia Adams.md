@@ -424,14 +424,14 @@ Here are notes from the provided chapter:
 - Episodic memory refers to dating personal experiences and their temporal relationships; semantic memory is a repository of perceptual and factual knowledge for language comprehension and inferences. Korsakoff himself recognized retention of semantic memory despite profound episodic impairment.
 - The full significance of these categorizations is still under study; categorical purity of semantic memory and strict dichotomy between semantic/episodic memory are questioned.
 - Neuropsychologists subdivide memory further, suggesting corresponding anatomic regions (Table 20-4):
-    - **Immediate Recall:** Repetition function, conscious access, involved dominant perisylvian cortex. Disturbed by agitation, confusion.
-    - **Working Memory:** Short-term recall of objects, plans, names, sequencing. Conscious access, involved prefrontal cortex, medial temporal lobes, dorsomedial thalamus. Disturbed by Wernicke-Korsakoff, herpes encephalitis, hippocampal/dorsomedial thalamic infarction.
+    - **Immediate Recall:** Repetition function, conscious access, ==involved dominant perisylvian cortex. Disturbed by agitation, confusion.==
+    - **Working Memory:** Short-term recall of objects, plans, names, sequencing. Conscious access, involved ==prefrontal cortex, medial temporal lobes, dorsomedial thalamus. Disturbed by Wernicke-Korsakoff, herpes encephalitis, hippocampal/dorsomedial thalamic infarction.==
     - **Explicit Memory:**
-        - **Semantic:** Recall for facts and relationships. Conscious access, involved anterior/inferior temporal lobes, frontal lobes. Disturbed by AD, frontotemporal dementia, encephalitis, chronic toxins, tumors.
-        - **Episodic:** Recall for temporally organized events. Conscious access, involved association cortex. Disturbed by hippocampal infarction, alcoholic Korsakoff, AD, CNS degenerative disorders, encephalitis, chronic toxic exposure, tumors.
+        - **Semantic:** Recall for facts and relationships. Conscious access, involved ==anterior/inferior temporal lobes, frontal lobes. Disturbed by AD, frontotemporal dementia, encephalitis, chronic toxins, tumors.==
+        - **Episodic:** Recall for temporally organized events. Conscious access, involved ==association cortex. Disturbed by hippocampal infarction, alcoholic Korsakoff, AD, CNS degenerative disorders, encephalitis, chronic toxic exposure, tumors.==
     - **Implicit Memory:**
-        - **Procedural:** Operational recall ("how to do"). Usually no conscious access, involved premotor/motor cortex, basal ganglia, cerebellum. Disturbed by AD, other CNS degenerative disorders, encephalitis, chronic toxic exposure, tumors.
-        - **Visual:** Recall of visual representations. Conscious access, involved occipital lobes. Disturbed by AD, other CNS degenerative disorders, encephalitis, tumors.
+        - **Procedural:** Operational recall ("how to do"). Usually no conscious access, involved ==premotor/motor cortex, basal ganglia, cerebellum. Disturbed by AD, other CNS degenerative disorders, encephalitis, chronic toxic exposure, tumors.==
+        - **Visual:** Recall of visual representations. Conscious access, involved ==occipital lobes. Disturbed by AD, other CNS degenerative disorders, encephalitis, tumors.==
 - Working memory has clinical and neuropsychologic credibility; it relates to capacity to register and attend to a task. Several brain regions are active in working memory tasks (hippocampi, dorsal thalamus), but dorsolateral prefrontal cortex lesions specifically impair this skill.
 - Episodic memory for spatial and topographic information can be dissociated to some degree from memory of the scene's topographic arrangement, but often they are bound.
 - A disproportionate degradation of learned topographic/directional information compared to semantic material can be found in patients with right hippocampus injuries (semantic material more dependent on left hippocampus).
