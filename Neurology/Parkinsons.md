@@ -92,6 +92,14 @@ Here are concise notes from the provided chapter:
 		- axial muscle involvement, -- PSP 
 		- absence of response to L-DOPA
 		- disproportionate ANS symptom -- MSA
+		- Myoclonus with cortical (superior parietal )-- CBD 
+		- [[Dementia]] at present -- DLB 
+		- Postural instability early -- PSP 
+		- Gaze palsy - PSP 
+		- Cerebellar -- MSA 
+- MSA 
+	- MSA-P 
+	- MSA-c
 
 
 
