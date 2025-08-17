@@ -4,6 +4,11 @@ Here are notes from the provided chapter, structured in markdown format:
 
 - Hormones are divided into **five major types**:
     - **Amino acid derivatives**: such as dopamine, catecholamine, and thyroid hormone.
+	    - Tyrosine -- T3, T4, , Adrenaline > noradrenaline > dopamine 
+	    - Tryptophan 
+		    - serotonin from raphe nuclei , GIT (centrocromafin ce)
+		    - melatonin from pineal gland is a serotonin derivative 
+		- 
     - **Small neuropeptides**: such as gonadotropin-releasing hormone (GnRH), thyrotropin-releasing hormone (TRH), somatostatin, and vasopressin.
     - **Large proteins**: such as insulin, luteinizing hormone (LH), and parathyroid hormone (PTH).
     - **Steroid hormones**: such as cortisol and estrogen, synthesized from cholesterol-based precursors.
