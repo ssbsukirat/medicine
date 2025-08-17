@@ -40,13 +40,26 @@ Here are notes from the provided chapter, structured in markdown format:
 				- gamma 
 					- agonist is pioglitazone 
 				- dual alpha gamma
-					- in diabetic dyslipidemia -- saroglitazar 
+					- in diabetic dyslipidemia -- saroglitazar (dual agonist)
 			- heterodimer with retinoic acid receptor 
 			- co-repressor ++ 
+		- Orphan Receptor 
+			- no ligand needed 
+			- routinely activated -- constitutive  
+			- SF-1 DAX-1 --> in pituitary gonadotrope development 
+			- HNF4-alpha -- MODY-1  if defective 
 	- Group 2 --> cell membrane receptor 
 		- no transport protein 
 		- hydrophillic 
-		- second messenger 
+		- second messenger --> protein modification or translocation, transport channel modification 
+		- based on receptor 
+			- GPCR 
+				- transmembrane 
+				- 7 membrane spanning domains 
+				- alpha beta gamma bound to GDP in ina
+			- Tyrosine Kinase 
+			- JAK kinase 
+			- serine threonine kinase 
 		- short t1/2
 
 ## Hormone and Receptor Families
