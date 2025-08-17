@@ -12,8 +12,13 @@ Here are notes from the provided chapter, structured as requested:
 	- TTF-2 --> hypothyroid + choanal atresia and spiky hair 
 	- PAX-8 --> thyroid dysgenesis , unilateral renal agenesis 
 - HORMONE SYNTHESIS 
-	- 
-
+	- 1 -> iodide transport **across Basolateral membrane** (1st needs TSH and TSH-R binding)
+		- TSH competes with Dopamine , steroid and somatostatin for binding 
+		- GPCR via cAMP-PKA pathway 
+		- needs Na-I symporter (NIS) (also seen in breast, salivary gland, placenta) NIS needed for thyroid scanning 
+		- I123 for scan, I131 for treatment 
+	- 2 -> Iodine transport across apical membrane -- Iodide-chloride antiporter **(pendrin)** --> pendrid syndrome (goitre + SNHL)
+	- 3 -> organification (I )
 ## ANATOMY AND DEVELOPMENT
 
 - The **thyroid gland** produces two hormones: **thyroxine (T4)** and **triiodothyronine (T3)**.
