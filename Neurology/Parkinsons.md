@@ -20,8 +20,15 @@ Here are concise notes from the provided chapter:
 	- **inputs go to striatum , inputs are stimulator** 
 	- **outputs from GPi** 
 	- **all internal  circuits inhibit except STN** excitatory 
-	- Direct >
-		- Cortex --> striatum --> GPi --
+	- Direct > **stimulate** 
+		- Cortex --> striatum --> GPi --> thalamus (baseline stimulatory) --> cortex (net stimulator)
+	- indirect - **inhibit**
+		- striatum --> GPe--> STN --> Gpi --> thalamus --> cortex (only STN-> GPi is stimulator)
+	- Hyperdirect - inhibitory 
+		- breaks rules 
+	- Substantia Nigra --> striatum  --> net stimulator --> lost in parkinson -> akin
+		- D1 pathway ---> activate direct pathway 
+		- D2 --> inhibition of indirect pathway 
 
 
 
