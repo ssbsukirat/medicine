@@ -1,5 +1,12 @@
 Here are concise notes from the provided chapter:
 
+# Marrow 
+- 
+
+
+
+
+
 # Parkinson's Disease Overview
 
 - **Second most common age-related neurodegenerative disease**, after Alzheimer's disease (AD).
