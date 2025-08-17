@@ -2,17 +2,20 @@ Here are notes from the provided chapter, structured in markdown format:
 
 # Classes of Hormones
 
-- Hormones are divided into **five major types**:
-    - **Amino acid derivatives**: such as dopamine, catecholamine, and thyroid hormone.
-	    - Tyrosine -- T3, T4, , Adrenaline > noradrenaline > dopamine 
-	    - Tryptophan 
-		    - serotonin from raphe nuclei , GIT (centrocromafin ce)
-		    - melatonin from pineal gland is a serotonin derivative 
-		- 
-    - **Small neuropeptides**: such as gonadotropin-releasing hormone (GnRH), thyrotropin-releasing hormone (TRH), somatostatin, and vasopressin.
-    - **Large proteins**: such as insulin, luteinizing hormone (LH), and parathyroid hormone (PTH).
-    - **Steroid hormones**: such as cortisol and estrogen, synthesized from cholesterol-based precursors.
-    - **Vitamin derivatives**: such as retinoids (vitamin A) and vitamin D.
+- 
+> [!note]
+> Hormones are divided into **five major types**:
+>     - **Amino acid derivatives**: such as dopamine, catecholamine, and thyroid hormone.
+> 	    - Tyrosine -- T3, T4, , Adrenaline > noradrenaline > dopamine 
+> 	    - Tryptophan 
+> 		    - serotonin from raphe nuclei , GIT (centrocromafin cells)
+> 		    - melatonin from pineal gland is a serotonin derivative 
+>     - **Small neuropeptides**: all **hypothalamic, posterior pituitary and ACTH** such as gonadotropin-releasing hormone (GnRH), thyrotropin-releasing hormone (TRH), somatostatin, and vasopressin.
+>     - **Large proteins**: such as insulin, luteinizing hormone (LH), and parathyroid hormone (PTH)., **GH 191 AA, PRL 199AA** 
+>     - **Steroid hormones**: such as cortisol and estrogen, synthesized from cholesterol-based precursors., adrenal cortical (aldosterone , cortisol), DHEAS, androstenedione
+>     - **Vitamin derivatives**: such as retinoids (vitamin A) and vitamin D.
+>     - **Glycoprotein** --> protein+carb --> FSH, LH, TSH (all share common alpha subunit)
+
 - A variety of **peptide growth factors**, like insulin-like growth factor 1 (IGF1), share actions with hormones but often act more locally.
 - **Receptor Interaction**:
     - Amino acid derivatives and peptide hormones generally interact with **cell-surface membrane receptors**.
