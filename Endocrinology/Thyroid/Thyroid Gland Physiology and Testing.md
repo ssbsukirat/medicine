@@ -41,8 +41,15 @@ Here are notes from the provided chapter, structured as requested:
 	- as DI-2 inhibited --> DI-3 raised --> T4->rT3 --> **T4 normal, T3 low rT3 high, normal TSH** --> sick euthyroid syndrome 
 - T4 vs T3 
 	- 80% T3 is formed in periphery only 20% in gland 
-	- 15:1 -->T4:T3
-	- 10
+	- 15:1 -->T4:T3 in Tg
+	- 10:1 --> T4:T3 in colloid or secreted ratio 
+	- 4:1 T3:T4 potency 
+	- fT3 is 0.3-0.4% fT4 is 0.02-0.03% 
+	- T3 t1/2 1 day 
+	- T4 t1/2 1 week
+- mechanism  intranuclear receptor --> heterodimer - co-repressor dissociate and co-activator binding 
+- TFT interpretation 
+	- 
 ## ANATOMY AND DEVELOPMENT
 
 - The **thyroid gland** produces two hormones: **thyroxine (T4)** and **triiodothyronine (T3)**.
