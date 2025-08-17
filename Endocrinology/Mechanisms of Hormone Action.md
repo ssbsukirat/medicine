@@ -63,14 +63,23 @@ Here are notes from the provided chapter, structured in markdown format:
 						- PKA --> activated PKA --> protein phosphorylation 
 						- CRH, TSH, LH, FSH, ACTH 
 						- V2 of vasopressin 
+						- GIT - glucagon , somatostatin , secretin 
+						- Alpha 2 , beta 
+						- PTH, CALCITONIN 
+						- alpha 2, somatostatin (only 2 that decrease cAMP)
 					- IP3/DAG (Gq)
 						- PIP2 --> IP3 and DAG --> increased PKC, ca-calmodulin pathway --> protein phosphorylation 
 						- Vasoconstrictor mostly by this mechanism 
 						- TRH, GnRH 
 						- V1, V3 of vasopressin 
-						- AT2,
+						- AT2 (also reduces cAMP) , substance P 
+						- CCK, Gastrin 
+						- Alpha 1 
+						- Ach (also reduces cAMP) 
 					- cGMP (Gt)
 			- Tyrosine Kinase 
+				- Insulin , IGF-1 , NGF, EGF, FGF 
+				- monomer at inactive --> binding --> intracellular dimerisation -
 			- JAK kinase 
 			- serine threonine kinase 
 		- short t1/2
