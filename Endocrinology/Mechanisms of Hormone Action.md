@@ -56,7 +56,20 @@ Here are notes from the provided chapter, structured in markdown format:
 			- GPCR 
 				- transmembrane 
 				- 7 membrane spanning domains 
-				- alpha beta gamma bound to GDP in ina
+				- alpha beta gamma bound to GDP in inactive --> hormone binding --> GDP- GTP --> alpha-GTP binds to effector (second messenger )
+				- second messenger 
+					- ![[hormonereceptorfamily.png]]
+					- cAMP (Gs, Gi) -- ANF, NO 
+						- PKA --> activated PKA --> protein phosphorylation 
+						- CRH, TSH, LH, FSH, ACTH 
+						- V2 of vasopressin 
+					- IP3/DAG (Gq)
+						- PIP2 --> IP3 and DAG --> increased PKC, ca-calmodulin pathway --> protein phosphorylation 
+						- Vasoconstrictor mostly by this mechanism 
+						- TRH, GnRH 
+						- V1, V3 of vasopressin 
+						- AT2,
+					- cGMP (Gt)
 			- Tyrosine Kinase 
 			- JAK kinase 
 			- serine threonine kinase 
