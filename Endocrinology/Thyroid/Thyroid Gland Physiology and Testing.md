@@ -49,7 +49,12 @@ Here are notes from the provided chapter, structured as requested:
 	- T4 t1/2 1 week
 - mechanism  intranuclear receptor --> heterodimer - co-repressor dissociate and co-activator binding 
 - TFT interpretation 
-	- 
+	- bound to TBG 70%, 20% albumin , 10% transthyretin 
+	- MCT8 deficit --> Allan-Herndon-Dudley Syndrome - severe neurologic deficit as thyroid cannot enter nerve cells + may have thyrotoxicosis 
+	- if T3 and T4 raised --> **Hyperthyroxinemia** --> maybe Euthyroid (if normal Ft3 Ft4 levels) or thyrotoxicosis ( raised T3, T4 only)
+	- Euthyroid Hyperthyroxinemia 
+		- excess TBG - hereditary - X-linked 
+			- acquire -- OCPs, pregnancy , tamoxifen , active hepatitis 
 ## ANATOMY AND DEVELOPMENT
 
 - The **thyroid gland** produces two hormones: **thyroxine (T4)** and **triiodothyronine (T3)**.
