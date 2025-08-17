@@ -144,7 +144,28 @@ Here are concise notes from the provided chapter:
 				- Carbidopa 
 				- Benserazide 
 			- Dopamine Agonist 
-				- 
+				- Apomorphine 
+				- Rotigotine 
+		- Central Anticholinergic - in drug induced parkinson -- good for tremors 
+			- trihexyphenidyl 
+		- Multiple - DOPA + anticholinergic + NMDA block -- Amantadine 
+	- L-DOPA 
+		- doesnt respond - Freezing , Falls, Dysarthria m, Dysphagia 
+		- causes nausea, vomiting , postural hypotension 
+		- Motor Fluctuation or dyskinesia 
+			- on/off 
+			- peak dose dyskinesia 
+			- diphasic 
+			- end of dose or wearing off 
+		- no effect on progression 
+	- Amantadine good for dyskinesia 
+	- Dopamine Agonist 
+		- less motor side effect 
+		- may causes psychiatric issues 
+		- use 1st line in young 
+	- Deep Brain Stimulation 
+	- if no functional impairment in <60y -- amantadine or anticholinergic  only maybe sufficient 
+	- if >60y or functional disability -- L-DOPA or dopamine agonist 
 
 
 
