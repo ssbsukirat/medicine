@@ -33,11 +33,23 @@ Here are concise notes from the provided chapter:
 	- Hypokinetic 
 		- **paucity of movement but not weakness or spasticity**
 		- low amplitude , **slowing of thought - bradyphrenia**
-		- 
 	- Hyperkinetic -- 
 		- Chorea 
 		- athetosis 
 		- hemiballismus 
+## Parkinsons 
+- sporadic disease of elderly 
+- some genetic forms in young (<45y) --> PARK1 (AD, alpha synuclein , chr4), PARK2 (Parkin, AR, chr 6)
+- secondary exists - 
+	- Wilsons 
+	- antipsychotic - drug indiced 
+	- Manganese 
+	- MPTP toxic 
+	- Whipples
+- IDIOPATHIC and Atypical/ parkinson plus syndrome (DLC, PSP, MSA, CBD)
+- Lewy Body 
+	- **Intraneuronal proteinaceous inclusions** staining for **α-synuclein** (PD, MSA, DLB) 
+	- 
 
 
 
