@@ -20,69 +20,78 @@ Here are notes from the provided chapter, structured in markdown format:
 - **Receptor Interaction**:
     - Amino acid derivatives and peptide hormones generally interact with **cell-surface membrane receptors**.
     - Steroids, thyroid hormones, vitamin D, and retinoids are **lipid-soluble** and primarily bind to **intracellular nuclear receptors**. Many of these also interact with membrane receptors or intracellular signaling proteins.
-- Based on Mechanism of Action 
-	- Group 1 -- > intracellular receptors 
-		- transport protein ++ 
-		- lipophilic
-		- long T1/2 
-		- Receptor - hormone complex 
-		- effect through gene transcription 
-		- Cytoplasmic -> Type 1 
-			- Steroids 
-			- **homodimer (at baseline bound to HSP-9) -- no co-repressor** 
-			- R-H complex --> migrates to nucleus --> binds to glucocorticoid response element --> gene transcription 
-		- Nuclear --> type 2 -->
-			- VitaminA , Vit D 
-			- Thyroid t3, t4 
-			- PPAR receptor 
-				- alpha 
-					- agonist is clofibrate (for if TGs>440)
-				- gamma 
-					- agonist is pioglitazone 
-				- dual alpha gamma
-					- in diabetic dyslipidemia -- saroglitazar (dual agonist)
-			- heterodimer with retinoic acid receptor 
-			- co-repressor ++ 
-		- Orphan Receptor 
-			- no ligand needed 
-			- routinely activated -- constitutive  
-			- SF-1 DAX-1 --> in pituitary gonadotrope development 
-			- HNF4-alpha -- MODY-1  if defective 
-	- Group 2 --> cell membrane receptor 
-		- no transport protein 
-		- hydrophillic 
-		- second messenger --> protein modification or translocation, transport channel modification 
-		- based on receptor 
-			- GPCR 
-				- transmembrane 
-				- 7 membrane spanning domains 
-				- alpha beta gamma bound to GDP in inactive --> hormone binding --> GDP- GTP --> alpha-GTP binds to effector (second messenger )
-				- second messenger 
-					- ![[hormonereceptorfamily.png]]
-					- cAMP (Gs, Gi) -- ANF, NO 
-						- PKA --> activated PKA --> protein phosphorylation 
-						- CRH, TSH, LH, FSH, ACTH 
-						- V2 of vasopressin 
-						- GIT - glucagon , somatostatin , secretin 
-						- Alpha 2 , beta 
-						- PTH, CALCITONIN 
-						- alpha 2, somatostatin (only 2 that decrease cAMP)
-					- IP3/DAG (Gq)
-						- PIP2 --> IP3 and DAG --> increased PKC, ca-calmodulin pathway --> protein phosphorylation 
-						- Vasoconstrictor mostly by this mechanism 
-						- TRH, GnRH 
-						- V1, V3 of vasopressin 
-						- AT2 (also reduces cAMP) , substance P 
-						- CCK, Gastrin 
-						- Alpha 1 
-						- Ach (also reduces cAMP) 
-					- cGMP (Gt)
-			- Tyrosine Kinase 
-				- Insulin , IGF-1 , NGF, EGF, FGF 
-				- monomer at inactive --> binding --> intracellular dimerisation -
-			- JAK kinase 
-			- serine threonine kinase 
-		- short t1/2
+- 
+> [!note]
+> Based on Mechanism of Action 
+> 	- Group 1 -- > intracellular receptors 
+> 		- transport protein ++ 
+> 		- lipophilic
+> 		- long T1/2 
+> 		- Receptor - hormone complex 
+> 		- effect through gene transcription 
+> 		- Cytoplasmic -> Type 1 
+> 			- Steroids 
+> 			- **homodimer (at baseline bound to HSP-9) -- no co-repressor** 
+> 			- R-H complex --> migrates to nucleus --> binds to glucocorticoid response element --> gene transcription 
+> 		- Nuclear --> type 2 -->
+> 			- VitaminA , Vit D 
+> 			- Thyroid t3, t4 
+> 			- PPAR receptor 
+> 				- alpha 
+> 					- agonist is clofibrate (for if TGs>440)
+> 				- gamma 
+> 					- agonist is pioglitazone 
+> 				- dual alpha gamma
+> 					- in diabetic dyslipidemia -- saroglitazar (dual agonist)
+> 			- heterodimer with retinoic acid receptor 
+> 			- co-repressor ++ 
+> 		- Orphan Receptor 
+> 			- no ligand needed 
+> 			- routinely activated -- constitutive  
+> 			- SF-1 DAX-1 --> in pituitary gonadotrope development 
+> 			- HNF4-alpha -- MODY-1  if defective 
+> 	- Group 2 --> cell membrane receptor 
+> 		- no transport protein 
+> 		- hydrophillic 
+> 		- second messenger --> protein modification or translocation, transport channel modification 
+> 		-  short t1/2
+> 		- based on receptor 
+> 			- GPCR 
+> 				- transmembrane 
+> 				- 7 membrane spanning domains 
+> 				- alpha beta gamma bound to GDP in inactive --> hormone binding --> GDP- GTP --> alpha-GTP binds to effector (second messenger )
+> 				- second messenger 
+> 					- ![[hormonereceptorfamily.png]]
+> 					- cAMP (Gs, Gi) -- ANF, NO 
+> 						- PKA --> activated PKA --> protein phosphorylation 
+> 						- CRH, TSH, LH, FSH, ACTH 
+> 						- V2 of vasopressin 
+> 						- GIT - glucagon , somatostatin , secretin 
+> 						- Alpha 2 , beta 
+> 						- PTH, CALCITONIN 
+> 						- alpha 2, somatostatin (only 2 that decrease cAMP)
+> 					- IP3/DAG (Gq)
+> 						- PIP2 --> IP3 and DAG --> increased PKC, ca-calmodulin pathway --> protein phosphorylation 
+> 						- Vasoconstrictor mostly by this mechanism 
+> 						- TRH, GnRH 
+> 						- V1, V3 of vasopressin 
+> 						- AT2 (also reduces cAMP) , substance P 
+> 						- CCK, Gastrin 
+> 						- Alpha 1 
+> 						- Ach (also reduces cAMP) 
+> 					- cGMP (Gt)
+> 			- Tyrosine Kinase 
+> 				- Insulin , IGF-1 , NGF, EGF, FGF , **TGF-alpha** 
+> 				- monomer at inactive --> binding --> intracellular dimerisation --> receptor autophosphorylation --> acitvate signaling molecule 
+> 			- JAK kinase 
+> 				- JAK-STAT 
+> 				- cytokine receptor 
+> 				- phosphorylation of STAT proteins 
+> 				- GH, PRL - twin hormone 
+> 				- Erythtopoeitn acts via 
+> 			- serine threonine kinase 
+> 				- inhibin, activin, BMP-7, **TGF-beta** 
+
 
 ## Hormone and Receptor Families
 
