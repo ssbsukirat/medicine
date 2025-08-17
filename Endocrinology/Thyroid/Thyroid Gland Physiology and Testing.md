@@ -1,12 +1,18 @@
 Here are notes from the provided chapter, structured as requested:
 
 # MARROW 
-- 1st endocrine gland to be formed - at 3-4weeks -- hormone at 11weeks 
+- 1st endocrine gland to be formed - at 3-4weeks -- hormone at 11weeks (Tg at 29days)
 - endodermal derivative 
 - floor of primitive pharynx 
 - migrates along the **thyroglossal duct** (remnant is foramen caecum) , explaining rare **ectopic lingual thyroid** or **thyroglossal duct cysts**. (mc site is subhyoid) 
 - structural and function unit is **follicles**  
-- parafollicular cells -
+- parafollicular cells (from ultimobranchial body -- partly neuroendocrine cells and partly 5th pharyngeal pouch)- CALCITONIN 
+- TTF-1 , TTF-2 , PAX-8 --> defect --> congenital hypothyroid 
+	- TTF-1 --> choreoathetosis + hypothyroid 
+	- TTF-2 --> hypothyroid + choanal atresia and spiky hair 
+	- PAX-8 --> thyroid dysgenesis , unilateral renal agenesis 
+- HORMONE SYNTHESIS 
+	- 
 
 ## ANATOMY AND DEVELOPMENT
 
