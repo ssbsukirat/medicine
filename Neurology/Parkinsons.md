@@ -70,14 +70,28 @@ Here are concise notes from the provided chapter:
 		- facial hypomimia 
 		- freezing episodes 
 	- Postural 
-		- late 5
+		- late 5-6 years after onset 
+		- causes falls 
+		- abnormal pull test - falls backward 
 	- Rigidity 
 		- not velocity depend 
 		- same in agonist and antagonist 
 		- Cog-wheel - rigidity + tremor 
 		- **activity induced increase in C/l rigidity -- froments sign**
+	- ANS 
+		- orthostatic 
+		- ED 
+		- urinary incontinent 
+	- Sleep - REM behavior disorder 
+	- Psychiatry - hallucinations , dementia , psychosis 
 - Parkinson PLus or atypical 
 	- 20% of total 
+	- suspect if -- 
+		- absent tremor, 
+		- symmetric akinetic rigidity , 
+		- axial muscle involvement, -- PSP 
+		- absence of response to L-DOPA
+		- disproportionate ANS symptom -- MSA
 
 
 
