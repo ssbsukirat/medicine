@@ -29,12 +29,20 @@ Here are notes from the provided chapter, structured in markdown format:
 		- effect through gene transcription 
 		- Cytoplasmic -> Type 1 
 			- Steroids 
-			- homodimer (at baseline bound to HSP-9)
+			- **homodimer (at baseline bound to HSP-9) -- no co-repressor** 
 			- R-H complex --> migrates to nucleus --> binds to glucocorticoid response element --> gene transcription 
 		- Nuclear --> type 2 -->
 			- VitaminA , Vit D 
-			- Thyroid
-			- heterodimer 
+			- Thyroid t3, t4 
+			- PPAR receptor 
+				- alpha 
+					- agonist is clofibrate (for if TGs>440)
+				- gamma 
+					- agonist is pioglitazone 
+				- dual alpha gamma
+					- in diabetic dyslipidemia -- saroglitazar 
+			- heterodimer with retinoic acid receptor 
+			- co-repressor ++ 
 	- Group 2 --> cell membrane receptor 
 		- no transport protein 
 		- hydrophillic 
