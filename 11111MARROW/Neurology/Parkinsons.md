@@ -1,0 +1,170 @@
+# Marrow 
+- basal ganglia --> functions 
+	- complex motor activity  
+	- cognitive component of motor activity 
+	- timing and scaling of muscles 
+	- inhibit other muscles 
+	- tone adjust 
+- component -- 
+	- caudate - head= accumbens , tail = amygdaloid nucleus 
+	- putamen 
+	- GPi 
+	- GPe 
+	- Subthalamic 
+	- Substantia Nigra 
+	- **Caudate + putamen -- Striatum** 
+	- **Putamen + GPi Gpe= Lentiform** 
+- Connections 
+	- **inputs go to striatum , inputs are stimulator** 
+	- **outputs from GPi** 
+	- **all internal  circuits inhibit except STN** excitatory 
+	- Direct > **stimulate** cortex
+		- Cortex --> striatum --> GPi --> thalamus (baseline stimulatory) --> cortex (net stimulator)
+	- indirect - **inhibit** cortex 
+		- striatum --> GPe--> STN --> Gpi --> thalamus --> cortex (only STN-> GPi is stimulator)
+	- Hyperdirect - inhibitory to cortex 
+		- breaks rules 
+	- Substantia Nigra --> striatum  --> net stimulator --> lost in parkinson -> hypokinesia and bradykinesia 
+		- D1 pathway ---> activate direct pathway 
+		- D2 --> inhibition of indirect pathway 
+- Movement Disorders 
+	- Hypokinetic 
+		- **paucity of movement but not weakness or spasticity**
+		- low amplitude , **slowing of thought - bradyphrenia**
+	- Hyperkinetic -- 
+		- Chorea 
+		- athetosis 
+		- hemiballismus 
+## Parkinsons 
+- sporadic disease of elderly 
+- some genetic forms in young (<45y) --> PARK1 (AD, alpha synuclein , chr4), PARK2 (Parkin, AR, chr 6)
+- secondary exists - 
+	- Wilsons 
+	- antipsychotic - drug indiced 
+	- Manganese 
+	- MPTP toxic 
+	- Whipples
+- IDIOPATHIC and Atypical/ parkinson plus syndrome (DLC, PSP, MSA, CBD)
+- Lewy Body 
+	- **Intraneuronal proteinaceous inclusions** staining for **α-synuclein** (**PD, MSA, DLB)** 
+	- REM disorder , ANS disorder precedes 
+	- in substantia nigra, brain stem nuclei , dorsal nuclues of vagus, nucleus basalis, cortical association areas 
+- IDIOPATHIC 
+	- 80% of total
+	- age 60years mean 
+	- 20% dont have tremor (akinetic rigid) , 80% have tremor predominant 
+	- TRAP 
+		- **rest tremor, rigidity (stiffness), bradykinesia (slowing), and gait dysfunction with postural instability** 
+	- postural instab - 5-10years after onset 
+	- Akinetic Rigid - worse prognosis , in elderly , rapid progress 
+	- Tremor 
+		- assymetric resting 4-6hz distal + jaw,chin,lips  pill rolling 
+		- Cog-wheel 
+		- more with concentration, reduced with movement 
+		- vs essential tremor - 5-12hz, not relived by movement , relived by alcohol and beta block 
+	- Bradykinesia 
+		- reduced arm swing, difficult walking , **Festinant short shuffling gait** 
+		- stooped posture 
+		- facial hypomimia 
+		- freezing episodes 
+	- Postural 
+		- late 5-6 years after onset 
+		- causes falls 
+		- abnormal pull test - falls backward 
+	- Rigidity 
+		- not velocity depend 
+		- same in agonist and antagonist 
+		- Cog-wheel - rigidity + tremor 
+		- **activity induced increase in C/l rigidity -- froments sign**
+	- ANS 
+		- orthostatic 
+		- ED 
+		- urinary incontinent 
+	- Sleep - REM behavior disorder 
+	- Psychiatry - hallucinations , dementia , psychosis 
+- Parkinson PLus or atypical 
+	- 20% of total 
+	- suspect if -- 
+		- absent tremor, 
+		- symmetric akinetic rigidity , 
+		- axial muscle involvement, -- PSP 
+		- absence of response to L-DOPA
+		- disproportionate ANS symptom -- MSA
+		- Myoclonus with cortical (superior parietal )-- CBD 
+		- [[Dementia]] at present -- DLB 
+		- Postural instability early -- PSP 
+		- Gaze palsy - PSP 
+		- Cerebellar -- MSA 
+- MSA 
+	- young patient 
+	- alpha synucleinopathies 
+	- stridor with cranio-cervical dystonia - Pisa syndrome 
+	- **pons  hot cross bun sign** 
+	- MSA-P - parkinson predominant 
+		- bilateral akinetic rigidity 
+		- more common 
+	- MSA-C - cerebellar 
+	- MSA-A - dysautonomia, REM behavior disorder 
+		- aka Shy-Drager Syndrome 
+- PSP - Steel richardson syndrome 
+	- **Tauopathy**  
+	- **no** ANS, REM, cerebellar 
+	- symmetric akinetic rigidity with **AXIAL rigidity + falls** 
+	- extension hypertonia with **wide based gait**  
+	- supranuclear gaze palsy - **vestibulo-ocular reflex preserved rest everything impaired**  
+	- **vertical downgaze palsy with eyelid apraxia** 
+	- **Hummingbird or penguin  sign on MRI - midbrain atrophy** on saggital 
+		- morning glory or mickey mouse sign on axial image 
+	- subcortical dementia with pseudobulbar palsy 
+	- frontal release signs 
+	- **furrowing of forehead - procerus sign, reptilian facies, omega sign**
+	- Gunslinger position 
+	- dirty tie  
+- CBD 
+	- Tauopathy 
+	- elderly 
+	- assymetric cortical basilar degeneration 
+	- superior parietal lobule 
+		- apraxia 
+		- myoclonus 
+		- cortical dementia 
+	- Basal Ganglia 
+		- hemidystonia 
+		- PD like feature 
+	- Alien Hand phenomena 
+- DLB in dementias 
+- Management 
+	- Neuroprotective therapy 
+		- MAO-B - selegiline , sufinamide, riluzole -- now not considered 
+	- Symptomatic 
+		- Dopaminergic 
+			- L-DOPA with dopa decarboxylase inhibition 
+				- Carbidopa 
+				- Benserazide 
+			- Dopamine Agonist 
+				- Apomorphine 
+				- Rotigotine 
+		- Central Anticholinergic - in drug induced parkinson -- good for tremors 
+			- trihexyphenidyl 
+		- Multiple - DOPA + anticholinergic + NMDA block -- Amantadine 
+	- L-DOPA 
+		- doesnt respond - Freezing , Falls, Dysarthria m, Dysphagia 
+		- causes nausea, vomiting , postural hypotension 
+		- Motor Fluctuation or dyskinesia 
+			- on/off 
+			- peak dose dyskinesia 
+			- diphasic 
+			- end of dose or wearing off 
+		- no effect on progression 
+	- Amantadine good for dyskinesia 
+	- Dopamine Agonist 
+		- less motor side effect 
+		- may causes psychiatric issues 
+		- use 1st line in young 
+	- Deep Brain Stimulation 
+		- STN stimulate 
+		- 
+	- if no functional impairment in <60y -- amantadine or anticholinergic  only maybe sufficient 
+	- if >60y or functional disability -- L-DOPA or dopamine agonist 
+	- new - pimavenserin - 5HT2 agonist 
+		- istradefylline - A2A blocker 
