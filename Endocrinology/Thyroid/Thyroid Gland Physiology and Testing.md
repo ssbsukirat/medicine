@@ -23,17 +23,26 @@ Here are notes from the provided chapter, structured as requested:
 	- 5-> coupling --> MIT+DIT --> T3, DIT+DIT --> T4 (needs TPO)
 	- 6-> Tg back into follicular epithelial  cells 
 	- 7-> Proteolysis and release (inhibited by Iodides) by crossing basolateral membrane 
-	- 8 -> Peripheral T4->T3 (by Deiodinase or selenoiodinase ) 
+	- 8 -> Peripheral T4->T3 (by Deiodinase or selenoiodinase ) -->induced by hypothyroid 
 		- type 2 deiodinase is mc 
 			- also in thyroid, CNS, heart, skeletal 
 		- inhibited by -- amiodarone , PTU, Propanalol, steroids 
 		- type 1 deiodinase --> liver, kidney , thyroid  
 			- for rT3 degradation --> important in Thyrotoxicosis 
 		- type 3 deiodinase --> T4-> rT3 
-			- normally in placenta, small in liver and 
+			- normally in placenta, small in liver and muscle 
 - Iodine intake -- adults 150ug, pregnant -220 
 - in iodine replete - urinary iodide --> 200ug/day or 100ug/L 
-- 
+- never TFT in 
+	- sick or critical illness 
+	- fasting 
+	- chronic systemic illness 
+	- Iodide consumption 
+	- as DI-2 inhibited --> DI-3 raised --> T4->rT3 --> **T4 normal, T3 low rT3 high, normal TSH** --> sick euthyroid syndrome 
+- T4 vs T3 
+	- 80% T3 is formed in periphery only 20% in gland 
+	- 15:1 -->T4:T3
+	- 10
 ## ANATOMY AND DEVELOPMENT
 
 - The **thyroid gland** produces two hormones: **thyroxine (T4)** and **triiodothyronine (T3)**.
