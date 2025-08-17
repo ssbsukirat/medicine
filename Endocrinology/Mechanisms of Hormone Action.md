@@ -20,6 +20,15 @@ Here are notes from the provided chapter, structured in markdown format:
 - **Receptor Interaction**:
     - Amino acid derivatives and peptide hormones generally interact with **cell-surface membrane receptors**.
     - Steroids, thyroid hormones, vitamin D, and retinoids are **lipid-soluble** and primarily bind to **intracellular nuclear receptors**. Many of these also interact with membrane receptors or intracellular signaling proteins.
+- Based on Mechanism of Action 
+	- Group 1 -- > intracellular receptors 
+		- Cytoplasmic -> Type 1 
+			- Steroids 
+			- lipophilic
+		- Nuclear --> type 2 -->
+			- VitaminA , Vit D 
+			- Thyroid
+	- Group 2 --> cell membrane receptor 
 
 ## Hormone and Receptor Families
 
