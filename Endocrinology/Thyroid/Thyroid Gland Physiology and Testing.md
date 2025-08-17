@@ -1,7 +1,12 @@
 Here are notes from the provided chapter, structured as requested:
 
 # MARROW 
-- 
+- 1st endocrine gland to be formed - at 3-4weeks -- hormone at 11weeks 
+- endodermal derivative 
+- floor of primitive pharynx 
+- migrates along the **thyroglossal duct** (remnant is foramen caecum) , explaining rare **ectopic lingual thyroid** or **thyroglossal duct cysts**. (mc site is subhyoid) 
+- structural and function unit is **follicles**  
+- parafollicular cells -
 
 ## ANATOMY AND DEVELOPMENT
 
