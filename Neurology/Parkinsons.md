@@ -49,7 +49,17 @@ Here are concise notes from the provided chapter:
 - IDIOPATHIC and Atypical/ parkinson plus syndrome (DLC, PSP, MSA, CBD)
 - Lewy Body 
 	- **Intraneuronal proteinaceous inclusions** staining for **α-synuclein** (PD, MSA, DLB) 
+	- REM disorder , ANS disorder precedes 
+	- in substantia nigra, brain stem nuclei , dorsal nuclues of vagus, nucleus basalis, cortical association areas 
+- IDIOPATHIC 
+	- 80% of total 
+	- 20% dont have tremor (akinetic rigid) , 80% have tremor predominant 
+	- TRAP 
+		- **rest tremor, rigidity (stiffness), bradykinesia (slowing), and gait dysfunction with postural instability** 
+	- postural instab - 5-10years after onset 
 	- 
+- Parkinson PLus or atypical 
+	- 20% of total 
 
 
 
