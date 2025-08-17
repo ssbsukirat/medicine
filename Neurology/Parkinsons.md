@@ -20,15 +20,24 @@ Here are concise notes from the provided chapter:
 	- **inputs go to striatum , inputs are stimulator** 
 	- **outputs from GPi** 
 	- **all internal  circuits inhibit except STN** excitatory 
-	- Direct > **stimulate** 
+	- Direct > **stimulate** cortex
 		- Cortex --> striatum --> GPi --> thalamus (baseline stimulatory) --> cortex (net stimulator)
-	- indirect - **inhibit**
+	- indirect - **inhibit** cortex 
 		- striatum --> GPe--> STN --> Gpi --> thalamus --> cortex (only STN-> GPi is stimulator)
-	- Hyperdirect - inhibitory 
+	- Hyperdirect - inhibitory to cortex 
 		- breaks rules 
-	- Substantia Nigra --> striatum  --> net stimulator --> lost in parkinson -> akin
+	- Substantia Nigra --> striatum  --> net stimulator --> lost in parkinson -> hypokinesia and bradykinesia 
 		- D1 pathway ---> activate direct pathway 
 		- D2 --> inhibition of indirect pathway 
+- Movement Disorders 
+	- Hypokinetic 
+		- **paucity of movement but not weakness or spasticity**
+		- low amplitude , **slowing of thought - bradyphrenia**
+		- 
+	- Hyperkinetic -- 
+		- Chorea 
+		- athetosis 
+		- hemiballismus 
 
 
 
