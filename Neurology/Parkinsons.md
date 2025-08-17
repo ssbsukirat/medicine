@@ -113,8 +113,19 @@ Here are concise notes from the provided chapter:
 	- **no** ANS, REM, cerebellar 
 	- symmetric akinetic rigidity with **AXIAL rigidity + falls** 
 	- extension hypertonia with **wide based gait**  
-	- supranuclear gaze palsy 
-
+	- supranuclear gaze palsy - **vestibulo-ocular reflex preserved rest everything impaired**  
+	- **vertical downgaze palsy with eyelid apraxia** 
+	- **Hummingbird or penguin  sign on MRI - midbrain atrophy** on saggital 
+		- morning glory or mickey mouse sign on axial image 
+	- subcortical dementia with pseudobulbar palsy 
+	- frontal release signs 
+	- **furrowing of forehead - procerus sign, reptilian facies, omega sign**
+	- Gunslinger position 
+	- dirty tie  
+- CBD 
+	- Tauopathy 
+	- elderly 
+	- 
 
 
 
