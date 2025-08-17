@@ -125,7 +125,26 @@ Here are concise notes from the provided chapter:
 - CBD 
 	- Tauopathy 
 	- elderly 
-	- 
+	- assymetric cortical basilar degeneration 
+	- superior parietal lobule 
+		- apraxia 
+		- myoclonus 
+		- cortical dementia 
+	- Basal Ganglia 
+		- hemidystonia 
+		- PD like feature 
+	- Alien Hand phenomena 
+- DLB in dementias 
+- Management 
+	- Neuroprotective therapy 
+		- MAO-B - selegiline , sufinamide, riluzole -- now not considered 
+	- Symptomatic 
+		- Dopaminergic 
+			- L-DOPA with dopa decarboxylase inhibition 
+				- Carbidopa 
+				- Benserazide 
+			- Dopamine Agonist 
+				- 
 
 
 
