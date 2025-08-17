@@ -1,8 +1,27 @@
 Here are concise notes from the provided chapter:
 
 # Marrow 
-- 
-
+- basal ganglia --> functions 
+	- complex motor activity  
+	- cognitive component of motor activity 
+	- timing and scaling of muscles 
+	- inhibit other muscles 
+	- tone adjust 
+- component -- 
+	- caudate - head= accumbens , tail = amygdaloid nucleus 
+	- putamen 
+	- GPi 
+	- GPe 
+	- Subthalamic 
+	- Substantia Nigra 
+	- **Caudate + putamen -- Striatum** 
+	- **Putamen + GPi Gpe= Lentiform** 
+- Connections 
+	- **inputs go to striatum , inputs are stimulator** 
+	- **outputs from GPi** 
+	- **all internal  circuits inhibit except STN** excitatory 
+	- Direct >
+		- Cortex --> striatum --> GPi --
 
 
 
