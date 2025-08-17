@@ -22,13 +22,24 @@ Here are notes from the provided chapter, structured in markdown format:
     - Steroids, thyroid hormones, vitamin D, and retinoids are **lipid-soluble** and primarily bind to **intracellular nuclear receptors**. Many of these also interact with membrane receptors or intracellular signaling proteins.
 - Based on Mechanism of Action 
 	- Group 1 -- > intracellular receptors 
+		- transport protein ++ 
+		- lipophilic
+		- long T1/2 
+		- Receptor - hormone complex 
+		- effect through gene transcription 
 		- Cytoplasmic -> Type 1 
 			- Steroids 
-			- lipophilic
+			- homodimer (at baseline bound to HSP-9)
+			- R-H complex --> migrates to nucleus --> binds to glucocorticoid response element --> gene transcription 
 		- Nuclear --> type 2 -->
 			- VitaminA , Vit D 
 			- Thyroid
+			- heterodimer 
 	- Group 2 --> cell membrane receptor 
+		- no transport protein 
+		- hydrophillic 
+		- second messenger 
+		- short t1/2
 
 ## Hormone and Receptor Families
 
