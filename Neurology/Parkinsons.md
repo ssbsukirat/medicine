@@ -52,12 +52,30 @@ Here are concise notes from the provided chapter:
 	- REM disorder , ANS disorder precedes 
 	- in substantia nigra, brain stem nuclei , dorsal nuclues of vagus, nucleus basalis, cortical association areas 
 - IDIOPATHIC 
-	- 80% of total 
+	- 80% of total
+	- age 60years mean 
 	- 20% dont have tremor (akinetic rigid) , 80% have tremor predominant 
 	- TRAP 
 		- **rest tremor, rigidity (stiffness), bradykinesia (slowing), and gait dysfunction with postural instability** 
 	- postural instab - 5-10years after onset 
-	- 
+	- Akinetic Rigid - worse prognosis , in elderly , rapid progress 
+	- Tremor 
+		- assymetric resting 4-6hz distal + jaw,chin,lips  pill rolling 
+		- Cog-wheel 
+		- more with concentration, reduced with movement 
+		- vs essential tremor - 5-12hz, not relived by movement , relived by alcohol and beta block 
+	- Bradykinesia 
+		- reduced arm swing, difficult walking , **Festinant short shuffling gait** 
+		- stooped posture 
+		- facial hypomimia 
+		- freezing episodes 
+	- Postural 
+		- late 5
+	- Rigidity 
+		- not velocity depend 
+		- same in agonist and antagonist 
+		- Cog-wheel - rigidity + tremor 
+		- **activity induced increase in C/l rigidity -- froments sign**
 - Parkinson PLus or atypical 
 	- 20% of total 
 
