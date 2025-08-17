@@ -23,7 +23,16 @@ Here are notes from the provided chapter, structured as requested:
 	- 5-> coupling --> MIT+DIT --> T3, DIT+DIT --> T4 (needs TPO)
 	- 6-> Tg back into follicular epithelial  cells 
 	- 7-> Proteolysis and release (inhibited by Iodides) by crossing basolateral membrane 
-	- 8 -> Peripheral T4->T3 (by Deiodinase) 
+	- 8 -> Peripheral T4->T3 (by Deiodinase or selenoiodinase ) 
+		- type 2 deiodinase is mc 
+			- also in thyroid, CNS, heart, skeletal 
+		- inhibited by -- amiodarone , PTU, Propanalol, steroids 
+		- type 1 deiodinase --> liver, kidney , thyroid  
+			- for rT3 degradation --> important in Thyrotoxicosis 
+		- type 3 deiodinase --> T4-> rT3 
+			- normally in placenta, small in liver and 
+- Iodine intake -- adults 150ug, pregnant -220 
+- in iodine replete - urinary iodide --> 200ug/day or 100ug/L 
 - 
 ## ANATOMY AND DEVELOPMENT
 
