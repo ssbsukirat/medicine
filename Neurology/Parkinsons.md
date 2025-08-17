@@ -48,7 +48,7 @@ Here are concise notes from the provided chapter:
 	- Whipples
 - IDIOPATHIC and Atypical/ parkinson plus syndrome (DLC, PSP, MSA, CBD)
 - Lewy Body 
-	- **Intraneuronal proteinaceous inclusions** staining for **α-synuclein** (PD, MSA, DLB) 
+	- **Intraneuronal proteinaceous inclusions** staining for **α-synuclein** (**PD, MSA, DLB)** 
 	- REM disorder , ANS disorder precedes 
 	- in substantia nigra, brain stem nuclei , dorsal nuclues of vagus, nucleus basalis, cortical association areas 
 - IDIOPATHIC 
@@ -98,8 +98,22 @@ Here are concise notes from the provided chapter:
 		- Gaze palsy - PSP 
 		- Cerebellar -- MSA 
 - MSA 
-	- MSA-P 
-	- MSA-c
+	- young patient 
+	- alpha synucleinopathies 
+	- stridor with cranio-cervical dystonia - Pisa syndrome 
+	- **pons  hot cross bun sign** 
+	- MSA-P - parkinson predominant 
+		- bilateral akinetic rigidity 
+		- more common 
+	- MSA-C - cerebellar 
+	- MSA-A - dysautonomia, REM behavior disorder 
+		- aka Shy-Drager Syndrome 
+- PSP - Steel richardson syndrome 
+	- **Tauopathy**  
+	- **no** ANS, REM, cerebellar 
+	- symmetric akinetic rigidity with **AXIAL rigidity + falls** 
+	- extension hypertonia with **wide based gait**  
+	- supranuclear gaze palsy 
 
 
 
