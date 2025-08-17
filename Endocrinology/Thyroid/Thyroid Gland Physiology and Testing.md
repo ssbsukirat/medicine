@@ -18,7 +18,13 @@ Here are notes from the provided chapter, structured as requested:
 		- needs Na-I symporter (NIS) (also seen in breast, salivary gland, placenta) NIS needed for thyroid scanning 
 		- I123 for scan, I131 for treatment 
 	- 2 -> Iodine transport across apical membrane -- Iodide-chloride antiporter **(pendrin)** --> pendrid syndrome (goitre + SNHL)
-	- 3 -> organification (I )
+	- 3 -> organification (I to I2) --> needs TPO and DUOX2 (provides H2O2) 
+	- 4 -> Iodination -> Thyroglobulin (with tyrosine residues) --> adding Iodine to residues --> enzyme independent steps --> MIT and DIT made
+	- 5-> coupling --> MIT+DIT --> T3, DIT+DIT --> T4 (needs TPO)
+	- 6-> Tg back into follicular epithelial  cells 
+	- 7-> Proteolysis and release (inhibited by Iodides) by crossing basolateral membrane 
+	- 8 -> Peripheral T4->T3 (by Deiodinase) 
+- 
 ## ANATOMY AND DEVELOPMENT
 
 - The **thyroid gland** produces two hormones: **thyroxine (T4)** and **triiodothyronine (T3)**.
