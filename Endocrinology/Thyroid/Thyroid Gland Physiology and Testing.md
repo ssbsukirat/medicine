@@ -64,6 +64,12 @@ Here are notes from the provided chapter, structured as requested:
 	- Thyrotoxicosis 
 		- overworking thyroid --> hyperthyroidism 
 		- normal gland -- euthyroidism 
+	- TSH 
+		- by chemi-illuminesence assay 4th gen 
+		- 0.5-5 mIU/L is normal 
+		- dont do TSH alone -- do with fT3, fT4 
+		- 
+	- fT3 5pmol/l, ft4 20pmol/l normal 
 ## ANATOMY AND DEVELOPMENT
 
 - The **thyroid gland** produces two hormones: **thyroxine (T4)** and **triiodothyronine (T3)**.
