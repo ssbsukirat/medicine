@@ -91,3 +91,23 @@
 	- uncoupler of oxidative phosphorylation -- thermiogenesis 
 	- beta caroten -> vitamin A 
 	- stimulates erythropoiesis 
+
+# thyroiditis
+- inflammation of thyroid gland 
+- acute, subacute , chronic 
+- acute/ chronic - normal TFT 
+- acute - child 
+	- mc infections -- staphylococcus > streptococci  of pyriform  
+	- painful swelling 
+	- radiation or trauma maybe causes 
+- chronic - elderly 
+- subacute 
+	- aka De quervain or viral or granulomatous 
+	- women 30-50 
+	- no viral implicated 
+	- HLA B35 
+	- thyrotoxicosis --> hypothyroid --> recovery 
+	- raised t3 t4 (ratio <15) (if more than 20--> graves) 
+	- sometimes permanent hypothyroid (15% cases) 
+	- fever + painful thyroid 
+	- sore throat, neck pain 
