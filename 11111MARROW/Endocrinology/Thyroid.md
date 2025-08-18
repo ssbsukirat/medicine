@@ -127,6 +127,37 @@
 	- post partum 
 	- Aspirin or NSAID 
 	- no role of Steroid 
+- Reidels Thyroiditis 
+	- chronic 
+	- IgG4+ 
+	- TFT normal 
+	- dense fibrosis  
+	- hard mass 
+	- painless thyroid 
+	- local symptom 
+	- middle aged woman 
+- Amiodarone 
+	- acute or chronic or subacute 
+	- 39% iodine 
+	- Wolff-Chaikoff Effect --> hypothyroid --> continue drug, give eltroxin 
+	- thyrotoxicosis (amiodarone induced thyrotoxicosis )--> stop drug 
+		- Type 1 - d/t Jod Basedow effect 
+			- shortly after starting 
+			- graves associated 
+			- antibody + 
+			- color doppler + 
+			- increase uptake 
+			- antithyroid drugs
+				- entry inhibitor -- thiocyanate , perchlorate 
+				- 
+		- Type 2 - lysosomal effects 
+			- long after 
+			- no graves associate 
+			- no antibody 
+			- normal uptake 
+			- normal colour doppler 
+			- steroid 
+		- 
 
 
 
