@@ -15,5 +15,13 @@
 			- LRRK2 40% of genetic - PARK1
 			- GBA1 5-15%, especially Ashkenazi Jewish 
 			- VPS35 (PARK17) , SNCA(PARK4)
-		- AR 
-			- 
+		- AR -- fewer nonmotor features and more prominent dystonia than the typical disorder
+			- PARK2 - Parkin mutation 
+			- PINK1 - PARK6 
+			- DJ1- PARK7 
+	- ![[PDdifferentials.png]]
+	- Pesticide exposure - paraquat, rotenone, 2,4-dichlorophenoxyacetic acid, several organochlorines and OPs , chlorinated solvents 
+	- higher dairy consumption and hepatochlor concentration (OP pesticide) 
+	- repeated head injury 
+	- metals, diabetes , inflammatory disorders, infection 
+	- decreased risk with --> caffeine , 
