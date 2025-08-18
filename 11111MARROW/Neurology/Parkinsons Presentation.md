@@ -60,4 +60,10 @@
 			- Selegiline , Rasagiline 
 			- Safinamide - new drug for patients with motor fluctuation 
 		- Dopamine Agonist 
-			- 
+			- Non ergot used 
+			- Pramipexole , ropinirole 
+			- rotigotine - transdermal skin patches 
+			- Apomorphine - rapidly acting , IV, sc, nasal, transdermal preparation -- may use for acute motor fluctuation 
+		- NMDA antagonist 
+			- Amantadine - improves LD induced dyskinesia 
+		- Adenosine A2A antagonist - Istradefylline 
