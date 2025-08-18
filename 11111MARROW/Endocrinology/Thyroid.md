@@ -1,0 +1,93 @@
+# MARROW 
+- 1st endocrine gland to be formed - at 3-4weeks -- hormone at 11weeks (Tg at 29days)
+- endodermal derivative 
+- floor of primitive pharynx 
+- migrates along the **thyroglossal duct** (remnant is foramen caecum) , explaining rare **ectopic lingual thyroid** or **thyroglossal duct cysts**. (mc site is subhyoid) 
+- structural and function unit is **follicles**  
+- parafollicular cells (from ultimobranchial body -- partly neuroendocrine cells and partly 5th pharyngeal pouch)- CALCITONIN 
+- TTF-1 , TTF-2 , PAX-8 --> defect --> congenital hypothyroid 
+	- TTF-1 --> choreoathetosis + hypothyroid 
+	- TTF-2 --> hypothyroid + choanal atresia and spiky hair 
+	- PAX-8 --> thyroid dysgenesis , unilateral renal agenesis 
+- HORMONE SYNTHESIS 
+	- 1 -> iodide transport **across Basolateral membrane** (1st needs TSH and TSH-R binding)
+		- TSH competes with Dopamine , steroid and somatostatin for binding 
+		- GPCR via cAMP-PKA pathway 
+		- needs Na-I symporter (NIS) (also seen in breast, salivary gland, placenta) NIS needed for thyroid scanning 
+		- I123 for scan, I131 for treatment 
+	- 2 -> Iodine transport across apical membrane -- Iodide-chloride antiporter **(pendrin)** --> pendrid syndrome (goitre + SNHL)
+	- 3 -> organification (I to I2) --> needs TPO and DUOX2 (provides H2O2) 
+	- 4 -> Iodination -> Thyroglobulin (with tyrosine residues) --> adding Iodine to residues --> enzyme independent steps --> MIT and DIT made
+	- 5-> coupling --> MIT+DIT --> T3, DIT+DIT --> T4 (needs TPO)
+	- 6-> Tg back into follicular epithelial  cells 
+	- 7-> Proteolysis and release (inhibited by Iodides) by crossing basolateral membrane 
+	- 8 -> Peripheral T4->T3 (by Deiodinase or selenoiodinase ) -->induced by hypothyroid 
+		- type 2 deiodinase is mc 
+			- also in thyroid, CNS, heart, skeletal 
+		- inhibited by -- amiodarone , PTU, Propanalol, steroids 
+		- type 1 deiodinase --> liver, kidney , thyroid  
+			- for rT3 degradation --> important in Thyrotoxicosis 
+		- type 3 deiodinase --> T4-> rT3 
+			- normally in placenta, small in liver and muscle 
+- Iodine intake -- adults 150ug, pregnant -220 
+- in iodine replete - urinary iodide --> 200ug/day or 100ug/L 
+- never TFT in 
+	- sick or critical illness 
+	- fasting 
+	- chronic systemic illness 
+	- Iodide consumption 
+	- as DI-2 inhibited --> DI-3 raised --> T4->rT3 --> **T4 normal, T3 low rT3 high, normal TSH** --> sick euthyroid syndrome 
+- T4 vs T3 
+	- 80% T3 is formed in periphery only 20% in gland 
+	- 15:1 -->T4:T3 in Tg
+	- 10:1 --> T4:T3 in colloid or secreted ratio 
+	- 4:1 T3:T4 potency 
+	- fT3 is 0.3-0.4% fT4 is 0.02-0.03% 
+	- T3 t1/2 1 day 
+	- T4 t1/2 1 week
+- mechanism  intranuclear receptor --> heterodimer - co-repressor dissociate and co-activator binding 
+- TFT interpretation 
+	- bound to TBG 70%, 20% albumin , 10% transthyretin 
+	- MCT8 deficit --> Allan-Herndon-Dudley Syndrome - severe neurologic deficit as thyroid cannot enter nerve cells + may have thyrotoxicosis 
+	- if T3 and T4 raised --> **Hyperthyroxinemia** --> maybe **Euthyroid** (if normal Ft3 Ft4 levels) or **thyrotoxicosis** ( raised T3, T4 only)
+		- Euthyroid Hyperthyroxinemia 
+			- excess TBG - hereditary - X-linked 
+				- acquire -- OCPs, pregnancy , tamoxifen , chronic active hepatitis 
+			- Drugs 
+				- T4->T3 blockers (steroid, propanalol, amiodarone, PTU )
+			- Resistant to thyroid hormone 
+				- raised level but not toxic as action is euthyroidism 
+				- TR alpha(heart) and beta(in liver and pituitary )
+				- resistant in mostly Beta --> but alpha acting so cardiac toxicity maybe seen 
+	- Thyrotoxicosis 
+		- overworking thyroid --> hyperthyroidism 
+		- normal gland -- euthyroidism 
+	- TSH 
+		- by chemi-illuminesence assay 4th gen 
+		- 0.5-5 mIU/L is normal 
+		- dont do TSH alone -- do with fT3, fT4 
+		- 
+	- fT3 5pmol/l, ft4 20pmol/l normal 
+- the thyroid hormone 
+	- receptor - 
+		- TRA1 - in heart 
+		- TRA2- everywhere 
+		- TRB1 - Liver 
+		- TRB2 - pituitary 
+	- most important function - maintains BMR 
+	- **both increased and decreased T3,T4 --> raise BP**
+		- in hypothyroid -- raised peripheral resistant --> diastolic hypertension 
+		- hyperthyroidism -- high cardiac output --> increase SBP 
+	- Glucose 
+		- increase glucose production - gluconeogenesis 
+		- increased glucose uptake in tissues 
+		- insulin resistance in hypothyroid -- as impaired glucose uptake 
+	- cholesterol clearance , lipolysis 
+			- reduced in hypothyroid --> hypercholesterolemia 
+	- proteolysis 
+	- bone growth 
+	- responsive to catecholamine indirectly 
+	- myelination of CNS 
+	- uncoupler of oxidative phosphorylation -- thermiogenesis 
+	- beta caroten -> vitamin A 
+	- stimulates erythropoiesis 
