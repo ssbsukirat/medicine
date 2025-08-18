@@ -70,6 +70,17 @@ Here are notes from the provided chapter, structured as requested:
 		- dont do TSH alone -- do with fT3, fT4 
 		- 
 	- fT3 5pmol/l, ft4 20pmol/l normal 
+- the thyroid hormone 
+	- receptor - 
+		- TRA1 - in heart 
+		- TRA2- everywhere 
+		- TRB1 - Liver 
+		- TRB2 - pituitary 
+	- most important function - maintains BMR 
+	- **both increased and decreased T3,T4 --> raise BP**
+		- in hypothyroid -- raised peripheral resistant --> diastolic hypertension 
+		- hyperthyroidism -- high cardiac output --> increase SBP 
+		- 
 ## ANATOMY AND DEVELOPMENT
 
 - The **thyroid gland** produces two hormones: **thyroxine (T4)** and **triiodothyronine (T3)**.
