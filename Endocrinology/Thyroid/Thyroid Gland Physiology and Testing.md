@@ -80,7 +80,10 @@ Here are notes from the provided chapter, structured as requested:
 	- **both increased and decreased T3,T4 --> raise BP**
 		- in hypothyroid -- raised peripheral resistant --> diastolic hypertension 
 		- hyperthyroidism -- high cardiac output --> increase SBP 
-		- 
+	- Glucose 
+		- increase glucose production - gluconeogenesis 
+		- increased glucose uptake in tissues 
+		- insulin resistance in hypothyroid -- as impaired glucose uptake 
 ## ANATOMY AND DEVELOPMENT
 
 - The **thyroid gland** produces two hormones: **thyroxine (T4)** and **triiodothyronine (T3)**.
