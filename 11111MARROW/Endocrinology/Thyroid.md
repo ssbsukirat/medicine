@@ -110,4 +110,29 @@
 	- raised t3 t4 (ratio <15) (if more than 20--> graves) 
 	- sometimes permanent hypothyroid (15% cases) 
 	- fever + painful thyroid 
-	- sore throat, neck pain 
+	- sore throat, neck pain referred to ear 
+	- raised ESR 
+	- thyroid scan --> low uptake f/b normal 
+	- TREATMENT 
+		- Aspirin 600 qid 
+		- NSAIDs 
+		- steroids in non responsive 
+		- no role of thyroid drugs 
+- Painless Thyroiditis 
+	- aka silent thyroiditis 
+	- aka post-partum thyroiditis 
+	- ESR Normal 
+	- antibody ++ 
+	- T1DM associated 
+	- post partum 
+	- Aspirin or NSAID 
+	- no role of Steroid 
+
+
+
+Graves 
+- Vs de quervain 
+	- 20-40 year F>m
+	- USG enlarged 
+	- antibody ++ 
+	- hyperthyroidism state 
