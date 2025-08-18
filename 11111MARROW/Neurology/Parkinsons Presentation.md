@@ -66,4 +66,13 @@
 			- Apomorphine - rapidly acting , IV, sc, nasal, transdermal preparation -- may use for acute motor fluctuation 
 		- NMDA antagonist 
 			- Amantadine - improves LD induced dyskinesia 
-		- Adenosine A2A antagonist - Istradefylline 
+		- Adenosine A2A antagonist - Istradefylline for motor fluctuation 
+		- Anticholinergic 
+			- trihexyphenidyl , benztropine --> for drug induced parkinsonism 
+	- Motor fluctuation 
+		- Wearing Off - mc type 
+		- On/Off 
+		- Delayed on 
+		- Dose failure 
+	- Non Motor Symptom 
+		- 
