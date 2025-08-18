@@ -208,4 +208,11 @@ Graves
 	- higher risk of Extranodal Marginal zone lymphome or MALTOMA 
 	- irregular firm enlargement heterogenous 
 	- no nodules 
-	- basic pathi
+	- basic pathology - loss of self tolerance 
+		- Cytotoxic 
+		- IFN gamma 
+		- Antibodies 
+	- Antibody 
+		- Anti-TPO - 90-100%
+		- Anti-TSH receptor - <20%  
+		- anti-Tg - 90%
