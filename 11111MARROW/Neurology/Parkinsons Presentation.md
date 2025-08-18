@@ -92,4 +92,13 @@
 		- Drooling can be managed with sub- lingual atropine drops or salivary-gland botuli- num toxin injections
 		- Constipation - increased dietary fiber, stool softeners, or laxatives. 
 - SURGICAL MANAGEMENT 
-	- 
+	- intracranial placement of thin leads (on one side or both sides of the brain), typically into the sub- thalamic nucleus or globus pallidus, which are connected through extension leads to a neuro- stimulator placed subcutaneously in the subclavicular region
+	- improves the quality of life and alleviates motor fluctuations (average increase in “on” time, 3 to 4 hours a day 
+	- subthalamic nucleus is most commonly targeted 
+	- benefits persist upto 15 years 
+	- Most nonmotor symptoms of Parkinson’s disease (cognitive impairment, mood changes, apathy, and autonomic symptoms) and some motor symptoms (impaired balance and freezing of gait) typically do not improve with the use of DBS
+	- Complications 
+		- dyskinesia 
+		- worsening of speech, gait, balance 
+	- Older techniques involving direct lesioning with a heated probe (unilateral thalamotomy or pallidotomy) are now used only in rare cases. 
+	- MRI- guided, high-frequency, focused ultrasonography targeting the ventral intermediate nucleus of the thalamus on one side is increasingly being used to treat tremor in patients with Parkinson’s disease, but this approach may have a limited benefit over time and does not treat other symptoms of Parkinson’s disease.
