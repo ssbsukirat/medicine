@@ -8,4 +8,12 @@
 - Diagnostic Criteria -- UK brain Bank Criteria 
 	- ![[The-United-Kingdom-Parkinsons-Disease-Society-Brain-Bank-clinical-diagnostic-criteria.png]]
 	- visualization of the striatal dopamine system (mainly with the use of 123I-ioflupane single-photon-emission computed tomography [SPECT] or 18F-labeled fluorodopa positron-emission tomography) can differentiate between Parkinson’s disease and disorders such as essential tremor
+	- Autopsy --> Intraneuronal accumulation of misfolded α-synuclein protein (Lewy bodies and Lewy neurites, collectively termed “Lewy pathology”) is present in up to 90% of clinically defined cases of Parkinson’s disease, selectively affecting brain-stem nuclei **(dorsal motor nucleus of the vagus, locus coeruleus, and substantia nigra), the peripheral autonomic region (myenteric plexus, sympathetic ganglia, and skin autonomic nervous system), and the limbic and neo- cortical regions** 
 - Etiology 
+	- Genetic 
+		- AD 
+			- LRRK2 40% of genetic - PARK1
+			- GBA1 5-15%, especially Ashkenazi Jewish 
+			- VPS35 (PARK17) , SNCA(PARK4)
+		- AR 
+			- 
