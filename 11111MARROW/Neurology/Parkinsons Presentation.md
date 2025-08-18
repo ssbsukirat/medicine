@@ -81,4 +81,15 @@
 		- Depression/ anxiety 
 			- SSRIs - citalopram, escitalopram, parox- etine, fluoxetine, or sertraline
 			- SNRIs - venlafaxine 
-			- 
+		- Hallucinations , Delusions 
+			- Pimavenserin - 5-HT 2A/C inverse agonist and antagonist 
+			- atypical antipsychotic - clozapine , quetiapine 
+		- Orthostatic Hypotension 
+			- salt and fluid 
+			- fludrocortisone 
+			- Midodrine 
+			- Droxydopa 
+		- Drooling can be managed with sub- lingual atropine drops or salivary-gland botuli- num toxin injections
+		- Constipation - increased dietary fiber, stool softeners, or laxatives. 
+- SURGICAL MANAGEMENT 
+	- 
