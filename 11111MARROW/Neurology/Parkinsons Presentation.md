@@ -5,5 +5,7 @@
 	- Nonmotor symptoms
 		- include sleep disorders, cognitive impairment, altered mood and affect, autonomic dysfunction (constipation, urogenital disorders, and orthostatic hypotension), and sensory symptoms (hyposmia and pain) 
 		- hyposmia and rapid- eye-movement (REM) sleep behavior disorder, which is characterized by loss of normal atony during REM sleep and limb movements that simulate running or flailing — often predate the onset of motor symptoms by many years, which suggests that such **symptoms may be prodromal**
-- Diagnostic Criteria -- 
+- Diagnostic Criteria -- UK brain Bank Criteria 
+	- ![[The-United-Kingdom-Parkinsons-Disease-Society-Brain-Bank-clinical-diagnostic-criteria.png]]
+	- visualization of the striatal dopamine system (mainly with the use of 123I-ioflupane single-photon-emission computed tomography [SPECT] or 18F-labeled fluorodopa positron-emission tomography) can differentiate between Parkinson’s disease and disorders such as essential tremor
 - Etiology 
