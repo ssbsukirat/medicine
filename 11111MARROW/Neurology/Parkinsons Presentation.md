@@ -1,0 +1,2 @@
+- diagnosed clinically on the basis of the characteristic motor syndrome of bradykinesia accompanied by resting tremor, rigidity, and postural reflex impairment, all largely the result of dopaminergic dysfunction in the nigrostriatal system
+- 
