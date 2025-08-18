@@ -1,2 +1,3 @@
 - diagnosed clinically on the basis of the characteristic motor syndrome of bradykinesia accompanied by resting tremor, rigidity, and postural reflex impairment, all largely the result of dopaminergic dysfunction in the nigrostriatal system
+- incidence rises with age, M:F 2:1 --> incidence rates range from 47 to 77 cases per 100,000 persons 45 years of age or older and from 108 to 212 cases per 100,000 persons 65 years of age or older.
 - 
