@@ -1,3 +1,9 @@
-- diagnosed clinically on the basis of the characteristic motor syndrome of bradykinesia accompanied by resting tremor, rigidity, and postural reflex impairment, all largely the result of dopaminergic dysfunction in the nigrostriatal system
+- diagnosed clinically on the basis of the characteristic motor syndrome of bradykinesia accompanied by **resting tremor (predominant in 80% of patients)** , **rigidity and postural reflex impairment (20% of patients)**, all largely the result of dopaminergic dysfunction in the nigrostriatal system
 - incidence rises with age, M:F 2:1 --> incidence rates range from 47 to 77 cases per 100,000 persons 45 years of age or older and from 108 to 212 cases per 100,000 persons 65 years of age or older.
-- 
+- Multisystem neurologic disorder 
+	- Motor Symptom 
+	- Nonmotor symptoms
+		- include sleep disorders, cognitive impairment, altered mood and affect, autonomic dysfunction (constipation, urogenital disorders, and orthostatic hypotension), and sensory symptoms (hyposmia and pain) 
+		- hyposmia and rapid- eye-movement (REM) sleep behavior disorder, which is characterized by loss of normal atony during REM sleep and limb movements that simulate running or flailing — often predate the onset of motor symptoms by many years, which suggests that such **symptoms may be prodromal**
+- Diagnostic Criteria -- 
+- Etiology 
