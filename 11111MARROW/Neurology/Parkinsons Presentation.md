@@ -24,4 +24,19 @@
 	- higher dairy consumption and hepatochlor concentration (OP pesticide) 
 	- repeated head injury 
 	- metals, diabetes , inflammatory disorders, infection 
-	- decreased risk with --> caffeine , 
+	- decreased risk with --> caffeine , cigarette and physical exercise 
+- Natural History and Clinical Course 
+	- Assymetric onset of slowness and tremor 
+	- eventually bilateral rigidity , bradykinesia , tremor, gait and balance disorder 
+	- Non motor features precede onset of motor symptom in most 
+	- autonomic abnormalities, 
+		- orthostatic hypotension, 
+		- impaired gastro- intestinal motility, 
+		- urinary dysfunction, 
+		- erectile dysfunction, and 
+		- impaired thermoregulation
+	- Cognitive Decline 
+		- visuospatial and executive dysfunction 
+		- subjective 
+		- 10% annually 
+		- DLB -> hallucinosis 
