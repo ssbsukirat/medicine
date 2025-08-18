@@ -148,8 +148,8 @@
 			- color doppler + 
 			- increase uptake 
 			- antithyroid drugs
-				- entry inhibitor -- thiocyanate , perchlorate 
-				- 
+				- entry inhibitor (NIS inhibitor ) -- thiocyanate , perchlorate 
+				- iodides -- sodium ipodate 
 		- Type 2 - lysosomal effects 
 			- long after 
 			- no graves associate 
@@ -167,3 +167,15 @@ Graves
 	- USG enlarged 
 	- antibody ++ 
 	- hyperthyroidism state 
+
+
+# Hypothyroid 
+- PRIMARY - in thyroid
+- SECONDARY - in pituitary 
+- CONGENITAL - pediatric 
+- SECONDARY  
+	- pituitary or hypothalamus 
+	- d/t mass effect of tumor most commonly 
+	- d/t stalk effect 
+	- lymphocytic hypophysitis 
+	- large hemanh
