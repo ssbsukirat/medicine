@@ -75,4 +75,10 @@
 		- Delayed on 
 		- Dose failure 
 	- Non Motor Symptom 
-		- 
+		- Dementia 
+			- Acetylcholinesterase inhibitors 
+			- Memantine 
+		- Depression/ anxiety 
+			- SSRIs - citalopram, escitalopram, parox- etine, fluoxetine, or sertraline
+			- SNRIs - venlafaxine 
+			- 
