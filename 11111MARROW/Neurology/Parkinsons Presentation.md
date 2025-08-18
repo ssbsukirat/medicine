@@ -39,4 +39,15 @@
 		- visuospatial and executive dysfunction 
 		- subjective 
 		- 10% annually 
-		- DLB -> hallucinosis 
+		- DLB -> hallucinations and parkinsonism with dementia 
+- TREATMENT 
+	- Regular exercise, a healthy diet, high-quality sleep, and avoidance of adverse exposures have been associated with reduced mortality 
+	- No therapy definitely slows the progression of Parkinson’s disease 
+	- Pharmacotherapy 
+		- Levodopa 
+			- oral 
+			- mainstay 
+			- converted to dopamine in CNS 
+			- DOPA deoxycarboxylase and COMT metabolizes 
+			- added with peripheral decarboxylase inhibitor like carbidopa, benzeraside 
+			- 
