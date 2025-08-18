@@ -50,4 +50,14 @@
 			- converted to dopamine in CNS 
 			- DOPA deoxycarboxylase and COMT metabolizes 
 			- added with peripheral decarboxylase inhibitor like carbidopa, benzeraside 
+			- dose-related side effects include dyskinesia (hyperkinetic involuntary movements), development or worsening of hallucinations or behavioral problems, orthostatic hypotension, and nausea.
+		- COMT inhibitor 
+			- Entacapone / opicapone 
+			- oral
+			- wearing off episodes and motor fluctuation 
+		- MAO-B 
+			- block synaptic dopamine metabolism 
+			- Selegiline , Rasagiline 
+			- Safinamide - new drug for patients with motor fluctuation 
+		- Dopamine Agonist 
 			- 
