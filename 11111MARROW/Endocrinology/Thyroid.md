@@ -178,4 +178,34 @@ Graves
 	- d/t mass effect of tumor most commonly 
 	- d/t stalk effect 
 	- lymphocytic hypophysitis 
-	- large hemanh
+	- large hemangiomas - consumptive hypothyroid 
+- PRIMARY 
+	- Autoimmune 
+		- Hashimoto 
+		- APS1 
+		- APS2 - more in APS2 
+	- Iodine deficiency 
+	- post SURGICAL 
+	- Drugs 
+		- blocking SYNTHESIS / release -- lithium 
+		- destruction - IFN alpha 
+		- both hypo hyper - amiodarone 
+	- Thyroiditis - as later phase 
+- Hashimoto Thyroiditis 
+	- 25-40:1 F:M 
+	- 45-65 years 
+	- can be seen in any age 
+	- mc cause of primary hypothyroid 
+	- autoimmune 
+	- HLA DR3, DR4, DR5 
+	- a/w 
+		- SLE 
+		- T1DM 
+		- hypogonadism 
+		- Addison 
+		- Sjogren 
+	- CTLA4, PTPN22 polymorphism 
+	- higher risk of Extranodal Marginal zone lymphome or MALTOMA 
+	- irregular firm enlargement heterogenous 
+	- no nodules 
+	- basic pathi
