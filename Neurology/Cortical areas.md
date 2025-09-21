@@ -1,12 +1,14 @@
 
 - frontal
-	- motor and sensory to arm 
-	- **primary motor area** 
-	- **supplemental motor area** - contralateral grasp, sucking, gegenhalten - 
-	- gait and stance - gait apraxia 
-	- prefrontal --> emotional, behavioural, cognitive 
-	- Brocas 
-	- Frontal eye field 
+	- motor and sensory to arm
+	- Motor cortex 
+		- **primary motor area** 
+		- **supplemental motor area** - contralateral grasp, sucking, gegenhalten - 
+		- Premotor 
+		- gait and stance - gait apraxia 
+		- Brocas -- melodic component - nondominant side 
+		- Frontal eye field -- opposite PPRF -- Saccades 
+	- prefrontal --> emotional, behavioural, cognitive , programming --> akinesia, echopraxia (inability to withold movement to stimulus), impersistence, perseveration
 	- Cingulate gyrus -- medial frontal --> amotivational syndrome --> apathy, abulia, akinetic mutism 
 	- Orbitofrontal cortex --> behavior , emotional , personality , Reward system 
 - 
