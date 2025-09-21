@@ -46,3 +46,8 @@
 			- dressing apraxia 
 			- topographical agnosia 
 			- calculation 
+	- Left dominant 
+		- Aprexia 
+		- Gerstmann -- agnosia, right-left confusion , dysgraphia, acalculia 
+		- Calculation 
+		- Alexia 
