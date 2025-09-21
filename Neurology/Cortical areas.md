@@ -11,4 +11,14 @@
 	- prefrontal --> emotional, behavioural, cognitive , programming --> akinesia, echopraxia (inability to withold movement to stimulus), impersistence, perseveration
 	- Cingulate gyrus -- medial frontal --> amotivational syndrome --> apathy, abulia, akinetic mutism 
 	- Orbitofrontal cortex --> behavior , emotional , personality , Reward system 
-- 
+- Temporal 
+	- lateral (inferior , middle, superior temporal gyrus)
+		- language 
+		- auditory 
+		- visuospatial 
+	- Medial (Hippocampus + parahippocampal + fusiform gyrus)
+		- Emotion 
+		- behavior 
+		- self-awareness 
+		- sexually 
+		- memory 
