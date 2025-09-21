@@ -14,4 +14,10 @@ MCA Territoy
 	- impaired ability to judge distance, upside- down reading, visual illusions (e.g., it may appear that another person walks through a table)
 - homonymous hemianopia 
 - conjugate gaze to opposite side 
+- frontal
+	- motor and sensory to arm 
+	- Urinary incontinence - paracentral lobule 
+	- contralateral grasp, sucking, gegenhalten - supplemental motor area 
+	- gait and stance - gait apraxia 
+- Abulia (akinetic mutism), slowness, delay, intermittent interruption, lack of spontaneity, whispering, reflex distraction to sights and sounds --> cingulate gyrus and medial inferior portion of frontal, parietal, and temporal lobes 
 - 
