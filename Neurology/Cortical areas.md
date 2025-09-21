@@ -1,2 +1,17 @@
 MCA Territoy 
-Somatic motor and sensory area --> motor + sensation of contralateral (pinprick, cotton touch, vibration, position, two-point discrimination, stereognosis, tactile localization, barognosis, cutaneographia)
+- Somatic motor and sensory area --> motor + sensation of contralateral (pinprick, cotton touch, vibration, position, two-point discrimination, stereognosis, tactile localization, barognosis, cutaneographia)
+- Dominant parietal 
+	- Motor speech area
+	- Central, suprasylvian speech area and parietooccipital cortex --> aphasia , word deafness, anomia, jargon speech, sensory agraphia, **acalculia, alexia, finger agnosia, right-left confusion (the last four comprise the Gerstmann syndrome)**
+	- Conduction aphasia 
+- Non-dominant parietal 
+	- hemiasomatognosia, 
+	- unilateral neglect, 
+	- agnosia for the left half of external space, 
+	- dressing “apraxia,” constructional “apraxia,” 
+	- distortion of visual coordinates, 
+	- inaccurate localization in the half field,
+	- impaired ability to judge distance, upside- down reading, visual illusions (e.g., it may appear that another person walks through a table)
+- homonymous hemianopia 
+- conjugate gaze to opposite side 
+- 
