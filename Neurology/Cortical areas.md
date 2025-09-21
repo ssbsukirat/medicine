@@ -16,8 +16,12 @@ MCA Territoy
 - conjugate gaze to opposite side 
 - frontal
 	- motor and sensory to arm 
-	- Urinary incontinence - paracentral lobule 
-	- contralateral grasp, sucking, gegenhalten - supplemental motor area 
+	- **primary motor area** 
+	- **supplemental motor area** - contralateral grasp, sucking, gegenhalten - 
 	- gait and stance - gait apraxia 
+	- prefrontal --> emotional, behavioural, cognitive 
+	- Brocas 
+	- Frontal eye field 
+- Urinary incontinence - paracentral lobule (both parietal and frontal ) 
 - Abulia (akinetic mutism), slowness, delay, intermittent interruption, lack of spontaneity, whispering, reflex distraction to sights and sounds --> cingulate gyrus and medial inferior portion of frontal, parietal, and temporal lobes 
 - 
