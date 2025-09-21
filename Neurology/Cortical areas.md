@@ -29,3 +29,19 @@
 		- inferior parietal lobule 
 	- Supramarginal gyrus - over sylvian fissure 
 	- Angular gyrus -- above superior temporal sulcus 
+	- Medial 
+		- posterior paracentral lobule 
+		- precuneus 
+		- posterior cingulate 
+	- Right - 
+		- intrapersonal space 
+		- extrapersonal space 
+		- body schema 
+		- damage 
+			- Hemineglect 
+			- somatoparaphrenia 
+			- anosognosia 
+			- delirium 
+			- constructional apraxia 
+			- dressing apraxia 
+			- topographical agnosia 
