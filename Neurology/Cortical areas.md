@@ -45,3 +45,4 @@
 			- constructional apraxia 
 			- dressing apraxia 
 			- topographical agnosia 
+			- calculation 
