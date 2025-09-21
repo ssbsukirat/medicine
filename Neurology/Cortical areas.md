@@ -23,4 +23,9 @@
 		- sexually 
 		- memory 
 - Parietal 
-	- 
+	- Primary sensory cortex 
+	- posterior parietal 
+		- superior parietal lobule 
+		- inferior parietal lobule 
+	- Supramarginal gyrus - over sylvian fissure 
+	- Angular gyrus -- above superior temporal sulcus 
