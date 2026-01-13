@@ -1,5 +1,5 @@
 # EMBRYOLOGY OF LIVER AND BILIARY TRACT
-ssbsukirat@gmail.com
+
 
 ## Development of liver
 Development begins at 3-4 weeks of gestation.
